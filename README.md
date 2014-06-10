@@ -4,4 +4,4 @@ This repo houses the student-sourced solutions to the "Test Yourself" questions 
 
 These solutions can be found in the [`test-yourself-answers.md`](/test-yourself-answers.md) file, and that's the file you'll need to contribute to as part of the unit's [final project](http://vikingcodeschool.com/LN0026)
 
-If you are interested in learning web development online, check out [http://vikingcodeschool.com](http://vikingcodeschool.com).
+Check out [http://vikingcodeschool.com](http://vikingcodeschool.com) to learn more about the program.
