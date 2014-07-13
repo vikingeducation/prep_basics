@@ -1,10 +1,10 @@
 ## Test Yourself: Answers
 
-This is the file you'll use to add your answers to the [Test Yourself exercise](http://vikingcodeschool.com/LN0023). You will add them via pull request.
+This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
 ### Instructions
 
-See the [Web Development Basics project](http://vikingcodeschool.com/LN0026) for details.
+See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
 
 Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
 
