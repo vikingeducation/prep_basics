@@ -76,7 +76,7 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### How is information broken down and sent?
 
-*Your explanation here!*
+It is broken down into packets and sent through random different ways to get to their destination.
 
 #### What are packets?
 
@@ -124,7 +124,7 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### How do you open it on your computer?
 
-*Your explanation here!*
+I open it using by pushing super and return. I created my own shortcut to which I thought would be efficent
 
 #### What is Bash?
 
