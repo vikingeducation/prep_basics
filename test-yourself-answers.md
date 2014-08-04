@@ -168,7 +168,7 @@ I open it using by pushing super and return. I created my own shortcut to which 
 
 #### How do you quit Vim if you get stuck in it?
 
-*Your explanation here!*
+Type :qa! <return> into the command line.
 
 #### What is the `.bash_profile` file and what is it used for?
 
@@ -273,7 +273,7 @@ Define the following:
 
 #### Hex
 
-*Your explanation here!*
+Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
 
 #### Above the Fold
 
@@ -390,7 +390,7 @@ Define the following:
 
 #### What is XCode?
 
-*Your explanation here!*
+An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
 
 
 
