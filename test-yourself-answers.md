@@ -277,17 +277,15 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Above the Fold
 
-*Your explanation here!*
+Content on a webpage that is visible without needing to scroll down the page.  Depending on a user's browser dimensions, the items "above the fold" may actually be below.
 
 #### GUI
 
-*Your explanation here!*
+The Graphical User Interface (GUI) is a way to graphically represent a model that may be traditionally represented via text.  For example, Windows Explorer or Apple's Finder is a GUI that graphically represents the functions for changing directories (cd), making directories (mkdir), and moving files (copy).  
 
 #### Front End / Back End
 
 *Your explanation here!*
-
-
 
 ### Developer Tools and Code
 
@@ -305,7 +303,11 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### AJAX
 
-*Your explanation here!*
+Your uncle Leo has a website selling his famous meatballs (they're deliciously succulent).  On his site, he advertises how many balls he has left. Rather than having to refresh the whole page every time to see his most up-to-date ball count, AJAX allows the site to only refresh the ball count.  
+
+Another example...
+
+You load up gMail.  You want to see if you got new mail.  Rather than having to refresh the entire page and load up all the emails again (which takes some time), Google uses AJAX to load only the most recent emails you may have received.  This is much, much faster.
 
 #### Pseudo-Code
 
@@ -321,7 +323,7 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Ruby Gems
 
-*Your explanation here!*
+If you had access to superman, batman, and spiderman's suits, would you use them?  Ruby Gems are like these suits that extend the power of Ruby with new, awesome functionality. 
 
 #### Frameworks
 
@@ -416,7 +418,7 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 *Your explanation here!*
 
-
+####  When you contribute to an open-source project, you generally fork the git repository and use the "clone" command to move it to your local machine.  However, when you are working on your own github repository, you use the "pull" command to bring the repository to your local machine.  Why not use the "clone" command in this case as well?
 
 ### The Basics
 
