@@ -420,6 +420,10 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 ####  When you contribute to an open-source project, you generally fork the git repository and use the "clone" command to move it to your local machine.  However, when you are working on your own github repository, you use the "pull" command to bring the repository to your local machine.  Why not use the "clone" command in this case as well?
 
+Clone is always used the very first time you bring the repo from Github and copy it onto your local machine.
+
+Pull is used during all subsequent updates, when you're essentially just refreshing your local copy.
+
 ### The Basics
 
 #### How do you create a new Git repository for a project locally?
