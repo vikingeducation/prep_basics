@@ -120,7 +120,8 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What is the command line?
 
-*Your explanation here!*
+A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
 
@@ -132,31 +133,37 @@ I open it using by pushing super and return. I created my own shortcut to which 
 
 #### How can you navigate into a particular file directory?
 
-*Your explanation here!*
+cd <directoryName>
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
-
-*Your explanation here!*
+mkdir <directoryName>
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
-*Your explanation here!*
+rm <fileName>
+rm -rf <directoryName>
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
-*Your explanation here!*
+mv <oldFileName> <newFileName>
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
 
-*Your explanation here!*
+prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
 
-*Your explanation here!*
+ls -a 
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
-*Your explanation here!*
+man <cmd>
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -164,9 +171,13 @@ I open it using by pushing super and return. I created my own shortcut to which 
 
 #### What is Vim?
 
-*Your explanation here!*
+Text editor that often causes debates with emacs lovers.
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you quit Vim if you get stuck in it?
+:q
+:q! (to overwrite and not save any changes)
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Type :qa! <return> into the command line.
 
@@ -195,9 +206,10 @@ Define the following:
 
 ### The Web
 
-#### URL
+#### URL( Uniform Resource Locator)
 
-*Your explanation here!*
+Address that one types in to reach a particular webpage.  Human readable address that eventtually gets mapped through DNS into actual IP addresses.
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Domain
 
