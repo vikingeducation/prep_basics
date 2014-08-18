@@ -133,22 +133,22 @@ I open it using by pushing super and return. I created my own shortcut to which 
 
 #### How can you navigate into a particular file directory?
 
-cd <directoryName>
+`$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
-mkdir <directoryName>
+`$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
-rm <fileName>
-rm -rf <directoryName>
+`$ rm <fileName>`
+`$ rm -rf <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
-mv <oldFileName> <newFileName>
+`$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
@@ -157,12 +157,12 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### How do you view hidden files in a directory?
 
-ls -a 
+`$ ls -a`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
-man <cmd>
+`$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -175,11 +175,13 @@ Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you quit Vim if you get stuck in it?
-:q
-:q! (to overwrite and not save any changes)
+`:q`
+
+`:q!` (to overwrite and not save any changes)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-Type :qa! <return> into the command line.
+`:qa!`
+*Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
@@ -286,6 +288,8 @@ Address that one types in to reach a particular webpage.  Human readable address
 #### Hex
 
 Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
+
+*Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
 #### Above the Fold
 
@@ -404,6 +408,7 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
 
+*Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
 
 ## Git
