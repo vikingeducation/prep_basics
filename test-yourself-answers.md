@@ -100,11 +100,18 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What is HTML and how is it used?
 
-*Your explanation here!*
+Hypertext markup language, a language of tags used to define the structure and
+content of Web pages, such as headings, lists, paragraphs, line breaks, images,
+etc.
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### What is CSS and how is it used?
 
-*Your explanation here!*
+Cascading Stylesheets, a language that describes the look and style of the elements
+defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
+and other design aspects of a page. In short, it makes the raw information look pretty,
+and it makes the front end simpler by separating presentation from content.
+*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
@@ -129,7 +136,8 @@ I open it using by pushing super and return. I created my own shortcut to which 
 
 #### What is Bash?
 
-*Your explanation here!*
+"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
 
@@ -210,7 +218,7 @@ Define the following:
 
 #### URL( Uniform Resource Locator)
 
-Address that one types in to reach a particular webpage.  Human readable address that eventtually gets mapped through DNS into actual IP addresses.
+Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Domain
