@@ -175,7 +175,11 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
-*Your explanation here!*
+The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+
+'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user. 
+
+*Contributed by [Matt Davis](http://github.com/chiewieee)*
 
 #### What is Vim?
 
@@ -205,7 +209,13 @@ Text editor that often causes debates with emacs lovers.
 
 #### What are alias commands?
 
-*Your explanation here!*
+Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
+
+For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
+
+i.e. 'subl text.txt'
+
+*Contributed by [Matt Davis](http://github.com/chewieee)*
 
 
 
@@ -247,7 +257,11 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### API
 
-*Your explanation here!*
+API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
+
+For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions. 
+
+*Contributed by [Matt Davis](http://github.com/chewieee)*
 
 #### Web Server
 
@@ -259,7 +273,9 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### The Cloud
 
-*Your explanation here!*
+The cloud is simply another word for the internet. When backing up your files (such as music, pictures, and movies) on "the cloud" you are backing them up on servers that may potentially be far away from where you are. In short, your personal computer is considered "on the ground" while the remote storage servers located who-knows-where are "in the clouds."
+
+*Contributed by [Matt Davis](http://github.com/chewieee)*
 
 #### Cookies
 
@@ -410,7 +426,11 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### What is RVM and how will it be useful later?
 
-*Your explanation here!*
+RVM stands for Ruby Version Manager and is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
+
+RVM is helpful because some gems, tools, and frameworks may only work with a particular version of Ruby. RVM lets you easily switch between different environments, based on needs, when developing. 
+
+*Contributed by [Matt Davis](http://github.com/chewieee)*
 
 #### What is XCode?
 
@@ -447,7 +467,9 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 #### How do you create a new Git repository for a project locally?
 
-*Your explanation here!*
+To create a Git repository locally, you want to navigate to the root directory of your project and type 'git init'. This will initialize a local repository and load all of the necessary files git will need to track the files in that directory.
+
+*Contributed by [Matt Davis](http://github.com/chewieee)*
 
 #### How do you create it on Github?
 
