@@ -38,11 +38,16 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What's the best way to get help when you get stuck?
 
-*Your explanation here!*
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
 
-*Your explanation here!*
+Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region. 
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### What online developer communities can you join?
 
@@ -50,7 +55,10 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-*Your explanation here!*
+Text editors like sublime are intuitive and dynamic in managing your text from a developers perspective. As a personal note the text editors are also much easier on your eyes as you are looking through code.
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -279,7 +287,8 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### WYSIWYG
 
-*Your explanation here!*
+"What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page. 
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Responsive Design
 
@@ -301,7 +310,8 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Above the Fold
 
-*Your explanation here!*
+Above the fold, taken from old newspaper terminology, is the segment of a page you see before scrolling. 
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### GUI
 
