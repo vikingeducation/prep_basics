@@ -38,11 +38,16 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What's the best way to get help when you get stuck?
 
-*Your explanation here!*
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
 
-*Your explanation here!*
+Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region. 
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### What online developer communities can you join?
 
@@ -50,7 +55,10 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-*Your explanation here!*
+Text editors like sublime are intuitive and dynamic in managing your text from a developers perspective. As a personal note the text editors are also much easier on your eyes as you are looking through code.
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -226,34 +234,42 @@ Define the following:
 
 ### The Web
 
+
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+
 #### Domain
 
 *Your explanation here!*
+
 
 #### IP Address
 
 *Your explanation here!*
 
+
 #### DNS
 
 *Your explanation here!*
+
 
 #### HTTP
 
 *Your explanation here!*
 
+
 #### HTTPS
 
 *Your explanation here!*
 
+
 #### POP & IMAP & SMTP
 
 *Your explanation here!*
+
 
 #### API
 
@@ -263,13 +279,16 @@ For example, Amazon.com released its API so that web developers could more easil
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+
 #### Web Server
 
 *Your explanation here!*
 
+
 #### Bugs
 
 *Your explanation here!*
+
 
 #### The Cloud
 
@@ -277,13 +296,16 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+
 #### Cookies
 
 *Your explanation here!*
 
+
 #### 404 Error
 
 *Your explanation here!*
+
 
 #### SEO
 
@@ -293,17 +315,22 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 ### Design
 
+
 #### WYSIWYG
 
-*Your explanation here!*
+"What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page. 
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### Responsive Design
 
 *Your explanation here!*
 
+
 #### Grid System
 
 *Your explanation here!*
+
 
 #### RGB
 
@@ -311,17 +338,21 @@ Short for red, green and blue, the three colors that make up a pixel. Each is an
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
+
 #### Hex
 
 Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+
 #### Above the Fold
 
+<<<<<<< HEAD
 Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold. 
 
-*Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### GUI
 
