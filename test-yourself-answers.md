@@ -307,7 +307,9 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### RGB
 
-*Your explanation here!*
+Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
+
+*Contributed by [Dan Berger](https://github.com/dsberger)*
 
 #### Hex
 
@@ -317,7 +319,9 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Above the Fold
 
-*Your explanation here!*
+Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold. 
+
+*Contributed by [Dan Berger](https://github.com/dsberger)*
 
 #### GUI
 
@@ -325,9 +329,9 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Front End / Back End
 
-*Your explanation here!*
+"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
 
-
+*Contributed by [Dan Berger](https://github.com/dsberger)*
 
 ### Developer Tools and Code
 
