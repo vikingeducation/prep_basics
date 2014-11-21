@@ -30,11 +30,11 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What's the difference between front end, back end, and full stack developers?
 
-*Your explanation here!*
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application. 
 
 #### What's the difference between static and dynamic web pages?
 
-*Your explanation here!*
+Dynamic webpages change depending on the user input and actions. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
 
 #### What's the best way to get help when you get stuck?
 
@@ -51,7 +51,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 #### What online developer communities can you join?
 
-*Your explanation here!*
+Start with IRC channels, subreddits, and various meetup groups in your specific area. 
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
