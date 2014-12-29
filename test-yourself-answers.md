@@ -22,7 +22,11 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-*Your explanation here!*
+A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code. 
+
+In otherwords, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
+
+*Contributed by [Daniel Au](https://github.com/dakmau)*
 
 #### What's the difference between web developers and web designers?
 
@@ -80,7 +84,9 @@ Text editors like sublime are intuitive and dynamic in managing your text from a
 
 #### What is the internet?
 
-*Your explanation here!*
+Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+
+*Contributed by [Daniel Au](https://github.com/dakmau)*
 
 #### How is information broken down and sent?
 
@@ -104,7 +110,11 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are DNS servers?
 
-*Your explanation here!*
+A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+
+For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
+
+*Contributed by [Daniel Au](https://github.com/dakmau)*
 
 #### What is HTML and how is it used?
 
