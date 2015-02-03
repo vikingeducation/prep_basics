@@ -438,15 +438,21 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### Database
 
-*Your explanation here!*
+A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. They cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
+
+*Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
 #### SQL
 
-*Your explanation here!*
+Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
+
+*Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
 #### XML
 
-*Your explanation here!*
+Extensible Markup Language (XML) is a text-based format that allows for the structuring of electronic documents and is not limited to a set of labels. XML is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via web services on the public Internet.
+
+*Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
 #### Schema
 
