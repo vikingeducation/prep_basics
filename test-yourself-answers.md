@@ -593,7 +593,7 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### What is a "Merge Conflict" and when will it occur?
 
-*Your explanation here!*
+A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed. 
 
 #### How do you resolve a "Merge Conflict"?
 
