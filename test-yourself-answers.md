@@ -589,7 +589,17 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### How do you merge branches back together?
 
-*Your explanation here!*
+In order to merge branches back together you should merge the master branch into your-branch
+
+$git checkout your-branch
+$git merge master
+
+Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
+
+$git checkout master
+$git merge your-branch
+
+You'll see output indicating any changes that were made
 
 #### What is a "Merge Conflict" and when will it occur?
 
