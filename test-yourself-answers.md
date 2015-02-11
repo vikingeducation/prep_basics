@@ -219,7 +219,9 @@ Text editor that often causes debates with emacs lovers.
 
 #### What is the `$PATH` variable?
 
-*Your explanation here!*
+$PATH dictates the locations within a file tree that contains commands executable within a command line setting
+
+*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 #### Why might you need to add onto your `$PATH` variable?
 
@@ -378,7 +380,9 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### HTML
 
-*Your explanation here!*
+Hypertext markup language:  The coding read by web browsers that dictates the layout and style of coding within a web server.
+
+*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 #### CSS
 
@@ -467,7 +471,9 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
-*Your explanation here!*
+Most web browsers have the ability to decode all of the before mentioned languages.
+
+*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 #### What is RVM and how will it be useful later?
 
