@@ -30,7 +30,7 @@ In otherwords, a web developer plays the role of both an architect and handyman,
 
 #### What's the difference between web developers and web designers?
 
-*Your explanation here!*
+Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays. 
 
 #### What's the difference between front end, back end, and full stack developers?
 
