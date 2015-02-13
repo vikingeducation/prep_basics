@@ -66,7 +66,10 @@ Text editors like sublime are intuitive and dynamic in managing your text from a
 
 #### What are the top 3 characteristics of great web developers?
 
-*Your explanation here!*
+Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
+Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What do companies look for in a junior web developer?
 
@@ -94,7 +97,8 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-*Your explanation here!*
+Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What is a "client"?
 
@@ -258,8 +262,8 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### IP Address
 
-*Your explanation here!*
-
+A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc. 
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### DNS
 
@@ -314,7 +318,8 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### 404 Error
 
-*Your explanation here!*
+Nasty error when a page is not found when requested that the hosting domain alerts the user/requester with.
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
 #### SEO
@@ -467,7 +472,8 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
-*Your explanation here!*
+These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What is RVM and how will it be useful later?
 
@@ -518,7 +524,8 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### How do you create it on Github?
 
-*Your explanation here!*
+By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you commit changes?
 
@@ -546,11 +553,13 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### How do you check the status of your current repo in git?
 
-*Your explanation here!*
+git status
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
-*Your explanation here!*
+git log
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
 
@@ -569,7 +578,8 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### What is "Forking" a repo?
 
-*Your explanation here!*
+Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What is "Cloning" a repo?
 
