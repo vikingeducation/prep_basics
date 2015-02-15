@@ -380,13 +380,13 @@ Content that is visible immediately when the page is loaded, without having to s
 
 The markup language which specifies the structure of all the pieces of a webpage.
 
-*Contributed by [Ashton Christie](https://github.com/akchristie)*
+*Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
 #### CSS
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
-*Contributed by [Ashton Christie](https://github.com/akchristie)*
+*Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
 #### Javascript
 
@@ -424,7 +424,7 @@ The markup language which specifies the structure of all the pieces of a webpage
 
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
-*Contributed by [Ashton Christie](https://github.com/akchristie)*
+*Contributed by [Ashton Christie](https://github.com/ashchristie)*
  
 #### Version Control
 
