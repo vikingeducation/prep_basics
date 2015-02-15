@@ -378,11 +378,15 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### HTML
 
-*Your explanation here!*
+The markup language which specifies the structure of all the pieces of a webpage.
+
+*Contributed by [Ashton Christie](https://github.com/akchristie)*
 
 #### CSS
 
-*Your explanation here!*
+"Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+
+*Contributed by [Ashton Christie](https://github.com/akchristie)*
 
 #### Javascript
 
@@ -418,8 +422,10 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### Command Line
 
-*Your explanation here!*
+The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
+*Contributed by [Ashton Christie](https://github.com/akchristie)*
+ 
 #### Version Control
 
 *Your explanation here!*
