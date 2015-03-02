@@ -94,7 +94,7 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-*Your explanation here!*
+A packet is *one unit* of binary data which is routed through a computer network. 
 
 #### What is a "client"?
 
@@ -133,7 +133,7 @@ and it makes the front end simpler by separating presentation from content.
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
-*Your explanation here!*
+The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
 #### What happens behind the scenes after you click "search" on google.com?
 
@@ -219,7 +219,7 @@ Text editor that often causes debates with emacs lovers.
 
 #### What is the `$PATH` variable?
 
-*Your explanation here!*
+The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
 
 #### Why might you need to add onto your `$PATH` variable?
 
