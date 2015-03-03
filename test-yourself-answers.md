@@ -215,11 +215,13 @@ Text editor that often causes debates with emacs lovers.
 
 #### What is the `.bash_profile` file and what is it used for?
 
-*Your explanation here!*
+The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
 
-*Your explanation here!*
+The '$PATH' variable is a enviromental variable that specifies where executable programs are located.
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### Why might you need to add onto your `$PATH` variable?
 
@@ -554,7 +556,8 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### How can you look through your historical commits on the Github website?
 
-*Your explanation here!*
+You can look through a history of commits by clicking on the repository name and then clicking the commits.
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 
 ### Branching and Merging
