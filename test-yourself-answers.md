@@ -74,9 +74,9 @@ Text editors like sublime are intuitive and dynamic in managing your text from a
 
 #### What is the hiring process like for a developer?
 
-*Your explanation here!*
+To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
 
-
+*Contributed by [Adam Kinson](http://github.com/kinsona)*
 
 
 ## How the Web Works
@@ -106,7 +106,9 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What is HTTP and how does an HTTP request work?
 
-*Your explanation here!*
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+
+*Contributed by [Adam Kinson](http://github.com/kinsona)*
 
 #### What are DNS servers?
 
@@ -133,7 +135,9 @@ and it makes the front end simpler by separating presentation from content.
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
-*Your explanation here!*
+Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
+
+*Contributed by [Adam Kinson](http://github.com/kinsona)*
 
 #### What happens behind the scenes after you click "search" on google.com?
 
