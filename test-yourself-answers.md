@@ -30,7 +30,7 @@ In otherwords, a web developer plays the role of both an architect and handyman,
 
 #### What's the difference between web developers and web designers?
 
-*Your explanation here!*
+Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays. 
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -640,11 +640,21 @@ Making a copy of another master repo into your own github account so as to not d
 
 #### How do you merge branches back together?
 
-*Your explanation here!*
+In order to merge branches back together you should merge the master branch into your-branch
+
+$git checkout your-branch
+$git merge master
+
+Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
+
+$git checkout master
+$git merge your-branch
+
+You'll see output indicating any changes that were made
 
 #### What is a "Merge Conflict" and when will it occur?
 
-*Your explanation here!*
+A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed. 
 
 #### How do you resolve a "Merge Conflict"?
 
