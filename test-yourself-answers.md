@@ -66,7 +66,10 @@ Text editors like sublime are intuitive and dynamic in managing your text from a
 
 #### What are the top 3 characteristics of great web developers?
 
-*Your explanation here!*
+Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
+Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What do companies look for in a junior web developer?
 
@@ -88,21 +91,28 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+
 #### What are packets?
 
-A packet is *one unit* of binary data which is routed through a computer network. 
+Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
 
 #### What is a "client"?
 
 *Your explanation here!*
 
+
 #### What is a "server"?
 
 *Your explanation here!*
+
 
 #### What is HTTP and how does an HTTP request work?
 
@@ -271,10 +281,15 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### IP Address
 
+<<<<<<< HEAD
 IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
+=======
+A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc. 
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+>>>>>>> 0032adea9e404a9c3da13faa4ec72d95383bffc5
 
 #### DNS
 
@@ -331,9 +346,14 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### 404 Error
 
+<<<<<<< HEAD
 The frustrating page a user receives when the specific page he or she was hoping to access doesn't exist. Can be made less frustrating if it is accompanied by a clever joke, or a picture of a kitten.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+=======
+Nasty error when a page is not found when requested that the hosting domain alerts the user/requester with.
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+>>>>>>> 0032adea9e404a9c3da13faa4ec72d95383bffc5
 
 
 #### SEO
@@ -492,7 +512,8 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
-*Your explanation here!*
+These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What is RVM and how will it be useful later?
 
@@ -543,7 +564,8 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### How do you create it on Github?
 
-*Your explanation here!*
+By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you commit changes?
 
@@ -571,11 +593,13 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 #### How do you check the status of your current repo in git?
 
-*Your explanation here!*
+git status
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
-*Your explanation here!*
+git log
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
 
@@ -595,7 +619,8 @@ You can look through a history of commits by clicking on the repository name and
 
 #### What is "Forking" a repo?
 
-*Your explanation here!*
+Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What is "Cloning" a repo?
 
