@@ -271,12 +271,16 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### IP Address
 
-*Your explanation here!*
+IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+
+*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
 
 #### DNS
 
-*Your explanation here!*
+The Domain Name System, or DNS, is the phone book of the Internet. It takes human-readable URLs and translates them to IP addresses so that packets know exactly where to go.
+
+*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
 
 #### HTTP
@@ -327,7 +331,9 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### 404 Error
 
-*Your explanation here!*
+The frustrating page a user receives when the specific page he or she was hoping to access doesn't exist. Can be made less frustrating if it is accompanied by a clever joke, or a picture of a kitten.
+
+*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
 
 #### SEO
