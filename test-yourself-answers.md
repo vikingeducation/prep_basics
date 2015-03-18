@@ -237,12 +237,13 @@ The bash '.bash_profile' file is a startup file for the bash shell and is used f
 
 #### What is the `$PATH` variable?
 
-<<<<<<< HEAD
-The '$PATH' variable is a enviromental variable that specifies where executable programs are located.
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
-=======
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
->>>>>>> c41a4aa98339cfe52880baab23b20b13b9796368
+
+$PATH dictates the locations within a file tree that contains commands executable within a command line setting
+
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+
 
 #### Why might you need to add onto your `$PATH` variable?
 
@@ -281,15 +282,14 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### IP Address
 
-<<<<<<< HEAD
 IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
-=======
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc. 
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
->>>>>>> 0032adea9e404a9c3da13faa4ec72d95383bffc5
+
 
 #### DNS
 
@@ -346,14 +346,13 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### 404 Error
 
-<<<<<<< HEAD
 The frustrating page a user receives when the specific page he or she was hoping to access doesn't exist. Can be made less frustrating if it is accompanied by a clever joke, or a picture of a kitten.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
-=======
+
 Nasty error when a page is not found when requested that the hosting domain alerts the user/requester with.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
->>>>>>> 0032adea9e404a9c3da13faa4ec72d95383bffc5
 
 
 #### SEO
@@ -420,6 +419,11 @@ Content that is visible immediately when the page is loaded, without having to s
 The markup language which specifies the structure of all the pieces of a webpage.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+
+Hypertext markup language:  The coding read by web browsers that dictates the layout and style of coding within a web server.
+
+*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+
 
 #### CSS
 
@@ -514,6 +518,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+Most web browsers have the ability to decode all of the before mentioned languages.
+
+*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+
 
 #### What is RVM and how will it be useful later?
 
