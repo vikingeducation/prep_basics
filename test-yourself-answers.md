@@ -94,7 +94,7 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-*Your explanation here!*
+A packet is *one unit* of binary data which is routed through a computer network. 
 
 #### What is a "client"?
 
@@ -138,6 +138,9 @@ and it makes the front end simpler by separating presentation from content.
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+
+The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
+
 
 #### What happens behind the scenes after you click "search" on google.com?
 
@@ -224,8 +227,12 @@ The bash '.bash_profile' file is a startup file for the bash shell and is used f
 
 #### What is the `$PATH` variable?
 
+<<<<<<< HEAD
 The '$PATH' variable is a enviromental variable that specifies where executable programs are located.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+=======
+The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
+>>>>>>> c41a4aa98339cfe52880baab23b20b13b9796368
 
 #### Why might you need to add onto your `$PATH` variable?
 
