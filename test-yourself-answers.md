@@ -300,17 +300,17 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 
 #### HTTP
 
-*Your explanation here!*
+HyperText Transfer Protocol is the protocol or standard used for transferring information around the web. 
 
 
 #### HTTPS
 
-*Your explanation here!*
+HyperText Transfer Protocol Secure is the secure version for safe transactions, although the protocol gets a bit more complicated.
 
 
 #### POP & IMAP & SMTP
 
-*Your explanation here!*
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
 
 #### API
