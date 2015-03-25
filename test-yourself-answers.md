@@ -1,4 +1,4 @@
-## Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -56,6 +56,8 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area. 
+
+Look at r/Programming or r/learnprogramming *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
