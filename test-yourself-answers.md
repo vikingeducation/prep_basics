@@ -36,11 +36,17 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application. 
 
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+
+*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
 #### What's the difference between static and dynamic web pages?
 
 Dynamic webpages change depending on the user input and actions. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+
+*Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
 
@@ -59,7 +65,8 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area. 
 
-Look at r/Programming or r/learnprogramming *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+Look at r/Programming or r/learnprogramming 
+*Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
