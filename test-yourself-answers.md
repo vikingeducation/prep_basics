@@ -38,7 +38,7 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
+Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
 
 #### What's the best way to get help when you get stuck?
 
@@ -300,7 +300,7 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 
 #### HTTP
 
-*Your explanation here!*
+HTTP stands for Hypertext Transfer Protocal. It is the agreed upon way a browser (or client) and server "talk" through requests by the browser (or client) and responses by the server.
 
 
 #### HTTPS
@@ -324,7 +324,7 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-*Your explanation here!*
+A program usually running on a remote computer that responds to requests from a browser. 
 
 
 #### Bugs
@@ -341,7 +341,7 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### Cookies
 
-*Your explanation here!*
+A small piece of code stored in the browser that is sent along with a request to a server. This allows a server to identify, or process requests in a special way.
 
 
 #### 404 Error
@@ -433,7 +433,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-*Your explanation here!*
+The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
 #### AJAX
 
