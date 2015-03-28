@@ -300,8 +300,9 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 
 #### HTTP
 
-*Your explanation here!*
+HyperText Transfer Protocol, defines how messages are formatted and transmitted and what actions web servers and browsers should take in response to various commands. For example a URL request to retrieve a web page from a server.
 
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)
 
 #### HTTPS
 
@@ -329,7 +330,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Bugs
 
-*Your explanation here!*
+An error or defect in software or hardware that causes a program to malfunction.
+
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)
 
 
 #### The Cloud
@@ -341,7 +344,11 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### Cookies
 
-*Your explanation here!*
+A text file stored by the browser which is sent back to the server each time the browser requests a page from the server. Mainly used to identify users and possibly prepare customized web pages for them.
+
+Session (or transient) cookies are stored in temporary memory and erased when browser is closed, they do not collect info on user. Instead, they store information in the form of a session identification that does not personally identify the user. Persistent (or permanent) cookie are stored on hard drive until it expires at expiration date or until user deletes it. They are used to collect identifying info about the user such as surfing behavior or user prefs for a site.
+
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)
 
 
 #### 404 Error
