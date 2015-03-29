@@ -154,9 +154,19 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 
 #### What happens behind the scenes after you click "search" on google.com?
 
-*Your explanation here!*
+A single click rings out on a dark night...
+Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
+Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
+Milliseconds later (a group of them) a command is sent to open up an http handshake 
+Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
+Centiseconds later (a handful of them) the data is processed and the return data is exchanged
+Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
+"About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
 
+There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
+
+*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
 ## The Command Line
 
@@ -329,7 +339,11 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Bugs
 
-*Your explanation here!*
+Unexpected problems that occur after a process step has occurred. Typically coding issue, but has extended to other fields.
+
+For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
+
+*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
 
 #### The Cloud
@@ -357,8 +371,12 @@ Nasty error when a page is not found when requested that the hosting domain aler
 
 #### SEO
 
-*Your explanation here!*
+How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
+1. Interesting enough to your customers that they find it organically and choose it over competitive products.
+2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.
+3. Tricky enough to pretend to be one of the first two by gaming the search algorithm.
 
+*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
 
 ### Design
