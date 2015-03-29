@@ -460,7 +460,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Ruby
 
-*Your explanation here!*
+Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 #### Ruby Gems
 
@@ -472,7 +472,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Ruby on Rails
 
-*Your explanation here!*
+Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
 #### Command Line
 
@@ -482,7 +482,7 @@ The interactive shell where you can enter commands that will be run by your oper
  
 #### Version Control
 
-*Your explanation here!*
+It's like a time machine for jumping back and forth between specific time stamp for coding.
 
 #### Git
 
