@@ -311,9 +311,11 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 
 #### HTTP
 
-HyperText Transfer Protocol is the protocol or standard used for transferring information around the web. 
+HTTP stands for Hypertext Transfer Protocol. It is the protocol or standard used for transferring information around the web. It is the agreed upon way a browser (or client) and server "talk" through requests by the browser (or client) and responses by the server.
 
-HTTP stands for Hypertext Transfer Protocal. It is the agreed upon way a browser (or client) and server "talk" through requests by the browser (or client) and responses by the server.
+HyperText Transfer Protocol, defines how messages are formatted and transmitted and what actions web servers and browsers should take in response to various commands. For example a URL request to retrieve a web page from a server.
+
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)
 
 
 #### HTTPS
@@ -342,7 +344,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 #### Bugs
 
-*Your explanation here!*
+An error or defect in software or hardware that causes a program to malfunction.
+
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)
 
 
 #### The Cloud
@@ -354,7 +358,11 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### Cookies
 
-A small piece of code stored in the browser that is sent along with a request to a server. This allows a server to identify, or process requests in a special way.
+A text file stored by the browser which is sent back to the server each time the browser requests a page from the server. Mainly used to identify users and possibly prepare customized web pages for them.
+
+Session (or transient) cookies are stored in temporary memory and erased when browser is closed, they do not collect info on user. Instead, they store information in the form of a session identification that does not personally identify the user. Persistent (or permanent) cookie are stored on hard drive until it expires at expiration date or until user deletes it. They are used to collect identifying info about the user such as surfing behavior or user prefs for a site.
+
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)
 
 
 #### 404 Error
