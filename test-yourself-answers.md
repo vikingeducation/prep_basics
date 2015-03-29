@@ -42,7 +42,7 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
+Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
@@ -313,6 +313,8 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 
 HyperText Transfer Protocol is the protocol or standard used for transferring information around the web. 
 
+HTTP stands for Hypertext Transfer Protocal. It is the agreed upon way a browser (or client) and server "talk" through requests by the browser (or client) and responses by the server.
+
 
 #### HTTPS
 
@@ -335,7 +337,7 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-*Your explanation here!*
+A program usually running on a remote computer that responds to requests from a browser. 
 
 
 #### Bugs
@@ -352,7 +354,7 @@ The cloud is simply another word for the internet. When backing up your files (s
 
 #### Cookies
 
-*Your explanation here!*
+A small piece of code stored in the browser that is sent along with a request to a server. This allows a server to identify, or process requests in a special way.
 
 
 #### 404 Error
@@ -407,7 +409,6 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Above the Fold
 
-<<<<<<< HEAD
 Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold. 
 
 *Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
@@ -444,7 +445,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-*Your explanation here!*
+The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
 #### AJAX
 
