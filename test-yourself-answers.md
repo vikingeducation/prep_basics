@@ -410,8 +410,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-*Your explanation here!*
-
+Designing one web page to be easily viewable on multiple screen sizes. 
 
 #### Grid System
 
@@ -478,7 +477,7 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 #### Pseudo-Code
 
-*Your explanation here!*
+Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
 #### C
 
@@ -512,7 +511,7 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### Git
 
-*Your explanation here!*
+One of the most popular open-source version control systems.
 
 #### Open Source
 
