@@ -410,7 +410,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-*Your explanation here!*
+Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
+
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*
 
 
 #### Grid System
@@ -441,7 +443,9 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### GUI
 
-*Your explanation here!*
+Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.
+
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*
 
 #### Front End / Back End
 
@@ -474,7 +478,9 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 #### AJAX
 
-*Your explanation here!*
+An acronym for "asynchronous JavaScript and XML". This allows for web applications to send and receive data in the background, eliminating the need for a user to refresh, request, and submit data.
+
+*Contributed by [Jasen Carroll](https://github.com/jasenc)* 
 
 #### Pseudo-Code
 
