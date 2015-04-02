@@ -349,7 +349,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser. 
+A program usually running on a remote computer that responds to requests from a browser.
+
+*Contributed by [Unknown]*
 
 
 #### Bugs
@@ -410,7 +412,8 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-*Your explanation here!*
+Making sure your website displays properly regardless of screen-size, browser specifications, or type of device.
+*Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
 #### Grid System
@@ -441,7 +444,9 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### GUI
 
-*Your explanation here!*
+Stands for "Graphical User Interface".  It is a generic term for a visual interface that the user can interact with.
+
+*Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 #### Front End / Back End
 
@@ -474,7 +479,10 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 #### AJAX
 
-*Your explanation here!*
+Stands for: "Asynchronous Javascript and XML".  It allows the transfer of data from server to webpage without need for the user to refresh the page.  A good example would be real-time updating of a twitter or facebook feed.  
+
+*Contributed by [Chris Fullinwider](https://github.com/Fully34)*
+
 
 #### Pseudo-Code
 
