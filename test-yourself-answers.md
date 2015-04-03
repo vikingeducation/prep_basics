@@ -474,7 +474,9 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 #### AJAX
 
-*Your explanation here!*
+AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.
+
+*Contributed by [Adan Camacho](https://github.com/adancode)*
 
 #### Pseudo-Code
 
@@ -520,7 +522,9 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### CMS
 
-*Your explanation here!*
+CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
+
+*Contributed by [Adan Camacho](https://github.com/adancode)*
 
 #### Database
 
@@ -586,7 +590,9 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 #### What is Git?
 
-*Your explanation here!*
+Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
+
+*Contributed by [Adan Camacho](https://github.com/adancode)*
 
 #### What does SCM stand for?
 
