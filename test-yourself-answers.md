@@ -350,7 +350,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser. 
+A program usually running on a remote computer that responds to requests from a browser.
+
+*Contributed by [Unknown]*
 
 
 #### Bugs
@@ -446,9 +448,11 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### GUI
 
-Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.
+Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.  It is used as a generic term for a visual interface that the user can interact with.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
+*Contributed by [Chris Fullinwider](https://github.com/Fully34)*
+
 
 #### Front End / Back End
 
@@ -482,10 +486,11 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 #### AJAX
 
-AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.
+AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.  A good example would be real-time updating of a twitter or facebook feed.  
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
 *Contributed by [Jasen Carroll](https://github.com/jasenc)* 
+*Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
 #### Pseudo-Code
