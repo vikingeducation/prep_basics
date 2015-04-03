@@ -1,4 +1,4 @@
-# Test Yourself: Answers
+﻿# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -268,7 +268,8 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 #### Why might you need to add onto your `$PATH` variable?
 
-*Your explanation here!*
+You might need to add onto your $PATH variable so an application can be found and run in the command line.
+*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
 
@@ -297,8 +298,8 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 
 #### Domain
-
-*Your explanation here!*
+The part of the URL which specifies the location of the web server who is going to respond to your request.
+*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 
 #### IP Address
@@ -405,6 +406,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 #### WYSIWYG
 
 "What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page. 
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 
@@ -413,6 +415,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
+*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 
 #### Grid System
