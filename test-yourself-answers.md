@@ -410,7 +410,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-Designing one web page to be easily viewable on multiple screen sizes. 
+Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
+
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*
+
 
 #### Grid System
 
@@ -440,7 +443,9 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### GUI
 
-*Your explanation here!*
+Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.
+
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*
 
 #### Front End / Back End
 
@@ -471,27 +476,34 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+
 #### AJAX
 
-AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.
+AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+*Contributed by [Jasen Carroll](https://github.com/jasenc)* 
+
 
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+
 #### C
 
 *Your explanation here!*
+
 
 #### Ruby
 
 Ruby is the most enjoyable language on earth. Easy and happy to code.
 
+
 #### Ruby Gems
 
 *Your explanation here!*
+
 
 #### Frameworks
 
