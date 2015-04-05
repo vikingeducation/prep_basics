@@ -117,12 +117,16 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-*Your explanation here!*
+A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.
+
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
 
 #### What is a "server"?
 
-*Your explanation here!*
+A server is a special device that waiting for a request from the client. When the client sent their requests, server will look for it. If the server found what the client want, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -422,8 +426,9 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 
 #### Grid System
 
-*Your explanation here!*
+Grid system is a system where we design the structure of our web page using rows and columns. 
 
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
 #### RGB
 
