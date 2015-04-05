@@ -510,12 +510,15 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 #### Ruby Gems
 
-*Your explanation here!*
+Ruby Gems are Ruby programs and libraries in a self-contained format called a "gem" packaged by RubyGems package manager, a tool designed to easily manage the installation of gems and a server for distributing them.
 
+*Contributed by [Olga](https://github.com/ayva)*
 
 #### Frameworks
 
-*Your explanation here!*
+Framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
+
+*Contributed by [Olga](https://github.com/ayva)*
 
 #### Ruby on Rails
 
@@ -537,7 +540,9 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-*Your explanation here!*
+Free licensed code.
+
+*Contributed by [Olga](https://github.com/ayva)*
 
 #### CMS
 
