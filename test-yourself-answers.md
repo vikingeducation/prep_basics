@@ -84,7 +84,9 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 
 #### What do companies look for in a junior web developer?
 
-*Your explanation here!*
+Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.
+
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 #### What is the hiring process like for a developer?
 
@@ -117,12 +119,15 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-*Your explanation here!*
+A client is a user's computer which is connected to the internet and which is making requests. The client is the recipient of web pages and services.
 
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 #### What is a "server"?
 
-*Your explanation here!*
+A server is a computer which hosts websites and services. It is connected to the internet and listens for requests from client computers. When a server received a request for a web page or service, it 'serves up' the page and sends it back to the requesting client.
+
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is HTTP and how does an HTTP request work?
