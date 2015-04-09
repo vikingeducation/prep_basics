@@ -85,6 +85,7 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 #### What do companies look for in a junior web developer?
 
 Companies need "the best specialist" even if it is only "junior". All junior must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects. Any infromation, which can give relevant answers to this tough questions: "Are you smart?" and "Can you code?"
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
 #### What is the hiring process like for a developer?
@@ -119,6 +120,7 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 #### What is a "client"?
 
 Client renders to user information, upcoming from server. In order to use it, you must install it on your local machine. For html pages client is browser. Like Chrome or Firefox.
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
 
@@ -572,6 +574,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it. 
+
 *Contributed by [Shamash](https://github.com/Shamash2014)* 
 
 
