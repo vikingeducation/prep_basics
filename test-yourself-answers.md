@@ -117,13 +117,15 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-*Your explanation here!*
+A client is an application/program that allows a user to interact with a server. With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### What is a "server"?
 
-*Your explanation here!*
+A server is an application/program that waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### What is HTTP and how does an HTTP request work?
 
@@ -510,7 +512,9 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 #### Ruby Gems
 
-*Your explanation here!*
+Ruby Gems are pre-packaged code that can be included in a project for additional functionality.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
 #### Frameworks
@@ -658,7 +662,9 @@ By clicking on the plus symbol ('+') of your github user account and selecting N
 
 #### What is the difference between committing your changes and pushing them to Github?
 
-*Your explanation here!*
+Committing your changes will only save them in your local repository. Pushing them to Github will save them to your remote repository.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### What is the difference between a "remote" and your local repo?
 
@@ -705,15 +711,23 @@ Making a copy of another master repo into your own github account so as to not d
 
 #### What is "Branching"?
 
-*Your explanation here!*
+In Git, branching is a way of duplicating your project so two different versions can be modified in tandem. The changes can then be merged back into the master branch.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### Why would you use a branch?
 
-*Your explanation here!*
+Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### How do you create a new branch?
 
-*Your explanation here!*
+In your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
+
+You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### How do you merge branches back together?
 
