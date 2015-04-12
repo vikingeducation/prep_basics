@@ -117,12 +117,16 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-*Your explanation here!*
+A client is an individual computer that would request or store information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
+
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 
 
 #### What is a "server"?
 
-*Your explanation here!*
+The server is a computer designed to fulfill a specific function for other computers. It enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
+
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -422,7 +426,9 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 
 #### Grid System
 
-*Your explanation here!*
+Grid Systems are the visual structure for building a web page. Even though it's not necessary to design a web page, it makes the process much easier and better looking visually.
+
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 
 
 #### RGB
