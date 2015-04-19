@@ -24,13 +24,13 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code. 
 
-In otherwords, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
+In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays. 
+Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -59,7 +59,6 @@ The best bet to get help when you are stuck is to use google! There are other fa
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region. 
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
-
 
 #### What online developer communities can you join?
 
@@ -117,13 +116,15 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-*Your explanation here!*
+A client is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.
 
+*Contributed by [PGiese](https://github.com/PGiese)*
 
 #### What is a "server"?
 
-*Your explanation here!*
+A server is the place where a website is hosted. The server reacts on requests of the clients according to predefined rules. 
 
+*Contributed by [PGiese](https://github.com/PGiese)*
 
 #### What is HTTP and how does an HTTP request work?
 
