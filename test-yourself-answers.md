@@ -422,7 +422,7 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 
 #### Grid System
 
-*Your explanation here!*
+A method of organizing the elements of a web page.
 
 
 #### RGB
@@ -500,7 +500,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-*Your explanation here!*
+One of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -515,7 +515,7 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 #### Frameworks
 
-*Your explanation here!*
+Short-hand extensions of commands in a a programming language...many of which exist in JAVA.
 
 #### Ruby on Rails
 
