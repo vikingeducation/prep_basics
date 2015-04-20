@@ -646,19 +646,25 @@ By clicking on the plus symbol ('+') of your github user account and selecting N
 
 #### How do you commit changes?
 
-*Your explanation here!*
+By typing a git command, "git commit -m "Your message". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
+
+The other way is typing a git commit -am "Your message", which will both stage and commit changes.
+
+*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 #### What is the difference between staging and committing changes?
 
-*Your explanation here!*
+Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
 
-
+*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 ### Remotes
 
 #### What is the difference between committing your changes and pushing them to Github?
 
-*Your explanation here!*
+committing your changes places your changes in your local repository while pushing places your changes in the remote repository.
+
+*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 #### What is the difference between a "remote" and your local repo?
 
