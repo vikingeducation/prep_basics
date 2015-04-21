@@ -692,7 +692,7 @@ committing your changes places your changes in your local repository while pushi
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repository allows you to publish (push) your code to the world (via GitHub). A local repo is the enviroment where we can make local changes. The local repository is typically the one on our computer. 
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer. 
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
