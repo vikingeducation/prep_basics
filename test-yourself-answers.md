@@ -505,7 +505,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-*Your explanation here!*
+An older, light weight programming language that direcly inspired the development of many other languages.
 
 
 #### Ruby
@@ -633,11 +633,11 @@ Git is the most popular distributed version control system used for software dev
 
 #### Why is Git useful for a developer?
 
-*Your explanation here!*
+Git works to help developers with version control, whether that be the ability to track and revert changes on their personal projects or to effectively collaborate with others.
 
 #### Why is Git useful for a team of developers?
 
-*Your explanation here!*
+Git allows teams of developers to collaborate on projects while maintaining version control standards, including the ability to track and review changes made.
 
 
 
