@@ -405,6 +405,11 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+SEO are  a group of best practices to improve your site not only for search engines but also for users. The idea is to make the content of you site as clear and targeted as possible for humans and bots to understand the value of the information. 
+The main parts to think when making an SEO strategy are: keyword planning, website structure, backlinks and of course, content.
+
+*Contributed by [Michelle Toussaint] (https://github.com/michelletoussaint)*
+
 
 ### Design
 
@@ -633,13 +638,15 @@ Git is the most popular distributed version control system used for software dev
 
 #### Why is Git useful for a developer?
 
-*Your explanation here!*
+Git is a version control system. As such, it keeps a history of all the changes made to the project and you can revert back if you feel like you moved in the wrong path. You can also work on several paralell ideas at the same time until you have figured out how they fit in the master version
+
+*Contributed by [Michelle Toussaint] (https://github.com/michelletoussaint)*
 
 #### Why is Git useful for a team of developers?
 
-*Your explanation here!*
+Since people can copy versions and work on parts of the code, Git provides a standarized way of managing a projects and seeing the contrubutions of everybody in the team.
 
-
+*Contributed by [Michelle Toussaint] (https://github.com/michelletoussaint)*
 
 ### The Basics
 
