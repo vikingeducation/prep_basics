@@ -444,6 +444,12 @@ Grid system is a system where we design the structure of our web page using rows
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
+The design structure for building a web page. A grid system streamlines the web development workflow by serving as a visual guide on which designers can organize graphic elements on a page in relation to other graphic elements on the page or even other parts of the same element or shape.
+
+Grid systems speed up the design process while making the web page more visually appealing, but are not mandatory. However, working without a grid system will require sizing every column on the page without any sort of guide, that will then need to be applied to every page manually. 
+
+*Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+
 #### RGB
 
 Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
@@ -536,6 +542,14 @@ Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Ma
 Ruby Gems are Ruby programs and libraries in a self-contained format called a "gem" packaged by RubyGems package manager, a tool designed to easily manage the installation of gems and a server for distributing them.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+Part of the Ruby programming language, RubyGems is a package manager that makes it easy to download, install and run ruby programs and libraries (“gem”) and it’s files through a simple terminal command. 
+
+Essentially, a gem consists of two things: code and a gemspec (specifications for that gem) which is then used by rubygems to handle the management of the code. 
+
+Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work. 
+
+*Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
 #### Frameworks
 
@@ -705,7 +719,9 @@ committing your changes places your changes in your local repository while pushi
 
 #### What is the difference between a "remote" and your local repo?
 
-*Your explanation here!*
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer. 
+
+*Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
 #### How do you add your Github repo as the remote?
 
