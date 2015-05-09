@@ -633,11 +633,16 @@ Git is the most popular distributed version control system used for software dev
 
 #### Why is Git useful for a developer?
 
-*Your explanation here!*
+Git version control system is useful for a developer because it allows the developer the ability to access previous versions of their project, essentially being able to rewind time if they decide that a previous commit is better suited for their needs; be it a current implementation isn't working out, or to investigate changes to find where any problems may exist.
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 
 #### Why is Git useful for a team of developers?
 
-*Your explanation here!*
+Using Git allows a team of developers to independently work alongside one another, while having the ability to seamlessly implement those changes to the main project. It also helps situations where independent developers work may contradict each other, by showing changes and allowing the developers to choose which ones they would like to keep.
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
 
@@ -704,11 +709,17 @@ You can look through a history of commits by clicking on the repository name and
 
 #### What is a "Merge"?
 
-*Your explanation here!*
+A merge is when you take the changes you've made on one branch, and bring them into another branch to update it with the new changes.
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 
 #### What is a "Pull Request"?
 
-*Your explanation here!*
+A pull request is when you contribute to someones else's project, and you let them know that you have made changes that they can look over and possibly implement into their project.
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 
 #### What is "Forking" a repo?
 
@@ -721,15 +732,25 @@ Making a copy of another master repo into your own github account so as to not d
 
 #### What is "Branching"?
 
-*Your explanation here!*
+Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 
 #### Why would you use a branch?
 
-*Your explanation here!*
+Using a new branch allows the developer to make experimental changes to their project while having the ability to either discard those changes later, or merge them into their main project. It also allows teams to work off the master branch simultaneously and merge them all later.
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 
 #### How do you create a new branch?
 
-*Your explanation here!*
+Create a new branch by typing:
+git checkout -b branch_name
+
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 
 #### How do you merge branches back together?
 
