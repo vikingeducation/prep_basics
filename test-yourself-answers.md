@@ -246,6 +246,9 @@ The "Superuser" is a user of a computer system with special privileges needed to
 Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+*Contributed by [René Maya](https://github.com/viejOMs)*
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -512,6 +515,10 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 Ruby is the most enjoyable language on earth. Easy and happy to code.
 
+Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
+
+*Contributed by [René Maya](https://github.com/viejOMs)*
+
 
 #### Ruby Gems
 
@@ -588,7 +595,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Why did you need to install Ruby?
 
-*Your explanation here!*
+As we might recall, back-end programming means coding on the server side. Since not all servers run the same programming languages we need to make sure we install in our computer the same language. When we install Ruby we are actually installing the Ruby interpreter which allows us to "run" our code locally so we can make sure that our Ruby programs will be executed correctly by our server.
+
+*Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
