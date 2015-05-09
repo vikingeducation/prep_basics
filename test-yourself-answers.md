@@ -70,10 +70,11 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-Text editors like sublime are intuitive and dynamic in managing your text from a developers perspective. As a personal note the text editors are also much easier on your eyes as you are looking through code.
+I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -84,7 +85,9 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 
 #### What do companies look for in a junior web developer?
 
-*Your explanation here!*
+Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What is the hiring process like for a developer?
 
@@ -192,7 +195,9 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-I open it using by pushing super and return. I created my own shortcut to which I thought would be efficent
+Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What is Bash?
 
@@ -333,13 +338,16 @@ HTTP stands for Hypertext Transfer Protocol. It is the protocol or standard used
 
 HyperText Transfer Protocol, defines how messages are formatted and transmitted and what actions web servers and browsers should take in response to various commands. For example a URL request to retrieve a web page from a server.
 
-*Contributed by [Yoshio Varney](https://github.com/yoshi415)
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 
 
 #### HTTPS
 
-HyperText Transfer Protocol Secure is the secure version for safe transactions, although the protocol gets a bit more complicated.
+HyperText Transfer Protocol Secure is the secure version of HTTP, and is basically HTTP wrapped in another layer, TLS / SSL.
 
+HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among others.  Any submitted form data sent "over the wire" can be read very easily by a malicious user, so it is universally recommended that any sensitive information is transmitted via HTTPS.
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### POP & IMAP & SMTP
 
@@ -374,9 +382,9 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 
 #### The Cloud
 
-The cloud is simply another word for the internet. When backing up your files (such as music, pictures, and movies) on "the cloud" you are backing them up on servers that may potentially be far away from where you are. In short, your personal computer is considered "on the ground" while the remote storage servers located who-knows-where are "in the clouds."
+Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 
 #### Cookies
@@ -385,7 +393,7 @@ A text file stored by the browser which is sent back to the server each time the
 
 Session (or transient) cookies are stored in temporary memory and erased when browser is closed, they do not collect info on user. Instead, they store information in the form of a session identification that does not personally identify the user. Persistent (or permanent) cookie are stored on hard drive until it expires at expiration date or until user deletes it. They are used to collect identifying info about the user such as surfing behavior or user prefs for a site.
 
-*Contributed by [Yoshio Varney](https://github.com/yoshi415)
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 
 
 #### 404 Error
@@ -398,6 +406,9 @@ Nasty error when a page is not found when requested that the hosting domain aler
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+The HTTP Status Code returned by a server indicating file not found.
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### SEO
 
