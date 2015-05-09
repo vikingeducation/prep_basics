@@ -121,9 +121,12 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
+With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
 #### What is a "server"?
@@ -132,9 +135,12 @@ A server is a special device that waiting for a request from the client. When th
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
+The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -556,15 +562,17 @@ Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Ma
 
 Ruby Gems are Ruby programs and libraries in a self-contained format called a "gem" packaged by RubyGems package manager, a tool designed to easily manage the installation of gems and a server for distributing them.
 
-*Contributed by [Olga](https://github.com/ayva)*
-
 Part of the Ruby programming language, RubyGems is a package manager that makes it easy to download, install and run ruby programs and libraries (“gem”) and it’s files through a simple terminal command. 
 
 Essentially, a gem consists of two things: code and a gemspec (specifications for that gem) which is then used by rubygems to handle the management of the code. 
 
 Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work. 
 
+*Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+
 
 
 #### Frameworks
@@ -728,19 +736,24 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+
+
 ### Remotes
+
 
 #### What is the difference between committing your changes and pushing them to Github?
 
-committing your changes places your changes in your local repository while pushing places your changes in the remote repository.
+Committing your changes will only save them in your local repository. Pushing them to Github will save them to your remote repository.
 
-*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
 
 #### What is the difference between a "remote" and your local repo?
 
 A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer. 
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+
 
 #### How do you add your Github repo as the remote?
 
@@ -783,15 +796,20 @@ A pull request is when you contribute to someones else's project, and you let th
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+
 #### What is "Cloning" a repo?
 
 *Your explanation here!*
 
+
 #### What is "Branching"?
+
+In Git, branching is a way of duplicating your project so two different versions can be modified in tandem. The changes can then be merged back into the master branch.
 
 Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
 #### Why would you use a branch?
@@ -804,9 +822,29 @@ Using a new branch allows the developer to make experimental changes to their pr
 #### How do you create a new branch?
 
 Create a new branch by typing:
+
+```
 git checkout -b branch_name
+```
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
+
+
+#### Why would you use a branch?
+
+Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+
+#### How do you create a new branch?
+
+In your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
+
+You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
 #### How do you merge branches back together?
