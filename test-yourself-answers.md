@@ -440,15 +440,12 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 
 #### Grid System
 
-Grid system is a system where we design the structure of our web page using rows and columns. 
-
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-
 The design structure for building a web page. A grid system streamlines the web development workflow by serving as a visual guide on which designers can organize graphic elements on a page in relation to other graphic elements on the page or even other parts of the same element or shape.
 
 Grid systems speed up the design process while making the web page more visually appealing, but are not mandatory. However, working without a grid system will require sizing every column on the page without any sort of guide, that will then need to be applied to every page manually. 
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
 #### RGB
 
@@ -525,7 +522,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.
+An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -551,15 +548,19 @@ Most gems are open source, and used in most applications. The majority of gems p
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
+
 #### Frameworks
 
-Framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
+A framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+
 
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+
 
 #### Command Line
 
