@@ -119,19 +119,22 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-<<<<<<< HEAD
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.
+A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 
 
 #### What is a "server"?
 
-A server is a special device that waiting for a request from the client. When the client sent their requests, server will look for it. If the server found what the client want, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+
+Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -455,8 +458,12 @@ The design structure for building a web page. A grid system streamlines the web 
 
 Grid systems speed up the design process while making the web page more visually appealing, but are not mandatory. However, working without a grid system will require sizing every column on the page without any sort of guide, that will then need to be applied to every page manually. 
 
+Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
+
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+
 
 #### RGB
 
