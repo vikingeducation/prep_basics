@@ -85,6 +85,8 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 
 #### What do companies look for in a junior web developer?
 
+Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.
+
 Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects. 
@@ -93,6 +95,7 @@ It's best to provide any infromation which can give relevant answers to the toug
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is the hiring process like for a developer?
@@ -135,6 +138,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is a "server"?
@@ -149,6 +153,7 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is HTTP and how does an HTTP request work?
