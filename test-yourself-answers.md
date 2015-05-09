@@ -82,11 +82,18 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+
 #### What do companies look for in a junior web developer?
 
 Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
 
+Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects. 
+
+It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Shamash](https://github.com/Shamash2014)*
+
 
 #### What is the hiring process like for a developer?
 
@@ -127,6 +134,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Shamash](https://github.com/Shamash2014)*
 
 
 #### What is a "server"?
@@ -638,7 +646,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Script
 
-*Your explanation here!*
+Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it. 
+
+*Contributed by [Shamash](https://github.com/Shamash2014)* 
 
 
 
