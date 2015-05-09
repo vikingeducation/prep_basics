@@ -24,13 +24,13 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code. 
 
-In otherwords, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
+In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays. 
+Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -59,7 +59,6 @@ The best bet to get help when you are stuck is to use google! There are other fa
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region. 
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
-
 
 #### What online developer communities can you join?
 
@@ -120,9 +119,11 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.
+<<<<<<< HEAD
+A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+*Contributed by [PGiese](https://github.com/PGiese)*
 
 
 #### What is a "server"?
@@ -130,6 +131,7 @@ A client is a device that need to get something. For example if we want to watch
 A server is a special device that waiting for a request from the client. When the client sent their requests, server will look for it. If the server found what the client want, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+*Contributed by [PGiese](https://github.com/PGiese)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -137,6 +139,7 @@ A server is a special device that waiting for a request from the client. When th
 HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+
 
 #### What are DNS servers?
 
@@ -146,6 +149,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+
 #### What is HTML and how is it used?
 
 Hypertext markup language, a language of tags used to define the structure and
@@ -153,21 +157,25 @@ content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+
 #### What is CSS and how is it used?
 
 Cascading Stylesheets, a language that describes the look and style of the elements
 defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
+
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
+The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
-The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
 
 #### What happens behind the scenes after you click "search" on google.com?
@@ -185,6 +193,9 @@ Decaseconds later (two point five of them, in this case) your search is returned
 There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+
+
+
 
 ## The Command Line
 
