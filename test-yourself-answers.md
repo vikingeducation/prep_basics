@@ -519,7 +519,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-*Your explanation here!*
+An older, light weight programming language that direcly inspired the development of many other languages.
 
 
 #### Ruby
@@ -647,9 +647,11 @@ Git is the most popular distributed version control system used for software dev
 
 *Your explanation here!*
 
+
 #### What is a VCS?
 
 *Your explanation here!*
+
 
 #### Why is Git useful for a developer?
 
