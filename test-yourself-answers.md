@@ -701,13 +701,16 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-*Your explanation here!*
+SCM is an acronym for Software Configuration Management. 
+
+*Contributed by [Kelley Crowell](http://github.com/blaqd0ve)*
 
 
 #### What is a VCS?
 
-*Your explanation here!*
+VCS is an acronym for Version Control System. This allows people to keep track of modifications they have made to thier project(s).
 
+*Contributed by [Kelley Crowell](http://github.com/blaqd0ve)*
 
 #### Why is Git useful for a developer?
 
@@ -814,7 +817,9 @@ Making a copy of another master repo into your own github account so as to not d
 
 #### What is "Cloning" a repo?
 
-*Your explanation here!*
+"Cloning" a repo is getting a copy of an existing repository and saving it to your computer for modification. 
+
+*Contributed by [Kelley Crowell](http://github.com/blaqd0ve)*
 
 
 #### What is "Branching"?
