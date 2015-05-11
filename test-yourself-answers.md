@@ -701,6 +701,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
+SCM is an acronym for Software Configuration Management. 
 
 *Contributed by [Kelley Crowell](http://github.com/blaqd0ve)*
 
