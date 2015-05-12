@@ -1,4 +1,4 @@
-﻿ Test Yourself: Answers
+﻿# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -609,10 +609,7 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between different versions of the code. It is particularly useful for reverting to stable code in the case of bugs, collaborating on projects with other developers and working on large changes to a codebase.
-
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
-
+It's like a time machine for jumping back and forth between specific time stamp for coding.
 
 #### Git
 
@@ -704,12 +701,15 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-*Your explanation here!*
+**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### What is a VCS?
 
-*Your explanation here!*
+**V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
+
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### Why is Git useful for a developer?
@@ -817,7 +817,9 @@ Making a copy of another master repo into your own github account so as to not d
 
 #### What is "Cloning" a repo?
 
-*Your explanation here!*
+Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
+
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### What is "Branching"?
