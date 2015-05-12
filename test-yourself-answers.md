@@ -882,6 +882,9 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-*Your explanation here!*
+After a merge has been attempted and a merge conflict has been revealed, the conflict must be resolved before the merge can be successful. In order to resolve the merge conflict, you must refresh your text editor. "Marge markers" will have appeared, clearly showing where the conflict is occurring within the document. There will be two main markers, "HEAD," which refers to the branch you are currently in, and "master," referring to the master branch, if you are merging with it.
+
+Resolving the conflict is then simple: you must remove the merger markers along with the code you wish to discard, keeping only the code that you wish to keep! You can then stage the results and commit them. You will then be able to move branches and merge with no issue.
+
 
 
