@@ -701,8 +701,9 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-*Your explanation here!*
+SCM stands for Software Configuration Management or Source Code Management. Essentially, it is the management of changes to documents, programs, websites, etc. Each change is associated with a timestamp, and the person making the change, along with a comment. A change can be compared, restored and merged.
 
+*Contributed by [David Meza](https://github.com/david-meza)*
 
 #### What is a VCS?
 
@@ -772,7 +773,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+`git remote add origin https://github.com/user/repo.git`
+
+Replace `user` and `repo` with your own username and repository.
+
+*Contributed by [David Meza](https://github.com/david-meza)*
 
 #### How do you check the status of your current repo in git?
 
@@ -814,7 +819,14 @@ Making a copy of another master repo into your own github account so as to not d
 
 #### What is "Cloning" a repo?
 
-*Your explanation here!*
+Cloning a repository is making a copy of a remote repository (either your own or another user's) to your local computer. For example, in this exercise when I typed `git clone https://github.com/david-meza/prep_basics.git` in terminal the following happened:
+1. A new folder named `prep_basics` was made
+2. It was initialized as a Git repository
+3. A remote named `origin` was created, pointing to the URL I cloned from
+4. All the repo's files and commits were downloaded to the folder
+5. The default branch `master` was checked out
+
+*Contributed by [David Meza](https://github.com/david-meza)*
 
 
 #### What is "Branching"?
