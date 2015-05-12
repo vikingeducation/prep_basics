@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+﻿ Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -22,7 +22,7 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code. 
+A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
 
 In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
 
@@ -34,7 +34,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application. 
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
@@ -42,7 +42,7 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user. 
+Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
@@ -56,15 +56,15 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region. 
+Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area. 
+Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
-Look at r/Programming or r/learnprogramming 
+Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -89,7 +89,7 @@ Companies want developers who have built working code. They are looking for good
 
 Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
 
-Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects. 
+Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
@@ -205,7 +205,7 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 A single click rings out on a dark night...
 Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake 
+Milliseconds later (a group of them) a command is sent to open up an http handshake
 Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
 Centiseconds later (a handful of them) the data is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
@@ -275,7 +275,7 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user. 
+'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
@@ -353,7 +353,7 @@ IP addresses are the absolute address of a website. Four number ranging from 0 t
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
-A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc. 
+A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -391,7 +391,7 @@ POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol
 
 API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
 
-For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions. 
+For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
@@ -458,7 +458,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### WYSIWYG
 
-"What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page. 
+"What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -475,7 +475,7 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 
 The design structure for building a web page. A grid system streamlines the web development workflow by serving as a visual guide on which designers can organize graphic elements on a page in relation to other graphic elements on the page or even other parts of the same element or shape.
 
-Grid systems speed up the design process while making the web page more visually appealing, but are not mandatory. However, working without a grid system will require sizing every column on the page without any sort of guide, that will then need to be applied to every page manually. 
+Grid systems speed up the design process while making the web page more visually appealing, but are not mandatory. However, working without a grid system will require sizing every column on the page without any sort of guide, that will then need to be applied to every page manually.
 
 Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
 
@@ -500,7 +500,7 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 #### Above the Fold
 
-Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold. 
+Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold.
 
 *Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -545,10 +545,10 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 #### AJAX
 
-AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.  A good example would be real-time updating of a twitter or facebook feed.  
+AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.  A good example would be real-time updating of a twitter or facebook feed.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
-*Contributed by [Jasen Carroll](https://github.com/jasenc)* 
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
@@ -575,11 +575,11 @@ Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Ma
 
 Ruby Gems are Ruby programs and libraries in a self-contained format called a "gem" packaged by RubyGems package manager, a tool designed to easily manage the installation of gems and a server for distributing them.
 
-Part of the Ruby programming language, RubyGems is a package manager that makes it easy to download, install and run ruby programs and libraries (“gem”) and it’s files through a simple terminal command. 
+Part of the Ruby programming language, RubyGems is a package manager that makes it easy to download, install and run ruby programs and libraries (“gem”) and it’s files through a simple terminal command.
 
-Essentially, a gem consists of two things: code and a gemspec (specifications for that gem) which is then used by rubygems to handle the management of the code. 
+Essentially, a gem consists of two things: code and a gemspec (specifications for that gem) which is then used by rubygems to handle the management of the code.
 
-Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work. 
+Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work.
 
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
@@ -606,10 +606,13 @@ Ruby on Rails is the amazing web framework for creating awesome web applications
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
- 
+
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between different versions of the code. It is particularly useful for reverting to stable code in the case of bugs, collaborating on projects with other developers and working on large changes to a codebase.
+
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
+
 
 #### Git
 
@@ -651,9 +654,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it. 
+Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
-*Contributed by [Shamash](https://github.com/Shamash2014)* 
+*Contributed by [Shamash](https://github.com/Shamash2014)*
 
 
 
@@ -680,7 +683,7 @@ Most web browsers have the ability to decode all of the before mentioned languag
 
 RVM stands for Ruby Version Manager and is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
-RVM is helpful because some gems, tools, and frameworks may only work with a particular version of Ruby. RVM lets you easily switch between different environments, based on needs, when developing. 
+RVM is helpful because some gems, tools, and frameworks may only work with a particular version of Ruby. RVM lets you easily switch between different environments, based on needs, when developing.
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
@@ -765,7 +768,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer. 
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
@@ -878,7 +881,7 @@ You'll see output indicating any changes that were made
 
 #### What is a "Merge Conflict" and when will it occur?
 
-A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed. 
+A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed.
 
 #### How do you resolve a "Merge Conflict"?
 
