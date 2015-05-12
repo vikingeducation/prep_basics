@@ -882,6 +882,8 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-*Your explanation here!*
+You open the conflicted file and find the merge markers (<<<<<<< and >>>>>>>) which indicate your current branch (HEAD) and it's changes above and the master branch (master) and it's changes below respectively.
 
+Delete the changes you dont want and all the three merge markers; save and quit the file; stage and commit the file.
 
+*Contributed by [John Otu](https://github.com/johnotu)*
