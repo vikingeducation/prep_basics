@@ -171,6 +171,14 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+A DNS server, otherwise known as a Domain Name Server, is similar to a phone book in the sense that it translates domain names to Internet Protocol (IP) addresses. On the internet, we access public DNS servers which may be run by your local Internet Service Provider or even through a company like Google. 
+
+In many instances, you may appear to lose connectivity to the internet if the DNS server you access is down. If you are able to access a website by IP, but not by name, then it is likely that the DNS server that your computer resolves addresses from has gone down. 
+
+In addition to these public DNS servers, private organizations also house their own DNS servers to resolve server names within the company to local IP addresses. 
+
+*Contributed by [Michael Kuntz](https://github.com/MichaelKuntz)*
+
 
 #### What is HTML and how is it used?
 
@@ -346,6 +354,12 @@ Address that one types in to reach a particular webpage.  Human readable address
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+A domain is the human-readable name given to a location on the internet which is translated by Domain Name Servers (DNS) to the IP address of the server on which it resides. 
+
+We mostly interact with top level domains which include .com, .net, .edu, etc. In most cases, domain.com will be different than domain.net, or domain.edu, but it is possible for a company to purchase multiple top-level domains and point them all to the same server.
+
+*Contributed by [Michael Kuntz](https://github.com/MichaelKuntz)*
+
 
 #### IP Address
 
@@ -401,6 +415,10 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+A web server is an application, typically running on a server, that is connected to the internet and accessible over port 80 to accept and respond to incoming HTTP requests. However, you can also run a web server on your local machine in order to create a private development environment. 
+
+*Contributed by [Michael Kuntz](https://github.com/MichaelKuntz)*
 
 
 #### Bugs
