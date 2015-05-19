@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is an XML document that describes the structure of other XML documents. It also refers to the description of the structure of your database.
+
+*Contributed by [Yeon Seo](https://github.com/yseoserious)*
 
 #### Script
 
@@ -775,7 +777,16 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add your Github repo as the remote, use the 'git remote add' command on the terminal in the directory your repository is stored at with two arguments:
+
+A name for the remote, such as "origin", and a URL for the remote, such as "https://github.com/user/repo.git".
+
+For example:
+
+git remote add origin https://github.com/user/repo.git
+
+*Contributed by [Yeon Seo](http://github.com/yseoserious)*
+
 
 #### How do you check the status of your current repo in git?
 
@@ -838,21 +849,6 @@ Using a new branch allows the developer to make experimental changes to their pr
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
-
-#### How do you create a new branch?
-
-Create a new branch by typing:
-
-```
-git checkout -b branch_name
-```
-
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
-
-
-#### Why would you use a branch?
-
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
@@ -865,21 +861,27 @@ In your terminal type `git branch <name of branch>` to create a branch. Then typ
 You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
 #### How do you merge branches back together?
 
-In order to merge branches back together you should merge the master branch into your-branch
+In order to merge branches back together you should merge the master branch into your-branch, resolve any merge conflicts that occur, then move back to the master branch and merge your-branch into the master branch. Merging the master branch into your-branch first reveals any merge conflicts that need to be resolved without having to make any changes to the master branch. 
+
+To merge the master branch into your branch enter the following commands:
 
 $git checkout your-branch
 $git merge master
 
-Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
+Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch:
 
 $git checkout master
 $git merge your-branch
 
 You'll see output indicating any changes that were made
+
+*Contributed by [Yeon Seo](https://github.com/yseoserious)*
+
 
 #### What is a "Merge Conflict" and when will it occur?
 
