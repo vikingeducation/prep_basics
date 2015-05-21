@@ -224,7 +224,12 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+The command line is a means of interactinc with a computer program by issuing commands to the program in the form of successive lines of text.
+
+*Contributed by [Beniamin Mincu](https://github.com/beniaminmincu)*
 
 #### How do you open it on your computer?
 
@@ -259,7 +264,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Permissions are important to prevent unwanted access and/or modification of files. There are three kinds of permission which can be granted: read, write and execute.
+
+*Contributed by [Beniamin Mincu](https://github.com/beniaminmincu)*
 
 #### How do you view hidden files in a directory?
 
@@ -339,7 +346,13 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+A URL typically contains two things: the protocol(http) and the domain name(www.example.com).
+
+*Contributed by [Beniamin Mincu](https://github.com/beniaminmincu)*
+
 
 
 #### Domain
