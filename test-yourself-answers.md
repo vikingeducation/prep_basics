@@ -750,7 +750,7 @@ The other way is typing a git commit -am "Your message", which will both stage a
 
 #### What is the difference between staging and committing changes?
 
-Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
+
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
