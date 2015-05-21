@@ -647,7 +647,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+The structure created for a database. 
 
 #### Script
 
@@ -773,7 +773,7 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add origin your_github_repo_URL_here
 
 #### How do you check the status of your current repo in git?
 
@@ -851,9 +851,7 @@ git checkout -b branch_name
 
 #### Why would you use a branch?
 
-Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
-
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+You would use a branch to develop features safely away from the original, main file. The branch could then be merged back into the original if desired. 
 
 
 #### How do you create a new branch?
