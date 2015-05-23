@@ -67,6 +67,12 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Free Code Camp (focused on Java Script) has facebook groups in many cities: [Check them out here](http://www.freecodecamp.com/field-guide/how-can-i-find-other-free-code-camp-campers-in-my-city)
+
+Also, I have found many [Meet Up](http://www.meetup.com) coding groups in Seattle. I bet you could find some in your area, too!
+
+*Contributed by [Layla Rowen](https://github.com/laylar)*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -80,6 +86,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -91,7 +98,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -443,6 +450,10 @@ The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+When the client can communicate with the server, but the requested content cannot be found. See Wikipedia article for fascinating cultural references ("During the May 2011 Greek protests, one slogan was 'Error 404: Democracy not found'")
+
+*Contributed by [Layla Rowen](https://github.com/laylar)*
+
 #### SEO
 
 How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
@@ -647,14 +658,15 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Similar to schema in psychology, a database schema is a way to organize the behavior of a database and its information. This includes defining what data may enter the database and qualifications for data integrity.
+
+*Contributed by [Layla Rowen](https://github.com/laylar)*
 
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
-
 
 
 ## Installations
@@ -718,6 +730,9 @@ Git version control system is useful for a developer because it allows the devel
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+Git also allows a user to create a branch of a project in order to apply and observe changes without changing the master version. This is like allowing a developer to create a magical sandbox in which a project can be played with and manipulated. Successful changes can then be merged with the master, while undesireable changes can be easily discarded and forgotten.
+
+*Contributed by [Layla Rowen](https://github.com/laylar)*
 
 #### Why is Git useful for a team of developers?
 
