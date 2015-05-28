@@ -775,7 +775,13 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add upstream git@github.com:vikingeducation/prep_basics.git 
+
+OR
+
+git remote add origin https://github.com/vikingeducation/git_calisthenics.git
+
+*Contributed by [Gonik Daniel](https://github.com/GonikDaniel)*
 
 #### How do you check the status of your current repo in git?
 
