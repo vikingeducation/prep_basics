@@ -36,7 +36,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+When you live in the center of the Bay Area where there are giant companies such as Google, Facebook, Twitter and etc within a car ride over the bridge, you have a number of different types of communities for developers. The best way I find these communities are through meetup.com. You find specific communities that specializes on one programming languages, groups of developers that bike together, hike together, and listen to the same type of music. Although you may have a trouble deciding which one you want to join or how many you want to be with, there is enough for you to find the right one that you enjoy and find most beneficial.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Francis Ngo](https://github.com/francisngo)*
 
 #### What online developer communities can you join?
 
@@ -112,8 +115,11 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect via an Internet Service Provider (ISP) to a Domain Name System (DNS) server or a web address; for example: www.github.com. 
+Your computer then contacts the IP address associated with the requested domain name (Every device on the web has a unique IP address; like telephone numbers). The unique IP address that the DNS server returns to your computer allows your browser to contact the web server (a computer that is always connected to the web; sends web pages to users) that hosts the website you requested. It then sends the page you requested back to your browser. 
 
+*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Francis Ngo](https://github.com/francisngo)*
 
 #### How is information broken down and sent?
 
@@ -187,7 +193,7 @@ defined in an HTML document, such as fonts, colors, spacing, transparency, align
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
