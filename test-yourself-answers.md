@@ -75,6 +75,9 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+## Add to the above
+Specific text editors such as Sublime Text and Text Wrangler are capable of identifying different types of programming languages (such as PHP / Perl / Java / C / SQL etc.) and will automatically provide syntax highlighting / coloring, proper indentation, encapsulation, automatic block / syntax completion & prediction.
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -82,6 +85,8 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+#### Add to the above
+Great developers must be good at logic, math and creativity.
 
 #### What do companies look for in a junior web developer?
 
@@ -295,6 +300,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+#### Add to the above 
+Press 'ESC', then 'x' to quit w/ change saved; 'q' to quit (as long as there have been no changes); 'zz' to quit and save changes; 'q!' to quit and ignore all changes
 
 #### What is the `.bash_profile` file and what is it used for?
 
