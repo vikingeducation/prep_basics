@@ -891,4 +891,18 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is the $PATH variable ?
+
+$PATH is a Unix environment variable that stores a colon - delimited list of directory paths.
+
+Why might you need to add onto your $PATH variable?
+
+You need to add the application location onto your $PATH variable so you can prevent the error messages that says "not found"
+
+What does SCM stand for?
+
+SCM stands for Sourch Code Manager - this is used to manage source code and also to track revisions in software
+
+
+
 
