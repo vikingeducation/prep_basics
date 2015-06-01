@@ -54,6 +54,11 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+StackOverflow is also an awesome resource for developers. It's not so much for beginners, but when you start getting into complex problems, it can save you lots of time to post your issue up there.
+
+*Contributed by [Jason Mark Beaton](http://github.com/parkerrr)*
+
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -74,6 +79,10 @@ I think the most important reason why developer-friendly text editors are better
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+Syntax Highlighting is probably my favorite reason. Plus there are other features in a code editor like VIM that gives you features Microsoft Word could only dream of.
+
+*Contributed by [Jason Mark Beaton](http://github.com/parkerrr)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -170,6 +179,10 @@ A DNS server is a special kind of computer that links human-readable names of we
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+
+DNS stands for Domain Name System. It's a way of translating the human readable part of your website address into an IP address that computers will understand.
+
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 
 #### What is HTML and how is it used?
