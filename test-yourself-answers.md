@@ -22,63 +22,51 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
+A Web Developer can be responsible everything from front-end work - designing interactions on a website, optimizing load time of site, jquery animations, etc... - to back-end work - creating application structure, setting up routing, programattic automation, etc...
 
-In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web Designers may focus directly on the design related to an application interface, or website flow and feel. Web developers are the technical practicioners that implement functionality more so than form. It seems like these days, the lines are blurred between these two definitions.
+
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus on the look and feel of a site. Back-end developers focus on functionality of a site. Full-Stack developers are a hybrid of both front-end and back-end developers.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
-
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+Static pages have information that is set, and does not change unless directly changed in the source code by a developer/editor. Dynamic pages have data that can change based on certain actions the visitor/user makes. Dynamic is "reactive".
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
-
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
-
-StackOverflow is also an awesome resource for developers. It's not so much for beginners, but when you start getting into complex problems, it can save you lots of time to post your issue up there.
+Google is super helpful. StackOverflow is also an awesome resource for developers. It's not so much for beginners, but when you start getting into complex problems, it can save you lots of time to post your issue up there.
 
 *Contributed by [Jason Mark Beaton](http://github.com/parkerrr)*
 
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+There is the Burlington Vermont Ruby group, and also ThoughtBot down in Boston. 
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area.
+There are a ton on Reddit, but also Thoughtbot has a great community focused in helping developers.
 
-Look at r/Programming or r/learnprogramming
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+Look at r/Programming or r/learnprogramming and upcase.com
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
-
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 Syntax Highlighting is probably my favorite reason. Plus there are other features in a code editor like VIM that gives you features Microsoft Word could only dream of.
 
@@ -89,7 +77,8 @@ Syntax Highlighting is probably my favorite reason. Plus there are other feature
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 
 #### What do companies look for in a junior web developer?
@@ -269,6 +258,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+'mv' can also move files around via terminal. I say this because I thought mv only did one thing, but it does both moving and renaming.
+
+*Contributed by [Jason Mark Beaton](http://github.com/parkerrr)*
 
 #### Why are file permissions important?
 
@@ -660,7 +653,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schema is markup that can be used on your web pages and email messages which adds more context for entities, and relationships between entities. For instance, there is schema for calendar dates for your webinar, and schema for you, as an author so that Search Engine Results can display this information more contextually.
+
+*Contributed by [Jason Mark Beaton](https://github.com/parkerrr)*
 
 #### Script
 
