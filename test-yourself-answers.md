@@ -46,6 +46,9 @@ Dynamic webpages change depending on the user input and actions. Because of this
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
+To keep it short and sweet, Dynamic web pages are interactive from the user and Static web pages display information with little to no interaction
+
+*Contributed by [Mario Zamora](https://github.com/Navegador)*
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
