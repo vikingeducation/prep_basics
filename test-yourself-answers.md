@@ -196,7 +196,10 @@ Developer Tools will show you the actual HTML and CSS that generated content on 
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
+It's a great way to look at some of your favorite websites and see what type of code they have used. You can also play around, change some styles or small bits of codes to see the effect on the website you are looking at. Use it as a learning tool!!
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [drewmiller5507](https://github.com/drewmiller5007)*
 
 
 
@@ -230,7 +233,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+Tip: you will be spending a lot of time inside of the command line in your computer so set up a shortcut on your desktop beside all of your other programming tools.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [drewmiller5007](https://github.com/drewmiller5007)
 
 #### What is Bash?
 
@@ -775,7 +781,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git add remote link
+
+*Contributed by [drewmiller5007](https://github.com/drewmiller5007)
 
 #### How do you check the status of your current repo in git?
 
