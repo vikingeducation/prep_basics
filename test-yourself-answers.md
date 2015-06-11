@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Think schematic - Similar to a blueprint, this can define the structure of your database. Additionally, this could also refer to an an XML document that defines the structure of the other XML docs. 
+
+*Contributed by [Jen Hamilton](https://github.com/embryoconcepts)*
 
 #### Script
 
@@ -655,7 +657,9 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+A piece of code that can be run directly by an interpreter program. Different from code for a compiled language like Java, script does not need to be pre-compiled. 
 
+*Contributed by [Jen Hamilton](https://github.com/embryoconcepts)*
 
 ## Installations
 
@@ -775,7 +779,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+''''
+git remote add your_url_here
+''''
+*Contributed by [Jen Hamilton](https://github.com/embryoconcepts)*
 
 #### How do you check the status of your current repo in git?
 
