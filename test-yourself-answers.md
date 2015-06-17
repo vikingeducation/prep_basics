@@ -905,7 +905,7 @@ for local changes, and the format
 
 `=======`
 
-for changes from the other commit. To resolve the this, delete the line you wan to get rid of, and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+for changes from the other commit. To resolve the this, delete the line you want to get rid of, and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 *Contributed by [Cody Welsh](https://github.com/cwelshe)*
