@@ -887,18 +887,22 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-A Merge Conflict can be resolved in a multitude of ways - if you have a diff tool, *git mergetool* will attempt to open it (if assigned as a default program). From there, most diff tools will allow you to quickly decide which changes to commit.
+A Merge Conflict can be resolved in a multitude of ways - if you have a diff tool, `git mergetool` will attempt to open it (if assigned as a default program). From there, most diff tools will allow you to quickly decide which changes to commit.
 
 Alternatively, you can open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by looking for Git merge markers, which follow the format
 
 `<<<<<<< (Branch):File`
+
 `...`
+
 `=======`
 
 for local changes, and the format
 
 `>>>>>>> (Branch):File`
+
 `...`
+
 `=======`
 
 for changes from the other commit. To resolve the this, delete the line you wan to get rid of, and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
