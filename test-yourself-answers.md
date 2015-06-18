@@ -618,6 +618,7 @@ One of the most popular open-source version control systems.
 #### Open Source
 
 An 'open source' project is a project in which the code of an application or other type of software product is available for usage, compilation and modificationby arbitrary users, usually as specified within an 'open source license' such as the MIT license.
+
 *Contributed by [Olga](https://github.com/ayva)*
 
 *Contributed by [Cody Welsh](https://github.com/cwelshe)*
@@ -776,8 +777,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a remote repository to your current .git file, the command `git remote add (name) (url)` will append a remote by the name of `name` with a url of `url`. If you clone a repository, you'll notice that it's already listed in remotes.
 
+*Contributed by [Cody Welsh](https:://github.com/cwelshe)*
 #### How do you check the status of your current repo in git?
 
 git status
