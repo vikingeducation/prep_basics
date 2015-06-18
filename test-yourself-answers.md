@@ -16,7 +16,7 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 
 An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
 
-*Contributed by [Erik Trautman](http://github.com/eriktrautman)*
+*Contributed by [Erik Trautman](https://github.com/eriktrautman)*
 
 ## All About Web Developers
 
@@ -38,7 +38,7 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Yilen Pan](https://github.com/yilenpan)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -46,26 +46,26 @@ Dynamic webpages change depending on the user input and actions. Because of this
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Yilen Pan](https://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Nick Schwaderer](https://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Nick Schwaderer](https://github.com/Schwad)*
 
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Yilen Pan](https://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -73,7 +73,7 @@ I think the most important reason why developer-friendly text editors are better
 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Aaron Dressler](https://github.com/aarondressler)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -93,16 +93,16 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Aaron Dressler](https://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Joshua M Hall](https://github.com/reformedinchrist)*
 
 
 #### What is the hiring process like for a developer?
 
 To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
 
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Adam Kinson](https://github.com/kinsona)*
 
 
 ## How the Web Works
@@ -135,10 +135,10 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+*Contributed by [Sarah Fox](https://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Joshua M Hall](https://github.com/reformedinchrist)*
 
 
 #### What is a "server"?
@@ -151,16 +151,16 @@ The server waits for requests from a client and tries to produce the proper resp
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+*Contributed by [Sarah Fox](https://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Joshua M Hall](https://github.com/reformedinchrist)*
 
 
 #### What is HTTP and how does an HTTP request work?
 
 HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Adam Kinson](https://github.com/kinsona)*
 
 
 #### What are DNS servers?
@@ -177,7 +177,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Michael Alexander](https://github.com/betweenparentheses)*
 
 
 #### What is CSS and how is it used?
@@ -196,7 +196,7 @@ Developer Tools will show you the actual HTML and CSS that generated content on 
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Adam Kinson](https://github.com/kinsona)*
 
 
 
@@ -224,38 +224,38 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Aaron Dressler](https://github.com/aarondressler)*
 
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Michael Alexander](https://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### Why are file permissions important?
 
@@ -264,12 +264,12 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -277,12 +277,12 @@ The "Superuser" is a user of a computer system with special privileges needed to
 
 'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
-*Contributed by [Matt Davis](http://github.com/chiewieee)*
+*Contributed by [Matt Davis](https://github.com/chiewieee)*
 
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
@@ -291,7 +291,7 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:q`
 
 `:q!` (to overwrite and not save any changes)
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
@@ -308,7 +308,7 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
-*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contributed by [Dakota Maulding](https://github.com/dakota2mu)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
@@ -324,7 +324,7 @@ For instance, when using Sublime Text, one may not want to always manually locat
 
 i.e. 'subl text.txt'
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Matt Davis](https://github.com/chewieee)*
 
 
 
@@ -339,7 +339,7 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Michelle Ho](https://github.com/michelleyho)*
 
 
 #### Domain
@@ -351,7 +351,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
-*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+*Contributed by [Malcolm Reddoch](https://github.com/mreddoch)*
 
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
 
@@ -362,7 +362,7 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 The Domain Name System, or DNS, is the phone book of the Internet. It takes human-readable URLs and translates them to IP addresses so that packets know exactly where to go.
 
-*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+*Contributed by [Malcolm Reddoch](https://github.com/mreddoch)*
 
 
 #### HTTP
@@ -380,7 +380,7 @@ HyperText Transfer Protocol Secure is the secure version of HTTP, and is basical
 
 HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among others.  Any submitted form data sent "over the wire" can be read very easily by a malicious user, so it is universally recommended that any sensitive information is transmitted via HTTPS.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Aaron Dressler](https://github.com/aarondressler)*
 
 #### POP & IMAP & SMTP
 
@@ -393,7 +393,7 @@ API stands for Application Programming Interface, which is a set of programming 
 
 For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Matt Davis](https://github.com/chewieee)*
 
 
 #### Web Server
@@ -417,7 +417,7 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 
 Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Aaron Dressler](https://github.com/aarondressler)*
 
 
 #### Cookies
@@ -433,7 +433,7 @@ Session (or transient) cookies are stored in temporary memory and erased when br
 
 The frustrating page a user receives when the specific page he or she was hoping to access doesn't exist. Can be made less frustrating if it is accompanied by a clever joke, or a picture of a kitten.
 
-*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+*Contributed by [Malcolm Reddoch](https://github.com/mreddoch)*
 
 Nasty error when a page is not found when requested that the hosting domain alerts the user/requester with.
 
@@ -441,7 +441,7 @@ Nasty error when a page is not found when requested that the hosting domain aler
 
 The HTTP Status Code returned by a server indicating file not found.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Aaron Dressler](https://github.com/aarondressler)*
 
 #### SEO
 
@@ -460,7 +460,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 "What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Nick Schwaderer](https://github.com/Schwad)*
 
 
 #### Responsive Design
@@ -479,7 +479,7 @@ Grid systems speed up the design process while making the web page more visually
 
 Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
 
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+*Contributed by [Sarah Fox](https://github.com/sarahfoxy)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
@@ -502,7 +502,7 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold.
 
-*Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](https://github.com/Schwad)*
 
 
 #### GUI
@@ -529,7 +529,7 @@ The markup language which specifies the structure of all the pieces of a webpage
 
 Hypertext markup language:  The coding read by web browsers that dictates the layout and style of coding within a web server.
 
-*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contributed by [Dakota Maulding](https://github.com/dakota2mu)*
 
 
 #### CSS
@@ -617,9 +617,11 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+An 'open source' project is a project in which the code of an application or other type of software product is available for usage, compilation and modificationby arbitrary users, usually as specified within an 'open source license' such as the MIT license.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+*Contributed by [Cody Welsh](https://github.com/cwelshe)*
 
 #### CMS
 
@@ -629,7 +631,7 @@ CMS stands for Content Management System, which is an application used to manage
 
 #### Database
 
-A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. They cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
+A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. It is often considered the cornerstone of a web application. This is where everything your users do is saved. It's like a giant collection of giant spreadsheets that moves very quickly.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
@@ -673,7 +675,7 @@ These are already native to the browsers and do not need a compiler or back end 
 
 Most web browsers have the ability to decode all of the before mentioned languages.
 
-*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contributed by [Dakota Maulding](https://github.com/dakota2mu)*
 
 
 #### What is RVM and how will it be useful later?
@@ -682,7 +684,7 @@ RVM stands for Ruby Version Manager and is a command-line tool which allows you 
 
 RVM is helpful because some gems, tools, and frameworks may only work with a particular version of Ruby. RVM lets you easily switch between different environments, based on needs, when developing.
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Matt Davis](https://github.com/chewieee)*
 
 #### What is XCode?
 
@@ -716,14 +718,14 @@ Git is the most popular distributed version control system used for software dev
 
 Git version control system is useful for a developer because it allows the developer the ability to access previous versions of their project, essentially being able to rewind time if they decide that a previous commit is better suited for their needs; be it a current implementation isn't working out, or to investigate changes to find where any problems may exist.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 
 
 #### Why is Git useful for a team of developers?
 
 Using Git allows a team of developers to independently work alongside one another, while having the ability to seamlessly implement those changes to the main project. It also helps situations where independent developers work may contradict each other, by showing changes and allowing the developers to choose which ones they would like to keep.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 
 
 
@@ -733,11 +735,11 @@ Using Git allows a team of developers to independently work alongside one anothe
 
 To create a Git repository locally, you want to navigate to the root directory of your project and type 'git init'. This will initialize a local repository and load all of the necessary files git will need to track the files in that directory.
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Matt Davis](https://github.com/chewieee)*
 
 #### How do you create it on Github?
 
-By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
+By clicking on the plus symbol ('+') of your GitHub user account and selecting NEW REPOSITORY
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you commit changes?
@@ -775,8 +777,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a remote repository to your current .git file, the command `git remote add (name) (url)` will append a remote by the name of `name` with a url of `url`. If you clone a repository, you'll notice that it's already listed in remotes.
 
+*Contributed by [Cody Welsh](https:://github.com/cwelshe)*
 #### How do you check the status of your current repo in git?
 
 git status
@@ -799,36 +802,40 @@ You can look through a history of commits by clicking on the repository name and
 
 A merge is when you take the changes you've made on one branch, and bring them into another branch to update it with the new changes.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 
 
 #### What is a "Pull Request"?
 
 A pull request is when you contribute to someones else's project, and you let them know that you have made changes that they can look over and possibly implement into their project.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 
 
 #### What is "Forking" a repo?
 
-Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+Making a copy of another master repo into your own GitHub account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
 #### What is "Cloning" a repo?
 
-Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
+Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in a Git repository hosting service such as GitHub.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### What is "Branching"?
 
-In Git, branching is a way of duplicating your project so two different versions can be modified in tandem. The changes can then be merged back into the master branch.
+The concept of a 'branch' requires knowledge of how Git deals with files.
 
-Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
+Generally speaking, one of the interesting features about Git as opposed to other SVC systems is that it stores entire snapshots of the filesystem in each commit; this means that looking back on an old commit *will modify your file structure to the way it was on that commit.*
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+A branch, then, is nothing but a small pointer to one of those commits. Creating a new branch, checking out to that branch, and committing on that branch will result in a commit ahead of the `master` branch, which is created by default.
+
+Branching is when a developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch that won't affect the master branch until the developer wishes to merge the changes.
+
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
@@ -836,7 +843,7 @@ Branching is when the developer creates a separate version of their local reposi
 
 Using a new branch allows the developer to make experimental changes to their project while having the ability to either discard those changes later, or merge them into their main project. It also allows teams to work off the master branch simultaneously and merge them all later.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 
 
 #### How do you create a new branch?
@@ -847,7 +854,7 @@ Create a new branch by typing:
 git checkout -b branch_name
 ```
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](https://github.com/afbeals)*
 
 
 
@@ -887,8 +894,27 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+A Merge Conflict can be resolved in a multitude of ways - if you have a diff tool, `git mergetool` will attempt to open it (if assigned as a default program). From there, most diff tools will allow you to quickly decide which changes to commit.
+
+Alternatively, you can open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by looking for Git merge markers, which follow the format
+
+`<<<<<<< (Branch):File`
+
+`...`
+
+`=======`
+
+for local changes, and the format
+
+`>>>>>>> (Branch):File`
+
+`...`
+
+`=======`
+
+for changes from the other commit. To resolve the this, delete the line you want to get rid of, and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
+*Contributed by [Cody Welsh](https://github.com/cwelshe)*
 
 
