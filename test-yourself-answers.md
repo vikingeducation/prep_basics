@@ -621,6 +621,12 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Literally, "Open Source" refers to the fact that anyone can get free access to the human readable code that makes up the program. When a program is run this human readable code (which could be C++, Python, C, Java, or any number of other languages) is turned into machine code which is extremely difficult (or impossible) to read. Practically, Open Source, means that any body who feels like collaborating on some project (or changing it completly) can grab a copy of all of it's code and do whatever they want with it.
+
+This tends to make open source projects much more vibrant and chaotic as people fork, change, and add things to them. Closed source is still around in quite a few places (Microsoft Windows is debatably an example), but evidence suggests that open source projects are much more vibrant and can move very quickly. Wikipedia has a great article [about this](https://en.wikipedia.org/wiki/Open_source).
+
+*Contributed by [Charley Ferguson] (https://github.com/charleyf)*
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -647,7 +653,40 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A "Schema" can be many slightly different things, but generally it's information that describes the structure of other information. That may sound a little silly, but stick with me for a moment for an example. If you are head of an architecture firm your firm is making a LOT of technical drawings for different projects. It's pretty likely that you'll have a document that tells you where the blueprints are and what information is in each one like this:
+
+*Blueprint Information*
+
+*	Chase Building - Shelf 14
+	*	Floorplans for floors 1 - 4
+	*	Floorplans for floors 5 - 10
+
+*	Gushers Factory - Shelf 10
+	* Shipping area
+	* Packaging
+
+*	University of Tennessee President's Residence - Shelf 4
+	*	Kitchen detail
+	*	Ground floor
+	* 	Second floor
+
+That is a schema. In the case of XML the "blueprints" are other XML documents and the schema tells you where to find them and gives an overview of what's in each one. Something like this:
+
+*XML Schema*
+
+*	XML For Client data
+	*	First name
+	*	Last name
+	*	Address
+
+*	XML for Pending Tasks data
+	* 	Cost
+	* 	Start date
+	*	End date
+
+In the case of mysql and postgresql (presumably other relational databases too) a schema can contain several databases.
+
+*Contributed by [Charley Ferguson] (https://github.com/charleyf)*
 
 #### Script
 
@@ -775,7 +814,19 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add your Github repo as the remote there are several ways to do it:
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git [(source)](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
+
+git push -u [remote-branch-URL]
+
+git push --set-upstream [remote-branch-URL]
+
+These are both useful because if you do this once, you can then do a push by simply doing:
+git push
+
+This is nice because it means you don't have to remember the URL every time you want to push or pull.
+
+*Contributed by [Charley Ferguson] (https://github.com/charleyf)*
 
 #### How do you check the status of your current repo in git?
 
