@@ -647,7 +647,8 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Is a XML document that describe stcructure off XML docs. Used to describe Database strucrure.
+*Contributed by [SergKV](https://github.com/SergKV)*
 
 #### Script
 
@@ -711,6 +712,10 @@ Git is the most popular distributed version control system used for software dev
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
+Version Controll System like Git CVS SVN Mercurial Bazaar.
+The most obvious benefit of using revision control is the ability to have an unlimited number of people working on the same code base, without having to constantly send files back and forth.
+
+*Contributed by [SergKV](https://github.com/SergKV)*
 
 #### Why is Git useful for a developer?
 
@@ -775,7 +780,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+This process consists of two steps: setting and verifying.
+setting:
+git remote add origin remote repository url
+verifying:
+git remote -v
+*Contributed by [SergKV](https://github.com/SergKV)*
 
 #### How do you check the status of your current repo in git?
 
