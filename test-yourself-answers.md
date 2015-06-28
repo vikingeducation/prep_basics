@@ -648,6 +648,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 #### Schema
 
 Is a XML document that describe stcructure off XML docs. Used to describe Database strucrure.
+
 *Contributed by [SergKV](https://github.com/SergKV)*
 
 #### Script
@@ -785,6 +786,7 @@ setting:
 git remote add origin remote repository url
 verifying:
 git remote -v
+
 *Contributed by [SergKV](https://github.com/SergKV)*
 
 #### How do you check the status of your current repo in git?
