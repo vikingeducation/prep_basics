@@ -869,23 +869,17 @@ git checkout -b branch_name
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+n your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
 
+You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### Why would you use a branch?
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
-
-#### How do you create a new branch?
-
-In your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
-
-You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
-
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
 
 #### How do you merge branches back together?
 
