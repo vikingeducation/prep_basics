@@ -335,6 +335,10 @@ Define the following:
 
 ### The Web
 
+The Web is short for World Wide Web, aka wwww.
+
+*Contributed by [James Gundlach](https://github.com/phoenixbyrd)*
+
 
 #### URL( Uniform Resource Locator)
 
@@ -617,7 +621,7 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Free licensed code. 
 
 *Contributed by [Olga](https://github.com/ayva)*
 
@@ -735,6 +739,16 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+$ mkdir name_of_project
+>enter
+$ cd name_of_project
+>enter
+$ git init
+
+This will make the directory for your project with the name you choose, change into that directory and will then create an empty git repository within that directory.
+
+*Contributed by [James Gundlach](https://github.com/phoenixbyrd)*
+
 #### How do you create it on Github?
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
@@ -775,7 +789,13 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add short_name_of_project https://github.com/your_username/your_project_name
+
+This will add you repo as the remote, which you can verify with:
+
+git remote -v
+
+*Contributed by [James Gundlach](https://github.com/phoenixbyrd)*
 
 #### How do you check the status of your current repo in git?
 
