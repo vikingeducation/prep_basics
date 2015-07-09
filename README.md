@@ -9,3 +9,5 @@ Check out [http://vikingcodeschool.com](http://vikingcodeschool.com) to learn mo
 1.  What are DNS Servers?
   DNS stands for Domain Name Server.  They maintain a directory of domain names and translate them to IP addresses.  This provides an easy way for people to remember sites they frequent without memorizing the string of numbers that accompany an IP address.
 
+2.  What is Bash?
+  Bash is a command language interpreter for the GNU operating system.  The name is an acronym for the "Bourne-Again SHell."  Bash can run from a text window where a user can type commands that cause actions.  Bash can also read commands from a script file.
