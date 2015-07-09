@@ -11,3 +11,6 @@ Check out [http://vikingcodeschool.com](http://vikingcodeschool.com) to learn mo
 
 2.  What is Bash?
   Bash is a command language interpreter for the GNU operating system.  The name is an acronym for the "Bourne-Again SHell."  Bash can run from a text window where a user can type commands that cause actions.  Bash can also read commands from a script file.
+
+3.  What is the $PATH variable?
+  $PATH is an environment variable that indicate a set of directories where executable programs are located.  Each process executed has its own PATH setting.
