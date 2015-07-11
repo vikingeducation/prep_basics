@@ -67,6 +67,10 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+There are many Slack teams these days which offer real time support and help (TheOdin Project, CodeNewbie, and codebuddies meet to name a few). You can Google for specific groups that are tailored to your specific interests.
+
+*Contributed by [Michelle Sausa](http://github.com/jethr0null)*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -232,6 +236,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+Another popular terminal (at least among OSX users (and my personal favorite) is iterm. )
+
+*Contributed by [Michelle Sausa](http://github.com/jethr0null)*
+
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
@@ -250,7 +258,12 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+(the -r flag deletes all sub-directories and included files recursively and the -f flag forces the command.)
+
+*Contributed by [Michelle Sausa](http://github.com/jethr0null)*
 
 #### How can you rename a directory or file?
 
@@ -300,6 +313,16 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+If you don't wish to maintain multiple files to configure 'login' and 'non-login' bash shells, you can include the following snipped in your .bash_profile:
+
+if [ -f ~/.bash_profile ]; then
+   source ~/.bash_profile
+fi
+
+Additionally, you can also store and version control your configuration files using a SCM tool such as Git so that you can maintain configuration easily across multiple machines or recover your configuration easily in the event of a system failure.
+
+*Contributed by [Michelle Sausa](http://github.com/jethr0null)*
 
 #### What is the `$PATH` variable?
 
@@ -887,8 +910,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
