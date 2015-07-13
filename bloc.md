@@ -1,15 +1,15 @@
 # Questions That Come To Mind That Need To Be Answered In The Planning Stage
-  
-  | StakeHolder | User |
-  |-------------|:-----:|
-  |What is it that you expect this to do | |
-  |Why do you want to achieve this?| |
-  |What is your version of a successful project?| |
-  |What is your vision ? | |
-  |What are some of the stressors for you with this project? The things that keep you up at night? | |
-  |We will know we're right by what type of standard/measurement?| |
-  |What is our budget?| |
-  |Do we have an email database to pull users from?| |
+
+  |Stakeholder or User| Question|
+  |-------------|---------------------|
+  |S.H.|What is it that you expect this to do | 
+  |S.H.||Why do you want to achieve this?| 
+  |S.H|What is your version of a successful project?| 
+  |S.H.|What is your vision ? | 
+  |S.H.|What are some of the stressors for you with this project? The things that keep you up at night? | 
+  |S.H.|We will know we're right by what type of standard/measurement?| 
+  |S.H.|What is our budget?| 
+  |S.H.|Do we have an email database to pull users from?| 
   
 
   ###I would then use what the answers were and break up the information into three levels. 
