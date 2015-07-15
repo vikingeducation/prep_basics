@@ -124,7 +124,7 @@ It is broken down into packets and sent through random different ways to get to 
 
 This is done because transmitting a large amount of data over the network as one entity can clog up pathways and not allow other communications to occur while the data is being processed. By splitting large files down into small packets they can be sent across different pathways distributed across the network as to not bog down any single channel.
 
-*Contributed be [Patrick Sullivan](https://github.com/patsul12)*
+*Contributed by [Patrick Sullivan](https://github.com/patsul12)*
 
 
 #### What are packets?
