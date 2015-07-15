@@ -346,7 +346,11 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
+
+URLs can also contain parameters appended to the end of them that various languages can use to alter what is shown on the page.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Patrick Sullivan](https://github.com/patsul12)*
 
 
 #### Domain
