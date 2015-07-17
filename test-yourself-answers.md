@@ -891,4 +891,33 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### Why are APIs important?
+
+Because you can add fucntionality to your own app by leveraging somone else's functionality / services via their api. It also can help sensitize new users to your app becuase they see familiar things (widgets, logins, etc.) from other services they know and use daily (i.e. facebook comments, google login, etc.) It's simple, but powerful.
+
+#### Define AJAX?
+
+What? = Asynchronous JavaScript and XML.
+What does it do? = It enables you to dynamicaly update portions of a page without having to refresh the whole page. 
+
+#### How do you sync your local forked repo (that you have to assume is out of date) with the original repo?
+1. Open the command prompt or terminal
+2. Check the current remote repo configuration with "git remote -v"
+3. Use the "git remote add upstream" commnad with the URL of the original repo, like below:
+
+git remote add upstream https://github.com/ORIGINAL_OWNER/ORIGINAL_REPOSITORY.git
+
+*Contributed by [Jon Tonti](https://github.com/jtontiwith)*
+
+
+
+
+
+
+
+
+
+
+
+
 
