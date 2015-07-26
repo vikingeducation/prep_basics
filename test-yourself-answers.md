@@ -794,7 +794,7 @@ The command takes two arguments:
 
 However, if you have already cloned your Github repo, the remote to your Github repo may already be set as `origin`. Use `git remote` to check if it already exists.
 
-*Contributed by [Andrew Baik](https://github.com/strychemi)`
+*Contributed by [Andrew Baik](https://github.com/strychemi)*
 
 #### How do you check the status of your current repo in git?
 
