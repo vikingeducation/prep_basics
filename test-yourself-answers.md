@@ -38,6 +38,8 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
+It's like a car. The front-end developer works on how the car is going to look and feel. This includes the color of the car, where everything is going to be placed, etc. The back-end developer focuses on how the car is going to work. This includes the engine, the electronics, etc.
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the difference between static and dynamic web pages?
