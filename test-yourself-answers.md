@@ -13,7 +13,7 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 ### Example Answer
 
 #### Example Question
-
+    
 An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
 
 *Contributed by [Erik Trautman](http://github.com/eriktrautman)*
@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An Extensible Markup Language (XML) document that describes other XML documents.
+
+*Contributed by [Mark Wuu](https://github.com/markwuu)*
 
 #### Script
 
@@ -775,12 +777,15 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+Open up your repo on Github and copy the HTTPS clone URL located on the right. Then, in Terminal you should type git remote add origin <HTTPS clone URL>
+
+*Contributed by [Mark Wuu](https://github.com/markwuu)*
 
 #### How do you check the status of your current repo in git?
 
-git status
+Open up terminal and type git status
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Mark Wuu](https://github.com/markwuu)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
