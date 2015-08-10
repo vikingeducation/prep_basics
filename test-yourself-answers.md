@@ -60,6 +60,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
@@ -81,6 +82,7 @@ Curiosity/creativity - The passion for creating/building and the hunger for lear
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
 
 
 #### What do companies look for in a junior web developer?
@@ -113,6 +115,8 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+
+The majority of the internet is stored on servers which can be connected with fiber optic cables.  
 
 
 #### How is information broken down and sent?
@@ -236,6 +240,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+There is also several Windows Bash version's the git bash is the recommended version.
+*Contributed by [Dustin Shiozaki](http://github.com/dustovshio)*
+
 
 #### How can you navigate into a particular file directory?
 
@@ -251,6 +258,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+If there are hidden directories of files you are trying to delete use: 
+`$ rm -rf .[^.] .??* 
+*Contributed by [Dustin Shiozaki](http://github.com/dustovshio)*
 
 #### How can you rename a directory or file?
 
@@ -415,7 +425,7 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 
 #### The Cloud
 
-Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
+Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer. 
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
@@ -486,7 +496,7 @@ Even though grids are not necessary to design a web page, they make the process 
 
 #### RGB
 
-Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
+Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display. 
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
@@ -647,7 +657,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schema are a set of vocabularies that define the structure, contents, and function of XML documents.
+
+*Contributed by [Dustin Shiozaki](https://github.com/dustovshio)*
 
 #### Script
 
@@ -681,6 +693,8 @@ Most web browsers have the ability to decode all of the before mentioned languag
 RVM stands for Ruby Version Manager and is a command-line tool which allows you to easily install, manage, and work with multiple ruby environments from interpreters to sets of gems.
 
 RVM is helpful because some gems, tools, and frameworks may only work with a particular version of Ruby. RVM lets you easily switch between different environments, based on needs, when developing.
+
+As Ruby releases new versions the RVM will keep track of which version you used to write previous programs, enabling you to easily make changes.
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
