@@ -395,7 +395,6 @@ For example, Amazon.com released its API so that web developers could more easil
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
-
 #### Web Server
 
 A program usually running on a remote computer that responds to requests from a browser.
@@ -470,6 +469,7 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+Responsive design should literally substitute the term web design. Web design today is mostly responsive design. It enables the web page to be displayed properly on all devices, from desktop computers to mobile devices like iphones and iPads. Responsive design ensures that the design content will be displayed correctly and beautifully. The design of one particular web site will look differently on an iPhone and on a desktop machine.
 
 #### Grid System
 
@@ -538,6 +538,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -598,7 +599,7 @@ A framework is a platform where common code with generic functionality is ready 
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice. Rails is basically a library extension for Ruby. Rails is installed via the command line. Furthermore, Rails combines Ruby with other languages like HTML, JavaScript and CSS. Ruby on Rails is part of the Back-End workflow.
 
 
 #### Command Line
@@ -647,7 +648,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+The schema is the structure of the XML document, shown in detail. The schema defines the elements, attributes, child elements, their data types, etc. The schema is basically a document, and different schema languages may be used. One such is Document Type Definition (DTD).
 
 #### Script
 
