@@ -650,7 +650,11 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schemas organize XML documents by specifying what elements and attributes can appear in a document (or a group of documents). Take for example an email address. We're all familiar with the format XXX@XXX.com. If the "@" was replaced with a "!", then you know it is an incorrect format. A Schema decides what format is valid. 
+
+It's a confusing idea when you don't know XML well yet. Both XML and Schema are in the business of organizing documents. But there is more than one layer of organization. 
+
+*Contributed by [Alyssa Hertig](https://github.com/Ahertig)
 
 #### Script
 
