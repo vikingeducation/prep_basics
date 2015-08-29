@@ -121,7 +121,7 @@ It is broken down into packets and sent through random different ways to get to 
 
 The network breaks down the message into small packets, which each travel through the network individually. A series of routers push the data packets towards the destination address. Once the data packets reach the final destination then they are automatically reassembled into the original message. This all happens very quickly.
 
-*Contributed by [Alyssa Hertig](https://github.com/Ahertig)
+*Contributed by [Alyssa Hertig](https://github.com/Ahertig)*
 
 #### What are packets?
 
@@ -654,7 +654,7 @@ Schemas organize XML documents by specifying what elements and attributes can ap
 
 It's a confusing idea when you don't know XML well yet. Both XML and Schema are in the business of organizing documents. But there is more than one layer of organization. 
 
-*Contributed by [Alyssa Hertig](https://github.com/Ahertig)
+*Contributed by [Alyssa Hertig](https://github.com/Ahertig)*
 
 #### Script
 
