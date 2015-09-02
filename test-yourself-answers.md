@@ -896,9 +896,9 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 Install the latest version of Sublime Text 3.
 Go to System Properties -> Advanced System Settings -> Advanced -> Environment Variables
 
-In system variables window, click new and set variable name to Sublime. For variable value, use the location the Sublime is installed in. Default location should be C:\Program Files\Sublime Text 3. Next in the User Variables window, click Path and edit the variable value by adding ";%Sublime"(w/o quotes) at the end.
+In system variables window, click new and set variable name to Sublime. For variable value, use the location the Sublime is installed in. Default location should be C:\Program Files\Sublime Text 3. Next in the User Variables window, click Path and edit the variable value by adding ";%Sublime" (w/o quotes) at the end.
 
-Restart Bash, and launch sublime using subl command. Example type subl filename in command line.
+Restart Bash, and launch sublime using subl command. Example type subl filename in command line to launch file in Sublime Text.
 
 *Contributed by [Thomas Lo](https://github.com/wagaiznogoud)*
 
