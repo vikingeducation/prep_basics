@@ -893,16 +893,12 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 #### How do you launch Sublime Text from Bash(Windows)?
 
-Installation
-	Install or update Sublime Text to include the latest Build 3065. You can check for updates by clicking on the help tab located at the top of sublime text.
-Test
-	Restart Bash and type "subl.exe"(w/o quotes) in the command line. If an error message shows please follow the next procedure (adding sublime path)
-Adding Sublime Path
-	Go to System Properties -> Advanced System Settings -> Advanced -> Environment Variables
-	In system variables window, click new and set variable name to Sublime. For variable value, use the location the Sublime is installed in. Default location should be C:\Program Files\Sublime Text 3.
-	Next in the User Variables window, click Path and edit the variable value by adding ";%Sublime"(w/o quotes) at the end. Go back and test to see if it works.
-Finished
-	Now you can type subl folder/filename from the terminal and it will launch the folder/file in sublime.
+Install the latest version of Sublime Text 3.
+Go to System Properties -> Advanced System Settings -> Advanced -> Environment Variables
+
+In system variables window, click new and set variable name to Sublime. For variable value, use the location the Sublime is installed in. Default location should be C:\Program Files\Sublime Text 3. Next in the User Variables window, click Path and edit the variable value by adding ";%Sublime"(w/o quotes) at the end.
+
+Restart Bash, and launch sublime using subl command. Example type subl filename in command line.
 
 *Contributed by [Thomas Lo](https://github.com/wagaiznogoud)*
 
