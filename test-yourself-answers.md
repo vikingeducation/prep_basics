@@ -120,6 +120,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
+
 #### What are packets?
 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
@@ -165,7 +166,7 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+DNS stands for Domain Name Server. A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
@@ -203,7 +204,7 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 #### What happens behind the scenes after you click "search" on google.com?
 
 A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
+Picoseconds later (a lot of them) the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
 Milliseconds later (a group of them) a command is sent to open up an http handshake
 Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
@@ -559,7 +560,9 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+Originally developed by Dennis Ritchie at Bell Labs, C is a comparatively low-level, compiled, programming language used, originally, to implement the UNIX operating system. C is a very popular language whose syntax has had a great influence on many other modern languages (ie. Java, C++, C#, Javascript and more). Because of it’s light weight, speed, and ability to get ‘close the hardware’ easily, C is often used to write operating systems, embedded systems, and even compilers/interpreters for other programing languages (including Ruby!). 
+*Contributed by [Kurt Johnson](https://github.com/pompan129)*
+
 
 
 #### Ruby
@@ -621,6 +624,10 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Open Source generally promotes a collaborative process where the ‘source’ is made public and the community at large is encouraged to comment on, improve, and redistribute the produc
+
+*Contributed by [Kurt Johnson](https://github.com/pompan129)*
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -647,7 +654,10 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A Schema is basically a blueprint for an XML document. It describes the structure of the XML within, possibly including what elements are in the document, the document hierarchy, and element types. 
+
+*Contributed by [Kurt Johnson](https://github.com/pompan129)*
+
 
 #### Script
 
@@ -775,7 +785,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add <remote_name>  <remote_URL>
+for example: 
+$ git remote add origin https://github.com/username/latest-repo.git
+
+Contributed by [Kurt Johnson](https://github.com/pompan129)*
 
 #### How do you check the status of your current repo in git?
 
