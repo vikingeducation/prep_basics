@@ -523,6 +523,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 #### HTML
 
+HyperText Markup Language is the language used to create the structure of a webpage. You use this language (not a true programming language, but a markup, as the name suggests) by creating elements (headings, paragraphs, images etc), which can later be manipulated using CSS.
+
+*Contributed by [Jake Hill](https://github.com/JakeH91)*
+
 The markup language which specifies the structure of all the pieces of a webpage.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
