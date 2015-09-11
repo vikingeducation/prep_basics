@@ -538,6 +538,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### CSS
 
+Cascading Style Sheets are used to add flavour to the website. Where HTML has placed the content, CSS styles it. Using CSS enables you to take an HTML element and get creative with it, either by adding colour, or size, changing the position, or any number of things.
+
+*Contributed by [Jake Hill](https://github.com/JakeH91)*
+
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
