@@ -30,7 +30,15 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+There is strong overlap between the roles of a developer and a designer, but to differentiate the ideas behind them, take the titles literally. 
+
+Web developers develop the web. They add functionality, define new databases, incorporate new technologies - all the work that actually develops and grows the web.
+
+Web designers design the experience of the web. They iterate on top of what developers have done. They take a database and make it fun and friendly for people to interact with. They present the web to the world in a way that the world can understand and utilize.
+
+Realistically, a developer will be able to do some design work, and a designer will be able to do some development work. Sometimes one person may do all the development and all of the design. Even still, when that person is adding load balancers to the servers, they are developing - when that person is adjusting form layouts and color choices, they are designing.
+
+*Contributed by [Corey Kozlowski](https://github.com/ckreon)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -117,8 +125,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is analyzed and sent recursively, transferred in packets via hyper text transfer protocol. The server and client are in constant communication during the transfer, verifying the integrity of the packets being sent, and verifying that all packets are actually received. Using the information from the packet headers (meta data), the client knows when all of the packets have been received, and is then instructed to reassemble the information.
 
+*Contributed by [Corey Kozlowski](https://github.com/ckreon)*
 
 #### What are packets?
 
@@ -398,10 +407,13 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is a program that responds to requests, delivering information via hyper text transfer protocol.
 
-*Contributed by [Unknown]*
+When talking about servers, the hardware it runs on is often implied, usually as a standalone box. But it is important to note that the hardware is not the server. The server software is what takes the requests and serves the information, and it could be running on a dedicated box or on your laptop while you work.
 
+The physical hardware does determine the volume and efficiency in which the server software can operate. Typically the server software is written to work at a low-level with the hardware to maximize performance.
+
+*Contributed by [Corey Kozlowski](https://github.com/ckreon)*
 
 #### Bugs
 
