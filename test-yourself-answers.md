@@ -785,7 +785,7 @@ For example, the full command for my repo (using SSH) was:
 
 `git remote add origin git@github.com:siakaramalegos/vcs_git_calisthenics.git`
 
-*Contributed by [Sia Karamalegos]()*
+*Contributed by [Sia Karamalegos](https://github.com/siakaramalegos)*
 
 #### How do you check the status of your current repo in git?
 
