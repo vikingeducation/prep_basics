@@ -619,7 +619,11 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+Software that is free and can be changed by anyone. For example, Linux is an open source operating system, and anyone can modify its source code to make a new distribution. 
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Xialong Deng](https://github.com/xdeng9)*
+
 
 #### CMS
 
@@ -647,7 +651,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema basically defines the structure of a database. It shows information such as tables, fields, etc and describes their relationship.
+
+*Contributed by [Xialong Deng](https://github.com/xdeng9)*
 
 #### Script
 
@@ -775,7 +781,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add "remote name" "remote url"
+For example: git remote add origin https://github.com/urs/repo.git
+
+*Contributed by [Xialong Deng](https://github.com/xdeng9)*
 
 #### How do you check the status of your current repo in git?
 
