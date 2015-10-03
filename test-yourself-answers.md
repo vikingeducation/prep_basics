@@ -775,7 +775,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-To add your Github repo as the remote I recommend SSH, no trouble with 2 Factor authentication!
+git remote add origin git@github.com:user_name/repo.git
+
 git remote add origin git@github.com:user_name/repo.git
 
 *Contributed by [Keran Sivalingam](https://github.com/KeranSiva)*
