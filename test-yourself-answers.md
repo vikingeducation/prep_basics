@@ -647,7 +647,10 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML Schema is a document that shows the structure of other XML documents.
+It can also refer to a schematic of a database system.  Gives the structure.  In a relational database it defines the tables and fields and the relationships between the two.
+
+*Contributed by [Charles Lee](https://github.com/region2)*
 
 #### Script
 
@@ -805,9 +808,9 @@ A merge is when you take the changes you've made on one branch, and bring them i
 #### What is a "Pull Request"?
 
 A pull request is when you contribute to someones else's project, and you let them know that you have made changes that they can look over and possibly implement into their project.
-
+A pull request sends a request/notice to the owner/admin of the repo and allows them to look over your changes and to merge these changes to the "upstream" master.
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
+*Contributed by [Charles Lee](http://github.com/region2)*
 
 #### What is "Forking" a repo?
 
@@ -854,9 +857,10 @@ git checkout -b branch_name
 #### Why would you use a branch?
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
+Branching is also a good way to "break code" and play with the original code without consequences.  Multiple branches can let you see which variation of a feature works best.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
+*Contributed by [Charles Lee](https://github.com/region2)*
 
 #### How do you create a new branch?
 
