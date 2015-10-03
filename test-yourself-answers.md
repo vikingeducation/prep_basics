@@ -777,8 +777,6 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 git remote add origin git@github.com:user_name/repo.git
 
-git remote add origin git@github.com:user_name/repo.git
-
 *Contributed by [Keran Sivalingam](https://github.com/KeranSiva)*
 
 #### How do you check the status of your current repo in git?
