@@ -205,18 +205,18 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 #### What happens behind the scenes after you click "search" on google.com?
 
 A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
-Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
-Centiseconds later (a handful of them) the data is processed and the return data is exchanged
-Decaseconds later (two point five of them, in this case) your search is returned to your screen.
+Picoseconds later (a lot of them), the input is received by a usb or other peripheral device port. Nanoseconds later (a pile of them), a short string of integers is sent and interpreted by the CPU of the device used as a "click".
+Milliseconds later (a group of them), a command is sent to open up an http handshake.
+Microseconds late (a few of them), the handshake is confirmed and search query data is exchanged.
+Centiseconds later (a handful of them), the data is processed and the return data is exchanged.
+Decaseconds later (two point five of them, in this case), your search is returned to your screen.
 
 "About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
 
-There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
+Here is a relevant GitHub repo: [What happens when...](https://github.com/alex/what-happens-when)
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+*Edited by [Kit Langton](https://github.com/kitlangton)*
 
 
 
@@ -261,7 +261,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions allow the user to prevent unwanted access and/or modification of files and directories. There are **read**, **write**, and **execute** permissions. These can be modified with the `chmod` shell command.
+
+*Contributed by [Kit Langton](https://github.com/kitlangton)*
 
 #### How do you view hidden files in a directory?
 
