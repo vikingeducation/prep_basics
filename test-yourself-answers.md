@@ -780,7 +780,7 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 # First we add the Github repo as the remote...
 # This command takes a remote name and a repository URL. Origin is the name of the remote in this scenario but you can name it something different. 
 
-git remote add origin <URL of the corresponding Git on github.com>
+git remote add origin <URL of the corresponding repo on github.com>
 
 # Then we push the files up there...
 # This next command takes a remote name and the local branch name. In this scenario the remote name is origin and the local branch name is master (the default). The -u tells Git to remember the parameters, so that next time we can simply run 'git push' and git will know what to do.
