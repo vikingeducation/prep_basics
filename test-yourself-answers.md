@@ -230,7 +230,11 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+On Ubuntu press `super`,  type `terminal` and hit `Enter`.
+
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Keith Underwood](http://github.com/bigqueso)*
 
 #### What is Bash?
 
@@ -299,6 +303,7 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
@@ -517,6 +522,9 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 "Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
 
+"Front End" is centered around what the user can and experience and the "Back End" is the technologies that allow the app or website to function(framework, database, etc.)
+
+*Contributed by [Keith Underwood](https://github.com/bigqueso)
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
 ### Developer Tools and Code
@@ -555,6 +563,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+A mix of code and words used to outline projects or how you intend on solving issues.
+
+*Contributed by [Keith Underwood](https://github.com/bigqueso)*
 
 
 #### C
@@ -887,8 +899,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
