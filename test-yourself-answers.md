@@ -230,6 +230,8 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+On Ubuntu press "Ctrl + Alt + T".  
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What is Bash?
@@ -269,6 +271,11 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
+ On Windows you can use:
+
+ '$ help <commandname>'
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -334,6 +341,9 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+
+"Stands for "World Wide Web." It is important to know that this is not a synonym for the Internet. The World Wide Web, or just "the Web," as ordinary people call it, is a subset of the Internet. The Web consists of pages that can be accessed using a Web browser. The Internet is the actual network of networks where all the information resides. Things like Telnet, FTP, Internet gaming, Internet Relay Chat (IRC), and e-mail are all part of the Internet, but are not part of the World Wide Web. The Hyper-Text Transfer Protocol (HTTP) is the method used to transfer Web pages to your computer. With hypertext, a word or phrase can contain a link to another Web site. All Web pages are written in the hyper-text markup language (HTML), which works in conjunction with HTTP."  
+                                             source: TechTerms.com
 
 
 #### URL( Uniform Resource Locator)
