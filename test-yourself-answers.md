@@ -237,6 +237,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Bash is a command processor that typically runs in a text window, where the user types commands that cause actions. Bash can also read commands from a file, called a script.
+*Contributed by [Brandon Brigance](https://github.com/b-random)*
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
@@ -556,6 +559,8 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Pseudo-Code is the informal description or outline of a program, written in a way that can easily be interpreted, and then converted into real programming statements.  Pseudo-Code is not meant to be compiled or executed.  The benefit of pseudo-code is that it allows the programmer to concentrate on problem solving, rather than the syntactic details of a particular language.
+*Contributed by[Brandon Brigance](https://github.com/b-random)*
 
 #### C
 
@@ -647,7 +652,8 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+In computer programming, a schema is the organization or structure for a database.  The term sometimes seems to refer to a visualization of a structure and sometimes to a formal text-oriented description.
+*Contributed by [Brandon Brigance](https://github.com/b-random)*
 
 #### Script
 
