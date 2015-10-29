@@ -119,6 +119,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Packets are discrete chunks of data, sent by the most efficient route possible. Once all packets have been recieved by the target server, the data is reassembled. Essentially, the original file is cloned on the target server.
+
+*Contributed by [Paul Mulligan](https://github.com/PAMulligan)*
+
 
 #### What are packets?
 
