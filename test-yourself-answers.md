@@ -265,6 +265,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+File permissions are for the programmer's protection. They are a layer of security that helps to ensure that irreversible changes only happen witht the proper level of permission.
+*Contributed by [Paul Mulligan](https://github.com/PAMulligan)*
+
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -338,6 +341,9 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+
+The Web is an information space that graphically represents the information found on all of the servers connected to the global internet.
+*Contributed by [Paul Mulligan](https://github.com/PAMulligan)*
 
 
 #### URL( Uniform Resource Locator)
