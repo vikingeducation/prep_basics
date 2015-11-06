@@ -78,7 +78,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -398,10 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A part of your web application that actively receives and responds to incoming HTTP requests from browsers or other applications.
 
-*Contributed by [Unknown]*
-
+*Contributed by [Preston Guinn](https://github.com/pisforpoetry)*
 
 #### Bugs
 
@@ -647,7 +646,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML document used to describe the structure of other XML documents. It also refers to the description of the structure of your database.
+
+*Contributed by [Preston Guinn](https://github.com/pisforpoetry)*
 
 #### Script
 
@@ -775,7 +776,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add [remote name] https://github.com/your_user_name/your_repo_name.git
+
+*Contributed by [Preston Guinn](https://github.com/pisforpoetry)*
 
 #### How do you check the status of your current repo in git?
 
