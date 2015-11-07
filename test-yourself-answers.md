@@ -611,6 +611,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+Version Control is a way to keep track of all the changes made to every file in your project over time. It's like a journal of your project's life history. This is very useful because you can go back in time to earlier versions if needed (like when you make a mistake) or you can restore a file to the last tracked version in the event you accidentally deleted a project.
+
+*Contributed by [Toni Taylor](http://github.com/tannedtoni)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -647,15 +651,19 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A Schema is basically a blueprint that organizes the structure of an entire database or even an XML document.
+
+*Contributed by [Toni Taylor](http://github.com/tannedtoni)*
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+A script is basically programming within a program - it is a set of instructions used in computer programming that is usually interpreted and carried out by another program. 
 
+*Contributed by [Toni Taylor](http://github.com/tannedtoni)*
 
 ## Installations
 
