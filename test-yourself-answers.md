@@ -647,7 +647,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-Schema is the structure or the organization of the your database.  It is determined as a result of data modeling. 
+Schema is the structure or the organization of your database.  It is determined as a result of data modeling. 
 
 *Contributed by [Hassan Al-Lawati](https://github.com/hassan210977)* 
 
