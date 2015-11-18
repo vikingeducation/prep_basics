@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+In computer programming, a schema (pronounced SKEE-mah) is the organization or structure for a database. The activity of data modeling leads to a schema.
+
+*Contributed by [Taavi Salumets](https://github.com/tsalumets)*
 
 #### Script
 
@@ -775,7 +777,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add
+
+*Contributed by [Taavi Salumets](https://github.com/tsalumets)*
 
 #### How do you check the status of your current repo in git?
 
