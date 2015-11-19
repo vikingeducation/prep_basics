@@ -40,6 +40,10 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Front-end developers work on the part of the website that is visible to the user, with a focus on design elements. Back-end developers work on the behind the scenes stuff that keeps everything working properly. A full-stack developer can handle both. 
+
+*Contributed by [Judah Malka](http://github.com/judahm19)*
+
 #### What's the difference between static and dynamic web pages?
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
@@ -48,7 +52,15 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+A static page is similar to a page in a book or magazine -- you open it up at different times, but you can't change the words on the page. A dynamic page functions similar to a computer program -- data can be manipulated and saved, and the page responds in turn. 
+
+*Contributed by [Judah Malka](http://github.com/judahm19)*
+
 #### What's the best way to get help when you get stuck?
+
+If you're in a car, call AAA. If you are having problems with your Viking Code School assignment, Google is your AAA.
+
+*Contributed by [Judah Malka](http://github.com/judahm19)* 
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
@@ -140,6 +152,10 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
+A client, simply put, is the computer or device that is requesting information.
+
+*Contributed by [Judah Malka](http://github.com/judahm19)*
+
 
 #### What is a "server"?
 
@@ -154,6 +170,10 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+
+A server, simply put, is a computer that stores data, in the form of a website, document, video, etc., and provides that data to the requesting client. 
+
+*Contributed by [Judah Malka](http://github.com/judahm19)*
 
 
 #### What is HTTP and how does an HTTP request work?
