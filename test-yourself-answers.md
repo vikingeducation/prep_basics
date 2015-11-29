@@ -778,6 +778,7 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 git remote add remote_name your_Github_repo_url 
 By convention, "upstream" is a good name often used as a reference for the name of the remote. So a sample command might read: git remote add upstream https://github.com/my_github_userid/my_repo
+
 *Contributed by [Gary Kraght](https://github.com/skogrunner)*
 
 #### How do you check the status of your current repo in git?
