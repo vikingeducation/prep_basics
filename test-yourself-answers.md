@@ -48,6 +48,16 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+
+Static pages are usually just html pages that can lead to other pages. When you
+visit a static page there is very little you can do to change any information on
+the page whereas dynamic pages have more user interaction such as creating,
+editing, and deleting data. The data for dynamic sites can be saved and further
+updated at another time. This is because dynamic pages usually have some
+server/backend coding involved to facilitate those user interactions. 
+
+*Contributed by [Benny Wu](http://github.com/benihime1458)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
@@ -179,6 +189,12 @@ content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+HTML stands for Hypertext Markup Language and displays the words you usually see
+on a web page. These words are formatted through tags to make headings,
+paragraphs, lists, and so on. Images can also be added through HTML. 
+
+*Contributed by [Benny Wu](http://github.com/benihime1458)*
+
 
 #### What is CSS and how is it used?
 
@@ -286,6 +302,14 @@ Text editor that often causes debates with emacs lovers.
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is a powerful text-editor that comes with its own command functions to
+optimize coding efficiency. The learning curve is steep but after mastering it
+and also configuring it through various plugins, a programmer should be able to
+code completely without their fingers leaving their keyboards. 
+
+*Contributed by [Benny Wu](http://github.com/benihime1458)*
+
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
