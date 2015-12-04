@@ -107,6 +107,9 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 ## How the Web Works
 
+When a person writes a URL in a web browser to go to a certain website, http sends a request to that website's server and the server responds by sending the relevant web pages to the user's web browser..
+
+*Contributed by [Ahsan Zaman](https://github.com/ahsanzaman)*
 
 #### What is the internet?
 
@@ -556,6 +559,8 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+The steps a programmer would take using a loose combination of plain English and code to solve a particular problem.
+*Contributed by [Ahsan Zaman](https://github.com/ahsanzaman)*
 
 #### C
 
@@ -647,7 +652,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Description or model of the structure of your database.
+
+*Contributed by [Ahsan Zaman](https://github.com/ahsanzaman)*
 
 #### Script
 
