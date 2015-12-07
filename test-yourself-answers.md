@@ -647,7 +647,11 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is a set of formulas, instructions and theories that help define the structure of a database, the fields in the database and the relationship between them. This can primarily be tables, but include every type of content on the web like emails, web pages and web apps. A schema is a framework that helps organize and interpret information on the web.
+
+According to the top post on StackOverflow: “A database schema is a way to logically group objects such as tables, views, stored procedures etc. Think of a schema as a container of objects.”
+
+*Contributed by [Mayank Mishra](https://github.com/ZoomTucson)*
 
 #### Script
 
@@ -775,7 +779,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+On the terminal, “$ git remote add <remote name> <remote url>” 
+
+When you clone your forked repo from Github down to your local server, Github automatically creates an “origin” remote for you. This is where you push your commits to.
+
+*YContributed by [Mayank Mishra](https://github.com/ZoomTucson)*
 
 #### How do you check the status of your current repo in git?
 
