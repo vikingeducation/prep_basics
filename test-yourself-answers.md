@@ -107,9 +107,6 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 ## How the Web Works
 
-When a person writes a URL in a web browser to go to a certain website, http sends a request to that website's server and the server responds by sending the relevant web pages to the user's web browser..
-
-*Contributed by [Ahsan Zaman](https://github.com/ahsanzaman)*
 
 #### What is the internet?
 
@@ -338,6 +335,9 @@ Define the following:
 
 ### The Web
 
+When a person writes a URL in a web browser to go to a certain website, http sends a request to that website's server and the server responds by sending the relevant web pages to the user's web browser.
+
+*Contributed by [Ahsan Zaman](https://github.com/ahsanzaman)*
 
 #### URL( Uniform Resource Locator)
 
