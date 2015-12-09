@@ -261,6 +261,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+For security reasons, sometimes you want to limit the permissions that a given user has in regards to a given file. Also, if you have a really critical file, it makes sense to require elevated permissions to modify it, so it doesn't get deleted accidentally.
+
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -334,7 +336,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+The network of servers that uses HTTP to deliver websites to the user's computer.
 
 #### URL( Uniform Resource Locator)
 
@@ -618,6 +620,8 @@ One of the most popular open-source version control systems.
 #### Open Source
 
 Free licensed code.
+
+Depending on the license, you may be free to modify it, use it in your own product, and maybe even sell your product with the correct attributions. 
 
 *Contributed by [Olga](https://github.com/ayva)*
 
