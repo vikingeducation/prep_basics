@@ -598,7 +598,9 @@ A framework is a platform where common code with generic functionality is ready 
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails (or just Rails for short) is a web application framework designed to work with the Ruby Programming Language. It’s arguably the most efficient way to build web applications. Ruby on Rails was designed with Convention over Configuration (CoC) and Don’t Repeat Yourself (DRY) philosophies in mind.
+
+*Contributed by [Jason Osajima] (http://github.com/jason-osajima) 
 
 
 #### Command Line
@@ -647,7 +649,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is the organization or structure of a database (think schematic).
+
+*Contributed by [Jason Osajima] (http://github.com/jason-osajima) 
 
 #### Script
 
@@ -775,7 +779,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a new remote, use the git add remote command on the terminal in the directory your local repository is stored at. After the command, we need to include the remote name and remote URL.
+For example, let’s say we wanted to add the Github repo with remote name “origin” and remote URL “https://github.com/user/repo.git” We would type into the command line:
+
+`git remote add origin https://github.com/user/repo.git`
+
+*Contributed by [Jason Osajima] (http://github.com/jason-osajima) 
 
 #### How do you check the status of your current repo in git?
 
