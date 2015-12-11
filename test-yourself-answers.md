@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -295,6 +295,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+`ZZ` Shortcut for save and quit, `ZQ` for quit without save.
+*Contributed by [theJian](https://github.com/theJian)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
@@ -647,7 +650,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+The organization or structure for a database.
+
+*Contributed by [thejian](https://github.com/theJian)*
 
 #### Script
 
@@ -775,7 +780,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add <remote name\> <remote URL\>
+*Contributed by [thejian](https://github.com/theJian)* 
 
 #### How do you check the status of your current repo in git?
 
@@ -890,5 +896,4 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
 
