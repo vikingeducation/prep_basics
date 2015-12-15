@@ -335,7 +335,6 @@ Define the following:
 
 ### The Web
 
-
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
@@ -600,12 +599,17 @@ A framework is a platform where common code with generic functionality is ready 
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+A web framework--that is, a collection of add-on libraries--that allows developers to speed through various portions of writing a web application.
+*Contributed by [Esther Leytush](https://github.com/mindplace)*
 
 #### Command Line
 
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+
+Provides text-based navigation in your computer--as opposed to the visual-based method that is currently in use today--that is like a window into your computer, allowing you to execute commands on a lower level, including using commands via the superuser.
+*Contributed by [Esther Leytush](https://github.com/mindplace)*
 
 #### Version Control
 
@@ -647,7 +651,15 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+In the most simplified sense, a schema is a description, or model, of certain needs, emphasizing the objects, types, relationships, and constraints of its elements.
+
+In computing, a database schema is its structure as described in mathematical terms, referring to the organization of the database's data as a blueprint for how the database is constructed.
+
+Different online protocols are in themselves schemas in that they describe how the information using those channels is meant to act. 
+
+Additionally, XML schemas are ways to define the structure, content, and semantics of XML documents. 
+
+*Contributed by [Esther Leytush](https://github.com/mindplace)*
 
 #### Script
 
@@ -775,16 +787,23 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+If the repo exists on your Github: clone the repo by entering 'git clone' plus the http address into your command line.
+If the repo does not exist on your Github and you are creating a new repo: on the upper right corner of any Github page, click the '+' button and select 'New repository'. Create a new name for your repo, choose whether it will be a private or public repo, choose whether you want to initialize it with a README, and click 'Create repository'. Then clone the repo to your local git by entering 'git clone' plus the http address into command line.
+
+*Contributed by [Esther Leytush](https://github.com/mindplace)*
 
 #### How do you check the status of your current repo in git?
 
-git status
+You enter 'git status' via command line and review the result. 
+
+*Contributed by [Esther Leytush](https://github.com/mindplace)
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
-git log
+You enter 'git log' via command line and review the result.
+
+*Contributed by [Esther Leytush](https://github.com/mindplace)
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
