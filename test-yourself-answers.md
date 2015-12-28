@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -386,6 +386,10 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+SMTP is used to send email. IMAP and POP are used to receive email. The difference is that POP downloads email locally and IMAP is stored on the mail server.
+
+*contributed [Sam Chapman](http://github.com/sschapma)
+
 
 #### API
 
@@ -402,6 +406,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+A web server processes requests via HTTP. The term can refer either to the entire computer system, an appliance, or specifically to the software that accepts and supervises the HTTP requests.
+
+*contributed [Sam Chapman](http://github.com/sschapma)
 
 #### Bugs
 
@@ -556,6 +563,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+When you have a difficult problem, it is best to write out psuedo code to visualize the best way to code it.
+
+*contributed [Sam Chapman](http://github.com/sschapma)
 
 #### C
 
