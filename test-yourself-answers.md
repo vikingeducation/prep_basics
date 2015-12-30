@@ -30,7 +30,7 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web Developers are responsibe for building the functions, features and server side programming and maintenance. Where as web designers are responsibe for the cleint side view of the website or web app using ui/ux measures. Web designer designs the mockups, icons, graphics, user interfaces and create working prototype of the same design using HTML/CSS, JavaScript files that displayed on front-end. Both of their work are corelated. It's like building a ship from blue print to a working ship. While design blueprint and it's overall look, interiors, colour, etc. are dependent on designers responsibility, the engine, how it works, balancing, speed, features are implemended by developers. Although there is some overlap between the two nowadays.
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -92,6 +92,8 @@ Companies looking for Junior Web Developers are seeking people who are competent
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+
+Hard working, creative persons willing to learn new trends and impliment them successfully and can work wihin a team is a most demaded requirement. Also make decesion independetly on certain situations are also added advantage to the company. Come up with unique solution when get stuck on something is important when working on a project.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
