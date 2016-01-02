@@ -891,4 +891,8 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### How does someone navigate through folders and files while using the command line?
 
+Using $ cd [file or folder destination] will take you to any file or folder, $ cd and the return key will send you to your home folder, using $ cd .. will move you up a directory, using $ cd / will take you to the root level of your startup disk, using $ cd - will take you back to the last directory you were in before you issued a command. 
+
+*Contributed by [Branden Kennedy](https://github.com/brandenkenn)*
