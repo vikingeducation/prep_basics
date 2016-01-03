@@ -82,6 +82,11 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Curiosity combined with Passion: the need to find out how things work and the constant pursuit of new knowledge, especiall when it comes  to technology
+A Hacker Mindest: exploring the limits of what is possible, thereby doing something exciting and meaningful
+Laziness: to create a desired result with the least effort possible
+
+*Contributed by [Melissa Luckett](http://github.com/lissaluck)*
 
 #### What do companies look for in a junior web developer?
 
@@ -273,11 +278,16 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
-The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
+For Unix and Linux Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+
+For Windows Superuser commands can be executed using 'runas' in the command line
+
+'sudo' and 'runas' allow a user to run programs with the security privileges of another user, often the superuser or root user
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
+*Contributed by [Melissa Luckett](http://github.com/lissaluck)*
 
 #### What is Vim?
 
@@ -515,9 +525,12 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 #### Front End / Back End
 
-"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
+"Front End" (also called "Client Side") refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. Basically it's what the user sees on their screen when they visit a site.
+
+"Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers. This is where a site's information is stored. Think of it as "the man behind the curtain."
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [Melissa Luckett](http://github.com/lissaluck)*
 
 ### Developer Tools and Code
 
