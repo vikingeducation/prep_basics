@@ -357,6 +357,11 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Similar to how coordinates on a map indicate the geographic location of a street address, an IP address indicates the absolute "coordinates" of a website.
+There are 2 versions, IPv4 and IPv6. IPv4 addresses are the most common and consist of 4 groups of 3 numbers ranging from 0 to 255, separated by a period (.). IPv6 addresses, which were created to solve the inevitable problem that will arise when we run out of unique IPv4 addresses, consist of 8 groups of 4 hexadecimal digits, with each group separated by a colon (:).
+
+*Contributed by [David Donohue] (https://github.com/donohue76)
+
 
 #### DNS
 
@@ -647,7 +652,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A blueprint, outline of a plan; or a framework, written in a formal programming language designed to support projects within that language. i.e. Rails is a framework designed to support the Ruby programming language.
+
+*Contributed by [David Donohue] (https://github.com/donohue76)
 
 #### Script
 
@@ -775,7 +782,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+Use the 'git remote add (name of remote) (URL location of the directory you are adding)'
+
+*Contributed by [David Donohue] (https://github.com/donohue76)*
+
 
 #### How do you check the status of your current repo in git?
 
