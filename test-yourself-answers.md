@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Describes the structure of an XML document. In other words, it defines the building blocks of an XML document such as: elements and attributes that can appear, number and order of child elements, data types, as well as other parameters. 
+
+*Contributed by [Gabe](https://github.com/geeman1209)*
 
 #### Script
 
@@ -690,6 +692,11 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+The IDE’s are meant to provide a single program to do all programming. In order to facilitate this, IDE’s come with compilers, editors, debuggers, and other tools.  
+
+XCode supports a variety of programs ranging from C, C++, to Python and Ruby.  
+
+*Contributed by [Gabe](https://github.com/geeman1209)*
 
 ## Git
 
@@ -775,7 +782,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add [name] [URL]
+
+*Contributed by [Gabe](https://github.com/geeman1209)*
 
 #### How do you check the status of your current repo in git?
 
