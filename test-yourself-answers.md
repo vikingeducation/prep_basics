@@ -647,7 +647,10 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is like the blueprint of a database, defining the organization and structure of the database's entities and their relationships.
+
+*Contributed by [Shayna](https://github.com/sgentiluomo)*
+
 
 #### Script
 
@@ -775,7 +778,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+`git remote add` followed by your intended repo.
+
+*Contributed by [Shayna](https://github.com/sgentiluomo)*
 
 #### How do you check the status of your current repo in git?
 
