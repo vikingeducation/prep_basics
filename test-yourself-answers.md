@@ -301,6 +301,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
+The '.bash_profile' is a file that is the bash shell reads before it launches. This file contains $PATH variable and allows you to presonalise the way your shell works/looks. You can create "aliases" (shortcuts), change shell colours and add other customisations there to fit with your own workflow.
+*Contributed by [Aleks Gorbenko](https://github.com/kucher12)*
+
 #### What is the `$PATH` variable?
 
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
