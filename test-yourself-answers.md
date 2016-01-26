@@ -831,8 +831,8 @@ Making an identical copy of a Git repo on your local server is "cloning" the rep
 To Clone a repo:
 
 Go to repo you would like to clone from Github. </br>
-Find the URL in the HTTPS field, next to "Download Zip" </br>
-copy URL </br>
+Find the URL in the HTTPS field, next to Download Zip Button. </br>
+Copy URL. </br>
 
 `git clone pasteURLHere`
 
