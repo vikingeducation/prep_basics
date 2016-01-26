@@ -335,6 +335,8 @@ Define the following:
 
 ### The Web
 
+Many people may think that the web and the internet are the same thing. Actually, they are not. The internet is the global interconnection of numerous computers, communications entities and information systems.The web, however, is a collection of documents and services, distributed across the Internet and linked together by hypertext links. The Web is therefore a user interface providing access to many types of information available on the Internet.
+*Contributed by [AJ](http://github.com/Ethosmos)*
 
 #### URL( Uniform Resource Locator)
 
