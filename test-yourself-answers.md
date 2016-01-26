@@ -649,7 +649,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 Schema is itself an XML document that provides definitions and constraints that act as a roadmap or "schematic" of another XML document.
 
-*Contributed by [Brayn7](https://github.com/brayn7)*
+*Contributed by [Robbie](https://github.com/brayn7)*
 
 #### Script
 
@@ -756,8 +756,6 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
-
-
 ### Remotes
 
 
@@ -783,7 +781,7 @@ To check current remote(s) </br>
 To add a remote </br>
 `git remote add nameOfRemote URL`
 
-*Contributed by [Brayn7](https://github.com/brayn7)*
+*Contributed by [Robbie](https://github.com/brayn7)*
 
 
 #### How do you check the status of your current repo in git?
@@ -829,6 +827,16 @@ Making a copy of another master repo into your own github account so as to not d
 Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+
+To Clone a repo:
+
+Go to repo you would like to clone from Github. </br>
+Find the URL in the HTTPS field, next to "Download Zip" </br>
+copy URL </br>
+
+`git clone pasteURLHere`
+
+*Contributed by [Robbie](https://github.com/brayn7)*
 
 
 #### What is "Branching"?
