@@ -777,10 +777,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-To check current remote(s)
+To check current remote(s) </br>
 `git remote`
 
-To add a remote
+To add a remote </br>
 `git remote add nameOfRemote URL`
 
 *Contributed by [Brayn7](https://github.com/brayn7)*
