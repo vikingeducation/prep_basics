@@ -57,7 +57,7 @@ The best bet to get help when you are stuck is to use google! There are other fa
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
-
+ 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
@@ -75,12 +75,14 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
-#### What are the top 3 characteristics of great web developers?
+#### What are the top 4 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Laziness - The best web developers have a forward thinking attitude when writting code, creating small modules with high cohesion so that small changes don't require massive code rewrites.  They plan for future changes and features that they may want to implement.  Also they look for ways to automate the coding process, such as with tools that automatically generate frameworks of frequently used code.
+*Contributed by [Thomas Hodges](https://github.com/thodges314)*
 
 
 #### What do companies look for in a junior web developer?
@@ -143,7 +145,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client wants, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -154,6 +156,7 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Thomas Hodges](https://github.com/thodges314)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -230,7 +233,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+In *nix systems from your desktop environment of choice search for 'terminal'.  If you have a desktop menu to access your software, try looking in categories like 'system' or 'administration'.  There may be several terminal options available.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Thomas Hodges](https://github.com/thodges314)*
 
 #### What is Bash?
 
@@ -277,7 +283,10 @@ The "Superuser" is a user of a computer system with special privileges needed to
 
 'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
+Typing 'su' instead of 'sudo' will drop you into superuser mode, where all subsequent commands are executed as superuser.
+
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
+*Contributed by [Thomas Hodges](http://github.com/thodges314)*
 
 #### What is Vim?
 
@@ -334,7 +343,6 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
 
 #### URL( Uniform Resource Locator)
 
@@ -409,8 +417,11 @@ An error or defect in software or hardware that causes a program to malfunction.
 
 For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
+The first computer bug was discovered in 1947 by Grace Hopper.  A moth was found smashed between the relay switches of the Mark II computer that she was working with at Harvard.
+
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+*Contributed by [Thomas Hodges](https://github.com/thodges314)*
 
 
 #### The Cloud
@@ -647,7 +658,10 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML document that describes the structure of other XML documents. Also refers to the description of the structure of your database.
+Think of a schema as being like a paramater list on a function definition.  You may have, for example, a database of information about company employees - Name, email address, telephone number, position, length of employ, etc.  A web based employee directory might use a schema document on which pieces of information are passed, and in what order they are passed so that they can be used by the directory software.  With such a document in place, the web based employee directory may be portable to other companies with different database systems that can provide data in compliance with the web directory's schema.
+
+*Contributed by [Thomas Hodges](https://github.com/thodges314)*
 
 #### Script
 
@@ -775,7 +789,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+$ git remote add <remote name> <url of repo>
+
+*Contrbuted by [Thomas Hodges](https://github.com/thodges314)*
 
 #### How do you check the status of your current repo in git?
 
