@@ -165,11 +165,14 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+A DNS (Domain Name System) server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
+We can think of DNS servers as acting like a phone book. When you enter in a website address such as www.google.com, your ISP's DNS server looks up the IP Address (as if it were a phone number) and "calls" it for you.
+
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Josh Fagen](https://github.com/noShtick)*
 
 
 #### What is HTML and how is it used?
@@ -497,6 +500,9 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+It is also possible to use three-digit hexadecimal color codes, giving you access to only 16^3 colors (4,096), but saving you precious time in typing. It is best used for common shades of colors.Color example: #0f0 is Greem.
+
+*Contributed by [Josh Fagen](https://github.com/noShtick)*
 
 #### Above the Fold
 
@@ -617,9 +623,10 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Free licensed code. Open Source Code can be modified by anyone, often via GitHub, resulting in collaborative websites and software that meet a vast array of needs. Examples of Open Source websites include [GitHub](https://www.github.com) and Reddit(https://www.reddit.com).
 
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Josh Fagen](https://github.com/noShtick)*
 
 #### CMS
 
