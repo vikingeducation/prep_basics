@@ -600,6 +600,7 @@ A framework is a platform where common code with generic functionality is ready 
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails, or simply Rails, is a web application framework written in Ruby under MIT License. Rails is a model–view–controller (MVC) framework, providing default structures for a database, a web service, and web pages.
 
 #### Command Line
 
@@ -647,7 +648,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is a collection of database objects (as far as this hour is concerned—tables) associated with one particular database username. This username is called the schema owner, or the owner of the related group of objects. You may have one or multiple schemas in a database.
 
 #### Script
 
@@ -775,7 +776,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+please type the following command on terminal. 
+$ git remote add (name of the folder you would like to call it) (address of either the http or ssh of the repository)
 
 #### How do you check the status of your current repo in git?
 
