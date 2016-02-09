@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -77,11 +77,13 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Caffeination: All great web developers must closely monitor their blood serum level of caffeine. Falling below 30 ug/ml is considered unsafe for coding.
 
+Laziness: All great improvements in human technology have come from the same question "how can I make this easier...". Web development is no exception.
+
+Persistence: Laziness may require a great deal of work. Trust that other's will share the fruit of their desire to watch stupid cat .gif's and do not meditate on expected return on investment of time.
+
+~https://github.com/lexsupraomnes/
 
 #### What do companies look for in a junior web developer?
 
@@ -174,11 +176,10 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+Hypertext markup language, the most basic definitional structure of a webpage. It uses tags to identify various resources (i.e. paragrpahs, headers, images, links) in order to display them correctly as well as allowing other languages to use these tags to perform operations on the resources in question.
+Useful, but simple, you can probably pick up most of the basic structure in an afternoon. 
 
+~https://github.com/lexsupraomnes/
 
 #### What is CSS and how is it used?
 
@@ -775,7 +776,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add origin https://github.com/(yourusernamehere/(yourrepohere)
+
+~https://github.com/lexsupraomnes/
 
 #### How do you check the status of your current repo in git?
 
