@@ -78,7 +78,9 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Caffeination: All great web developers must closely monitor their blood serum level of caffeine. Falling below 30 ug/ml is considered unsafe for coding.
+
 Laziness: All great improvements in human technology have come from the same question "how can I make this easier...". Web development is no exception.
+
 Persistence: Laziness may require a great deal of work. Trust that other's will share the fruit of their desire to watch stupid cat .gif's and do not meditate on expected return on investment of time.
 
 ~https://github.com/lexsupraomnes/
