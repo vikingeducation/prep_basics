@@ -556,10 +556,13 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Put another way, it's a mixture between plain english and actual code. It's helpful in the early stages of planning a particular piece of code, as it helps you to put your thoughts on paper, whiteboard, etc.
+
+*Contributed by [Morgan Martin](https://github.com/Styx-)*
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -568,7 +571,10 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
+Part of the reason it achieves its goal is that it is what is known as a "high-level programming language." This means that more functionality is packed into less code. Try considering the ideal programming language; a natural language parser, or in other words no programming language. :)
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
+*Contributed by [Morgan Martin](https://github.com/Styx-)*
 
 
 #### Ruby Gems
@@ -774,8 +780,13 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 
 #### How do you add your Github repo as the remote?
+First, be sure that you've both initialized a repository on your local machine and that you are located in that directory, as well as created the repository on your github profile.
 
-*Your explanation here!*
+Upon creating the repo on your profile, you should see a link to your repo in the Quick Setup section. Copy it and use it in conjunction with the "git remote" command, like this:
+
+git remote add origin https://github.com/your-username/your-repo-name.git
+
+*Contributed by [Morgan Martin](https://github.com/Styx-)*
 
 #### How do you check the status of your current repo in git?
 
