@@ -259,7 +259,25 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions dictate to what degree different users are able to interact with files and directories. Think of keys to a business—the general public can't enter unless someone lets them in, low-level employees might only have a key to the front door, but the boss has the key to safe in the office.
+
+Permissions are useful for, among other reasons, preventing undesirable changes to files (such as your intern deleting your entire customer database) and for security (stopping the Russian mafia from reading your diary).
+
+From the command line, a `ls -l' execution lists files with permission in this format:
+
+drw-r-xr-x
+
+The first character ('d' in this case) can be 'd' for directory, '-' for a file, 'l' for a symbolic link, or a few other rarer cases.
+
+The remaining nine characters are organized in groups of three. The first letter of each group is 'r' for permission to read the file (but not make changes). The second is 'w' for write permission, which is the ability to change the file. The last is 'x', which is the ability to execute the file (to read it for instructions and execute those instructions). If the letter is present, that means the permission is granted; otherwise a '-' means the permission is denied.
+
+So in our example, the second to fourth characters 'rw-' mean there is permission to read and write to the directory, but not to execute it.
+
+Finally, the three groups indicate different user levels. The first three (here, 'rw-') is for the owner, the next three ('r-x') is for the group, and last three ('r-x') is for the public, i.e. everyone else.
+
+
+*Contributed by [Philip Johnson](https://github.com/philipcolejohnson/)*
+
 
 #### How do you view hidden files in a directory?
 
@@ -284,7 +302,7 @@ The "Superuser" is a user of a computer system with special privileges needed to
 Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable, it was built to enable efficient text editing, which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
@@ -313,8 +331,11 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 #### Why might you need to add onto your `$PATH` variable?
 
-You might need to add onto your $PATH variable so an application can be found and run in the command line.
+After installing something, the shell might return an error when you try to execute your new command. The reason is that the new file is not in a place where the shell knows to look for it; in other words, it is not in one of the directories specified by the $PATH variable.
+
+You probably need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Philip Johnson](https://github.com/philipcolejohnson/)*
 
 #### What are alias commands?
 
@@ -334,7 +355,10 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+The web is a interlinked series of digital resources (ranging from a simple page of html to the most intricate web applications) that is accessed through a network of interconnected computers available to the public.
 
+
+*Contributed by [Philip Johnson](https://github.com/philipcolejohnson/)*
 
 #### URL( Uniform Resource Locator)
 
@@ -486,7 +510,7 @@ Even though grids are not necessary to design a web page, they make the process 
 
 #### RGB
 
-Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
+Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display. These integers are often represented in hexidecimal format.
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
@@ -554,7 +578,18 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Basically shorthand for what you are planning to code. It's like sketching for programmers. It is ideal in the planning stages of a project for trying to tackle how to solve a problem without being bogged down in detail.
+
+An example:
+
+If user chooses age less than 21
+  print 'Wait a while longer'
+else
+  run function drink
+  print 'Cheers!'
+
+
+*Contributed by [Philip Johnson](https://github.com/philipcolejohnson/)*
 
 
 #### C
@@ -647,7 +682,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML Schema is basically a document that defines the structure of other XML documents, or data types. For example, it might specify a type of XML document that is a note, specifying that it contains data about the contents, the writer, when it was first created, who's allowed to see it, and whether or not it contains any reference to the word 'poo.'
+
+*Contributed by [Philip Johnson](https://github.com/philipcolejohnson/)*
 
 #### Script
 
