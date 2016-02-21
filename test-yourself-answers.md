@@ -117,7 +117,8 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+The information is divided into chunks which are called packets and then sent from the starting destination to the recipient at which point the packets are reunited. 
+*Contributed by [Jon Guess](https://github.io/jqguess)*
 
 
 #### What are packets?
@@ -174,9 +175,9 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+HTML, or Hypertext Markup Language is a set of Mark Up tags which are used to describe an HTML document.  The web-browser reads the HTML document and determines how to render the page based upon the HTML tags, such as the head, title, paragraph and so on. The Document Object Model, or DOM, provides a standard programming interface and document structure, which can be manipulated, for HTML as well other languages.  
+
+*Contributed by [Jon Guess](https://github.io/jqguess)*
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -299,7 +300,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+All of the settings that you would want to apply to your environment can be configured through this file as well
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Jon Guess](https://github.io/jqguess)*
 
 #### What is the `$PATH` variable?
 
