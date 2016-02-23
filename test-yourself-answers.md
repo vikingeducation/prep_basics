@@ -384,8 +384,13 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP (Post Office Protocol) is when the user downloads email from an email server. Messages are downloaded directly to the user's PC and deleted from the server. 
 
+IMAP (Internet Messaging Access Protocol) is like POP, except users can keep their emails on the server. 
+
+SMTP (Simple Mail Transfer Protocol) is when email is transferred from the user to the email server OR when an email moves from one email server to another.
+
+*Contributed by [Joe Bernardi](http://github.com/JDBernardi)*
 
 #### API
 
@@ -555,6 +560,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+New programmers love to leap straight into coding, but Pseudo-Code offers the best way to conceptualize the problem, before committing it to code.
+
+*Contributed by [Joe Bernardi](http://github.com/JDBernardi)*
 
 
 #### C
@@ -775,7 +784,15 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+In your terminal, type in:
+
+git remote add <url to your github>:
+
+Then to check if that worked, enter 
+
+git remove -v
+
+*Contributed by [Joe Bernardi](https://github.com/JDBernardi)*
 
 #### How do you check the status of your current repo in git?
 
