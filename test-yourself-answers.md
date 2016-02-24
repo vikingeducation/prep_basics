@@ -877,6 +877,7 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+You can delete a branch with the command: `git branch -d <branch name>`
 
 #### How do you merge branches back together?
 
