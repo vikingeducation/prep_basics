@@ -259,7 +259,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions are important as they determine who can edit your files. They let you know what you can do, and what others can do. Therefore you need to make sure you have the correct permissions for whatever you want to do.
+
+There are three access types: owner, group, rest of world (world being those who can log on).
+
+There are three permission types: read, write, execute.
 
 #### How do you view hidden files in a directory?
 
@@ -775,7 +779,14 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+1) You create the remote
+  '$ git remote add <remote name> <remote address>'
+
+2) You pull the remote to your local repo (can also be done in two steps with 'fetch' and 'merge')
+  '$ git pull <remote name> <branch name>'
+OR
+  '$ git fetch <remote name>'
+  '$ git merge <remote name>/<branch name>'
 
 #### How do you check the status of your current repo in git?
 
@@ -866,6 +877,7 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+You can delete a branch with the command: `git branch -d <branch name>`
 
 #### How do you merge branches back together?
 
@@ -887,7 +899,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
