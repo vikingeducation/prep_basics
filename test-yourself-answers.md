@@ -91,7 +91,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
