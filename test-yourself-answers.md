@@ -36,17 +36,18 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things. 
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+Dynamic webpages change depending on the user input and actions; because of this they also require a more complicated server. Static web pages offer no graphical change to users and keep their content the same irregardless of the end-user.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Dynamic pages allows users to create, destroy, edit, and read data. Meaning that when a user interacts with the webpage in a specific OS, browser, device, or even source. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Anthony Monfort](https://github.com/amonfort808)*
 
 #### What's the best way to get help when you get stuck?
 
@@ -62,10 +63,11 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area.
+Start with IRC channels, subreddits, and various meetup groups in your specific area. Even check out Stack Overflow, Github, and Freenode for other communities. 
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Anthony Monfort](https://github.com/amonfort808)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
