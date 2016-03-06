@@ -214,7 +214,6 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 *Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
 
 
-
 ## The Command Line
 
 #### What is the command line?
@@ -224,9 +223,15 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+<strong>Mac</strong><br>
+In Spotlight Search (shortcut: `&#8984; + Space`), type `Terminal`, then hit `Return`.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+<strong>Windows</strong>
+Go to Start > Run, then type `cmd` and hit `Enter`.
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*<br>
+*Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
+
 
 #### What is Bash?
 
