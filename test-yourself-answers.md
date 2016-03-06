@@ -174,20 +174,18 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+Hypertext markup language, a language of tags used to define the structure and content of Web pages, such as headings, lists, paragraphs, line breaks, images, etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment, and other design aspects of a page. In short, it makes the raw information look pretty, and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -203,19 +201,19 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 #### What happens behind the scenes after you click "search" on google.com?
 
 A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
-Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
-Centiseconds later (a handful of them) the data is processed and the return data is exchanged
-Decaseconds later (two point five of them, in this case) your search is returned to your screen.
+Picoseconds (a lot of them) later, the input is received by a USB or other peripheral device port.
+Nanoseconds (a pile of them) later, a short string of integers is sent and interpreted by the CPU of device used as a "click".
+Milliseconds (a group of them) later, a command is sent to open up an HTTP handshake.
+Microseconds (a few of them) later, the handshake is confirmed and search query data is exchanged.
+Centiseconds (a handful of them) later, the data is processed and the return data is exchanged.
+Decaseconds (2.5 of them, in this case) later, your search is returned to your screen.
 
-"About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
+["About 98,600,000 results (0.25 seconds)"](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second)
 
-There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
+There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than 0.25 seconds) when I find it.
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
-
+*Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
 
 
 
