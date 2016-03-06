@@ -36,7 +36,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -335,7 +335,6 @@ Define the following:
 
 ### The Web
 
-
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
@@ -619,6 +618,8 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+When we call software “free,” we mean that it respects the users' essential freedoms: the freedom to run it, to study and change it, and to redistribute copies with or without changes. This is a matter of freedom, not price, so think of “free speech,” not “free beer.” -Richard Stallman-
+
 *Contributed by [Olga](https://github.com/ayva)*
 
 #### CMS
@@ -647,7 +648,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Document that defines the structure of an XML file or database.
 
 #### Script
 
