@@ -224,10 +224,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 #### How do you open it on your computer?
 
 <strong>Mac</strong><br>
-In Spotlight Search (shortcut: `&#8984; + Space`), type `Terminal`, then hit `Return`.
+In Spotlight Search (shortcut: `⌘ + Space`), type `Terminal`, then hit `Return`.
 
-<strong>Windows</strong>
-Go to Start > Run, then type `cmd` and hit `Enter`.
+<strong>Windows</strong><br>
+Go to `Start > Run`, then type `cmd` and hit `Enter`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*<br>
 *Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
