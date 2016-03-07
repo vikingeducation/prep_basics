@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton. Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front-end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -50,7 +50,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. A lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -65,6 +65,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -80,6 +81,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -143,7 +145,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client wants, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -177,6 +179,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -203,11 +206,11 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 #### What happens behind the scenes after you click "search" on google.com?
 
 A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
+Picoseconds later (a lot of them) the input is received by a usb or other peripheral device port.
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
-Centiseconds later (a handful of them) the data is processed and the return data is exchanged
+Milliseconds later (a group of them) a command is sent to open up an http handshake.
+Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged.
+Centiseconds later (a handful of them) the data is processed and the return data is exchanged.
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
 "About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
@@ -223,7 +226,8 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, etc).
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
@@ -259,7 +263,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+To prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
 
@@ -298,14 +302,18 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+The bash `.bash_profile` file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
+This file is used to store the user specific environment settings. Its contents are loaded as soon as a session starts before the execution of any command.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Ana Calil](http://github.com/anap226)*
 
 #### What is the `$PATH` variable?
 
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
 
-$PATH dictates the locations within a file tree that contains commands executable within a command line setting
+$PATH dictates the locations within a file tree that contains commands executable within a command line setting.
 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
@@ -635,7 +643,7 @@ A database is a collection of information that is organized so that it can easil
 
 #### SQL
 
-Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
+Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database system in 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
@@ -647,7 +655,15 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A database schema is a way to logically group objects such as tables, views, stored procedures etc. Think of a schema as a container of objects.
+
+You can assign a user login permissions to a single schema so that the user can only access the objects they are authorized to access.
+
+Schemas can be created and altered in a database, and users can be granted access to a schema. A schema can be owned by any user, and schema ownership is transferable.
+
+Source: [Quackit | SQL Server - Database Schemas](http://www.quackit.com/sql_server/sql_server_2008/tutorial/sql_server_database_schemas.cfm)
+
+*Contributed by [Ana Calil](http://github.com/anap226)*
 
 #### Script
 
@@ -742,9 +758,9 @@ By clicking on the plus symbol ('+') of your github user account and selecting N
 
 #### How do you commit changes?
 
-By typing a git command, "git commit -m "Your message". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
+By typing a git command, "git commit -m 'Your message'". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
 
-The other way is typing a git commit -am "Your message", which will both stage and commit changes.
+The other way is typing a "git commit -am 'Your message'", which will both stage and commit changes.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
@@ -775,16 +791,19 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+Type on the terminal the command:
+`git remote add <remote_name> <remote_url>`
+
+*Contributed by [Ana Calil](http://github.com/anap226)*
 
 #### How do you check the status of your current repo in git?
 
-git status
+`git status`
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
-git log
+`git log`
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
@@ -811,7 +830,8 @@ A pull request is when you contribute to someones else's project, and you let th
 
 #### What is "Forking" a repo?
 
-Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -869,17 +889,17 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 #### How do you merge branches back together?
 
-In order to merge branches back together you should merge the master branch into your-branch
+In order to merge branches back together you should merge the master branch into your-branch.
 
-$git checkout your-branch
-$git merge master
+`$git checkout your-branch`
+`$git merge master`
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
 
-$git checkout master
-$git merge your-branch
+`$git checkout master`
+`$git merge your-branch`
 
-You'll see output indicating any changes that were made
+You'll see output indicating any changes that were made.
 
 #### What is a "Merge Conflict" and when will it occur?
 
