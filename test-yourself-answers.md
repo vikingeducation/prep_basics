@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -887,8 +887,26 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
+Developer friendly text editors are build for this purpose and hence provide features that help developers in the process of coding. For example auto complete is a great feature that saves developer from typing the whole command, another nice feature is color coding which makes it easier to recognise misspelled commands, and etc. These text editors are built for the purpose of coding and save the code in pure text format.
+In the other hand word processor have build for different purposes, and unless configured otherwise save the file with extra information about the file, such as formatting, font, size, and etc. These files are not save as just text and the resulting saved file can not be understood by other programs such browsers, programmimg language compilers, and etc.
 
+#### What are the top 3 characteristics of great web developers?
+1. Ability to solve problems.
+2. Curiosity.
+3. Thinking out of the box.
+
+#### How do you merge branches back together?
+The best practice is to merge the original branch from which you have branched off to the current branch. This gives you oppurtunity to resolve any conflict that may occure. Then checkout the original branch and merge back the branch.   
+Say we have `master` branch. And we have branched off the `master` called `rockandroll`   
+`git checkout -b rockandroll`   
+now we are on `rockandroll` branch, and we have done all the changes and committed them.
+We now merge `master` branch to `rockandroll`   
+`git merge master`   
+resolve any conflict that may occure, then checkout `master` and merge `rockandroll`   
+`git checkout master`   
+`git merge rockandroll`
