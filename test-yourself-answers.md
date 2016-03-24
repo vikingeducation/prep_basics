@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -621,6 +621,9 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Coding projects that are open for the public to use and contribute to within the guidelines of the license. Typically the public may read, alter and borrow the code as long as proper credit is given to the original author.
+*Contributed by [Matthew Allen](https://github.com/unscodst)*
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -647,7 +650,8 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Describes the structure of a databasein a formal language.
+*Contributed by [Matthew Allen](https://github.com/unscodst)*
 
 #### Script
 
@@ -775,7 +779,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+`git remote add <name, usually origin> <remote_url>`
+*Contributed by [Matthew Allen](https://github.com/unscodst)*
 
 #### How do you check the status of your current repo in git?
 
