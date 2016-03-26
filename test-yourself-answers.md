@@ -56,6 +56,9 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
+Check out Meetup.com and search for local hackathons and conferences to find developers near you. 
+*Contributed by [Matt Goldwater](https://github.com/Gwater17)*
+
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
@@ -81,6 +84,9 @@ Curiosity/creativity - The passion for creating/building and the hunger for lear
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+"Laziness" - Laziness is often used tongue in cheek to answer this question. Efficient may be actually be a better answer to this question because when people use the word laziness they mean that one makes the effort to do something once so he or she doesn't have to repeat the same task over and over again. For example, a "lazy" teacher & programmer would code a program to grade the essays of his or her students. 
+*Contributed by [Matt Goldwater](https://github.com/Gwater17)
+
 
 
 #### What do companies look for in a junior web developer?
@@ -259,7 +265,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+prevent unwanted access and/or modification of files. Permissions often are for read, write, execute? 
+
+Read (r) means view the file, write (w) means change the file, and execute (x) means run the file. *Contributed by [Matt Goldwater](https://github.com/Gwater17)
 
 #### How do you view hidden files in a directory?
 
@@ -288,13 +296,16 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
-`:q`
+Hit the ESCAPE key; that goes into command mode. Then you can type:
+:q to quit
+:q! to quit without saving
+:wq to write and quit
+:x to write and quit
+:qa to quit all
 
-`:q!` (to overwrite and not save any changes)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
-
-`:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+*Contributed by [Matt Goldwater](https://github.com/Gwater17)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
@@ -647,7 +658,10 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML document that describes the structure of other XML documents. Also refers to the description of the structure of your database.
+
+*Contributed by [Matt Goldwater](https://github.com/Gwater17)*
+
 
 #### Script
 
@@ -775,7 +789,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+Git remote add origin [webaddress/sshkey_of_remote]
+*Contributed by [Matt Goldwater](https://github.com/Gwater17)*
 
 #### How do you check the status of your current repo in git?
 
