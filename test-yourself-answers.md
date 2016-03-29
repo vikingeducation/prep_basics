@@ -259,7 +259,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions define three different access levels (read, write and execute) for the file's owner, the group that the file belongs to and the "rest of the world"/everyone else.
+
+If a confidential file has the wrong access levels set, someone who logs on to a system could potentially: read a confidential file, overwrite that file with malicious code and then execute that file.
+*Contributed by [Mike Wojciechowski](http://github.com/mikewojciechowski)*
 
 #### How do you view hidden files in a directory?
 
@@ -887,7 +890,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
