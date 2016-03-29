@@ -67,6 +67,10 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Also take a look at r/coding and r/webdev!
+
+*Contributed to [Sean Smith](https://github.com/bonham000)
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -647,7 +651,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema describes the structure of an XML document and defines what data is allowed in that document, what data is required, and how it is organized. The schema basically provides a strucutre to the data in the XML document so that it is compatible with other databases.
+
+*Contributed by [Sean Smith](https://github.com/bonham000)*
 
 #### Script
 
@@ -775,7 +781,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add [remote repository URL]
+*Contributed by [Sean Smith](https://github.com/bonham000)*
 
 #### How do you check the status of your current repo in git?
 
