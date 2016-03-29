@@ -64,12 +64,9 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
-Look at r/Programming or r/learnprogramming
+Look at r/Programming, r/learnprogramming, r/coding, and r/webdev.
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
-
-Also take a look at r/coding and r/webdev!
-
-*Contributed to [Sean Smith](https://github.com/bonham000)
+*Contributed to [Sean Smith](https://github.com/bonham000)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
