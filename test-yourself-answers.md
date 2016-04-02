@@ -48,11 +48,24 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+In very simple terms, static pages are built with simple HTML, CSS, and client-side JavaScript or jQuery. It does not interact with a database unlike dynamic pages, which uses CRUD operations to dynamically change the contents of a website.
+
+*Contributed by [Stephen Mayeux](https://github.com/StephenMayeux)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
+I use the R.E.S.T. method when I am stuck:
+
+1. READ the error message and documentation.
+2. EXPLORE what has already been asked. Use Google to help you do that.
+3. STACK OVERFLOW to post questions.
+4. TALK it over with other devlopers.
+
+*Contributed by [Stephen Mayeux](https://github.com/StephenMayeux)*
 
 #### Where are the closest developer communities to you?
 
@@ -66,6 +79,10 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+Facebook groups such as the Newbie Coder Warehouse. If you prefer to meet in real life, join hack nights and hackathons to connect with like-minded people.
+
+*Contributed by [Stephen Mayeux](https://github.com/StephenMayeux)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -887,8 +904,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
