@@ -326,7 +326,9 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### List atleast atleast one online resources you learned about from going through this mini course
 
+*Your Explanation Here!*
 
 
 ## Terms to Know
@@ -647,7 +649,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML document that describes the structure of other XML documents. Also refers to the description of the structure of your database.
+
+*Contributed by [Chandra Lindy](http://github.com/s1akr)*
 
 #### Script
 
@@ -775,7 +779,14 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+First, we need to create a new repository on GitHub's website. Then we can add our repo as the remote with the following commands:
+
+`$ git remote add origin git@github.com:git_username/repo_name.git`
+`$ git push -u origin master`
+
+The first command adds a remote called origin which corresponds to an empty repo on github we had created.  The second line pushes the files associated with our local branch master onto our newly added remote called origin.
+
+*Contributed by [Chandra Lindy](https://github.com/s1akr)*
 
 #### How do you check the status of your current repo in git?
 
