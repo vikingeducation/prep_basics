@@ -858,8 +858,14 @@ Create a new branch by typing:
 git checkout -b branch_name
 ```
 ...Above is shorthand for...
-git branch branch_name (creates a new branch)
-git checkout branch_name (switches to the branch)
+```
+git branch branch_name
+```
+(creates a new branch)
+```
+git checkout branch_name
+```
+(switches to the branch)
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 *Contributed by [Niels-Christian Kielland](http://github.com/nielschristiank)*
