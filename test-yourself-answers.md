@@ -455,7 +455,6 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
-
 #### WYSIWYG
 
 "What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
@@ -649,7 +648,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 Schema is a document(XML) that defines the structure of everyother XML documents. 
 
-*Contributed by [Samuel Afolarami](https://github.com/sammysgame)*
+*Contributed by [Samuel Afolaranmi](https://github.com/sammysgame)*
 
 #### Script
 
@@ -777,7 +776,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+using the `git remote add` command
+*Contributed by [Samuel Afolaranmi](https://github.com/sammysgame)*
 
 #### How do you check the status of your current repo in git?
 
@@ -848,9 +848,11 @@ Create a new branch by typing:
 ```
 git checkout -b branch_name
 ```
+Create a new branch: `git branch branch_name`
+Switch to branch: `git checkout branch_name`
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
+*Contribute by [Samuel Afolaranmi](https://github.com/sammysgame)*
 
 
 #### Why would you use a branch?
