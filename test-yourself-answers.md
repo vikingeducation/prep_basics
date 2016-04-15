@@ -296,7 +296,7 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
-The shortcut for exit Vim with saving the changes  is "ZZ".
+The shortcut to exit Vim with saving the changes  is "ZZ".
 
 #### What is the `.bash_profile` file and what is it used for?
 
