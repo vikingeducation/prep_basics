@@ -119,6 +119,8 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Information is broken down into manageable packets and sent with two pieces of instruction: the I.P. address that the data is supposed to go to, and how to reassemble the data when it gets there.  The packets are sent from one device to a "Point of Presence", or POP, then to a "Network Access Point", NAP, and finally into the Internet.  The information passes through "routers", which reads the attached address and sends the packets to their destination.
+*Contributed by [Tamber Hausler](https://github.com/codergeist)*
 
 #### What are packets?
 
@@ -178,6 +180,9 @@ Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+
+Hypertext Markup Language.  This "language" is used to create the "framework" of webpages by delineating the structure of the page in a way that the browser can understand and then reproduce in a human readable version.
+*Contributed by [Tamber Hausler](https://github.com/codergesit)*
 
 
 #### What is CSS and how is it used?
@@ -710,6 +715,9 @@ Git is the most popular distributed version control system used for software dev
 **V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+
+Version Control Systems.  Allows users to share, copy, and edit content, often simultaneously, and manages these functions so that the chance of conflicting edits are greatly reduced.
+*Contributed by [Tamber Hausler](https://github.com/codergeist)*
 
 
 #### Why is Git useful for a developer?
