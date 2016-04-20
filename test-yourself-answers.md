@@ -237,10 +237,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+The Bourne Again SHell (Bash) is a shell program. It gives users the ability to interact directly with their computer’s operating system rather than using finder or another alternative. 
+*Contributed by [Tricia O'Toole](http://github.com/TOToole38)*
+
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
