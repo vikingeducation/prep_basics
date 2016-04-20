@@ -246,6 +246,11 @@ The Bourne Again SHell (Bash) is a shell program. It gives users the ability to 
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+Using the change directory (cd) command and either a relative path:
+ `$ cd <parentDirectory>/<targetDirectory>`
+
+Or an absolute path: `cd ~/<mymac>/<Documents>/<VCS>`
+*Contributed by [Tricia O'Toole](http://github.com/TOToole38)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
