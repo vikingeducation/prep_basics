@@ -764,6 +764,9 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+Committing your changes will permanently store a snapshot of your files at that point in time. However, they will only be stored locally. They will not be available on Github. 
+Pushing to Github will store a snapshot of your files and their commit history at that point in time on Github. This means that any changes you made will become available publicly. At this time, your work will be safely backed up and will be available for others to work on and/or view. 
+*Contributed by [Tricia O'Toole](http://github.com/TOToole38)*
 
 
 ### Remotes
