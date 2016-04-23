@@ -775,7 +775,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To register a new remote, first navigate to the directory in which the local git repository is located. Then, use the command `git remote add origin url`, where `origin` is the name of the new remote (this can be anything, although it is conventional to name it `origin`,) and `url` is the URL for the git repository to register (such as `https://github.com/user/repository.git`). 
+
+You can verify a list of all registered remotes by using the command `git remote -v`.
+
+*Contributed by [John McLain](https://github.com/Jmclain2)*
 
 #### How do you check the status of your current repo in git?
 
