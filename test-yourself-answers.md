@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schema is the organization or structure for a database. The activity of data modelling leads to a schema.
+
+*Contributed by [Steven Chang](https://github.com/chubb5000)*
 
 #### Script
 
@@ -775,7 +777,17 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+# First we add the Github repo as the remote...
+# This command takes a remote name and a repository URL. Origin is the name of the remote in this scenario but you can name it something different. 
+
+git remote add origin <URL of the corresponding repo on github.com>
+
+# Then we push the files up there...
+# This next command takes a remote name and the local branch name. In this scenario the remote name is origin and the local branch name is master (the default). The -u tells Git to remember the parameters, so that next time we can simply run 'git push' and git will know what to do.
+
+git push -u origin master
+
+*Contributed by [Steven Chang](https://github.com/chubb5000)*
 
 #### How do you check the status of your current repo in git?
 
