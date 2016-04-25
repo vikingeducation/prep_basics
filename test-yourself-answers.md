@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -52,7 +52,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+The best place for help when you're stumped is, as always, Google. However, colleagues and co-workers should not be overlooked as excellent channels for assistance as well! Google can give you the answer you're looking for, a colleague can walk you through the answer so you understand 'Why' the error occurred in the first place, and 'how' to avoid/plan for it in the future!
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Michael Davis](https://github.com/mdavis93)
 
 #### Where are the closest developer communities to you?
 
