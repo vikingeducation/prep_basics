@@ -246,6 +246,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ mkdir <directoryName>`
 
 `$ mkdir -p <directoryName>` -p creates any directory of the direcotryName if does not exist
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 *Contributed by [Conor Fischer](https://github.com/JayFischer)*
 
@@ -267,11 +268,8 @@ Prevent unwanted access and/or modification of files. Permissions often are for 
 A general permission that you may see is `d rwx rwx rwx`.
 
 First Character `d` == Directory/File Type
-
 First Class `rwx`   == Read, Write, Execute for User/Owner
-
 Second Class `rwx`  == Read, Write, Execute for Group
-
 Thrid Class `rwx`   == Read, Write, Execute for Others
 
 *Contributed by [Conor Fischer](https://github.com/JayFischer)*
@@ -342,7 +340,6 @@ Alias commands are shortcuts that can be set up for use with the command line. T
 For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
 
 i.e. `alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'`
-
 	 `alias ls='ls -la'`
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
