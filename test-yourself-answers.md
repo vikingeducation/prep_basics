@@ -244,6 +244,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
+
 `$ mkdir -p <directoryName>` -p creates any directory of the direcotryName if does not exist
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 *Contributed by [Conor Fischer](https://github.com/JayFischer)*
