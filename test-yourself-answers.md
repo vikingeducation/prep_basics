@@ -1,4 +1,5 @@
-﻿# Test Yourself: Answers
+﻿
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -50,15 +51,20 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best way to get help when you get stuck, is to establish a network of peers;
+that includes being involve in the industry through facebook pages, twitter, stackoverflow,
+local meetups. Also google as well and youtube or quora. Most importantly once you
+get stuck and resolve issue by the help of a colleague; pay it forward, bookmark the
+solution and brush up on that particular subject.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+Contributed by Michelle Pepe http://michellepepe.github.io/
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+I live in a small town on the Space Coast in Florida, so it's networking on social media.
+My goal is to startup a community there, teach people and revive the economy there.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+Contributed by Michelle Pepe http://michellepepe.github.io/
 
 #### What online developer communities can you join?
 
@@ -775,7 +781,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add your Github repo as a remote, use type in git bash git remote add command that takes two arguments.
+origin for example is a remote name and the repository for example https://github.com/user/repo.git is a remote URL.
+So in your terminal/Git Bash you type git remote add origin https://github.com/user/repo.git
+
+Contributed by Michelle Pepe http://michellepepe.github.io/
 
 #### How do you check the status of your current repo in git?
 
