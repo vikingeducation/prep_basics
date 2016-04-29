@@ -119,6 +119,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+The network breaks down the message into small packets, which each travel through the network individually. A series of routers push the data packets towards the destination address. Once the data packets reach the final destination then they are automatically reassembled into the original message. This all happens very quickly.
+
+*Contributed by [Alyssa Hertig](https://github.com/Ahertig)*
 
 #### What are packets?
 
@@ -647,7 +650,11 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schemas organize XML documents by specifying what elements and attributes can appear in a document (or a group of documents). Take for example an email address. We're all familiar with the format XXX@XXX.com. If the "@" was replaced with a "!", then you know it is an incorrect format. A Schema decides what format is valid. 
+
+It's a confusing idea when you don't know XML well yet. Both XML and Schema are in the business of organizing documents. But there is more than one layer of organization. 
+
+*Contributed by [Alyssa Hertig](https://github.com/Ahertig)*
 
 #### Script
 
