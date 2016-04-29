@@ -261,6 +261,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+Each file or directory has three permission types, read, write and execute, which you can check by entering '$ ls -l' in the command line.
+Permissions are important as they prevent the user from modifying or deleting vital files like system configuration files. Permissions also allow you to grant or deny access to your files and folders for other users. 
+
+*Contributed by [Michelle Wee](http://github.com/gargoyelle)* 
+
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -621,6 +626,11 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+
+Software that can be freely used, changed and shared by anyone. 
+
+*Contributed by [Michelle Wee](http://github.com/gargoyelle)*
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -647,7 +657,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is the file that defines the organization of a database.
+
+*Contributed by [Michelle Wee](http://github.com/gargoyelle)*
 
 #### Script
 
