@@ -143,7 +143,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client (it "serves" the data to the client). If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -154,7 +154,7 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-
+*Contribued by [Alex Lach](https://github.com/alexglach)*
 
 #### What is HTTP and how does an HTTP request work?
 
@@ -177,7 +177,10 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
+In short, it is the raw information on a page, including how that information is divided, but with no styling incorporated. 
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contribued by [Alex Lach](https://github.com/alexglach)*
 
 
 #### What is CSS and how is it used?
@@ -194,9 +197,10 @@ and it makes the front end simpler by separating presentation from content.
 
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
-The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
+The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more. This is a great tool to get insights to how some of how your favorite websites are built and the different structures and styles the site's developers used. 
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contribued by [Alex Lach](https://github.com/alexglach)*
 
 
 
