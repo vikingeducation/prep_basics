@@ -647,7 +647,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema is the structure of the database. It defines the tables, the fields and the relationships between them.  
 
 #### Script
 
