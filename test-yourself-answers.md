@@ -617,7 +617,7 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Free licensed code. With Open Source you allow the rest of the people to use your code and do whatever they want with it.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
@@ -647,7 +647,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+It is an XML that explains the structure of another XML. It also explains the description of the structure of your database.
 
 #### Script
 
@@ -775,7 +775,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a new remote, use the git remote add command on the terminal, in the directory your repository is stored at.
+
+The git remote add command takes two arguments:
+
+A remote name, for example, origin
+A remote URL, for example, https://github.com/user/repo.git
 
 #### How do you check the status of your current repo in git?
 
