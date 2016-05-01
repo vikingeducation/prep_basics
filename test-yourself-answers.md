@@ -64,8 +64,9 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
-Look at r/Programming or r/learnprogramming
+Look at r/Programming, r/learnprogramming, r/coding, and r/webdev.
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed to [Sean Smith](https://github.com/bonham000)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -647,7 +648,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema describes the structure of an XML document and defines what data is allowed in that document, what data is required, and how it is organized. The schema basically provides a strucutre to the data in the XML document so that it is compatible with other databases.
+
+*Contributed by [Sean Smith](https://github.com/bonham000)*
 
 #### Script
 
@@ -775,7 +778,8 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add [remote repository URL]
+*Contributed by [Sean Smith](https://github.com/bonham000)*
 
 #### How do you check the status of your current repo in git?
 
