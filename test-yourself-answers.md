@@ -386,6 +386,14 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+POP is a simple protocol. It allows a client to download an email from an email server. It downloads all available emails, and then deletes them from the servers.  
+
+IMAP also lets you download email from an email server, but keeps the emails on the server as well. 
+
+SMTP is the protocol for outgoing emails from the client. 
+
+*Contributed by [Niels-Christian Kielland](http://github.com/nielschristiank)*
+
 
 #### API
 
@@ -400,7 +408,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 A program usually running on a remote computer that responds to requests from a browser.
 
+Web servers can store, process and deliver web pages to clients. 
+
 *Contributed by [Unknown]*
+*Contributed by [Niels-Christian Kielland](http://github.com/nielschristiank)*
 
 
 #### Bugs
@@ -846,8 +857,18 @@ Create a new branch by typing:
 ```
 git checkout -b branch_name
 ```
+...Above is shorthand for...
+```
+git branch branch_name
+```
+(creates a new branch)
+```
+git checkout branch_name
+```
+(switches to the branch)
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Niels-Christian Kielland](http://github.com/nielschristiank)*
 
 
 
