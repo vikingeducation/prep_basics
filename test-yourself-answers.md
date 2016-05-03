@@ -14,7 +14,8 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 
 #### Example Question
 
-An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
+An awesome explanation about why this thing is amazing in plain-english that
+anyone can understand.  You know what's also awesome? Learning. And puppies.
 
 *Contributed by [Erik Trautman](http://github.com/eriktrautman)*
 
@@ -22,182 +23,159 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
-
-In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+A web developer is a programmer who specializes in, or is specifically engaged in,
+ the development of World Wide Web applications, or distributed network applications
+that are run over HTTP from a web server to a web browser. *Contributed via Wikipedia*
+So basically they are a programmer that plans, builds,
+and maintains web applications and websites (which are both about the same today).
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are more focused on the visual aspecs of the application. They deal
+more with layout and artistic aspects. For example they would try to design the
+app so that it is appealing to the user, so they deal more with User Experience.
+Although in today's world the line between developer and designer is more often blurred
+especially in the startup culture however, not so heavily in the enterprise world.
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself or what the user sees
+and how they intereact with the with application.
+Back-end devlopers focus on the server side code or the stuff that runs the app
+and handles all of the data that gets fed to the front-end.
+The Front-end uses a lof of Javascript, HTML, and CSS while the Back with use languages
+like Java, Python, or Ruby.
+Full stack developers are those who are able to transverse over from Front-end to Back or vice versus.
+Though they may tend to stick with one more than the other they still have the ability and skills
+to handle both ends.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
-
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
-
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
-
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+Dynamic web pages are able to change and be manipulated by the user. While
+static pages are just that: static. They do not change no matter what the
+user does. They are typically just data there and provide little to no user
+interaction.
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
-
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+GOOGLE!!!
+Reasearch the topic, and ask questions. StackExchange is your friend.
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
-
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+Birmingham, AL. There is a pretty decent developer community here. WWCode, Meetups, CodeForBirmingham (an local branch of CodeForAmerica), etc.
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area.
-
-Look at r/Programming or r/learnprogramming
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+There are so many that it is would be difficult to name them all. It's best to start with github,
+and then there is reddit (r/programming). Then check out Meetups and see if there
+is anything local in your area.
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
-
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+The text editors are made specifically for programming while Word was made for
+writing out documents, stories, and papers. The text editors have the ability
+to be tailored to your preferences and can usually recognize all the different
+languages you may use.
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Persistence - You will come across some difficult times. You will get stuck. The key is to
+just keep on trucking. You will eventually figure it out, either on your own or
+from help. Not giving up is key.
+Curiousity/Want to learn - There are always things changing in the world of programming;
+new Languages coming out, new tools, new ways of doing things. This means that you
+have to want to learn all the time. And not be afraid to learn either.
+Ability to solve problems - Much like puzzles programming comes down to putting the pieces together
+correctly. You have to put the pieces together in the correct order to make it work. Not only
+that but you are creating the pieces as you go so you have to figure out what
+the pieces are before hand.
 
 
 #### What do companies look for in a junior web developer?
 
-Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.
-
-Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
-
-Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
-
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-
+They are looking for developers who have done more than just school work. They want
+people who have shown that they have a willingness and eagerness to learn.
 
 #### What is the hiring process like for a developer?
 
-To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
-
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
-
+To apply for a job, you'll have to submit a resume, cover letter
+You will want to include links to any portfolio projects, and your Github page.
+If they like you, you wil go through an interview process which can include a phone
+interview, a technical interview (where test you knowledge of technical aspects to programming)
+*Anything you put that you know on your resume is free game here!!!*
+and likely an in person interview. You may also get asked to code for them.
 
 ## How the Web Works
 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+The internet is a global communication tool that is available via computers or other
+electronic devices.
 
 
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
-
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
-
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-
+Packets are bits of data that are parts of a whole that are sent from one computer or server to another.
+An image, for example, is requested by a client. The host then serves it up by breaking it down into small pieces
+called packets. These are then sent out with an instruction manual of sorts as to how to piece it all back together.
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
-
-With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
-
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-
+The client is a device or program that requests information by way of use of a server. A good example of this
+would be the internet itself. When a user opens up a chosen browser, that browser
+becomes the client.
 
 #### What is a "server"?
 
-A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
-
-Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
-
-The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
-
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+A device or program that works with the client to fulfill requests from the client. It
+communicates with the client to provide requested data to the user.
 
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
-
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
-
+HTTP or "Hypertext Transfer Protocol" is the standard protocol for transfering
+documents over the internet.
+It works when the user enters a URL, the browser then creates a HTTP request so that
+all the different servers can "talk" to one another.
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
-
-For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+TheDNS ( Domain Name Service ) is a distributed database which keeps track of
+ computer's names and their corresponding IP addresses on the Internet.
 
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
+HTML or Hypertext markup language is a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
+CSS or Cascading Stylesheets is a language that describes the look and style of the elements
 defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
-
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+and other design aspects of a page.
+Basically, it is what make the HTML look pretty.
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
-Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
+Developer Tools will show you the actual HTML and CSS that generated content on the page.
+By hovering over items, you can see how they were defined in HTML,
+how they were styled in CSS, and any other relevant attributes.
+You can also see any code that went into make the
+application dynamic such as any Javascript that may have been used or libraries
+utilized. You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element".
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
-
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
-
 
 
 #### What happens behind the scenes after you click "search" on google.com?
@@ -651,10 +629,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
-
-*Contributed by [Shamash](https://github.com/Shamash2014)*
-
+Code that is interpreted from the actual program. The difference between the two
+is that programs have an executable form while scripts are distinct from the
+core code of the application.
 
 
 ## Installations
@@ -887,8 +864,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
