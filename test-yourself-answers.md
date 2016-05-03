@@ -556,7 +556,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+It cannot be compiled nor executed but, it helps to concentrate on the algorithms without worrying about the syntactic details.
 
+*Contributed by [Elzbeth](http://github.com/elzbeth)*
 #### C
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
@@ -647,8 +649,15 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Noun(Plural:schemata.):A plan, design, or program of action to be followed; project.
 
+In computer programming, a schema (SKEE-mah) is the organization or structure for a database.Two common types of database schemata are the star schema and the snowflake schema.
+
+The term sometimes seems to refer to a visualization of a structure and sometimes to a formal text-oriented description.
+
+In another usage derived from mathematics, a schema is a formal expression of an inference rule for artificial intelligence (AI) computing.
+
+*Contributed by [Elzbeth](http://github.com/elzbeth)*
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
@@ -775,7 +784,13 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+You do that by running git remote add [alias] [url]. That adds [url] under a local remote named [alias].
+#example
+$ git remote
+$ git remote add github git@github.com:anyname/hw.git
+$ git remote -v
+
+*Contributed by [Elzbeth](http://github.com/elzbeth)*
 
 #### How do you check the status of your current repo in git?
 
