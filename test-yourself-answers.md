@@ -296,6 +296,10 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+As a Windows user try Ctrl-c to quit insert mode.
+*Contributed by [Nadia B](https://github.com/tlatsoi)*
+
+
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
@@ -315,6 +319,10 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+For example, if you want to open Sublime Text from the Command Line. For Windows users, subl.exe may not automatically work unless you change your system Environment variables settings. 
+*Contributed by [Nadia B](https://github.com/tlatsoi)*
+
 
 #### What are alias commands?
 
@@ -775,7 +783,14 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+Use the "git remote add" command - it takes two arguments:
+1. A remote name, for example, origin
+2. A remote URL, for example, https://github.com/user/repo.git
+
+Type:
+`$ git remote add origin https://github.com/user/repo.git (get this url from GitHub)
+*Contributed by [Nadia B](https://github.com/tlatsoi)*How do you quit Vim if you get stuck in it?
+
 
 #### How do you check the status of your current repo in git?
 
