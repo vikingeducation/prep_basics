@@ -647,7 +647,13 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+The schema, in reference to databases, is the description of the database skeleton. A schema is necessary to create an empty blueprint of the database.
+
+The schema also defines the rules of the database. It’s not possible to insert data in the database that violates these rules.
+
+The schema utilizes a formal language that is supported by the DMS (database management system).
+
+*Contributed by [HigitusFigitus](https://github.com/HigitusFigitus)*
 
 #### Script
 
@@ -775,7 +781,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+On the terminal, in the directory your repository is stored at, type:
+
+git remote add [remote repository] [remote URL]
+
+*Contributed by [HigitusFigitus](https://github.com/HigitusFigitus)*
 
 #### How do you check the status of your current repo in git?
 
