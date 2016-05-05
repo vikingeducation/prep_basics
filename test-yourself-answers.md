@@ -275,7 +275,7 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
+'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user. The command line will prompt you for your admin password which you will not see as you type. Once used you wont have to re-input sudo for 15 min.
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
@@ -334,6 +334,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+The Web is an information sharing model that uses languages like HTTP to help people communicate. Not to be confused with the internet which is the network structure, the web utilizes that structure to offer content. 
 
 
 #### URL( Uniform Resource Locator)
