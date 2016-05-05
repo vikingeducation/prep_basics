@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information, also known as data, is sent across a network and is broken down into packets of data. These packets are on average 576 bytes and never exceeding 65535 bytes. Information is added to packets tell them where to go and what protocols to follow. When machines are connected and have communicated the right addresses the packets are sent over the network. 
 
 
 #### What are packets?
