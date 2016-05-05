@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schema refers to an Extensible Markup Language (XML) document that describes the structure of another XML document. In essence it is describing the rules or legal building blocks of the document it refers to. It might describe such things as the elements that can appear in the document, the number and order of child elements, data types for elements, or default values for elements. 
+
+*Contributed by [Neil Khiani](https://github.com/neilkhiani)*
 
 #### Script
 
@@ -775,7 +777,15 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add
+
+Use this command in the directory your repo is stored at. Also note this command takes two arguments: 
+a remote name, such as origin
+a remote URL, such as https://github.com/user/repo.git
+
+For example: git remote add origin https://github.com/user/repo.git
+
+*Contributed by [Neil Khiani](https://github.com/neilkhiani)*
 
 #### How do you check the status of your current repo in git?
 
