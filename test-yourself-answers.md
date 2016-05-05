@@ -114,6 +114,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+#### What is the Web?
+
+The Web is an information sharing model that uses languages like HTTP to help people communicate. Not to be confused with the internet which is the network structure, the web utilizes that structure to offer content. 
+
 
 #### How is information broken down and sent?
 
@@ -316,6 +320,8 @@ $PATH dictates the locations within a file tree that contains commands executabl
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+When the executable file can't be found sometimes it is ouside of your $PATH environment variable. By adding onto the $PATH it now knows where to look for the file. 
+
 #### What are alias commands?
 
 Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
@@ -334,7 +340,6 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-The Web is an information sharing model that uses languages like HTTP to help people communicate. Not to be confused with the internet which is the network structure, the web utilizes that structure to offer content. 
 
 
 #### URL( Uniform Resource Locator)
