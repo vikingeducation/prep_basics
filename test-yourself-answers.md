@@ -556,6 +556,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Pseudo-Code can be used to plan an algorithm or program. Can sometimes be converted directly into code by adding syntax.
+
+*Contributed by [James Ruchala](https://github.com/jruchala)*
 
 #### C
 
@@ -611,6 +614,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+Version control allows teams to work on different parts of a project simultaneously and to merge them back together in a controlled way.
+
+*Contributed by [James Ruchala](https://github.com/jruchala)*
+
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -620,6 +628,11 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+Open-source software makes its code freely available to anyone who wants to read it, copy it, improve it, or otherwise contribute to it.
+
+*Contributed by [James Ruchala](https://github.com/jruchala)*
+
 
 #### CMS
 
