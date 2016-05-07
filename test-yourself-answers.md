@@ -78,7 +78,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -93,9 +93,12 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
+Companies tend to look for self starters and problem solvers. Companies don't mind training a junior developer as long as the developer shows initiative and provides great teamwork. 
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Syema Ailia](http://github.com/Sailia)*
 
 
 #### What is the hiring process like for a developer?
@@ -255,7 +258,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
+Note, if the directory you're renaming it to already exists, the oldFileName will move to the newFileName directory.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Syema Ailia](http://github.com/Sailia)*
 
 #### Why are file permissions important?
 
@@ -556,11 +562,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
-
 #### C
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
-
 
 #### Ruby
 
@@ -569,7 +573,6 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
-
 
 #### Ruby Gems
 
@@ -581,12 +584,12 @@ Essentially, a gem consists of two things: code and a gemspec (specifications fo
 
 Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work.
 
+An example of a common Gem used by rails enthusiasts would be the Divise Gem, which allows the user to enter their details in a form on a rails app.
+
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
-
-
+*Contributed by [Syema Ailia](http://github.com/Sailia)*
 
 #### Frameworks
 
@@ -594,12 +597,9 @@ A framework is a platform where common code with generic functionality is ready 
 
 *Contributed by [Olga](https://github.com/ayva)*
 
-
-
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
-
 
 #### Command Line
 
