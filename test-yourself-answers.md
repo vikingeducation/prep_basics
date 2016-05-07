@@ -561,6 +561,10 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
+C is a high-level and general purpose programming language. It was   developed at Bell Labs by Dennis Ritchie for the Unix Operating System in the early  1970s.
+
+Many coding languages are written in C, such as, Java, Perl, Python, and many more.
+
 
 #### Ruby
 
@@ -666,6 +670,8 @@ As we might recall, back-end programming means coding on the server side. Since 
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+This question was a little confusing, as, after a google search, I learned my mac comes with ruby. However, I did have to update ruby, install RVM and gems to create a proper ruby environment. As René Maya pointed out, we actually install the ruby interpreter and ruby version manager. In effect, this led me to a better understanding of the install process. It is an enlightening question.
+
 #### Why didn't you need to install HTML, CSS and Javascript?
 
 These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
@@ -683,6 +689,10 @@ RVM stands for Ruby Version Manager and is a command-line tool which allows you 
 RVM is helpful because some gems, tools, and frameworks may only work with a particular version of Ruby. RVM lets you easily switch between different environments, based on needs, when developing.
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
+
+Ruby Version Manager is a software platform designed to manage multiple installations of Ruby on one computer.
+
+This is useful for developers because it allows them to access and use all of the tools, gems, and frameworks available for the task at hand.
 
 #### What is XCode?
 
