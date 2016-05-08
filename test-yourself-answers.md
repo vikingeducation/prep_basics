@@ -239,7 +239,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### How can you navigate into a particular file directory?
 
-`$ cd <directoryName>`
+`$ cd <directoryName>` or `$ cd <directoryPath>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
@@ -465,11 +465,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
-
-*Contributed by [Jasen Carroll](https://github.com/jasenc)*
-*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
-
+Responsive refers to websites that respond to the type of device that they're rendered on. Sites that have layouts and functionality that change depending on the size of screen and type of device they're being displayed on are responsive, so responsive design refers to the design patterns and technical approaches that are used in making these sorts of sites.
 
 #### Grid System
 
@@ -647,7 +643,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A database schema describes and defines the structure of a database. How the data is organised, who can access what and what can be stored where are all things that are included in the schema.
 
 #### Script
 
