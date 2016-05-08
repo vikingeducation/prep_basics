@@ -65,6 +65,9 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
+Podcasts are also a great place to get news and inspiration, especially if you have a commute to fill or chores to do. 
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -158,9 +161,8 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP is a set of rules that computers and devices use to communicate. If one computer (say a client) wants to get or send information with another computer (say a server), it sends a request to that computer. That request must follow a certain set of rules around how it's composed and what it contains. The set of rules is a protocol, and in the case of websites, the most commonly used protocol is HTTP.
 
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
 
 
 #### What are DNS servers?
@@ -239,7 +241,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### How can you navigate into a particular file directory?
 
-`$ cd <directoryName>`
+`$ cd <directoryName>` or `$ cd <directorypath>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
@@ -465,11 +467,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
-
-*Contributed by [Jasen Carroll](https://github.com/jasenc)*
-*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
-
+Responsive refers to websites that respond to the type of device that they're rendered on. Sites that have layouts and functionality that change depending on the size of screen and type of device they're being displayed on are responsive, so responsive design refers to the design patterns and technical approaches that are used in making these sorts of sites.
 
 #### Grid System
 
@@ -647,7 +645,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A database schema describes and defines the structure of a database. How the data is organised, who can access what and what can be stored where are all things that are included in the schema.
 
 #### Script
 
@@ -686,10 +684,7 @@ RVM is helpful because some gems, tools, and frameworks may only work with a par
 
 #### What is XCode?
 
-An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
-
-*Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
-
+XCode is an Integrated Development Environment (IDE) made by Apple, for developing software for Apple platforms and devices. An IDE is an alternative to using a text-editor for coding. It contains an editor, but also lots of other tools that help make development easier and faster. These include compilers and build-systems.
 
 ## Git
 
@@ -761,10 +756,7 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 #### What is the difference between committing your changes and pushing them to Github?
 
-Committing your changes will only save them in your local repository. Pushing them to Github will save them to your remote repository.
-
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
+Commiting changes saves them to your local repo, and pushing them saves them to your remote repo. If the changes are saved locally, they're only available on the machine where you saved them (unless you're usign a cloud service of course), but it they're pushed, they're saved in the cloud which means they're backed up and can be accessed from any machine. It may also mean that other people can see your changes.
 
 #### What is the difference between a "remote" and your local repo?
 
@@ -775,7 +767,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+The command to add your Github repo as the remote is:
+
+git remote add <remoteName e.g. origin> <remoteUrl>
 
 #### How do you check the status of your current repo in git?
 
