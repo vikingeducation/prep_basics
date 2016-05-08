@@ -335,6 +335,8 @@ Define the following:
 
 ### The Web
 
+Short for "World Wide Web", The Web is an information-sharing model that is built on top of the internet. The web allows devices and applications to communicate via HTTP. 
+*Contributed by [Christian Carey](https://github.com/ChristianCarey)*
 
 #### URL( Uniform Resource Locator)
 
@@ -556,6 +558,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Psuedo-code uses informal syntax to emphasize human readability, while retaining structural and conceptual conventons of a real programming language.
+*Contributed by [Christian Carey](https://github.com/ChristianCarey)*
+
 
 #### C
 
@@ -600,6 +605,8 @@ A framework is a platform where common code with generic functionality is ready 
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails is a framework build on Ruby that allows developers to quickly create web applications. Rails emphasizes convention of configuration, and uses the active record pattern to communicate with a database.
+*Contributed by [Christian Carey](https://github.com/ChristianCarey)*
 
 #### Command Line
 
