@@ -50,6 +50,8 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
+Google is your best friend! Often, performing a Google search with the exact error message you are getting or with the syntax you are attempting to use will get very specific and useful results.
+
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
@@ -623,6 +625,8 @@ Free licensed code.
 
 #### CMS
 
+A web interface for dynamically maintaining the content of a website. The most popular CMS is Wordpress, which is well known for allowing even users without any coding experience to believe they are webmasters.
+
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
@@ -647,7 +651,13 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+In psychology, a schema is:
+>a pattern of thought or behavior that organizes categories of information and the relationships among them *from* [Wikipedia](https://en.wikipedia.org/wiki/Schema_%28psychology%29) 
+
+It makes sense, then, that:
+>a database schema (/ˈski.mə/ SKEE-mə) is its structure described in a formal language supported by the database management system (DBMS). The term "schema" refers to the organization of data as a blueprint of how the database is constructed. *also from* [Wikipedia](https://en.wikipedia.org/wiki/Database_schema)
+
+*Contributed by [Winslow Jenkins](https://github.com/winslow462)*
 
 #### Script
 
@@ -655,7 +665,9 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+A text file containing a series of command-line commands which, when executed by the shell, performs those commands in a specific (and programmable) order, often using logic operators and using user inputs.
 
+*Contributed by [Winslow Jenkins](https://github.com/winslow462)*
 
 ## Installations
 
@@ -667,6 +679,10 @@ As we might recall, back-end programming means coding on the server side. Since 
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### Why didn't you need to install HTML, CSS and Javascript?
+
+Perhaps not stricly speaking, but essentially the job of a web browser is to interpret HTML, CSS, and Javascript. Basically, when you installed your browser, you installed the interpreter for those languages. [Reference Link](https://www.quora.com/Is-a-web-browser-just-an-HTML-interpreter?share=1)
+
+*Contributed by [Winslow Jenkins](https://github.com/winslow462)*
 
 These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
