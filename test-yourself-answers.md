@@ -551,6 +551,8 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
+A static HTML page is displayed in the browser and essentially sits there, if the content or code on the server changed at this point it would not be updated for users unless they did another "pull HTML files" request such as refreshing the web page.  AJAX allows it to update on it's own.
+*Contributed by [Ed Verity](https://github.com/eddieverity)
 
 #### Pseudo-Code
 
@@ -560,7 +562,8 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 #### C
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
-
+Features of the language are that it allows for a higher level of control how your computer allocates memory to a given task.
+*Contributed by [Ed Verity](https://github.com/eddieverity)
 
 #### Ruby
 
@@ -621,6 +624,9 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+The source code is open to the public, and can be observed, tinkered with and built-upon.
+*Contributed by [Ed Verity](https://github.com/eddieverity)
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -647,6 +653,8 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
+A visual representation of how things work, typically done via titled boxes and arrows representing communication
+*Contributed by [Ed Verity](https://github.com/eddieverity)
 *Your explanation here!*
 
 #### Script
@@ -776,6 +784,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 #### How do you add your Github repo as the remote?
 
 *Your explanation here!*
+git remote add upstream <URL of your Github repository>
+This adds your Github repository to the 'connections' for push/pull requests
+*Contributed by [Ed Verity](https://github.com/eddieverity)
 
 #### How do you check the status of your current repo in git?
 
