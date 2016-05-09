@@ -680,7 +680,7 @@ As we might recall, back-end programming means coding on the server side. Since 
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
-Perhaps not stricly speaking, but essentially the job of a web browser is to interpret HTML, CSS, and Javascript. Basically, when you installed your browser, you installed the interpreter for those languages. [Reference Link](https://www.quora.com/Is-a-web-browser-just-an-HTML-interpreter?share=1)
+Perhaps not strictly speaking, but essentially, the job of a web browser is to interpret HTML, CSS, and Javascript. When you installed your browser, you installed the interpreter for those languages. [Reference Link](https://www.quora.com/Is-a-web-browser-just-an-HTML-interpreter?share=1)
 
 *Contributed by [Winslow Jenkins](https://github.com/winslow462)*
 
