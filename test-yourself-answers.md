@@ -619,7 +619,10 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+To explain better, in the developer community open source software is a major thing. Open source enables your work or the work of others to be viewed, used and changed in a collaborative manner for a greater good of all things technology related.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
 #### CMS
 
@@ -775,7 +778,21 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a Github repo remote there's few options:
+ 1. Copy the clone link, then in your terminal type the following:
+ 
+ ```
+git clone <enter clone url here>
+ ```
+
+ 2. Click the setup in desktop icon, (which looks like a download to computer icon) and save it to your computer, then open it on Github Desktop application.
+ 3. Another option if you want to keep track of changes is to the main Github repo:
+
+ ```
+ git remote add upstream <enter clone url here>
+ ```
+
+*Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
 #### How do you check the status of your current repo in git?
 
@@ -846,9 +863,14 @@ Create a new branch by typing:
 ```
 git checkout -b branch_name
 ```
+or you can just type:
+
+```
+git branch new_branch_name
+```
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
+*Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
 
 #### Why would you use a branch?
@@ -887,8 +909,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
