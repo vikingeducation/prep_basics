@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+﻿cm # Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -195,6 +195,8 @@ and it makes the front end simpler by separating presentation from content.
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
+
+On Google Chrome the Web Inspector is accessed via right clicking and selecting inspect element. The Web Inspector is very useful in that it provides the ability to see the code by hovering over different elements within a web application. Another feature is the ability to see the communication between the client and the server. A great tool for both experienced and inexperienced developers. There are numerous other aspects that can be viewed as well.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
@@ -647,7 +649,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+The organization or structure of a database. Described in a formal language supported by the database management system.
 
 #### Script
 
@@ -711,6 +713,9 @@ Git is the most popular distributed version control system used for software dev
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
+### What is the difference between SCM and VCS?
+
+Source Code Management when compared to Version Control System is a much broader term. SCM encompasses all the processes needed to build, package and deploy software. VCS would be part of a SCM system. The two differ in that SCM is more of an umbrella term with VCS falling under it. VCS is a more specific software that provides versioning functionality. Whereas SCM encompasses all the processes. 
 
 #### Why is Git useful for a developer?
 
