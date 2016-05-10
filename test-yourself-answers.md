@@ -619,7 +619,10 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+To explain better, in the developer community open source software is a major thing. Open source enables your work or the work of others to be viewed, used and changed in a collaborative manner for a greater good of all things technology related.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
 #### CMS
 
@@ -775,10 +778,19 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-To add a Github repo remote there's two options:
+To add a Github repo remote there's few options:
  1. Copy the clone link, then in your terminal type the following:
-    git remote add <enter remote name here> <eneter clone url here>
- 2. Click the setup in desktop icon and save it to your computer, then open it on Github Desktop application.
+ 
+ ```
+git clone <enter clone url here>
+ ```
+
+ 2. Click the setup in desktop icon, (which looks like a download to computer icon) and save it to your computer, then open it on Github Desktop application.
+ 3. Another option if you want to keep track of changes is to the main Github repo:
+
+ ```
+ git remote add upstream <enter clone url here>
+ ```
 
 *Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
@@ -851,9 +863,14 @@ Create a new branch by typing:
 ```
 git checkout -b branch_name
 ```
+or you can just type:
+
+```
+git branch new_branch_name
+```
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
+*Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
 
 #### Why would you use a branch?
