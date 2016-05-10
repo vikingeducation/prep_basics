@@ -775,7 +775,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a Github repo remote there's two options:
+ 1. Copy the clone link, then in your terminal type the following:
+    git remote add <enter remote name here> <eneter clone url here>
+ 2. Click the setup in desktop icon and save it to your computer, then open it on Github Desktop application.
+
+*Contributed by [Cayden Jacobs](https://github.com/caydn)*
 
 #### How do you check the status of your current repo in git?
 
@@ -887,8 +892,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
