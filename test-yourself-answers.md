@@ -775,15 +775,14 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-The git remote add command takes two arguments:
-	A remote name, for example, origin
-	A remote URL, for example, https://github.com/user/repo.git
+git remote add
 
-Set a new remote:
-git remote add origin https://github.com/user/repo.git
+The git remote add command takes two arguments: remote name and remote url
 
-Verify new remote:
-git remote -v
+`git remote add origin https://github.com/user/repo.git`
+
+`git remote -v`
+
 origin  https://github.com/user/repo.git (fetch)
 origin  https://github.com/user/repo.git (push)
 
