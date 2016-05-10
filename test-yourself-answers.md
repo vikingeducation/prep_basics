@@ -779,10 +779,10 @@ The git remote add command takes two arguments:
 	A remote name, for example, origin
 	A remote URL, for example, https://github.com/user/repo.git
 
-# Set a new remote
+Set a new remote:
 git remote add origin https://github.com/user/repo.git
 
-# Verify new remote
+Verify new remote:
 git remote -v
 origin  https://github.com/user/repo.git (fetch)
 origin  https://github.com/user/repo.git (push)
