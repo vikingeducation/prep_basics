@@ -783,9 +783,8 @@ The git remote add command takes two arguments: remote name and remote url
 
 `git remote -v`
 
-origin  https://github.com/user/repo.git (fetch)
-
-origin  https://github.com/user/repo.git (push)
+>origin  https://github.com/user/repo.git (fetch)
+>origin  https://github.com/user/repo.git (push)
 
 *Contributed by [Deepak Govindasamy](https://github.com/grcdeepak1)*
 
