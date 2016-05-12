@@ -892,3 +892,18 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+
+
+
+*Contributed by [Trevor Pyle] (https://github.com/pyleotrevor)
+
+#### What is the difference between and local repo and a remote repo? 
+A local repo keeps all of the files, save states and other git info on your local hardrive. The remote repo is hosted on a server. Usually in our case the remote repo Github's servers. 
+
+#### What is "Forking" a repo? 
+
+Forking a repo is the simple process of copying someone's repo that they have hosted on Github. However, it is important to note. When you fork the repo, you are only creating a copy on your Github profile. To actually make large scale changes, you will need to then clone you copy of the repo to your local machine. 
+
+#### What is an API? 
+
+API = Application Programming Interface . An API contains the core components of an app's functionality. If well documented, this allows other apps to communicate or pull data using the API protocol. 
