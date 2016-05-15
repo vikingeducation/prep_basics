@@ -912,6 +912,6 @@ man [name]
 
 #### What's the best way to get help when you get stuck?
 
-Reach out to the community. The internet is your friend. Utilize websites, podcast, chatroom, search engines, blogs and anything else you can think of. Just don't give in. 
+Reach out to the community. The internet is your friend. Utilize websites, podcasts, chatrooms, search engines, blogs and anything else you can think of. Just don't give in. 
 
 *Contributed by [Russell Thomas](https://github.com/IamGrimUs)*
