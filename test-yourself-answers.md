@@ -891,4 +891,27 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is a "Superuser" and how do you execute commands as this user?
 
+Believe it or not a superuser is a real term. Just like superheros in comics and movies the only limit to the superusers power is the imagination. Your computers operating system has no restrictions on the power of the superuser. These powers can be used for good or evil. It's all in the command.
+
+In order to excute the commands of a superuser the sudo must proceed the command 
+$ sudo mv apple orange.txt
+
+*Contributed by [Russell Thomas](https://github.com/IamGrimUs)*
+
+#### How do you find information about a particular command?
+
+First try using the command man to display help pages. 
+
+man [name]
+
+[name] represents the name of the manual page, which is typically the name of a command. When that doesn't work try asking google. 
+
+*Contributed by [Russell Thomas](https://github.com/IamGrimUs)*
+
+#### What's the best way to get help when you get stuck?
+
+Reach out to the community. The internet is your friend. Utilize websites, podcast, chatroom, search engines, blogs and anything else you can think of. Just don't give in. 
+
+*Contributed by [Russell Thomas](https://github.com/IamGrimUs)*
