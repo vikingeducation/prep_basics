@@ -75,6 +75,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+Developer-friendly text editors also allow you to open files in different tabs, and have built-in shortcuts that allow increased efficiency.
+
+*Contributed by [Gordon Kramer] (http://github.com/inhocsignovinces)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -118,6 +122,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
+
+Packets carry the data via TCP/IP i.e. Transmission Control Protocol/Internet Protocol, along the best available route to get to their destination.  
+
+*Contributed by [Gordon Kramer](https://github.com/inhocsignovinces)
 
 
 #### What are packets?
@@ -357,6 +365,9 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+IP addresses can be static or dynamic.  Static IP addresses do not change.  Most devices, however, use dynamic IP addresses, which are assigned upon connection, and are not permanent.  
+
+*Contributed by [Gordon Kramer](https://github.com/inhocsignovinces)
 
 #### DNS
 
@@ -555,6 +566,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+Pseudo-Code is a set of instructions written in a human language, not code, but written in a code-like style, that describes how a program or algorithm should run.  
+
+*Contributed by [Gordon Kramer](https://github.com/inhocsignovinces)
 
 
 #### C
@@ -775,7 +790,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add, followed by a remote name, and a remote URL, as in the example below:
+
+$ git remote add origin https://github.com/user/repo.git
+
+*Contributed by [Gordon Kramer](https://github.com/inhocsignovinces)
 
 #### How do you check the status of your current repo in git?
 
