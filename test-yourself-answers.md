@@ -335,6 +335,10 @@ Define the following:
 
 ### The Web
 
+The Web is short for World Wide Web, aka wwww.
+
+*Contributed by [James Gundlach](https://github.com/phoenixbyrd)*
+
 
 #### URL( Uniform Resource Locator)
 
@@ -617,7 +621,7 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Free licensed code. 
 
 *Contributed by [Olga](https://github.com/ayva)*
 
@@ -735,6 +739,16 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+$ mkdir name_of_project
+>enter
+$ cd name_of_project
+>enter
+$ git init
+
+This will make the directory for your project with the name you choose, change into that directory and will then create an empty git repository within that directory.
+
+*Contributed by [James Gundlach](https://github.com/phoenixbyrd)*
+
 #### How do you create it on Github?
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
@@ -775,7 +789,13 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add short_name_of_project https://github.com/your_username/your_project_name
+
+This will add you repo as the remote, which you can verify with:
+
+git remote -v
+
+*Contributed by [James Gundlach](https://github.com/phoenixbyrd)*
 
 #### How do you check the status of your current repo in git?
 
@@ -849,23 +869,17 @@ git checkout -b branch_name
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+n your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
 
+You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 #### Why would you use a branch?
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
-
-#### How do you create a new branch?
-
-In your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
-
-You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
-
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
 
 #### How do you merge branches back together?
 
