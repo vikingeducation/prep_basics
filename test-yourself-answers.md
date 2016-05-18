@@ -22,11 +22,11 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
+A web developer designs and creates websites using front-end and back -end techniques.
 
 In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
 
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Cameron Hinojos](https://github.com/camhinoj)*
 
 #### What's the difference between web developers and web designers?
 
@@ -768,9 +768,9 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
+A remote is a repo on the github website and a local repo is on a version control file located on your local system.
 
-*Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+*Contributed by [Cameron Hinojos](https://github.com/camhinoj)*
 
 
 #### How do you add your Github repo as the remote?
@@ -804,9 +804,9 @@ A merge is when you take the changes you've made on one branch, and bring them i
 
 #### What is a "Pull Request"?
 
-A pull request is when you contribute to someones else's project, and you let them know that you have made changes that they can look over and possibly implement into their project.
+Editing a project that you don't own and requesting to make some changes to that project by submitting a new repo to github with the changes. The owner of the file decides if the changes are acceptable
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Cameron Hinojos](http://github.com/camhinoj)*
 
 
 #### What is "Forking" a repo?
