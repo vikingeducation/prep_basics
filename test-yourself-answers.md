@@ -609,7 +609,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between specific time stamp for coding. 
+
+Organizes and records changes to source code over time, allowing developers to manage various modifications and preventing bugs from occurring. 
 
 #### Git
 
@@ -617,7 +619,7 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Makes original source code freely available to the world to be redistributed and modified. This allows developers to work together and help make the code better.  
 
 *Contributed by [Olga](https://github.com/ayva)*
 
@@ -647,7 +649,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML document that describes the structure of other XML documents and also refers to the description of the database. 
 
 #### Script
 
