@@ -617,9 +617,9 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Open source code is available for use by the general public, either as is or with modifications, for free for any purpose. It is a more collaborative development model in which the general public can become involved in promoting bug fixes, enhancements, and new features. 
 
-*Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Gary Kraght](https://github.com/skogrunner)*
 
 #### CMS
 
@@ -629,9 +629,10 @@ CMS stands for Content Management System, which is an application used to manage
 
 #### Database
 
-A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. They cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
+A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. Databases are the cornerstone of most web applications. This is where everything your users do is saved, and can be retrieved and perhaps updated and saved again.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
+*Contributed by [Gary Kraght](https://github.com/skogrunner)*
 
 #### SQL
 
@@ -775,7 +776,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add remote_name your_Github_repo_url 
+By convention, "upstream" is a good name often used as a reference for the name of the remote. So a sample command might read: git remote add upstream https://github.com/my_github_userid/my_repo
+
+*Contributed by [Gary Kraght](https://github.com/skogrunner)*
 
 #### How do you check the status of your current repo in git?
 
