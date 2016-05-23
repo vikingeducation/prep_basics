@@ -895,7 +895,7 @@ You'll see output indicating any changes that were made
 
 #### What is a "Merge Conflict" and when will it occur?
 
-A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed.
+A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed....
 
 #### How do you resolve a "Merge Conflict"?
 
