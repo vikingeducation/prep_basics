@@ -889,6 +889,8 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
+The experience has been great so far :).
+
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
