@@ -594,7 +594,9 @@ A framework is a platform where common code with generic functionality is ready 
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+A framework is a set of libraries and predefined classes which usually serve general purposes (like operations with strings, arrays, with input and output, with view forms etc), which developers use to building their applications faster and more secure and to concentrate on specific aspects of their applications without wasting time on reinventing a wheel. 
 
+*Contributed by [Seybo](https://github.com/Seybo)*
 
 #### Ruby on Rails
 
@@ -699,6 +701,10 @@ Git is the most popular distributed version control system used for software dev
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
 
+Git is a version control system which allows teams to effectively work together and keep all the history of their project development with ability to go back and forth between the history points. It can be very convenient for individuals as well and used in many different fields, not only in development, but in graphic design, writing and many others.
+
+*Contributed by [Seybo](https://github.com/Seybo)*
+
 #### What does SCM stand for?
 
 **S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
@@ -775,7 +781,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+You should use `remote add` command with `remote_name` and `remote_url` paramters like this:
+```
+$ git remote add origin https://github.com/user/repo.git
+```
+
+*Contributed by [Seybo](https://github.com/Seybo)*
 
 #### How do you check the status of your current repo in git?
 
