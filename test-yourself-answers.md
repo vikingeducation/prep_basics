@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets and sent through networks, called packet switched networks, which finds the best available route to get the packets to their destination.
 
 
 #### What are packets?
@@ -515,7 +515,7 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 #### Front End / Back End
 
-"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
+"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. It's basically what we see when we're surfing the web and interacting with a website through a browser. "Back End" refers to the server that hosts a web application and its data—like a user's profile information or a customer's shopping cart and checkout information. Popular frameworks, like Rails, makes creating back end web applications easier, faster, and arguably, more enjoyable.
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
@@ -554,7 +554,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Basically shorthand for what you are planning to code. It's like sketching for programmers. It's typically written in plain English (for English speakers) to help get you started in thinking about the basic logic of a particular functionality or feature.
 
 
 #### C
