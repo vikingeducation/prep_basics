@@ -30,7 +30,9 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers, typically, design the pages and elements that face the end user. Web developers breath life into Web designer's visions using code, sweat, tears and several secret ingredients that may or maynot include the equaly infamous eye of newt and node.js.
+
+*Contributed by [Joshua Maddox](https://github.com/JoshuaMaddox)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -220,6 +222,12 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 
 ## The Command Line
+
+#### What is the difference between committing your changes and pushing them to Github?
+
+Committing changes updates the local repo while pushing them to Github interacts with the remote repo.
+
+*Contributed by [Joshua Maddox](https://github.com/JoshuaMaddox)*
 
 #### What is the command line?
 
@@ -431,9 +439,11 @@ Session (or transient) cookies are stored in temporary memory and erased when br
 
 #### 404 Error
 
-The frustrating page a user receives when the specific page he or she was hoping to access doesn't exist. Can be made less frustrating if it is accompanied by a clever joke, or a picture of a kitten.
 
-*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+A "file not found error" stating that the webpage you wanted desperately to access could not be found. However, it is also a great opportunity for web developers to be creative and hold on to visitors who would possibly be, otherwise, lost to the void. As a wise contributor once said, albiet paraphrased, chuck on some kittens and maybe a clever joke. The internets seem to like kittens.
+
+*Contributed by [Joshua Maddox](https://github.com/JoshuaMaddox)*
+
 
 Nasty error when a page is not found when requested that the hosting domain alerts the user/requester with.
 
@@ -887,7 +897,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
