@@ -393,7 +393,10 @@ API stands for Application Programming Interface, which is a set of programming 
 
 For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
 
+Simply put, API can be interpreted as how computers and web applications share infomration with each other.
+
 *Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Jeffrey Sun](https://github.com/eljefesun)*
 
 
 #### Web Server
@@ -600,6 +603,9 @@ A framework is a platform where common code with generic functionality is ready 
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails, or Rails, for short is a framework written in Ruby. 
+*Contributed by Jeffrey Sun [Jeffrey Sun](https://github.com/eljefesun)*
+
 
 #### Command Line
 
@@ -775,7 +781,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+To add a new remote, use the `git remote add` command in terminal in the directory your repo is stored at.
+The `git remote add` command can take two arguments:
+1. a remote name, `origin`
+2. a remote URL, 'https://github.com/eljefesun/repo.git'
+
+*Contributed by [Jeffrey Sun](https://github.com/eljefesun)*
 
 #### How do you check the status of your current repo in git?
 
