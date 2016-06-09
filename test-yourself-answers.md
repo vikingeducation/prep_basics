@@ -259,6 +259,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
+File permissions can be utilized to keep your data safe and secure. They allow you to control who (user, group, or other) can do what (read, write, or execute) to your information.
+*Contributed by [Jonathan Popenuck](https://github.com/popenuj)
+
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
@@ -385,6 +388,9 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 #### POP & IMAP & SMTP
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+
+POP, IMAP and SMTP are sets of protocols for handling the transfer of data via email. POP (Post Office Protocol) treats your email as a Post Office would, it holds the information for you and waits for you to access and download the email before erasing it from its server. Unlike POP, IMAP (Internet Message Access Protocol) hold on to a copy of your email on the server, even after you have accessed it, allowing you to access your email from the server across multiple locations. SMTP (Simple Mail Transfer Protocol) allows you to send email from a client (such as Outlook) to a server or from one server to another.
+*Contributed by [Jonathan Popenuck](https://github.com/popenuj)
 
 
 #### API
@@ -647,7 +653,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A schema (think schematic!) is a description or representation of the way in which databases are structured.
+*Contributed by [Jonathan Popenuck](https://github.com/popenuj)
+
 
 #### Script
 
