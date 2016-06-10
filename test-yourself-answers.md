@@ -398,6 +398,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
+A web server is a program, using the Hypertext Transfer Protocol (HTTP), which serves, in response to forwarded requests, the files that form web pages to HTTP clients.
+
+*Contributed by [David Battaglia](http://github.com/DPBattaglia)
+
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
@@ -611,6 +615,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+The implementation of History Tracking on a file/s when making changes, additions or deletions to a file/s. It usually contains: what was changed, when it was changed and who changed it with its emphasis on being open for reveiw at anytime in the future.
+
+*Contributed by [David Battaglia](http://github.com/DPBattaglia)
+
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -647,7 +656,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Basically referring to the description of the structure of your database. It's an XML (Extensible Markup Language) document which describes the structure of other XML documents.
+
+*Contributed by [David Battaglia](http://github.com/DPBattaglia)
 
 #### Script
 
