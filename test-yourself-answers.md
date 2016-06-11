@@ -316,6 +316,8 @@ $PATH dictates the locations within a file tree that contains commands executabl
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+If the command line can't find a command, you might need to tell it where the command is located by using the $PATH variable.
+
 #### What are alias commands?
 
 Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
@@ -335,6 +337,7 @@ Define the following:
 
 ### The Web
 
+The World Wide Web (WWW) is an information space where documents and other web resources are identified by URLs, interlinked by hypertext links, and can be accessed via the Internet. The World Wide Web was invented by English scientist Tim Berners-Lee in 1989. He wrote the first web browser in 1990 while employed at CERN in Switzerland.
 
 #### URL( Uniform Resource Locator)
 
@@ -401,6 +404,8 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+Web servers are computers that deliver (serves up) Web pages. Every Web server has an IP address and possibly a domain name. For example, if you enter the URL http://www.webopedia.com/index.html in your browser, this sends a request to the Web server whose domain name is webopedia.com.
 
 
 #### Bugs
