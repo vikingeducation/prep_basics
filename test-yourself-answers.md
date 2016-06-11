@@ -317,6 +317,7 @@ You might need to add onto your $PATH variable so an application can be found an
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 If the command line can't find a command, you might need to tell it where the command is located by using the $PATH variable.
+*Contributed by [Tamal Riedman](http://github.com/triedman99)*
 
 #### What are alias commands?
 
@@ -338,6 +339,7 @@ Define the following:
 ### The Web
 
 The World Wide Web (WWW) is an information space where documents and other web resources are identified by URLs, interlinked by hypertext links, and can be accessed via the Internet. The World Wide Web was invented by English scientist Tim Berners-Lee in 1989. He wrote the first web browser in 1990 while employed at CERN in Switzerland.
+*Contributed by [Tamal Riedman](http://github.com/triedman99)*
 
 #### URL( Uniform Resource Locator)
 
@@ -406,6 +408,7 @@ A program usually running on a remote computer that responds to requests from a 
 *Contributed by [Unknown]*
 
 Web servers are computers that deliver (serves up) Web pages. Every Web server has an IP address and possibly a domain name. For example, if you enter the URL http://www.webopedia.com/index.html in your browser, this sends a request to the Web server whose domain name is webopedia.com.
+*Contributed by [Tamal Riedman](http://github.com/triedman99)*
 
 
 #### Bugs
