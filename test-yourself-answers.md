@@ -540,9 +540,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+JavaScript is a computer programming language for scripting interactive effects inside web browsers. Perfect for manipulating web pages on the front-end, but relies on Node.js to be used on the back-end.
 
+(https://github.com/fredlazo)
 #### AJAX
 
 AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.  A good example would be real-time updating of a twitter or facebook feed.
@@ -609,7 +610,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+Version control is a system that records changes to a file or set of files over time so that you can recall specific versions later. 
+
+(https://github.com/fredlazo)
 
 #### Git
 
@@ -647,7 +650,13 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+
+An XML document that specifies how to formally describe the elements in an Extensible Markup Language (XML) document. It can be used by programmers to verify each piece of item content in a document. It's used to express a set of rules to which an XML document must conform in order to be considered "valid" according to that schema, such as the elements and attributes that can appear in a document, the number of (and order of) child elements, data types for elements and attributes and default and fixed values for elements and attributes.
+
+
+(https://github.com/fredlazo)
+
+
 
 #### Script
 
