@@ -228,9 +228,21 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+**Windows**
+1. Press `Windows Key + R`.
+2. Enter `cmd`.
+3. Hit `Enter`.
+
+**Mac**
+1. Press `Command + Space`.
+2. Type `terminal`.
+3. Hit `Enter`.
+
+**Linux**
+1. Press `Ctrl + Alt + T`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Catherine](http://github.com/khopsickle)*
 
 #### What is Bash?
 
@@ -326,8 +338,11 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### How do you set up an alias command?
 
+In your `~/.bash_profile`: `alias textedit='open -a TextEdit'` will create an alias 'textedit' that works as a short cut for the command `open -a TextEdit`.
 
+*Contributed by [Catherine](http://github.com/khopsickle)*
 
 ## Terms to Know
 
@@ -647,7 +662,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML document that describes of your database's structure.
+
+*Contributed by [Catherine](http://github.com/khopsickle)*
 
 #### Script
 
@@ -887,7 +904,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
