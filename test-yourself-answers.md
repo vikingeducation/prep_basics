@@ -647,7 +647,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+An XML Schema is a language used for expressing constraints about XML documents. A Schema can be used to provide a list of elements and attributes in a vocabulary, to associate types with values found in documents, to constrain where elements and attributes can appear, and what can appear inside those elements, to provide documentation that is both human-readable and machine-processable and to give a formal description of one or more documents.
 
 #### Script
 
@@ -775,7 +775,7 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add <remote-name> <git-url>
 
 #### How do you check the status of your current repo in git?
 
