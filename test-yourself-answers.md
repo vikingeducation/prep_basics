@@ -891,4 +891,16 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is the difference between "add," "commit," and "push" in Git?
 
+"Add" adds a file to Git's tracking system, basically telling it to start keeping track of changes made to it. "Commit" moves a file from the "staging area" (where it was initially moved to by "add") to the local repo. Finally, "push" moves local changes to our remote repo, on Github.
+
+#### How do a URL, DNS, IP Address, and Domains interact to bring you content from the Web? 
+
+A URL - Uniform Resource Locator - is a string of human-readable characters that brings you things like HTML and CSS from an IP Address via a DNS (Domain Name Service). The DNS links an IP Address to a Domain, which is like the plot of land a house (website) is built on. 
+
+#### What's the difference between the "log" and "status" commands?
+
+Git's "status" command gives info about the current state of the current Git repo (on your local computer). Git's "log" command gives a history of changes you've committed and when those committments were made. 
+
+*Contributed by [Matthew Hinea](https://github.com/mnd-dsgn)*
