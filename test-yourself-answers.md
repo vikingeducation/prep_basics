@@ -93,9 +93,12 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
+Humility: It is important for a junior developer to continually grow his/her awareness and knowledge of the web development industry, share this information with the team when appropriate, and accept the ultimate decisions of senior members humbly. Otherwise, there will be too many cooks in the kitchen, so to speak. 
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Jocelyn Moore](http://github.com/jocelynmoore)*
 
 
 #### What is the hiring process like for a developer?
@@ -746,7 +749,10 @@ By typing a git command, "git commit -m "Your message". It will move the files f
 
 The other way is typing a git commit -am "Your message", which will both stage and commit changes.
 
+Note: $ git commit -am "your message" will not delete files that have been deleted without the git rm command.
+
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Jocelyn Moore](https://github.com/jocelynmoore)*
 
 #### What is the difference between staging and committing changes?
 
@@ -775,7 +781,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+*Your explanation here!*$ git remote add origin [insert link for the repository - copied from gitHub]
+
+To verify you added the Github repository as the remote correctly, run $ git remote -v. 
+
+*Contributed by [Jocelyn Moore](https://github.com/jocelynmoore)*
 
 #### How do you check the status of your current repo in git?
 
