@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -78,7 +78,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -91,7 +91,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -117,7 +117,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into smaller "packets" of information. This is to encourage smooth traffic flow. Each packet is transmitted independently, so different packets may take different paths to get to the destination computer (depending on the traffic of various channels). At the destination computer the packets are reassembled for the end user. 
+
+*Contributed by [Kaitlyn Schorr](https://github.com/kait-schorr)*
+
 
 
 #### What are packets?
@@ -174,18 +177,18 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+Hypertext markup language, a language of tags used to define the structure and content of Web pages, such as headings, lists, paragraphs, line breaks, images, etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+
+HTML stands for HyperText Markup Language. When broken down, *HyperText* is text that is not forced to be linear. This means that the text can link to any other part of the web at any point via *hyperlinks*. *Markup* is a form of language that uses specific rules to differentiate instructions for the client from the text to be displayed. In HTML tags are used to instruct the client about the proper structure, layout, and formatting of information. 
+
+*Contributed by [Kaitlyn Schorr](https://github.com/kait-schorr)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment, and other design aspects of a page. In short, it makes the raw information look pretty,a nd it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
@@ -231,6 +234,12 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+In Ubuntu hit Ctrl + Alt + T to open the terminal. 
+
+The same shortcut will open the crosh or *Chrome Shell* on a chromebook. In the crosh (if your computer is in development mode), use the command "shell" to open a full bash shell. From there you can run more Linux commands, or launch a Linux environment if you have one installed alongside ChromeOS. 
+
+*Contributed by [Kaitlyn Schorr](https://github.com/kait-schorr)*
 
 #### What is Bash?
 
