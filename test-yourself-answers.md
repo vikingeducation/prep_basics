@@ -687,8 +687,11 @@ RVM is helpful because some gems, tools, and frameworks may only work with a par
 #### What is XCode?
 
 An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
+The IDE's job is to handle many of the repetitive tasks involved in writing new software from code. 
+It is 'integrated' because all of these functions that handles these repetitive tasks exist in this single piece of software.
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+*Contrubuted by [Swe Sin Tha](https://github.com/sintharella)*
 
 
 ## Git
@@ -750,9 +753,11 @@ The other way is typing a git commit -am "Your message", which will both stage a
 
 #### What is the difference between staging and committing changes?
 
-Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
+Staging is adding untracked files into the staging area so that Git can start tracking its changes. We use the git command "git add your_file", "git add . ", or "git add -A" for this. The files in the staging area are not in our repository yet. We can still add or remove files from the stage before storing them in the repository. 
 
-*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+Committing means to store our staged change in the repository. We use the git command "Git commit -m" for this. 
+
+*Contrubuted by [Swe Sin Tha](https://github.com/sintharella)*
 
 
 
@@ -775,7 +780,12 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+Use the "git remote add" command
+It has to include 2 arguments: "origin" and a remote url
+
+So, for example: "git remote add origin https://github.com/sintharella/prep_basics.git"
+
+*Contrubuted by [Swe Sin Tha](https://github.com/sintharella)*
 
 #### How do you check the status of your current repo in git?
 
