@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -58,7 +58,12 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+In the Dallas-Fort Worth area there is a local branch of HackerNest that puts on bimonthly tech socials that apparently supply free drinks and seem to be focused on networking. A more specialized group would be the Dallas Ruby Brigade which has three hacknights per month and a monthly meeting where they focus on different topics such as optimization, deployment, or testing.
+
+*Contributed by [Matt Morris](http://github.com/mcm0027)*
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
 
 #### What online developer communities can you join?
 
@@ -224,7 +229,13 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
+The command line can also be a much more powerful and less resource intensive way (as opposed to a GUI) to input commands and do all the things listed above. For instance, scripts can be created that will run a complex series of commands with a quick input of text in the command line. 
+
+*Contributed by [Matt Morris](http://github.com/mcm0027)*
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
 
 #### How do you open it on your computer?
 
@@ -269,6 +280,14 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
+or
+
+'$ info <cmd>'
+
+
+*Contributed by [Matt Morris](http://github.com/mcm0027)*
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -775,7 +794,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+'$ git remote add origin https://github.com/username/example.git'
+
+*Contributed by [Matt Morris](http://github.com/mcm0027)*
+
 
 #### How do you check the status of your current repo in git?
 
