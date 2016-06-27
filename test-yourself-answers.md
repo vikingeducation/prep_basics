@@ -30,7 +30,9 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web developers programs and scripts that help create the main structure of the website.  A web designer makes the website user friendly and appealing to the users.
+
+*Contributed by [Ben Silbernagel](https://github.com/jacob31)* 
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -758,6 +760,9 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 ### Remotes
 
+Remote is a connection with another repository.  You can than get updates of the changes that have happened to that repository.
+
+*Contributed by [Ben Silbernagel](https://github.com/jacob31)*
 
 #### What is the difference between committing your changes and pushing them to Github?
 
@@ -775,7 +780,11 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+enter the command line instruction:
+
+git remote add /<original repository url/>
+
+*Contributed by [Ben Silbernagel](https://github.com/jacob31)*
 
 #### How do you check the status of your current repo in git?
 
