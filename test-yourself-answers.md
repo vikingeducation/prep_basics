@@ -774,8 +774,15 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 
 #### How do you add your Github repo as the remote?
+To add:
+                                        **Replace "user" and "repo"  accordingly
+git remote add origin https://github.com/user/repo.git
 
-*Your explanation here!*
+To check/confirm:
+git remote -v
+
+*Contributed by [Kenny Kottenstette](https://github.com/kotten1)*
+
 
 #### How do you check the status of your current repo in git?
 
@@ -892,3 +899,11 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### In Ruby, what is a hash?
+A hash is a collection of unique keys with their values.
+*Contributed by [Kenny Kottenstette](https://github.com/kotten1)*
+
+#### What is IRB?
+It is an Interactive Ruby Shell.
+
+*Contributed by [Kenny Kottenstette](https://github.com/kotten1)*
