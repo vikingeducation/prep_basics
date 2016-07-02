@@ -60,6 +60,11 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Although there aren't many developer community meet ups within an hour of my location, i know i can always find places online with knowledgeable people that are willing to help and give guidance. online communities such as many forums and social media groups can be indispensable.
+
+*Contributed by [GiL](https://github.com/Gilsrageous)*
+
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
@@ -647,7 +652,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+A Schema is a collection of objects in a database associated with and created by/for 1 particular schema owner with a username. a database can consist of multiple schemas and users. the user has certain control over the objects depending on the privileges allowed by the database.*
+
+*Contributed by [GiL](https://github.com/Gilsrageous)*
 
 #### Script
 
@@ -775,7 +782,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+$ git remote add remote_name remote_URL.git
+
+*Contributed by [GiL](https://github.com/Gilsrageous)*
+
 
 #### How do you check the status of your current repo in git?
 
