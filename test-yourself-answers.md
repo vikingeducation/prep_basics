@@ -647,8 +647,8 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-Generally, schema refers to a model that represents the relationships between database tables. (eg. the unique keys that correspond to each table)
-More info can be found at wikipedia - https://en.wikipedia.org/wiki/Database_schema
+Generally, schema refers to a model that represents the relationships between database tables. Per wikipedia - "'schema' refers to the organization of data as a blueprint for how the database is constructed."
+More info here - https://en.wikipedia.org/wiki/Database_schema
 
 
 #### Script
