@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -165,7 +165,7 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+A DNS (Domain Name System) server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
@@ -647,7 +647,9 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Generally, schema refers to a model that represents the relationships between database tables. Per wikipedia - "'schema' refers to the organization of data as a blueprint for how the database is constructed."
+More info here - https://en.wikipedia.org/wiki/Database_schema
+
 
 #### Script
 
