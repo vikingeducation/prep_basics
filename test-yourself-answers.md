@@ -592,7 +592,10 @@ Most gems are open source, and used in most applications. The majority of gems p
 
 A framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
 
+A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 
 
