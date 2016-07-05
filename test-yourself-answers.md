@@ -794,6 +794,7 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 git remote add origin URL
 
 URL is copied from my repo in my GitHub account
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### How do you check the status of your current repo in git?
 
