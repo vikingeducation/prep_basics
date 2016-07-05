@@ -663,6 +663,8 @@ Example:
 
 In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
 
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
@@ -789,7 +791,9 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add origin URL
+
+URL is copied from my repo in my GitHub account
 
 #### How do you check the status of your current repo in git?
 
