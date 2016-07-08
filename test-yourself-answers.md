@@ -143,7 +143,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special device that waiting for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -592,7 +592,10 @@ Most gems are open source, and used in most applications. The majority of gems p
 
 A framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
 
+A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 
 
@@ -647,7 +650,20 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 #### Schema
 
-*Your explanation here!*
+Schema -  defines a set of rules as to how XML documents should look like, what tags are used for what actions, where and how to use them.
+
+Example:
+--This definition is in the schema document:
+<!ELEMENT List (Item)+> 
+
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+<List>
+  <Item>Chocolate</Item>
+</List>
+
+In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
+
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### Script
 
@@ -775,7 +791,10 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-*Your explanation here!*
+git remote add origin URL
+
+URL is copied from my repo in my GitHub account
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### How do you check the status of your current repo in git?
 
