@@ -4,4 +4,4 @@ This repo houses the student-sourced solutions to the "Test Yourself" questions 
 
 These solutions can be found in the [`test-yourself-answers.md`](/test-yourself-answers.md) file, and that's the file you'll need to contribute to as part of the unit's [final project](http://vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line).
 
-Check out [http://vikingcodeschool.com](http://vikingcodeschool.com) to learn more about the program.
+Check out [http://vikingcodeschool.com](http://vikingcodeschool.com) to learn more about the program!
