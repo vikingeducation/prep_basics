@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+There is a DC ruby group that meets at least once a month and often hosts monthly hack-nights as well available at [meetup.com](meetup.com/dcruby)
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Patrick Sullivan](http://github.com/patsul12)*
 
 #### What online developer communities can you join?
 
@@ -118,6 +121,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
+
+This is done because transmitting a large amount of data over the network as one entity can clog up pathways and not allow other communications to occur while the data is being processed. By splitting large files down into small packets they can be sent across different pathways distributed across the network as to not bog down any single channel.
+
+*Contributed by [Patrick Sullivan](https://github.com/patsul12)*
 
 
 #### What are packets?
@@ -339,7 +346,11 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
+
+URLs can also contain parameters appended to the end of them that various languages can use to alter what is shown on the page.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Patrick Sullivan](https://github.com/patsul12)*
 
 
 #### Domain
