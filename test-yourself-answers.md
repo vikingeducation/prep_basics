@@ -22,11 +22,9 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
+Web developers are deep thinkers and detectives. They work to access a need (what does a website or app need to look like/do?), design a something that meets the need(mockups), and build a website/app to deliver on a client's needs. They work to optimize already created projects while solving problems and bugs that break the end user experience. A web delevoper's job is never done because there is always an exciting new idea for them to design, build, and deploy!
 
-In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Justin Hall](https://github.com/justindhall)*
 
 #### What's the difference between web developers and web designers?
 
@@ -77,10 +75,16 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+A great web developer is:
+
+Clever - Developers must quickly access a problem and design a solution, often times requiring the ability to look at a situation from many different angles
+
+Efficient - In time management--solving issues and moving on to ever developing new bugs--and in code writing--clean code helps yourself and others continue to build on projects.
+
+Patient: Problems will come along that seem impossible to solve; you have to be able to continue to push forward through struggles in order to have success!
+
+
+*Contributed by [Justin Hall](https://github.com/justindhall)*
 
 
 #### What do companies look for in a junior web developer?
@@ -273,11 +277,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
-The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+You! But sometimes you have to remind your computer who you are. You can use the "sudo" command to access superuser privileges that allow you to affect system files, change normally secure objects, or interact with otherwise locked files on your computer.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
-
-*Contributed by [Matt Davis](http://github.com/chiewieee)*
+*Contributed by [Justin Hall](http://github.com/justindhall)*
 
 #### What is Vim?
 
