@@ -239,18 +239,18 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### How can you navigate into a particular file directory?
 
-`$ cd <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+Type `$ cd <directoryName>` in the command-line. The 'cd' stands for 'call directory'.
+*Contributed by [Shaun Savage](https://github.com/swansavage)*
 
 #### How can you create a directory?
-`$ mkdir <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+Type `$ mkdir <directoryName>` in the command-line. The 'mkdir' is a shortening of 'make directory'.
+*Contributed by [Shaun Savage](https://github.com/swansavage)*
 
 #### How can you destroy a directory or file?
 
-`$ rm <fileName>`
-`$ rm -rf <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+Type `$ rm <fileName>` for files
+or `$ rm -rf <directoryName>` for directories. The 'rm' is a shortening of 'remove'
+*Contributed by [Shaun Savage](https://github.com/swansavage)*
 
 #### How can you rename a directory or file?
 
