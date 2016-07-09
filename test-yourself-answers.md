@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+Unfortunately, there has no good meetups or groups in Nanjing, China. But, definitly I will make one later. The best bet now would be Ruby-China.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Bran Liang](https://github.com/BranLiang/)*
 
 #### What online developer communities can you join?
 
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +909,12 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### Anyother github like website to use?
 
+Apart from the well known there are a few other website which also supports the git. The most well popular one would be the Bithucket. Unlike the github, Bitbucket support unlimited private repository.
+
+*Contributed by [Bran Liang](https://github.com/branliang)*
