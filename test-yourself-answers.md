@@ -65,7 +65,10 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
+ProgrammingForums.org, news.ycombinator.com, subreddits, and sites similar to codeacademy are great. 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Andrew Bonneau](https://github.com/abonn)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -334,7 +337,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+Short for World Wide Web (The global communication network that allows almost all computers to connect and exchange information.
+*Contributed by [Andrew Bonneau](https://github.com/abonn)*
 
 #### URL( Uniform Resource Locator)
 
@@ -454,7 +458,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 
 ### Design
+The purpose or intention that exists behind an action, fact, or object.
 
+*Contributed by [Andrew Bonneau](https://github.com/abonn)*
 
 #### WYSIWYG
 
