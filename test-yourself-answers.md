@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -314,7 +314,11 @@ $PATH dictates the locations within a file tree that contains commands executabl
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
+Many of the development utilities you download have their own set of commands in the command line, ex. git, ruby version manager, homebrew, etc.  Appending your $PATH variable in .bash_profile is how your shell knows to use these commands.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Brad Lacke](https://github.com/thedodus)*
 
 #### What are alias commands?
 
