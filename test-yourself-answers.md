@@ -850,12 +850,23 @@ Branching is when the developer creates a separate version of their local reposi
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+#### What is "Branching"?
+
+A branch is a seperate, or independent line of development for the edit, add, and commit process. You can think of them as a way to request a brand new 'cloned' working directory wthout disrupting or disturbing the master files. New commits are formed on a 'branch' or fork from the original project hitory, so catastophic damages can be avoided.
+
+*Contributed by [Matt Gordon](http://github.com/redemption5525)*
 
 #### Why would you use a branch?
 
 Using a new branch allows the developer to make experimental changes to their project while having the ability to either discard those changes later, or merge them into their main project. It also allows teams to work off the master branch simultaneously and merge them all later.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
+#### Why would you use a branch?
+
+Using a new branch is a great way to work on features or concepts without damaging the original project history and working directory. You can edit, stage, and make commits without damaging the original master. 
+
+*Contributed by [Matt Gordon](http://github.com/redemption5525)*
 
 
 #### How do you create a new branch?
@@ -868,7 +879,19 @@ git checkout -b branch_name
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+#### How do you create a new branch?
 
+You can create a new branch by typing:
+
+```git branch new_branch_name```
+
+respectively you can delete a newly created branch by typing:
+
+```git branch -d new_branch_name```
+
+You will recieve a prompt if there are un saved commits.
+
+*Contributed by [Matt Gordon](http://github.com/redemption5525)*
 
 #### Why would you use a branch?
 
