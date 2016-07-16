@@ -44,15 +44,18 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Dynamic pages allow users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. A lot of times you will find your answer turning up on StackExchange.
+
+Many developers use the Read > Search > Ask methodology when they get stuck. Read the documentation, search google, and ask for help using StackExchange or a local meetup or online community. 
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Sam Jolley](https://github.com/samjolley)*
 
 #### Where are the closest developer communities to you?
 
@@ -60,11 +63,16 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+In Flint, Michigan, there's a Free Code Camp group (https://www.facebook.com/groups/free.code.camp.flint/), along with occasional meetups like the 2016 WP Ann Arbor Meetup (WordPress Ann Arbor)
+
+*Contributed by [Sam Jolley](https://github.com/samjolley)*
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -80,6 +88,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -114,6 +123,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+#### What is the difference between the internet and the web?
+
+The web is an application that allows us humans to read and interact with websites and web apps using web browsers. The framework that the web uses to communicate is the internet (see "What is the internet" above)
+
+*Contributed by [Sam Jolley](https://github.com/samjolley)*
 
 #### How is information broken down and sent?
 
@@ -203,7 +217,7 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 #### What happens behind the scenes after you click "search" on google.com?
 
 A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
+Picoseconds later (a lot of them) the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
 Milliseconds later (a group of them) a command is sent to open up an http handshake
 Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
@@ -250,25 +264,29 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permission prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -282,9 +300,11 @@ The "Superuser" is a user of a computer system with special privileges needed to
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable, it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
@@ -612,11 +632,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between specific time stamps for coding.
 
 #### Git
 
-One of the most popular open-source version control systems.
+One of the most popular open-source version control systems (VCS).
 
 #### Open Source
 
@@ -730,7 +750,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### Why is Git useful for a developer?
 
-Git version control system is useful for a developer because it allows the developer the ability to access previous versions of their project, essentially being able to rewind time if they decide that a previous commit is better suited for their needs; be it a current implementation isn't working out, or to investigate changes to find where any problems may exist.
+The Git version control system is useful for a developer because it allows the developer the ability to access previous versions of their project, essentially being able to rewind time if they decide that a previous commit is better suited for their needs; be it a current implementation isn't working out, or to investigate changes to find where any problems may exist.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
@@ -751,7 +771,7 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
-#### How do you create it on Github?
+#### How do you create a new git repository on Github?
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
