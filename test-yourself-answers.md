@@ -34,7 +34,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
@@ -213,6 +213,8 @@ Decaseconds later (two point five of them, in this case) your search is returned
 "About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
 
 There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
+
+Google is calculating the especially rank of a page. Therefore Google looks how many websites are linking to a webpage. 
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
@@ -560,7 +562,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 #### C
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
-
+C is a highly portable language. 
 
 #### Ruby
 
