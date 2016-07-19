@@ -114,10 +114,14 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+#### What is the Web?
+
+The Web is an information sharing model that uses languages like HTTP to help people communicate. Not to be confused with the internet which is the network structure, the web utilizes that structure to offer content. 
+
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information, also known as data, is sent across a network and is broken down into packets of data. These packets are on average 576 bytes and never exceeding 65535 bytes. Information is added to packets tell them where to go and what protocols to follow. When machines are connected and have communicated the right addresses the packets are sent over the network. 
 
 
 #### What are packets?
@@ -275,7 +279,7 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
+'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user. The command line will prompt you for your admin password which you will not see as you type. Once used you wont have to re-input sudo for 15 min.
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
@@ -315,6 +319,8 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+When the executable file can't be found sometimes it is ouside of your $PATH environment variable. By adding onto the $PATH it now knows where to look for the file. 
 
 #### What are alias commands?
 
