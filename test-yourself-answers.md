@@ -237,10 +237,20 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+The Bourne Again SHell (Bash) is a shell program. It gives users the ability to interact directly with their computer’s operating system rather than using finder or another alternative. 
+*Contributed by [Tricia O'Toole](http://github.com/TOToole38)*
+
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+Using the change directory (cd) command and either a relative path:
+ `$ cd <parentDirectory>/<targetDirectory>`
+
+Or an absolute path: `cd ~/<mymac>/<Documents>/<VCS>`
+*Contributed by [Tricia O'Toole](http://github.com/TOToole38)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
@@ -770,6 +780,9 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+Committing your changes will permanently store a snapshot of your files at that point in time. However, they will only be stored locally. They will not be available on Github. 
+Pushing to Github will store a snapshot of your files and their commit history at that point in time on Github. This means that any changes you made will become available publicly. At this time, your work will be safely backed up and will be available for others to work on and/or view. 
+*Contributed by [Tricia O'Toole](http://github.com/TOToole38)*
 
 
 ### Remotes
