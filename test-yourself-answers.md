@@ -517,7 +517,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 "Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
 
+In other words, "Front End" refers to what the use interacts with while "Back End" is the "guts" of the web application.
+
 *Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [Eric Sirinian](https://github/esirinian)*
 
 ### Developer Tools and Code
 
@@ -530,6 +533,10 @@ The markup language which specifies the structure of all the pieces of a webpage
 Hypertext markup language:  The coding read by web browsers that dictates the layout and style of coding within a web server.
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+
+HTML, a language that does not need to be installed as all web browsers can read and understand it, serves as a markup language which allows developers to control what information their webpage will display.  It does not control the aesthetic aspects.
+
+*Contributed by [Eric Sirinian](http://github.com/esirinian)*
 
 
 #### CSS
@@ -555,6 +562,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+Pseudo-Code is a detailed but easy to understand outline of what your program is meant to do.  Usually following the general syntax of the coding language, it is written in everyday language.  It allows developers to gather a better understanding of the direction of the program as well as uncover any redundancies or errors that would otherwise be more costly to fix when writing code.
+
+*Contributed by [Eric Sirinian](https://github.com/esirinian)*
 
 
 #### C
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +917,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
