@@ -330,8 +330,7 @@ i.e. 'subl text.txt'
 
 #### What are the modern non-default CLI terminals?
 
-[Conemu](https://conemu.github.io/)
-[HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
+[Conemu](https://conemu.github.io/), [HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
 
 *Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
