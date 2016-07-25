@@ -64,8 +64,10 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
-Look at r/Programming or r/learnprogramming
+Useful online web developer communities: r/Programming, r/learnprogramming, [FreeCodeCamp Forum](http://forum.freecodecamp.com/)
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -326,8 +328,11 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### What are the modern non-default CLI terminals?
 
+[Conemu](https://conemu.github.io/), [HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
 
+*Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
 ## Terms to Know
 
@@ -762,7 +767,10 @@ By typing a git command, "git commit -m "Your message". It will move the files f
 
 The other way is typing a git commit -am "Your message", which will both stage and commit changes.
 
+By typing a git command `git commit -A` you are commiting your changes icluding deleted files and folders. It can be useful if you want to track ALL changes in the project.
+
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
 #### What is the difference between staging and committing changes?
 
