@@ -65,9 +65,9 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Useful online web developer communities:
-	* r/Programming
-	* r/learnprogramming
-	* [FreeCodeCamp Forum](http://forum.freecodecamp.com/)
+	*r/Programming
+	*r/learnprogramming
+	*[FreeCodeCamp Forum](http://forum.freecodecamp.com/)
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 *Contributed by [Vanya Temchur](http://github.com/ttemcha)*
