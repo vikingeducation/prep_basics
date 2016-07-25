@@ -64,10 +64,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
-Useful online web developer communities:
-	*r/Programming
-	*r/learnprogramming
-	*[FreeCodeCamp Forum](http://forum.freecodecamp.com/)
+Useful online web developer communities: r/Programming, r/learnprogramming, [FreeCodeCamp Forum](http://forum.freecodecamp.com/)
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 *Contributed by [Vanya Temchur](http://github.com/ttemcha)*
@@ -333,8 +330,9 @@ i.e. 'subl text.txt'
 
 #### What are the modern non-default CLI terminals?
 
-	* [Conemu](https://conemu.github.io/)
-	* [HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
+
+	1. [Conemu](https://conemu.github.io/)
+	2. [HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
 
 *Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
