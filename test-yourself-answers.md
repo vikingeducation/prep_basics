@@ -330,9 +330,8 @@ i.e. 'subl text.txt'
 
 #### What are the modern non-default CLI terminals?
 
-
-	1. [Conemu](https://conemu.github.io/)
-	2. [HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
+[Conemu](https://conemu.github.io/)
+[HyperTerm](https://hyperterm.org/) - beautiful and extensible CLI built with HTML/CSS/JS!
 
 *Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
@@ -772,6 +771,7 @@ The other way is typing a git commit -am "Your message", which will both stage a
 By typing a git command `git commit -A` you are commiting your changes icluding deleted files and folders. It can be useful if you want to track ALL changes in the project.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Vanya Temchur](http://github.com/ttemcha)*
 
 #### What is the difference between staging and committing changes?
 
