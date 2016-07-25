@@ -119,6 +119,14 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Information such as an email or file that is sent from one computer to another is broken down into packets of not more than 1500 characters to ensure traffic will flow smoothly, this is because there is limited room for messages to be transmitted along the internet.
+
+These individual packets are then sent to the recipient computer individually and often arrive via different routers dependant on the traffic flowing through that router.
+
+The packets are then reassembled by using packet headers to assign each packet to its place in the whole message.
+
+*Contributed by [Beth Thomas](https://github.com/TristaGW)*
+
 
 #### What are packets?
 
@@ -335,6 +343,9 @@ Define the following:
 
 ### The Web
 
+The World Wide Web is an information sharing model that is built on top of the internet infrastructure. The Web uses HTTP protocol to transmit data and allows browsers such as Chrome and Firefox to access web pages via hyperlinks.
+
+*Contributed by [Beth Thomas](https://github.com/TristaGW)*
 
 #### URL( Uniform Resource Locator)
 
@@ -386,6 +397,15 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+POP, IMAP and SMTP are TCP/IP protocols used for mail delivery, a protocol is the specific set of communication rules used between computers. 
+
+POP3 stands for Post Office Protocol and allows the email client such as gmail to download an email from the server and then deletes the email from the server. POP3 normally uses port 110.
+
+IMAP stands for Internet Message Access Protocol and similarly allows messages to be downloaded from a server to an email client. It offers more featers than POP including not deleting the messages once they have ben downloaded but storing them on the server, this means it also requires more disk space. IMAP normally uses port 143
+
+SMTP stands for Simple Mail Transfer Protocol and is used when email is delivered from client back to server. It normally uses port 25.
+
+*Contributed by [Beth Thomas](https://github.com/TristaGW)*
 
 #### API
 
