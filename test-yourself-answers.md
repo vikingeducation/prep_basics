@@ -176,18 +176,22 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+etc. By Analogy, HTML is to a website as a frame is to a house. It provides order and support but aesthetically may not be much to look at.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Michael Manges](https://github.com/michaelkeithm)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
+CSS can be thought of as an interior decorator and an artist. It comes along and makes the boring and structured HTML pleasing to look at. 
+
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Michael Manges](https://github.com/michaelkeithm)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -223,8 +227,9 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+A command line interface, or CLI, provides direct access to your computer's operating system or an application through a simple terminal or shell. A CLI does not unitilize a graphical user interface (GUI). Rather users enter commands one line a time. Hence, the name *command line*.
+
+*Contributed by [Michael Manges](https://github.com/michaelkeithm)*
 
 #### How do you open it on your computer?
 
