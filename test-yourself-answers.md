@@ -184,12 +184,14 @@ etc. By Analogy, HTML is to a website as a frame is to a house. It provides orde
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
+CSS can be thought of as an interior decorator and an artist. It comes along and makes the boring and structured HTML pleasing to look at. 
+
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Michael Manges](http://github.com/michaelkeithm)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
