@@ -176,8 +176,10 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+etc. By Analogy, HTML is to a website as a frame is to a house. It provides order and support but aesthetically may not be much to look at.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Michael Manges](http://github.com/michaelkeithm)*
 
 
 #### What is CSS and how is it used?
