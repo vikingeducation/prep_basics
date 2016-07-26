@@ -384,8 +384,10 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
-
+POP or POP3 stands for Post Office Protocol, it is used to retrieve email messages from a mail server. The way it generally works is, first connects to the mail server on port 110. then it retrieves the email messages. Thridly deletes copies of the messages stored on the server. Finally diconects from server.
+IMAP stands for internet message access protocol and is a standard email protocol that stores email messages on a mail server, but allows the end user to view and minipulate the message is if they where stored locally.
+a quick run down is as follows. First connects to the mail server on port 143, then retrieves email messages and then stays connected until the mail client app is closed and downloads messages on request.
+SMTP stands for simple mail transfer protocol. this protocol is mostly used for sending out email from an email client to an email server. It is also used for relaying mail messages from one mail server to another. this ability to relay messages in necessary if the sender and recipient have different email service providers. SMTP uses the port 25 by default but may also use port 587 and port 465
 
 #### API
 
@@ -626,10 +628,7 @@ Free licensed code.
 
 #### CMS
 
-CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
-
-*Contributed by [Adan Camacho](https://github.com/adancode)*
-
+CMS stands for Content Management System, it is an applacation that supports the creation and modification of digital content.
 #### Database
 
 A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. They cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
@@ -667,9 +666,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
-
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+A script is a program or sequence of instrucions that are interpreted by another program rather than the computer processor. This process is unlike that of a compiled program.
 
 
 
