@@ -6,7 +6,18 @@ This is the file you'll use to add your answers to the [Test Yourself exercise](
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
 
-Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
+How do you setup the subl shortcut?
+
+Google is an amazing tool.  This was the only part of the Design Project I struggled with to complete successfully.  All that said, maybe a little more detail might be included with the explanation.
+
+How do you see the history of your previous commits (from the command line)?
+
+git log displays the history of previous commits.
+
+What is the .bash_profile file and what is it used for?
+
+The '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+Contributed by [Brett Cole](https://github.com/bc86)
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
