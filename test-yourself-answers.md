@@ -17,6 +17,7 @@ git log displays the history of previous commits.
 What is the .bash_profile file and what is it used for?
 
 The '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+Contributed by https://github.com/bc86
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
