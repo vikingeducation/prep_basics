@@ -827,6 +827,10 @@ A pull request is when you contribute to someones else's project, and you let th
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+Pull requests let you tell others about changes you've pushed to a GitHub repository. 
+
+
+*Contributed by [Graeme Stewart Watt](http://github.com/frendo)*
 
 #### What is "Forking" a repo?
 
