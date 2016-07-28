@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -467,8 +467,14 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
 
+
+
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+With version 2.0, the popular front-end framework Bootstrap incorporated responsive design into its product. When 3.0 launched, Bootstrap moved to a mobile-first approach which heavily emphasized responsive design.
+
+*Contributed by [Michael Brenckle](https://github.com/ballerstatus)*
 
 
 #### Grid System
@@ -556,6 +562,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Pseudo-code is used to conceptualize the design of a program or algorithm, but is intended for human reading as opposed to machine reading. This can be helpful for determining the structure of a program prior to the actual coding.
+
+*Contributed by [Michael Brenckle](https://github.com/ballerstatus)*
 
 #### C
 
