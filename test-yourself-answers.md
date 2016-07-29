@@ -242,9 +242,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+$ cd <pathToDirectory>/<directoryName>
+*Contributed by [Serg Kulakov](http://github.com/sergtt)*
+
 #### How can you create a directory?
 `$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+$ mkdir <pathToDirectory>/<directoryName>
+*Contributed by [Serg Kulakov](http://github.com/sergtt)*
 
 #### How can you destroy a directory or file?
 
@@ -270,6 +276,14 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+MacOS Teminal:
+`$ man <command>
+
+Bash for Windows:
+$ help <command>
+
+*Contributed by [Serg Kulakov](http://github.com/sergtt)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
