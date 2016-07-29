@@ -119,6 +119,15 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+To transer data you need:
+1. Rules for packaging the data (Points of Presence (POPs)) and Network Access Points (NAPs)).
+  - Data broken down into network packets with destination IP address and instructions for putting the packets back together.
+2. Interconnected network
+  - Billions of computers/devices that are interconnected (Network Backbone).
+3. A way to route the data
+  - Routers are computers that look at packets of data and reads I.P. address and puts them into the right backbone connection.
+  - When all packets are received they are put back together.
+*Contributed by [Edward Kruljac](https://github.com/ewkruljac)*
 
 #### What are packets?
 
@@ -252,10 +261,21 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ rm -rf <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+rm <filename>
+  pretty safe as long as you don't use wildcards
+rmdir <dirname>
+  as long as the direcory is empty
+rmdir -r
+  You must use care when using "rm -r" because adding the "-r" will delete directories and their contents recursively.  Be sure you are in the "lowest" directory in which you want to delete.  i.e.  If you want to delete all the directories in /home/me/dir2delete, don't run "rm -r" in /home/.
+*Contributed by [Edward Kruljac](https://github.com/ewkruljac)*
+
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+To rename a directory use "mvdir <currentDirName> <newDirName>"
+*Contributed by [Edward Kruljac](https://github.com/ewkruljac)*
 
 #### Why are file permissions important?
 
@@ -654,9 +674,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +926,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
 
