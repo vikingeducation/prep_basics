@@ -165,7 +165,7 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location. This is analogous to how you might use the yellow pages to find the phone number where you can reach a business.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
