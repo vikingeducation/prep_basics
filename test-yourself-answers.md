@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+The information is broken down into packets, each of which also contain instructions on how to be pieced back together, and forwarded to the IP address requesting the information, where they are reassembled.
 
 
 #### What are packets?
@@ -230,6 +230,8 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+If you have Windows, it's best to install Git Bash (it should come with your download of Ruby on Rails) and use that (for these courses, anyway, if not forever). After installing, I found it using a search and pinned it to my taskbar for easy access.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What is Bash?
@@ -259,7 +261,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions ensure that certain files may only be accessed by the appropriate party or parties.
 
 #### How do you view hidden files in a directory?
 
