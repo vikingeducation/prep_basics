@@ -48,6 +48,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Static web pages do not change and display the same content (Vending Machines) Dynamic web pages require a server to run code to produce a result, for example Google.com (Restaurants). 
+
+*Contributed by [Jahziel Gomez](http://github.com/jgomie)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
