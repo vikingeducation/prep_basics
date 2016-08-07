@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is broken down into packets and transmitted over the internet through a series of nodes (routers, bridges, etc) until the packets arrive at their destination.
 
 
 #### What are packets?
@@ -129,7 +129,7 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
+A client is a device that needs to get something. For example, if we want to watch videos on Youtube then we would be the client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
@@ -158,7 +158,7 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provide the data & files for the requested site.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
