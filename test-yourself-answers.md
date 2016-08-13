@@ -244,7 +244,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
+
+`$ mkdir -p <directoryName>` -p creates any directory of the direcotryName if does not exist
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Conor Fischer](https://github.com/JayFischer)*
 
 #### How can you destroy a directory or file?
 
@@ -259,7 +263,17 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Prevent unwanted access and/or modification of files. Permissions often are for read, write, execute which are applied to premission classes. A general permission that you may see is `d rwx rwx rwx`.
+
+First Character `d` == Directory/File Type.
+
+First Class `rwx`   == Read, Write, Execute for User/Owner.
+
+Second Class `rwx`  == Read, Write, Execute for Group.
+
+Thrid Class `rwx`   == Read, Write, Execute for Others.
+
+*Contributed by [Conor Fischer](https://github.com/JayFischer)*
 
 #### How do you view hidden files in a directory?
 
@@ -299,7 +313,11 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
+As reference, any non-login shells will default to '.bashrc' instead. 
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Conor Fischer](https://github.com/JayFischer)*
 
 #### What is the `$PATH` variable?
 
@@ -318,13 +336,17 @@ You might need to add onto your $PATH variable so an application can be found an
 
 #### What are alias commands?
 
-Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
+Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out. Alias's can also be used to replace the common bash commands with a command+options.
 
 For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
 
-i.e. 'subl text.txt'
+i.e. 
+`alias subl='/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl'`
+
+`alias ls='ls -la'`
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Conor Fischer](https://github.com/JayFischer)*
 
 
 
