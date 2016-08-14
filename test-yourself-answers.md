@@ -82,6 +82,8 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Pro-active Laziness- the ability to see how a system could work more efficiently, and in an easier manner and apply those changes. e.g keyboard shortcuts will save time in a text editor, the use of alias's to shorten commands, or you may have convoluted code that could do the same thing in a much simpler way. This characteristic will help designers make their lives easier and their work time more efficient.
+
 
 #### What do companies look for in a junior web developer?
 
@@ -490,12 +492,16 @@ Short for red, green and blue, the three colors that make up a pixel. Each is an
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
+A usefull website for getting rgb codes: http://www.rapidtables.com/web/color/RGB_Color.htm (also gives relevant hex codes)
+
 
 #### Hex
 
 Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+A usefull site for getting hexidecimal colors and developing color schemes :http://paletton.com/
 
 
 #### Above the Fold
