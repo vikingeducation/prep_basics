@@ -669,7 +669,11 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Shamash](https://github.com/Shamash2014)
+
+A script is a series of commands that the shell will run automatically without the user having to input each individual command himself. A script is usually stored in an .rb file for use anytime by the user who wrote it and can also be distributed to other users for their benefit as well. 
+
+*Contributed by [Austin Howard](https://github.com/Austinfrom-TX)
 
 
 
@@ -876,6 +880,9 @@ Branching allows for different features to be developed without modifying the ma
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+Using branches to edit yours and others' projects is beneficial because it allows you to edit, tinker and destroy code without having any affect on the master project.  Should you make a muck of things (shame on you)you can easily delete the branch and start over with no harm done to the master project. If the changes you make are a success (well done good sir) you can then merge them into the master branch.  
+
+*Contributed by [Austin Howard](https://github.com/Austinfrom-TX)*
 
 #### How do you create a new branch?
 
@@ -886,7 +893,21 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
+
 #### How do you merge branches back together?
+
+When merging your branch into the master, it is best practice to first merge the master into your working branch so that any merging conflicts can be resolved without affecting the master.  Do this by entering the working branch 
+
+$git checkout working-branch
+$git merge master
+
+Resolve any/all merging conflicts in your text editor and then head back to your master branch to merge in your updated working branch:
+
+$git checkout master
+$git merge working-branch
+
+*Contributed by [Austin Howard](https://github.com/Austinfrom-TX)*
+
 
 In order to merge branches back together you should merge the master branch into your-branch
 
