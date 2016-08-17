@@ -271,6 +271,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+`$ help <cmd>`  or `$<cmd>/?` in Windows (Powershell and Bash; man works in Powershell but not Bash)
+*Contributed by [Kathy McCardwell](https://github.com/kmccardwell/)*
+
 #### What is a "Superuser" and how do you execute commands as this user?
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
@@ -531,6 +534,9 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
+Hypertext markup language: The markup language which specifies the structure, and, increasingly, semantic significance of all the pieces of a webpage. HTML establishes the framework or structure of the page through structural tags, and is made more "parse-able" by assistive technologies and by SEO spiders through use of semantic tags.
+*Contributed by [Kathy McCardwell](https://github.com/kmccardwell/)*
+
 
 #### CSS
 
@@ -667,7 +673,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -903,6 +909,10 @@ You'll see output indicating any changes that were made
 #### What is a "Merge Conflict" and when will it occur?
 
 A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed.
+
+In addition to the above (not added by me): Merge conflicts, by definition, can only occur in 3-way merges, not in fast-forward merges. That is why it is best practice to merge the upstream remote into your local work prior to pushing to your master remote and make your pull request without creating a bunch of merge errors. (Per Atlassian: https://www.atlassian.com/git/tutorials/syncing/git-push)
+*Contributed by [Kathy McCardwell](https://github.com/kmccardwell/)*
+
 
 #### How do you resolve a "Merge Conflict"?
 
