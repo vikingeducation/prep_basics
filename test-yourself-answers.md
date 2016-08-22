@@ -228,9 +228,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`. On Ubuntu it's `Control + Alt + t` or right click on the desktop and select "Open Terminal".
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Isabel Lutz](http://github.com/mortles)*
 
 #### What is Bash?
 
@@ -398,9 +399,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+Software that processes HTTP requests from clients to serve web pages.
 
-*Contributed by [Unknown]*
+*Contributed by [Isabel Lutz](http://github.com/mortles)*
 
 
 #### Bugs
@@ -534,9 +535,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### CSS
 
-"Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+"Cascading Style Sheets" find HTML tags and tell the browser how to display them. It's the style sheet language most often used by web sites and applications to modify design elements like layout and fonts.
 
-*Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Ashton Christie](https://github.com/ashchristie)* 
+*Contributed by [Isabel Lutz](https://github.com/mortles)*
 
 #### Javascript
 
