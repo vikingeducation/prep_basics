@@ -165,6 +165,8 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
+DNS stands for Domain Name Server. 
+
 A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
@@ -174,18 +176,14 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+Hypertext markup language, a language of tags used to define the structure and content of Web pages, such as headings, lists, paragraphs, line breaks, images, etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment, and other design aspects of a page. In short, it makes the raw information look pretty, and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
@@ -230,6 +228,8 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+On linux, use Ctrl-Alt-T. You can change which hotkey to use in the teminal settings menu. 
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What is Bash?
@@ -250,6 +250,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+alternatively for directories
+`$ rmdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
