@@ -228,9 +228,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`. On Ubuntu it's `Control + Alt + t` or right click on the desktop and select "Open Terminal".
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Isabel Lutz](http://github.com/mortles)*
 
 #### What is Bash?
 
