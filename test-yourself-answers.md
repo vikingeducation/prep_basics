@@ -534,9 +534,9 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### CSS
 
-"Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+"Cascading Style Sheets" find HTML tags and tell the browser how to display them. It's the style sheet language most often used by web sites and applications to modify design elements like layout and fonts.
 
-*Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Ashton Christie](https://github.com/ashchristie)* and [Isabel Lutz](https://github.com/mortles)*
 
 #### Javascript
 
