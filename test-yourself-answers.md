@@ -398,9 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+Software that processes HTTP requests from clients to serve web pages.
 
-*Contributed by [Unknown]*
+*Contributed by [Isabel Lutz](http://github.com/mortles)*
 
 
 #### Bugs
