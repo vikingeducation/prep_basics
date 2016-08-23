@@ -622,6 +622,8 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+Additionally, open source code can be examined, accessed, edited and distributed by anybody who has the means to access the original code. 
+
 *Contributed by [Olga](https://github.com/ayva)*
 
 #### CMS
