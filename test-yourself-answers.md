@@ -299,6 +299,10 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
+The '.bash_profile' is also used for creating and storing aliases for commonly used functions, and for long file names that are accessed often. It's also the place to store your text color preferences.
+
+*Contributed by [Jess Farley](https://github.com/littlemighty)*
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
@@ -335,6 +339,12 @@ Define the following:
 
 ### The Web
 
+The 'Web' refers to the World Wide Web, a system of Servers connected via the Internet that serve media to the client/browser.
+
+Sometimes confused with the 'Internet', which links the combined super-network of accessable computers around the world. The Web uses 
+'Servers' to store marked up pages of text, and the databases they link to, for the browser to decode and display on the screen.
+
+*Contributed by [Jess Farley](https://github.com/littlemighty)
 
 #### URL( Uniform Resource Locator)
 
@@ -398,9 +408,11 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A 'Web Server' refers to a program or machine that can collect, store and serve information via the HTTP protocol. 
 
-*Contributed by [Unknown]*
+Traditionally used to serve webpages when requested by a Web Browser, Web Servers are now being installed in a wide range of devices and are used to monitor and/or administer those devices. 
+
+*Contributed by [Jess Farley](https://github.com/littlemighty)*
 
 
 #### Bugs
