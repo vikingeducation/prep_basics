@@ -112,8 +112,10 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+The origin of Internet comes from the words Interconnected Networks.
 
+*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Ramon Geronimo](https://github.com/RGero215)*
 
 #### How is information broken down and sent?
 
@@ -230,7 +232,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+Also on OSX you could go on your finder/application/utilities and browse for terminal.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Ramon Geronimo](https://github.com/RGero215)*
 
 #### What is Bash?
 
@@ -269,7 +274,10 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+$ man will display the information on the terminal but also you can simply google the information about a particular command.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Ramon Geronimo](https://github.com/RGero215)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -334,7 +342,6 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
 
 #### URL( Uniform Resource Locator)
 
