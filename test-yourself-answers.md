@@ -80,6 +80,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -786,6 +787,7 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 **git add** is staging - it's like saying, "Remember this file, I will commit it later."
+
 **git commit** saves to the local repository - usually on your computer.
 
 *Contributed by [Jerry Gao](https://github.com/blackwright)*
@@ -851,6 +853,7 @@ A pull request is when you contribute to someones else's project, and you let th
 #### What is "Forking" a repo?
 
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
