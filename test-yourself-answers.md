@@ -93,9 +93,12 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
+Companies look for someone without the attitude that a task is "Not worth their time". A junior web developer should have the mindset that their is still plenty to learn from any given task and not to feel above it. Pointed out in this article on [Quora](http://www.quora.com/What-is-expected-of-a-junior-back-end-web-developer).
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Chris Scavello](http://github.com/BideoWego)*
 
 
 #### What is the hiring process like for a developer?
@@ -169,7 +172,10 @@ A DNS server is a special kind of computer that links human-readable names of we
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
+DNS stands for 'Domain Name Server' and acts as a "nice name" for the otherwise less readable IP addresses that are more understandable by computers. The DNS maps the name to the IP address so that when users try to access Google for example, they can access it by name instead of by typing in it's IP address.
+
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Chris Scavello](https://github.com/BideoWego)*
 
 
 #### What is HTML and how is it used?
@@ -314,7 +320,11 @@ $PATH dictates the locations within a file tree that contains commands executabl
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
+If you are on a Mac and you have Hombrew, rbenv, or any other number of command line programs that require to be added to your $PATH variable, you need to add the path to that command's executable file. For example: `PATH="$PATH:$(brew --prefix)/bin"`.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Chris Scavello](https://github.com/BideoWego)*
 
 #### What are alias commands?
 
