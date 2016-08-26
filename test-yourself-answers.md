@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -78,8 +78,9 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -91,7 +92,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -117,7 +118,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets before travelling across a network. Depending on how the network is set up, these packets could take completely different routes to reach their destination.
+
+*Contributed by [Jerry Gao](https://github.com/blackwright)*
 
 
 #### What are packets?
@@ -125,6 +128,15 @@ It is broken down into packets and sent through random different ways to get to 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+
+#### Why do we use packets?
+
+In the dark days of dial-up internet, a phone connection meant that as long as a connection was open, no one else could get through. On the server side, a chunk of the network would be taken up every time a connection was made.
+
+In contrast, when data is broken down into packets, it allows many people to use the same network at once. In addition, packets are small and nimble - they can be routed around a congested part of the network so that the network works more efficiently as a whole.
+
+*Contributed by [Jerry Gao](https://github.com/blackwright)*
 
 
 #### What is a "client"?
@@ -270,6 +282,10 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+Windows users ordinarily won't be able to use the 'man' command, but may find luck with the 'help' command instead.
+
+*Contributed by [Jerry Gao](https://github.com/blackwright)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -717,7 +733,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -769,6 +785,12 @@ The other way is typing a git commit -am "Your message", which will both stage a
 Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+
+**git add** is staging - it's like saying, "Remember this file, I will commit it later."
+
+**git commit** saves to the local repository - usually on your computer.
+
+*Contributed by [Jerry Gao](https://github.com/blackwright)*
 
 
 
@@ -831,6 +853,7 @@ A pull request is when you contribute to someones else's project, and you let th
 #### What is "Forking" a repo?
 
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
