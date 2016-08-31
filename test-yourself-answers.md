@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+One of the larger groups of developers in the Dallas-Fort Worth Area is called HackerNest. It is a grassroots nonprofit organization that puts on events and "hack--thons".
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Erich Langston](http://github.com/erichemory)*
 
 #### What online developer communities can you join?
 
@@ -235,7 +238,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
+Bash is a command processor, where the user will type a command that cause an action using a script.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Erich Langston](http://github.com/erichemory)*
 
 #### How can you navigate into a particular file directory?
 
@@ -335,6 +342,9 @@ Define the following:
 
 ### The Web
 
+The World Wide Web is an information space where information identified by URLs, connected by hypertext link, and is accessed by the Internet. Known as "The Web."
+
+*Contributed by[Erich Langston](http://github.com/erichemory)*
 
 #### URL( Uniform Resource Locator)
 
