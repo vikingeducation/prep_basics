@@ -6,7 +6,10 @@ This is the file you'll use to add your answers to the [Test Yourself exercise](
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
 
-Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
+Keep your answers under 3 paragraphs.  Replace the line that says *What's the best way to get help when you get stuck? I think that bing is also a good place to find help when your stuck.
+  What online developer communities can you join? IRC channels are actually kind of confusing. It would help if they included a link on how to use them.
+  How do you open it on your computer?(Terminal) IT would also help if they showed how to open a terminal in ubuntu.
+ https://github.com/ArizonaMangoJuice* with your explanation and a link to your Github username.  See the example below.
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +909,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
