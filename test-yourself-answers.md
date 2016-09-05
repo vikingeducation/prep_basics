@@ -911,3 +911,16 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### What is RVM and how will it be useful later?
+
+RVM stands for Ruby Version Manager and it's helpful for working with multiple projects that use different versions of Ruby.
+
+#### Why didn't you need to install HTML, CSS and JavaScript?
+
+They're already installed as part of the OS.
+
+#### What is a "Merge Conflict" and when will it occur?
+
+Merge conflicts occur when two or more users make modifications to the same lines in the same file (or have conflictin gadditions / deletions.) 
+
+*Contributed by [Kevin Tupper](https://github.com/godminders)*
