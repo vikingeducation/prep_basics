@@ -624,6 +624,9 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Exposing your code to the world so they can use it and help make it better.
+
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
