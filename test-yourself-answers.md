@@ -58,6 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+Well from where i'am from we don't have such, i just hope would be able to find my own developer community here on Viking.
+
+*Contributed by [Dearest stanley] (https://github.com/dearests)
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
@@ -68,6 +72,10 @@ Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
+
+From my perspective, i prefer the developer-friendly text editor because of the tab interface so that you have multiple document opened at the same time.
+
+*Contributed by [Dearest stanley](https://github.com/dearests)
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
@@ -169,7 +177,10 @@ A DNS server is a special kind of computer that links human-readable names of we
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
+The Domain name server popular known as DNS is like a phonebook that keeps directory of domain names e.g (google.com, vikingcodeschool.com) and converts them into IP addresses.
+
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Dearest stanley](https://github.com/dearests)
 
 
 #### What is HTML and how is it used?
@@ -235,7 +246,12 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
+Bash is a unix shell, a command language compatible with sh shell
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+
+*Contributedt by [Dearest stanley](https://github.com/dearests)
 
 #### How can you navigate into a particular file directory?
 
@@ -335,6 +351,9 @@ Define the following:
 
 ### The Web
 
+The web is an information space where documents and online resources are identified by URLs, interlinked by hypertext links, and can be accessed via the Internet.
+
+* Contributed by [Dearest stanley](https://github.com/dearests)
 
 #### URL( Uniform Resource Locator)
 
