@@ -177,7 +177,7 @@ A DNS server is a special kind of computer that links human-readable names of we
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
-The Domain name server popular known as DNS is like a phonebook that keeps directory of domain names e.g (google.com, vikingcodeschool.com) and converts them into IP addresses.
+The Domain name server popularly known as DNS is like a phonebook that keeps directory of domain names e.g (google.com, vikingcodeschool.com) and converts them into IP addresses.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 *Contributed by [Dearest stanley](https://github.com/dearests)
