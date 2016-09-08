@@ -523,6 +523,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 #### HTML
 
+HyperText Markup Language is the language used to create the structure of a webpage. You use this language (not a true programming language, but a markup, as the name suggests) by creating elements (headings, paragraphs, images etc), which can later be manipulated using CSS.
+
+*Contributed by [Jake Hill](https://github.com/JakeH91)*
+
 The markup language which specifies the structure of all the pieces of a webpage.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
@@ -533,6 +537,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 
 #### CSS
+
+Cascading Style Sheets are used to add flavour to the website. Where HTML has placed the content, CSS styles it. Using CSS enables you to take an HTML element and get creative with it, either by adding colour, or size, changing the position, or any number of things.
+
+*Contributed by [Jake Hill](https://github.com/JakeH91)*
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
@@ -553,6 +561,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 
 #### Pseudo-Code
+
+Pseudo-Code is the intermediate stage between speaking about a solution and implementing it. Rather than speaking as you would to a human (or to a computer), you in fact do neither. Whilst it may sound unnecessarily time-consuming, it is in fact useful for visualising the steps that you will actually be coding.
+
+*Contributed by [Jake Hill](https://github.com/JakeH91)*
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
