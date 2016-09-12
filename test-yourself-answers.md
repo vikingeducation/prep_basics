@@ -91,11 +91,16 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
+By becoming a full-stack developer you can impress smaller companies,
+by showing that you understand the full lifecycle, and make a clear
+impact on their bottomline, by being verstile in your coding practices.
+
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Chakra Khan](https://github.com/keo-rithi)*
 
 
 #### What is the hiring process like for a developer?
@@ -230,7 +235,11 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+A good tip on windows is to pin the cmd to your tast bar. Example:
+command prompt with ruby on rails. Easy and fast access will help your workflow greatly!
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Chakra Khan](https://github.com/keo-rithi)*
 
 #### What is Bash?
 
@@ -269,7 +278,10 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+Linux users get the man command when in doubt, while Windows users don’t have complete manuals to refer. You can get some help for most commands by using command /? or command –help. You can also use the help command to see a list of available commands (although the list is far from extensive).
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Chakra Khan](https://github.com/keo-rithi)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -324,9 +336,10 @@ For instance, when using Sublime Text, one may not want to always manually locat
 
 i.e. 'subl text.txt'
 
+There is a doskey command available in the command prompt. Using doskey, it is possible to define an alias for a new or existing console command under most versions of Windows.
+
 *Contributed by [Matt Davis](http://github.com/chewieee)*
-
-
+*Contributed by [Chakra Khan](https://github.com/keo-rithi)*
 
 
 ## Terms to Know
@@ -339,7 +352,11 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
+
+also called URI (aka Uniform Resource Indentifier)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Chakra Khan](https://github.com/keo-rithi)*
 
 
 #### Domain
@@ -758,11 +775,12 @@ By clicking on the plus symbol ('+') of your github user account and selecting N
 
 #### How do you commit changes?
 
-By typing a git command, "git commit -m "Your message". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
+By typing a git command, "git commit -m "Your Comment". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
 
-The other way is typing a git commit -am "Your message", which will both stage and commit changes.
+The other way is typing a git commit -am "Your Comment", which will both stage and commit changes.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Chakra Khan](https://github.com/keo-rithi)*
 
 #### What is the difference between staging and committing changes?
 
