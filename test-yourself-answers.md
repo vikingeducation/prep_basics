@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -60,6 +60,10 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Women Who Code (WWC) has a Meetup (from meetup.com) in Bethlehem, PA. There is another Ruby Meetup in Wilkes Barre, PA. There's also a regional Northeast PA tech meetup that's less focused on programming.
+
+*Contributed by [Lauren Doughty](http://github.com/LaurenDoughty)*
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
@@ -74,6 +78,10 @@ I think the most important reason why developer-friendly text editors are better
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+Attempting to use a word processor like MS Word will result in additional HTML being added that messes up your code.
+
+*Contributed by [Lauren Doughty](http://github.com/LaurenDoughty)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -617,6 +625,9 @@ It's like a time machine for jumping back and forth between specific time stamp 
 #### Git
 
 One of the most popular open-source version control systems.
+
+Careful, Git is different from Github!
+*Contributed by [Lauren Doughty](https://github.com/LaurenDoughty)
 
 #### Open Source
 
