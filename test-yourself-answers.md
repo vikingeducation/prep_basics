@@ -123,9 +123,9 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+Packets are smaller parts of your data broken down to be sent over the internet more efficiently. Packets store your data and the other necessary information like IP address and receiver address to ensure the data gets to the right place. These packets are then sent using networking hardware and network protocols like TDP to reach their destination.
 
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Robert Rosenberg](https://github.com/kariak)*
 
 
 #### What is a "client"?
