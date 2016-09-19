@@ -42,17 +42,18 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+A static web page uses a html file to display content. When visiting another static web page on the website an alternate html file is used to display the new page’s content, even if it may have some of the same elements as the last page. This content is permanent on the website unless the html files are edited.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+A dynamic web page uses server technology to keep the web page updated and more useful. The website will react to the user and is able to change. For example, if you visited a site on your desktop and later visited it on your phone the web page will display differently for each device.
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+*Contributed by [Robert Rosenberg](http://github.com/kariak)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+Google is an incredible resource. If you’re having trouble, try and google the issue you’re having. Most likely someone else has ran into it before. Another option for more live feedback are chat channels. There are many developer IRC channels you can go to for help. [Gitter](https://gitter.im/) is another chat platform you can use for advice!
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Robert Rosenberg](http://github.com/kariak)*
 
 #### Where are the closest developer communities to you?
 
@@ -122,9 +123,9 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+Packets are smaller parts of your data broken down to be sent over the internet more efficiently. Packets store your data and the other necessary information like IP address and receiver address to ensure the data gets to the right place. These packets are then sent using networking hardware and network protocols like TDP to reach their destination.
 
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Robert Rosenberg](https://github.com/kariak)*
 
 
 #### What is a "client"?
