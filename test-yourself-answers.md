@@ -51,9 +51,9 @@ A dynamic web page uses server technology to keep the web page updated and more 
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+Google is an incredible resource. If you’re having trouble, try and google the issue you’re having. Most likely someone else has ran into it before. Another option for more live feedback are chat channels. There are many developer IRC channels you can go to for help. [Gitter](https://gitter.im/) is another chat platform you can use for advice!
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Robert Rosenberg](http://github.com/kariak)*
 
 #### Where are the closest developer communities to you?
 
