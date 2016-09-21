@@ -603,6 +603,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on rails is a web application framework witten in Ruby. It aims to make web development quicker and easier by making assumptions assumptions about what the user wants and only requiring additional code if the user wishes to deviate from these assumptions. This is known as "Convention over configuration". 
+
+*Contributed by [James Shields](https://github.com/CircleBoy)*
 
 #### Command Line
 
@@ -618,11 +621,18 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 One of the most popular open-source version control systems.
 
+An open source version control system developed by the linux kernel developers.
+
+*Contributed by [James Shields](https://github.com/CircleBoy)*
+
 #### Open Source
 
 Free licensed code.
 
+An open source application is one in which the source code is publicly availible.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [James Shields](https://github.com/CircleBoy)*
 
 #### CMS
 
