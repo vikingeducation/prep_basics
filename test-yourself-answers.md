@@ -910,4 +910,13 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### How to configure git for the first time?
 
+If you run `git commit` to commit any changes within a git repository, you have to configure two settings: user.name and user.email. Otherwise, git will return a warning.  You configure git running the following two commands
+
+$git config --global user.name "Your Name"
+$git config --global user.email "email-id@domain"
+
+The strings that you use as values for user.name and user.email will be stored within every commit you create.
+
+*Contributed by [Subrata Sarker](https://github.com/picklu)*
