@@ -230,7 +230,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+Another neat trick for opening the Command Line, .i.e. Bash Terminal, on OSX is to open the 'Automator' App and create a new 'Service'. Up at the top you can specify that this particular service should receive 'no input' in 'any application'.  Then you simply find the "Launch Application" from the long list of available actions and drag & drop it into your new workflow area.  Once the 'Launch Application' is in your workflow you can open it's dropdown list to find your desired application.  Since 'Terminal' most likely isn't already in the list you'll need to go down to the bottom and click on 'Other...' once there you'll find yourself in your computer's 'Applications' folder, then go into the 'Utilities' folder. Once there simply find the 'Terminal' app, select it and click the 'Choose' button.  Save the new workflow (⌘ + S) and rename it something like "Launch Terminal".  That's it.  Now you can go into the 'Finder' menu on the 'menu bar' and under 'Services' you'll see your "Launch Terminal" service.  Click on it an open 'Terminal'.  To make this really useful I added a shortcut keybinding to mine so no matter what I'm doing I just use (⌃ + ⌥ + ⌘ + T) and my 'Terminal' opens right up.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Eric Robinson](http://github.com/e-robinson)*
 
 #### What is Bash?
 
@@ -597,8 +600,6 @@ A framework is a collection of libraries that are used for building web applicat
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
-
-
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
@@ -654,9 +655,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -671,7 +672,13 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+##Libraries and Frameworks
 
+#### What's the difference between a Library and a Framework?
+
+A Library is simply a collection of pre-written code for a given programming language that other programmers can link to and reuse. The code in these libraries generally perform, different kinds, but usually very specific operations. For instance, the most popular JavaScript Library is jQuery.  On the other hand, a Framework is generally more complex.  It provides a "guide" to creating a web application. A Framework may contain mulitple code libraries, default setups for database, web pages, etc. , to help streamline the process of creating a web application from scratch.  For instance, the most popular Ruby Framework is Rails.
+
+*Contributed by [Eric Robinson](http://github.com/e-robinson)*
 
 ## Installations
 
@@ -705,7 +712,6 @@ RVM is helpful because some gems, tools, and frameworks may only work with a par
 An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
-
 
 ## Git
 
@@ -770,6 +776,10 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+#### How do you unstage a file from the Staging Environment to make more changes to it before you decide to commit it?
+You can use the 'git reset HEAD' command. Then it will unstage the file from the Staging Environment so you can make changes to it. Example [ git reset HEAD filename.html ]
+
+*Contributed by [Eric Robinson](http://github.com/e-robinson)*
 
 
 ### Remotes
@@ -906,7 +916,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
