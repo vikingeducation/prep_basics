@@ -34,7 +34,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsibile for both the front-end and back-end of the application.
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
@@ -117,7 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information on the internet is broken down into smaller sections or chunks of data called packets. Packets are sent over a specified protocol, such as HTTP or FTP, between client and server, then reassambled.
+
+*Contributed by [Sampson Crowley](https://github.com/SampsonCrowley)*
 
 
 #### What are packets?
@@ -160,16 +162,22 @@ The server waits for requests from a client and tries to produce the proper resp
 
 HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
+HTTP is one of many protocols for clients and servers to communicate. protocols like HTTP amd FTP define how data is formatted and transmitted. Hypertext transfer protocol, or HTTP, is intended to transfer files created with hypertext.
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Sampson Crowley](https://github.com/SampsonCrowley)*
 
 
 #### What are DNS servers?
+
+DNS stands for Domain Name System. It is a system for mapping names to locations. DNS servers are used to lookup where a particular domain (e.g. google.com) is located (e.g. 8.8.8.8).
 
 A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Sampson Crowley](https://github.com/SampsonCrowley)*
 
 
 #### What is HTML and how is it used?
