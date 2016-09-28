@@ -97,6 +97,11 @@ It's best to provide any infromation which can give relevant answers to the toug
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
+The main quality companies look for in a junior web developer is a passion for building interesting projects. Many employers care more about the actual work you have produced over past degrees or experience.
+
+A great junior web developer will also be curious about new technologies, passionate about problem solving, possess a hacker mindset, and be lazy enough to automate the repetitive tasks.
+
+*Contributed by [Luke Schleicher](https://github.com/luke-schleicher)*
 
 #### What is the hiring process like for a developer?
 
@@ -286,6 +291,10 @@ Text editor that often causes debates with emacs lovers.
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is an advanced text editor that is based off of the Unix editor 'Vi' but adds several features.
+
+*Contributed by [Luke Schleicher](https://github.com/luke-schleicher)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -551,6 +560,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
+AJAX, or Asynchronous Javascript and XML, is a method the browser uses to communicate with a server without refreshing the page. AJAX uses the XMLHttpRequest object to send and receive data. Google Maps would be a great example of an application that relies heavily on AJAX.
+
+*Contributed by [Luke Schleicher](https://github.com/luke-schleicher)*
 
 #### Pseudo-Code
 
@@ -909,5 +921,3 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
