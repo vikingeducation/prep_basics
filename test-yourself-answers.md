@@ -597,8 +597,11 @@ A framework is a platform where common code with generic functionality is ready 
 
 A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
 
+A framework is a library of commonly used code snippets that help you build applications. Not only can you save lots of time by using frameworks, but you can also learn quite a bit by breaking the code snippets down, analyzing them, tinkering, and adjusting them to fit your needs. The possibilities are endless.
+
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*Contributed by *[Ahmed Khokar](https://github.com/amkhokar)*
 
 
 
