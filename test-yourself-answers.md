@@ -538,8 +538,8 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 Cascading Style Sheets describe how to display the HTML documents. For example, CSS can affect fonts, background images, and colors. 
 
-*Contributed by [Ashton Christie](https://github.com/ashchristie)*
-*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
+*Contributed by [Ashton Christie](https://github.com/ashchristie)* \n
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)* 
 
 #### Javascript
 
@@ -599,9 +599,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 A framework is a library of commonly used code snippets that help you build applications. Not only can you save lots of time by using frameworks, but you can also learn quite a bit by breaking the code snippets down, analyzing them, tinkering, and adjusting them to fit your needs. The possibilities are endless.
 
-*Contributed by [Olga](https://github.com/ayva)*
-*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
-*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
+*Contributed by [Olga](https://github.com/ayva)* \n
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)* \n
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)* \n
 
 
 
