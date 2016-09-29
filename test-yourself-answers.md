@@ -601,7 +601,7 @@ A framework is a library of commonly used code snippets that help you build appl
 
 *Contributed by [Olga](https://github.com/ayva)* \n
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)* \n
-*Contributed by [Ahmed Khokar](https://github.com/amkhokar)* \n
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar) \n*
 
 
 
