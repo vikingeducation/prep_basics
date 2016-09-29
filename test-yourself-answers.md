@@ -609,6 +609,10 @@ A framework is a library of commonly used code snippets that help you build appl
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails is a framework for web development. It saves time by allowing developers to focus less on the intimidating walls of code and more on the functionality and creativity of what you're building. 
+
+*Contributed by *[Ahmed Khokar](https://github.com/amkhokar)*
+
 
 #### Command Line
 
