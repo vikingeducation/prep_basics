@@ -539,7 +539,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 Cascading Style Sheets describe how to display the HTML documents. For example, CSS can affect fonts, background images, and colors. 
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
-*Contributed by *[Ahmed Khokar](https://github.com/amkhokar)*
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
 
 #### Javascript
 
@@ -601,7 +601,7 @@ A framework is a library of commonly used code snippets that help you build appl
 
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
-*Contributed by *[Ahmed Khokar](https://github.com/amkhokar)*
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
 
 
 
@@ -611,7 +611,7 @@ Ruby on Rails is the amazing web framework for creating awesome web applications
 
 Ruby on Rails is a framework for web development. It saves time by allowing developers to focus less on the intimidating walls of code and more on the functionality and creativity of what you're building. 
 
-*Contributed by *[Ahmed Khokar](https://github.com/amkhokar)*
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
 
 
 #### Command Line
