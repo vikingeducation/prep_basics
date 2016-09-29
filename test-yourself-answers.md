@@ -94,7 +94,9 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -134,10 +136,15 @@ A client is a device that need to get something. For example if we want to watch
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+
 *Contributed by [PGiese](https://github.com/PGiese)*
+
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -150,9 +157,13 @@ Basically, it enables the sharing of resources and information for various appli
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+
 *Contributed by [PGiese](https://github.com/PGiese)*
+
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -308,6 +319,7 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 
@@ -410,6 +422,7 @@ An error or defect in software or hardware that causes a program to malfunction.
 For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
+
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
 
@@ -468,6 +481,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 
@@ -480,7 +494,9 @@ Grid systems speed up the design process while making the web page more visually
 Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
 
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
 
@@ -502,7 +518,9 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 
 Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold.
 
-*Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Dan Berger](https://github.com/dsberger)*
+
+*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 
 #### GUI
@@ -510,6 +528,7 @@ Content that is visible immediately when the page is loaded, without having to s
 Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.  It is used as a generic term for a visual interface that the user can interact with.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
+
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
@@ -536,7 +555,11 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
-*Contributed by [Ashton Christie](https://github.com/ashchristie)*
+Cascading Style Sheets describe how to display the HTML documents. For example, CSS can affect fonts, background images, and colors. 
+
+*Contributed by [Ashton Christie](https://github.com/ashchristie)* 
+
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
 
 #### Javascript
 
@@ -548,7 +571,9 @@ The scripting language that runs in the browser. It allows interactivity with th
 AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.  A good example would be real-time updating of a twitter or facebook feed.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
+
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
@@ -582,7 +607,9 @@ Essentially, a gem consists of two things: code and a gemspec (specifications fo
 Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
@@ -594,14 +621,23 @@ A framework is a platform where common code with generic functionality is ready 
 
 A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
 
+A framework is a library of commonly used code snippets that help you build applications. Not only can you save lots of time by using frameworks, but you can also learn quite a bit by breaking the code snippets down, analyzing them, tinkering, and adjusting them to fit your needs. The possibilities are endless.
+
 *Contributed by [Olga](https://github.com/ayva)*
-*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona)* 
+
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
 
 
 
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+
+Ruby on Rails is a framework for web development. It saves time by allowing developers to focus less on the intimidating walls of code and more on the functionality and creativity of what you're building. 
+
+*Contributed by [Ahmed Khokar](https://github.com/amkhokar)*
 
 
 #### Command Line
@@ -717,13 +753,13 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+Source Code Management is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### What is a VCS?
 
-**V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
+Version Control Systems (like Git) provide monitored and regulated access to a software repository.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
@@ -848,6 +884,7 @@ In Git, branching is a way of duplicating your project so two different versions
 Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
