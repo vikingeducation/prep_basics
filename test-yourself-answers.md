@@ -568,6 +568,10 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
+Ruby also has a very large and active community of passionate developers making it ideal for beginners and is very popular amongst start-ups and bootcamps.
+
+*Contributed by [Andrew Dutton](https://github.com/andrew-dutton)*
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 
@@ -607,6 +611,10 @@ Ruby on Rails is the amazing web framework for creating awesome web applications
 #### Command Line
 
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
+
+It is also much more powerful than using a graphical user interface and is required for many advanced tasks.
+
+*Contributed by [Andrew Dutton](https://github.com/andrew-dutton)
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
@@ -750,6 +758,10 @@ Using Git allows a team of developers to independently work alongside one anothe
 To create a Git repository locally, you want to navigate to the root directory of your project and type 'git init'. This will initialize a local repository and load all of the necessary files git will need to track the files in that directory.
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
+
+An alternate way with one step removed is to use the command 'git commit project_name' -- this will create a new directory naming it the project_name you typed and initialising it one step.
+
+*Contributed by [Andrew Dutton](https://github.com/andrew-dutton)*
 
 #### How do you create it on Github?
 
