@@ -759,7 +759,7 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
-An alternate way with one step removed is to use the command 'git commit project_name' -- this will create a new directory naming it the project_name you typed and initialising it one step.
+An alternate way with one step removed is to use the command 'git commit project_name' -- this will create a new directory naming it the project_name you typed and initialising it in one step.
 
 *Contributed by [Andrew Dutton](https://github.com/andrew-dutton)*
 
