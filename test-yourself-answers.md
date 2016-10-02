@@ -54,6 +54,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+A good way to get help when stuck is to go to a chat room like Gitter and ask your question there. You can get real time help where you can ask specific questions to your problem.
+
+*Contributed by [Joshua Hudson](http://github.com/jiduto)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -74,6 +78,10 @@ I think the most important reason why developer-friendly text editors are better
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+A developer-friendly text editor makes it easier to spot mistakes and to understand code because the text in the editor is colored based on things like code-type, quotations, etc. In a word-processing program the text is all black and it can be harder to read and understand.
+
+*Contributed by [Joshua Hudson](http://github.com/jiduto)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -401,6 +409,10 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+A web server is a program that takes requests through HTTP and responds to those requests to the HTTP clients.
+
+*Contributed by [Joshua Hudson](http://github.com/jiduto)*
 
 
 #### Bugs
