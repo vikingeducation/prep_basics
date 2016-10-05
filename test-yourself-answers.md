@@ -234,8 +234,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+BASH is a command language interpreter.  The name is an abbreviateion of Bourne-Again SHell; a pun of the name Stephen Bourne, the author of the Bourne shell.
+*Contributed by [Ann Allan](http://github.com/Ann Allan)*
 
 #### How can you navigate into a particular file directory?
 
@@ -389,11 +389,8 @@ POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol
 
 #### API
 
-API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
-
-For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
-
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+API stands for Application Programming Interface. The API is a set of subroutines, protocols, and tools to assist developers in writing code that interfaces with other software. The API dictates lays out what is parts of the service are available for interaction and how it must be used.
+*Contributed by [Ann Allan](http://github.com/AnnAllan)*
 
 
 #### Web Server
@@ -717,8 +714,8 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
+Source Code Management software helps teams of developer avoid conflicts in source code updates by providing version control to its users.
+*Contributed by [Ann Allan](https://github.com/AnnAllan)*
 
 
 #### What is a VCS?
