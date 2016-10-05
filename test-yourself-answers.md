@@ -301,14 +301,20 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
+The .bash_profile is a configuration file for the Bash shell. It contains commands and variables to configure the shell properly.
+*Contributed by [Tingting Wang](https://github.com/eating247)*
+
 #### What is the `$PATH` variable?
 
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
+$PATH lists all the directories the Bash shell sorts through whenever a command is issued.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contributed by [Tingting Wang](https://github.com/eating247)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
@@ -318,13 +324,14 @@ You might need to add onto your $PATH variable so an application can be found an
 
 #### What are alias commands?
 
-Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
+Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out. You can use them to run other commands or batch of commands to save time.
 
 For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
 
 i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Tingting Wang](https://github.com/eating247)*
 
 
 
