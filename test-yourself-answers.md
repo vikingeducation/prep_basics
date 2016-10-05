@@ -342,6 +342,7 @@ Address that one types in to reach a particular webpage.  Human readable address
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 
+
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
@@ -820,6 +821,9 @@ A merge is when you take the changes you've made on one branch, and bring them i
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+A Merge a pull request into the upstream branch when work is completed. Anyone with push access to the repository can complete the merge.
+
+*Contributed by [Shilpa Kothari](http://github.com/shilpak)*
 
 #### What is a "Pull Request"?
 
