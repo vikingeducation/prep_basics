@@ -455,6 +455,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+"purpose, planning, or intention that exists or is thought to exist behind an action, fact, or material object."
+
+*Contributed by [Joshua Morales](https://github.com/JomoraZero)
+
 
 #### WYSIWYG
 
@@ -542,6 +546,11 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+"an object-oriented computer programming language commonly used to create interactive effects within web browsers."
+
+*Contributed by [Joshua Morales](https://github.com/JomoraZero)
+
+
 
 #### AJAX
 
@@ -555,6 +564,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+"a detailed yet readable description of what a computer program or algorithm must do, expressed in a formally-styled natural language rather than in a programming language."
+
+*Contributed by [Joshua Morales](https://github.com/JomoraZero)
 
 
 #### C
