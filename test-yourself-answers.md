@@ -269,6 +269,11 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
+For those of us stuborn enough to continue using Windows it's,
+
+'$ <cmd> --help'
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -333,8 +338,9 @@ i.e. 'subl text.txt'
 
 Define the following:
 
-### The Web
+### The World Wide Web
 
+As defined by Merriam-Webster (2004) n : Part of the Internet usu (usually) accessed through a browser and containing files connected by hyperlinks
 
 #### URL( Uniform Resource Locator)
 
@@ -455,6 +461,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+The planning of a project before the project is started. A design takes into account the look, functionality, purpose, and process by which the project will be completed. Designs can be created virtually on a computer, modeled in real life, or drawn on paper. A good design provides a feedback mechanism between those who want a project and those developing it. A good design also gives the developer a goof idea of the steps needed to complete the project.
 
 #### WYSIWYG
 
