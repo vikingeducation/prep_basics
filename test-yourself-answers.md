@@ -48,6 +48,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Static websites are like picture that have little or not interaction with the user. 
+In the other side a Dinamic website can interact with the user, when the user create some events like click or hover, then the websit has the abilty to change it self to provide the interaction with the user.
+*Contributed by [Edmundo Rubio](https://github.com/Edxael)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
@@ -117,7 +121,14 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+The information is broken in Many small indibidual packages, whith information of: 01-where it will go 02-how to put it back together. 
+as example imagine that you want to move to another city, but you want to take your home with you, and you want to send the home by mail. 
+you decide to send each brick one by one on the mail, each brick hass the address where it should go, and its place in teh whole structure, and send it.
+
+in this way the postage employees know where to send the brick, and the contruction workers on the new city, knows where brick goes. 
+when you get to the new city you find the home contructed. 
+
+*Contributed by [Edmundo Rubio](https://github.com/Edxael)*
 
 
 #### What are packets?
