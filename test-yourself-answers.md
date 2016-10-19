@@ -190,6 +190,9 @@ and it makes the front end simpler by separating presentation from content.
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
 
+### How does Javascript interact with HTML and CSS?
+
+
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
