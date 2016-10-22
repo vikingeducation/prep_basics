@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+A global network of computers and smart devices that allows them to exchange information and distribute workloads. 
+
+*Contributed by [Jessica Gillan](http://github.com/JessicaGillan)*
 
 #### URL( Uniform Resource Locator)
 
@@ -455,6 +458,20 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+A user centered problem solving method aimed at creating products and/or services that adhere to Dieter Rams' 10 fundamentals of good design: 
+
+innovative
+useful
+aesthetic
+understandable
+unobtrusive
+honest
+long-lasting
+thorough to the last detail
+environmentally friendly
+as little design as possible
+
+*Contributed by [Jessica Gillan](http://github.com/JessicaGillan)*
 
 #### WYSIWYG
 
