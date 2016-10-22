@@ -177,7 +177,9 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+Besides creating complete web pages, you may also use HTML code fragments to create specific elements within an existing page. For example, some blogs and discussion boards allow you to include HTML formatting in your posts or comments, enabling you to add emphasis to key words, embed links, create bulleted lists, or use whichever other HTML elements are permitted by the website's administrators.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Egle Libby](http://github.com/eglital)*
 
 
 #### What is CSS and how is it used?
