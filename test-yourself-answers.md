@@ -307,14 +307,20 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
+The $PATH is a variable (which means we can change what's inside) that stores the location of all the commands that can be used by a user.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
-
+*Contributed by [Artem Bukreev](https://github.com/bucentaurus)*
 
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
+In order to tell _shell_ about new commands and applications that you've added to use through the command line.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Artem Bukreev](https://github.com/bucentaurus)*
 
 #### What are alias commands?
 
@@ -386,6 +392,12 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+They are all protocols (set of communication rules between computers). 
+POP (Post Office Protocol) offers only one feature - to download an email from an email server. It deletes all the downloaded email from the server.
+IMAP (Internet Messaging Access Protocol) is similar to POP but it doesn't delete email from the server after the downloading process.
+SMTP (Simple Mail Transfer Protocol) uploads email from an email client to an email server or between servers.
+
+*Contributed by [Artem Bukreev](https://github.com/bucentaurus)*
 
 #### API
 
