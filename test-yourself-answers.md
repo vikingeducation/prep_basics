@@ -52,7 +52,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+Utilize as many resources as possible, as mentioned previously Google is great, also Stack Overflow and other web development forms. Using professional mentors, who have knowledge to share. Rather than spend 5 hours trying to solve a problem that can be solved in 5 mins by someone who has already been faced with the same challenge. Seek assistance whenever stuck.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Victoria Manuel](https://github.com/victoriamanuel)*
 
 #### Where are the closest developer communities to you?
 
@@ -80,8 +83,13 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Pragmatic: ablity to make a value judgement about what is really important, values practical outcomes and getting the job done most importantly.
+Thirst for knowledge: actively self educates, reads and researches, willing to learn from others, always believes there is always much more to learn.
+Verbal communicator: ablity to explain their own thought process, can explain complex concepts, can communicate with customers/users and other non technical people.
+
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Victoria Manuel](https://github.com/victoriamanuel)*
 
 #### What do companies look for in a junior web developer?
 
@@ -542,6 +550,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+JavaScript is an object-oriented computer programming language designed primarily for adding interactivity to Web pages and creating Web applications. JavaScript can be use to add behaviour to web pages — it can be used to validate the data entered into a form (tell you if it is in the right format or not), provide drag and drop functionality, change styles on the fly, animate page elements such as menus, handle button functionality, and a million other things.
+
+
+*Contributed by [Victoria Manuel](https://github.com/victoriamanuel)*
 
 #### AJAX
 
