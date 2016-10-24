@@ -165,11 +165,14 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+DNS stands for "Domain Name System." DNS servers are special computers containing a "phone book" database that maps hostnames to IP addresses. When a user types a domain name in the address bar (such as www.google.com), the known DNS server will translate and replace the human-friendly hostname to its actual IP address.
 
-For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
+You could bypass the DNS server if you know the IP address of the domain. It's analogous to memorizing the phone number of a friend and dialing it directly. For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
+
+It's much easier to remember friends by name and not by phone number, however. There is also the chance a domain will change its IP address (just like your friends change their phone numbers). Instead of having to learn a new address, it would be much easier for the domain owner to update their information in the DNS server. All the user needs to know is the domain name and let the DNS server handle the rest.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Terry L. Sprout](https://github.com/tsprout)*
 
 
 #### What is HTML and how is it used?
@@ -205,16 +208,17 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 A single click rings out on a dark night...
 Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
+Microseconds later (a group of them) a command is sent to open up an http handshake
+Milliseconds late (a few of them) the handshake is confirmed and search query data is exchanged
 Centiseconds later (a handful of them) the data is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
 "About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
 
-There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
+There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it. (Daniel: You got milliseconds and microseconds reversed. I fixed it for you. :Terry)
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+#Contributed by [Terry L. Sprout](https://github.com/tsprout)
 
 
 
@@ -251,6 +255,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+`$ rmdir <directoryName>`
+*Contributed by [Terry L. Sprout](http://github.com/tsprout)*
 
 #### How can you rename a directory or file?
 
@@ -519,6 +526,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
+The "Front End" of a website is what is presented to the user, what's in "front" of him or her. The "Back End" is the part of the website behind the scenes (or in the "back") and is code working on a server on the user's behalf. It allows the web-page presented to the user to work dynamically with the user, so the user can see changes based on their inputs. This also allows users to have their own unique view of a website, even though the website can be viewed by anyone in the world. Without a back-end, the front-end will be completely static and will always appear the same to all users.
+
+*Contributed by [Terry L. Sprout](http://github.com/tsprout)*
+
 ### Developer Tools and Code
 
 #### HTML
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +917,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
