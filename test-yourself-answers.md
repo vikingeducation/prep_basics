@@ -55,10 +55,19 @@ The best bet to get help when you are stuck is to use google! There are other fa
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
+Although online communities are great, having someone next to you whlie coding can be invaluable; especially when starting out. Most cities have developer communities and can easily be 
+found on sites like www.meetup.com. Some groups like Free Code Camp are found all over the world. Usually the bigger the city, more specialized groups can be found, e.g., Ruby, Python, Arduino. These groups often meet at scheduled times and have projects they are working on. In my experience, they are very friendly to newcomers and, 
+though they are not there to teach you, they can be very helpful in guiding you.
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+Another option is to attend events. Find a hackathon on http://www.hackathon.io/events. Attend a conference like Pycon or a Ruby conference. With a few minutes on Google, you should be 
+able to find an upcoming event. These events are usually a day to a few days long. Research the events before you attend and see if you can connect with people who will be attending. 
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+Finally, for those in rural areas or overseas, it may be be hard to attend meeting or events regularily. Go as often as you can. Keep up with the groups online if they have a website or 
+Facebook group. And don't write off starting a group yourself. You may be surprised at the people in your community who would be interested. As with anything, having a community will 
+give you new perspectives and keep you motivated. 
+
+
+*Contributed by [Alex Thomas](https://github.com/rollsthomas)*
 
 #### What online developer communities can you join?
 
