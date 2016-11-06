@@ -12,7 +12,7 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 
 ### Question & Answer
 
-#### Example Question
+#### Example Question:
 
 "You know what is awesome?""
 
@@ -20,7 +20,7 @@ Read the question carefully and prepare to explain it in clear, simple terms to 
 
 *Contributed by [Cody Brown](https://github.com/kirlian760)*
 
-#### Example Answer
+#### Example Answer:
 
 "Yes I do know what is awesome.  The following is awesome: learning. Do you know what else is awesome? Cats. And puppies. And Jaco Pastorius."
 
