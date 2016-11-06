@@ -10,13 +10,24 @@ Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanat
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
-### Example Answer
+### Question & Answer Format
 
-#### Example Question
+#### Example Question:
 
-An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
+"You know what is awesome?""
 
-*Contributed by [Erik Trautman](http://github.com/eriktrautman)*
+Read the question carefully and prepare to explain it in clear, simple terms to other readers of the document.  If you don't clearly inderstand the answer yourself, or you are having problems constructing a few simple sentences to explain your answer, use it as an opportunity to research the topic and gain a better understanding of it.  By doing this, you will enhance the depth of your knowledge and bring more to the table in all your future roles and partnerships.
+
+*Contributed by [Cody Brown](https://github.com/kirlian760)*
+
+#### Example Answer:
+
+"Yes I do know what is awesome.  The following is awesome: learning. Do you know what else is awesome? Cats. And puppies. And Jaco Pastorius."
+
+Here you will compose an awesome explanation about the thing in the question, and why and how it is amazing.  Your answer should be written in your own words, in simple, plain english, and should be so clear that a 9 year old can walk away and tell its mother what it just learned.  
+
+*Contributed by [Cody Brown](https://github.com/kirlian760)*
+
 
 ## All About Web Developers
 
@@ -30,7 +41,12 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are responsible for designing the over-all look and feel of the visible website, the way the end user will use that site, the colors, shapes and their placement, and possibly on occasion, some of the front end development code.
+
+Web developers are responsible for making the design and logic of the software that will power both the front end (client side) and the back end (server side) of the website. Depending on their role and specialization, they may work with HTML, CSS and Javascript on the front end, and server-side languages/frameworks such as PHP, SQL, RUBY, RAILS, PYTHON, Node.js, django on the back end.  Ultimately, developers are responsible for making code that moves specific information around in specific ways, to specific people, through the various protocols that power the movement of information on the internet.
+
+*Contributed by [Cody Brown](https://github.com/kirlian760)*
+
 
 #### What's the difference between front end, back end, and full stack developers?
 
