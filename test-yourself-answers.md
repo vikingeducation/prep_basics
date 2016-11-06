@@ -16,7 +16,7 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 
 "You know what is awesome?""
 
-Read the question carefully and prepare to explain it in clear, simple terms to other readers of the document.  If you don't clearly inderstand the answer yourself, or you are having problems constructing a few simple sentences to explain your answer, use it as an opportunity to research the topic and gain a better understanding of it.  By doing this, you will enhance the depth of your knowledge and bring more to the table in all your fuuture roles and partnerships.
+Read the question carefully and prepare to explain it in clear, simple terms to other readers of the document.  If you don't clearly inderstand the answer yourself, or you are having problems constructing a few simple sentences to explain your answer, use it as an opportunity to research the topic and gain a better understanding of it.  By doing this, you will enhance the depth of your knowledge and bring more to the table in all your future roles and partnerships.
 
 *Contributed by [Cody Brown](https://github.com/kirlian760)*
 
@@ -24,7 +24,7 @@ Read the question carefully and prepare to explain it in clear, simple terms to 
 
 "Yes I do know what is awesome.  The following is awesome: learning. Do you know what else is awesome? Cats. And puppies. And Jaco Pastorius."
 
-Here you will compose an awesome explanation about the thing in the question, and why and how it is amazing.  Your answer should be written in your own words, in simple, plain english, and should be so clear that a 9 year old can walk away and tell his mother what he just learned.  
+Here you will compose an awesome explanation about the thing in the question, and why and how it is amazing.  Your answer should be written in your own words, in simple, plain english, and should be so clear that a 9 year old can walk away and tell its mother what it just learned.  
 
 *Contributed by [Cody Brown](https://github.com/kirlian760)*
 
