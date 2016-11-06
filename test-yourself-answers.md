@@ -10,7 +10,7 @@ Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanat
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
-### Question & Answer
+### Question & Answer Format
 
 #### Example Question:
 
