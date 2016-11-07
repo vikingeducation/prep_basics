@@ -124,7 +124,10 @@ It is broken down into packets and sent through random different ways to get to 
 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
 
+Packets are the third layer of the seven layered OSI model. It has to do with addressing, routing and traffic control.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Steffen Hammelow-Berg](https://github.com/shamste82)*
 
 
 #### What is a "client"?
@@ -335,6 +338,9 @@ Define the following:
 
 ### The Web
 
+Is a system of servers that supports specific formatted documents. It supports embedded hyperlinks to other documents such that a user can 'jump' from one document to the next. Servers can host images, documents, audio and video files.
+
+*Contributed by [Steffen Hammelow-Berg](http://github.com/shamste82)*
 
 #### URL( Uniform Resource Locator)
 
@@ -400,8 +406,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 A program usually running on a remote computer that responds to requests from a browser.
 
-*Contributed by [Unknown]*
+The web server contains, process and delivers data on the internet.
 
+*Contributed by [Unknown]*
+*Contributed by [Steffen Hammelow-Berg](https://github.com/shamste82)*
 
 #### Bugs
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
