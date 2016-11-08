@@ -40,6 +40,8 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+What is the difference and advantage practically between a developer and someone who simply uses Wordpress and user-friendly themes??
+
 #### What's the difference between static and dynamic web pages?
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
@@ -315,6 +317,8 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+Perhaps a bit more explanation on $Path due to its importance: i.e. bin files?, executable files?, etc. 
 
 #### What are alias commands?
 
@@ -770,6 +774,8 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+Should there be mention of fetch here?
+
 
 
 ### Remotes
@@ -909,5 +915,9 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
+
+
+
+
 
 
