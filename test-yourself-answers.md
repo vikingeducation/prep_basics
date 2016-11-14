@@ -32,6 +32,10 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+Also, the skills or tools that a web designer vs a web developer are expected to use will also be different. Photoshop, typography, color palettes/branding, and vector graphics are normally non-negotiable skills that a web designer will be asked to have. Web developers not so much (although they can dabble in them). On the other hand, web developers are usually asked to do a bit of both frontend and backend work meaning that they should have a good understanding of HTML & CSS, Javascript, Git & Github, Ruby/Java/Python/C#, PHP, and many others (so many languages that are asked from developers these days that it's not uncommon to be a coding polyglot).
+
+*Contributed by [Kat Miller-Martinez](https://github.com/demiurges)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -402,6 +406,10 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+They are also usually storing web-content, which is why they are able to reponds to requests from a browser by showing a web page. 
+
+*Contributed by [Kat Miller-Martinez](http://github.com/demiurges)*
+
 
 #### Bugs
 
@@ -618,6 +626,7 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 One of the most popular open-source version control systems.
 
+
 #### Open Source
 
 Free licensed code.
@@ -770,6 +779,8 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+When you stage a file, you're telling Git to start tracking a file once you hit "git add". This is nice if say you want to add more changes later before you commit, but you also don't want to lose any of the work you've done so far. When you do git commit, you only record changes to the repository that you staged first. 
+*Contributed by [Kat Miller-Martinez](https://github.com/demiurges)*
 
 
 ### Remotes
