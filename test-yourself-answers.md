@@ -104,6 +104,8 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+Another aspect of the hiring process is networking. By networking (attending meetups, hackathons, connecting online etc.) one can come across
+opportunities that might not exist via traditional job searching.
 
 ## How the Web Works
 
@@ -335,6 +337,9 @@ Define the following:
 
 ### The Web
 
+Unlike the internet, which is an infrastructure of computer networks that enables computers to communicate with each other,
+the web is a segment of the internet that uses the HTTP protocol to transmit data over the internet. Web browsers allow one 
+to retrieve, process and display information obtained from the web.
 
 #### URL( Uniform Resource Locator)
 
@@ -345,6 +350,9 @@ Address that one types in to reach a particular webpage.  Human readable address
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+The name of a website (e.g http://www.google.com => 'google' is the domain). The DNS converts the domain name into an IP Address.
+
 
 
 #### IP Address
