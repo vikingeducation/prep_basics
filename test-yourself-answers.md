@@ -346,6 +346,9 @@ Address that one types in to reach a particular webpage.  Human readable address
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+The name of a website (e.g http://www.google.com => 'google' is the domain). The DNS converts the domain name into an IP Address.
+
+
 
 #### IP Address
 
