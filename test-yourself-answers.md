@@ -104,6 +104,8 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+Another aspect of the hiring process is networking. By networking (attending meetups, hackathons, connecting online etc.) one can come across
+opportunities that might not exist via traditional job searching.
 
 ## How the Web Works
 
