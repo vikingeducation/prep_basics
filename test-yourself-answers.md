@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+Unlike the internet, which is an infrastructure of computer networks that enables computers to communicate with each other,
+the web is a segment of the internet that uses the HTTP protocol to transmit data over the internet. Web browsers allow one 
+to retrieve, process and display information obtained from the web.
 
 #### URL( Uniform Resource Locator)
 
