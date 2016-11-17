@@ -402,6 +402,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+Web server can refer to the hardware or software connected to the internet that handles requests from users and serves the proper files in response to the request. All files needed to create a web application (HTML,CSS, JS, etc...) are stored on the server. The software on the server interprets requests and sends back the correct information based on what the client is trying to accomplish.
+
+*Contributed by [Kyle Much](http://github.com/kylemuch)* 
 
 #### Bugs
 
@@ -603,6 +606,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails (RoR) is a server side framework for creating Web applications that uses the Ruby programming language. It is open source, has over four thousand contributors, and focuses on developer happiness and ease of use.
+
+*Contributed by [Kyle Much](http://github.com/kylemuch)*   
 
 #### Command Line
 
@@ -617,6 +623,10 @@ It's like a time machine for jumping back and forth between specific time stamp 
 #### Git
 
 One of the most popular open-source version control systems.
+
+The most popular version control software in use today. Git allows teams of any size to collaborate and create together while keeping almost unlimited versions of their code base(or any document) that allows roll-backs, merges, and updates from one person's code base to another while maintaining the integrity and quality of the original code.
+
+*Contributed by [Kyle Much](http://github.com/kylemuch)*  
 
 #### Open Source
 
