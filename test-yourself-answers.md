@@ -335,6 +335,10 @@ Define the following:
 
 ### The Web
 
+The Web, or World Wide Web, is basically a system of Internet servers that support specially formatted documents. The documents are formatted in a markup language called HTML (HyperText Markup Language) that supports links to other documents, as well as graphics, audio, and video files.
+This means you can jump from one document to another simply by clicking on hot spots. Not all Internet servers are part of the World Wide Web.
+
+*Contributed by [Benjamin Wesley](http://github.com/kre8luv)*
 
 #### URL( Uniform Resource Locator)
 
@@ -402,6 +406,11 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+Web servers are computers that deliver (serves up) Web pages. Every Web server has an IP address and possibly a domain name. For example, if you enter the url <http://www.vikingcodeschool.com/prep> in your browser, this sends a request to the Web server whose domain name is vikingcodeschool.com. The server then fetches the page named 'prep' and sends it to your browser.
+Any computer can be turned into a Web server by installing server software and connecting the machine to the Internet. There are many Web server software applications, including public domain software and commercial packages.
+
+*Contributed by [Benjamin Wesley](http://github.com/kre8luv)*
+
 
 #### Bugs
 
@@ -453,7 +462,15 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
 
-### Design
+## Design
+
+#### Web Design
+
+Web Design is the process of creating websites. 
+It encompasses several different aspects, including webpage layout, content production, and graphic design. 
+While the terms web design and web development are often used interchangeably, web design is technically a subset of the broader category of web development.
+
+*Contributed by [Benjamin Wesley](https://github.com/kre8luv)*
 
 
 #### WYSIWYG
