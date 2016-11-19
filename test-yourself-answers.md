@@ -119,6 +119,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+If information weren't broken down to be sent, we'd end up with a situation where the transfer of one large file might hog up all the bandwidth, forcing other computers to have to wait to use the network to transfer their files. 
 
 #### What are packets?
 
@@ -182,10 +183,7 @@ etc.
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment, and other design aspects of a page. In short, it makes the raw information look pretty, and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
@@ -259,7 +257,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Permissions determine *who* can do *what* to a file, allowing us to prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
 
@@ -273,9 +271,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
-The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using `sudo` in the command line, which stands for Superuser do.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
+`sudo` allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
@@ -288,6 +286,8 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
+Hit `escape`, followed by
+
 `:q`
 
 `:q!` (to overwrite and not save any changes)
@@ -310,6 +310,7 @@ $PATH dictates the locations within a file tree that contains commands executabl
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
+Each directory in a $PATH is separated by a colon(:)
 
 #### Why might you need to add onto your `$PATH` variable?
 
@@ -349,7 +350,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four numbers ranging from 0 to 255 and separated by periods, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
@@ -385,6 +386,8 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 #### POP & IMAP & SMTP
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+
+
 
 
 #### API
