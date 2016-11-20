@@ -334,7 +334,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+Web or World wide Web (WWW) as it is commonly called is an information space that links the resources and documents via a unique Uniform Resource Locators (URL). The syetem of world wide web was invented by Sir Tim Berners-Lee in 1989.
 
 #### URL( Uniform Resource Locator)
 
