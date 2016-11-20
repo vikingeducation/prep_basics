@@ -63,7 +63,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
-
+Hashnode, Geekli.st, Coderwall can be helpful too. 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
