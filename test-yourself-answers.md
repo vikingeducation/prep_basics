@@ -911,3 +911,14 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+### Why is Git useful for a developer?
+
+Git is a great way to track changes you make and safegaurd from silly mistakes. It is extremely useful for projects where more then one developer is working because it allows collaboration.
+
+*Contributed by [Dena Sawyer](https://github.com/denalove)*
+
+### What is a VCS?
+
+VCS is Git's version control. It is a system which records changes to a set of files over time so that you can recal specific versions later.
+
+*Contributed by [Dena Sawyer](https://github.com/denalove)*
