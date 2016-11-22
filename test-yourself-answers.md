@@ -176,9 +176,12 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+etc. 
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+This front-end language is built into modern web browsers, so no prior installations are needed.
+*Contributed by [Ronald Tejada](http://github.com/rontejada1991)*
 
 #### What is CSS and how is it used?
 
@@ -223,8 +226,14 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc).
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+It is the gateway into your computer's directories, while also being
+useful to scripting languages such as Ruby.
+*Contributed by [Ronald Tejada](http://github.com/rontejada1991)*
+
 
 #### How do you open it on your computer?
 
@@ -334,7 +343,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+A system of aggragate documents that are built using the domain name system and accessed using the internet.
+*Contributed by [Ronald Tejada](http://github.com/rontejada1991)*
 
 #### URL( Uniform Resource Locator)
 
@@ -909,5 +919,4 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
 
