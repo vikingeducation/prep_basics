@@ -305,6 +305,18 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+#### What is nano?
+
+Nano is a command-line text editor. It may not be as robust as Vim, but it is more intuitive and easy to use for beginning programmers. 
+
+To open a file using nano type: nano file_name
+
+There are keyboard shortcuts at the bottom to help you navigate and use nano. To see more shortcuts, press Ctrl + G to get to the help menu.
+
+One of the first things you should learn is how to Save and Exit. Press Ctrl + X to Exit. Then press 'y' to save. Finally, just press 'Enter' to save the 
+file under the save name. To just exit without saving, press 'n' when prompted to save.
+*Contributed by [Alex Thomas](https://github.com/rollsthomas)*
+
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
