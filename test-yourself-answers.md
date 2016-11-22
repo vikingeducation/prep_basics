@@ -119,6 +119,8 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Among the packets sent are also instructions for how the receiving device should reassemble the transmitted packets. 
+
 
 #### What are packets?
 
@@ -334,6 +336,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+An vast collection of interconnected computers that communicate with one another across the globe.
 
 
 #### URL( Uniform Resource Locator)
@@ -534,7 +537,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### CSS
 
-"Cascading Style Sheets" find HTML tags and tell the browser how to display them.
+"Cascading Style Sheets" find HTML tags and tell the browser how to display them. 
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
@@ -554,7 +557,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Basically shorthand for what you are planning to code. It's like sketching for programmers. You might use a personal, or group, short-hand to desrcribe how you will code something without writing out grammatically correct or fleshed-out code. It's a bit like writing down bullet points before writing an essay.
 
 
 #### C
