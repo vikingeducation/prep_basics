@@ -334,7 +334,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+A portion of the global internet made up of documents that are consumable with browser softwares and hyperlinked to form a "web" of accessible information.  
+*Contributed by [Margaret Babiarz](http://github.com/mbabiarz)*
 
 #### URL( Uniform Resource Locator)
 
