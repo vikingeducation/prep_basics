@@ -387,6 +387,10 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
 
+POP and IMAP are protocols used by your computer to retrieve your email from email servers, like Gmail and Yahoo. POP isn't as widely used because it doesn't keep a copy of your email on the server once it has been opened and read, so there is no way to retrieve it from a different device. IMAP is more practical since it keeps track of your read messages, and still allows you to download your messages from the email server multiple times, and from different devices if needed. SMTP is the standard for sending emails over the internet.
+
+*Contributed by [Christine Gillis](http://github.com/christinegillis)*
+
 #### API
 
 API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
@@ -597,6 +601,9 @@ A framework is a collection of libraries that are used for building web applicat
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
+Frameworks is a structure that developers use to build and expand applications. It provides a foundation in which code can be built with increased reliability, in a shorter amount of time. Frameworks allow developers to be more productive because it provides code that has already been tested, and they can build upon it, instead of starting an application from scratch.
+
+*Contributed by [Christine Gillis](https://github.com/christinegillis)
 
 
 #### Ruby on Rails
@@ -720,6 +727,9 @@ Git is the most popular distributed version control system used for software dev
 **S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
+A 'Source Code Management' system is software that provides a central location to store code, and allows different users on a team to collaborate on the same files. It keeps track of each user's changes, and provides version control to prevent overwriting. 
+
+*Contributed by [Christine Gillis](http://github.com/christinegills)
 
 #### What is a VCS?
 
