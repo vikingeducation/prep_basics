@@ -54,7 +54,7 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
-#### Where are the closest developer communities to you?
+#### How can you find an offline developer community?
 Although online communities are great, having someone next to you whlie coding can be invaluable; especially when starting out. Most cities have developer communities and can easily be 
 found on sites like www.meetup.com. Some groups like Free Code Camp are found all over the world. Usually the bigger the city, more specialized groups can be found, e.g., Ruby, Python, Arduino. These groups often meet at scheduled times and have projects they are working on. In my experience, they are very friendly to newcomers and, 
 though they are not there to teach you, they can be very helpful in guiding you.
