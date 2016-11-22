@@ -246,6 +246,13 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+If one wants to create a directory under the present directory, then type
+`mkdir <directory_name>` on the command line. If one wants to create a
+directory and also create subdirectories under it, all at once, then one can
+use the `-p` flag, like so:
+`mkdir -p <directory_name>/<subdirectory_name>/subsubdirectory_name`
+*Contributed by [Vishal Lama](https://github.com/vishallama)*
+
 #### How can you destroy a directory or file?
 
 `$ rm <fileName>`
@@ -287,6 +294,14 @@ Text editor that often causes debates with emacs lovers.
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+Vim is an acronym for **Vi IMproved**, though it originally stood for
+**Vi IMitation**. It is a clone of Bill Joy's **vi** text editor for Unix.
+The author of Vim is Bram Moolenaar. One unique feature of Vim is its modal
+interface, which most beginners find strange and cumbersome to use at first.
+However, with a little bit of practice, the aforesaid interface will seem
+like the most natural way of working with text files and especially code.
+*Contributed by [Vishal Lama](https://github.com/vishallama)*
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -295,6 +310,11 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+First, hit the `Esc` button (found on the top left corner of keyboard.) Then,
+type `:qall!` if you want to quit (exit) all buffers without saving any
+modifications made in those buffers.
+*Contributed by [Vishal Lama](https://github.com/vishallama)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
