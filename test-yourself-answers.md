@@ -56,6 +56,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
+Technical.ly is a Baltimore online community that holds meetups that cater to locals interested in technology. They feature weekly OpenHack's and even plan an annual Innovation Week!
+
+*Contributed by [Justin Lawrence](http://github.com/justinmarkhamlawrence)*
+
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
@@ -507,6 +511,11 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### GUI
 
+A GUI is a graphical user interface. It is a tool that software companies created to add ease of use to modern programs, as well as to take up a great bit of real estate on a system and prevent the uncurious from knowing how a computer actually works.
+
+*Contributed by [Justin Lawrence](https://github.com/justinmarkhamlawrence)*
+
+
 Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.  It is used as a generic term for a visual interface that the user can interact with.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
@@ -830,6 +839,9 @@ A pull request is when you contribute to someones else's project, and you let th
 
 #### What is "Forking" a repo?
 
+Forking a repo is the act of copying a repository into your github account in order to make independant changes to the code without modifying the original code. 
+*Contributed by [Justin Lawrence](https://github.com/justinmarkhamlawrence)*
+
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -902,7 +914,7 @@ You'll see output indicating any changes that were made
 
 #### What is a "Merge Conflict" and when will it occur?
 
-A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed.
+A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed....
 
 #### How do you resolve a "Merge Conflict"?
 
