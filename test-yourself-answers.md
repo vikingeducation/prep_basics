@@ -179,6 +179,8 @@ content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Additionally, HTML should only be used to give the basic outline of the webpage. Any design elements should come from CSS, and any behavior should come from JavaScript.
+*Contributed by [Edward Heath](http://github.com/edwardheath)
 
 #### What is CSS and how is it used?
 
@@ -334,7 +336,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+The overarching term used for the connected network of servers and the content they provide to their clients.
+*Contributed by [Edward Heath](http://github.com/edwardheath)
 
 #### URL( Uniform Resource Locator)
 
@@ -418,6 +421,9 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+The cloud can be used to access files from virtually anywhere on any connected device.
+*Contributed by [Edward Heath](http://github.com/edwardheath)
 
 
 #### Cookies
