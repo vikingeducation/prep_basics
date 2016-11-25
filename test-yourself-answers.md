@@ -78,10 +78,13 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Curios about technology and how things work, a passion for learning and building things, and grit.
+
+*Contributed by [Roy Chen](https://github.com/roychen5)
 
 #### What do companies look for in a junior web developer?
 
@@ -287,6 +290,10 @@ Text editor that often causes debates with emacs lovers.
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+A text editor that you use for two reasons - you don't have Sublime Text available (because it's a server with no GUI install, for instance), or you've reached the pinnacle of your code journey.
+
+*Contributed by [Roy Chen](https://github.com/roychen5)
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -334,9 +341,11 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+The World Wide Web (Web, or WWW for short) is one of the mediums of information exchange over the Internet. Clients typically use the HTTP protocol and specify a URL to connect to a server to retrieve the information requested.
 
+*Contributed by [Roy Chen](https://github.com/roychen5)
 
-#### URL( Uniform Resource Locator)
+#### URL (Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
@@ -632,13 +641,13 @@ CMS stands for Content Management System, which is an application used to manage
 
 #### Database
 
-A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. They cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
+A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. The cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
 #### SQL
 
-Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
+Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database system in 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
@@ -770,7 +779,9 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+Staging files tells git, "Hey, please get ready to track changes in these files that I've specified." Commiting tells git, "Okay, now make a permanent record of changes in those files I staged earlier, so that we can always go back to this state if required."
 
+*Contributed by [Roy Chen](https://github.com/roychen5)
 
 ### Remotes
 
