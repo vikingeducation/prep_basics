@@ -51,14 +51,18 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+Apart from the mentioned sources of knowledge developers use IRC and Slack channels, where they can get real time help from more experienced programmers.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Jakub Jarosz](http://github.com/qba73)*
 
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+In Dublin, Ireland developers can choose many meetups organized by local tech communities. Many companies organize free workshops where programmers, testers, sys & net admins learn and share knowledge.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Jakub Jarosz](http://github.com/qba73)*
 
 #### What online developer communities can you join?
 
@@ -110,10 +114,10 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+Simply put, the internet is a global system of interconnected networks, computers and devices, all communicating with each other via standardized protocols. Connected devices can send and receive all kinds of information such as text, graphics, audio and video.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
-
+*Contributed by [Jakub Jarosz](https://github.com/qba73)*
 
 #### How is information broken down and sent?
 
@@ -234,8 +238,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again Shell, the command-line shell for GNU/Linux."
+Bash is a command processor that runs in a text window, where the user types commands. Bash can also read commands from files (scripts).
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Jakub Jarosz](https://github.com/qba73)*
 
 #### How can you navigate into a particular file directory?
 
@@ -259,7 +266,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
 
@@ -335,6 +342,9 @@ Define the following:
 
 ### The Web
 
+The Web (World Wide Web) is a collection of resources and users on the Internet that are using the Hypertext Transfer Protocol (HTTP). A broader definition comes from the World Wide Web Consortium (W3C) and describes the web as the universe of network-accessible information.
+
+*Contributed by [Jakub Jarosz](https://github.com/qba73)*
 
 #### URL( Uniform Resource Locator)
 
@@ -711,7 +721,7 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 #### What is Git?
 
-Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
+Git is the most popular distributed version control system (DVCS) used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
 
