@@ -42,6 +42,8 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
+Static webpages are delivered to the user in exactly the same way that they are stored. Basically, the code that makes up a page is what is displayed in the browser.
+
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
@@ -51,6 +53,8 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+
+***Another great source is YouTube videos on many of these topics. I find if I am having a hard time conceputalizing the material, watching a video of someone going through the process can help tie everything together.***
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -334,6 +338,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+
+While the internet is a network of networks that connects millions of computers across the world, helping to transport various forms of information and content, the Web is software that gives us access to that information and content.
 
 
 #### URL( Uniform Resource Locator)
