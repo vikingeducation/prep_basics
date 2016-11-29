@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,27 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### What's the difference between front end, back end, and full stack developers?
+
+"Front End" typically refers to the stuff that you actually see on the website in the browser (and is often called "client-side").
+"Back End" typically refers to the guts of the application which live on the server (and is often called "server-side").
+"Full Stack" developers marry the two sides into one. While each "end" involves learning a significant amount of information, a full stack developer can comfortably speak both database and browser.
+
+*Contributed by [Punitha Manjunath](https://github.com/punitha7)*
+
+#### What is a "Superuser" and how do you execute commands as this user?
+
+"Super User", who has the power to do anything. Use the sudo command prior to any other command to run it as the "Super User".
+
+*Contributed by [Punitha Manjunath](https://github.com/punitha7)*
+
+#### What are the top 3 characteristics of great web developers?
+
+curiosity, passion and lazziness
+
+*Contributed by [Punitha Manjunath](https://github.com/punitha7)*
