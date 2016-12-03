@@ -452,6 +452,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+The process whereby one optimises a website's text content in an effort to make it easy for search engines like Google or Yahoo! to recognise the page and rank it highly among its search results.
+
+*Contributed by [Leon Potgieter](https://github.com/hexvallei)*
 
 ### Design
 
@@ -462,6 +465,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Acronym for "What You See Is What You Get" -  Graphical website designing software that allow non-technical individuals (without knowledge of HTML and other types of programming languages) to create websites from a design perspective.  WYSIWYG Web Builders then generate code behind the scene so that the webpage builder can focus primarily on layout / design / content.
+
+*Contributed by [Leon Potgieter](https://github.com/hexvallei)*
 
 #### Responsive Design
 
@@ -470,6 +476,9 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+A design technique that allows a single website to displayed correctly, in scale, on multiple devices with different screen sizes.  A responsive designed site will display as well on a large desktop monitor as on a mobile phone screen.  This is done by the page dynamically adjusting and rearranging content to fit the new resolution.
+
+*Contributed by [Leon Potgieter](https://github.com/hexvallei)*
 
 #### Grid System
 
