@@ -67,6 +67,9 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Consider joining sitepoint forums and get familiar with stackoverflow.
+*contributed by [Rich Smith](https://github.com/richjdsmith*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -110,7 +113,7 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via common languages (standardized protocols).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
@@ -149,11 +152,14 @@ Basically, it enables the sharing of resources and information for various appli
 
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
+A server is a computer or computer program which is connected to a network - usually the internet -  and 'serves' requested data. That is, when a client sends a request for a file(s) (for example, a websites homepage HTML file along with its associated image files), the server looks to find that file and send it back to the client. When unable to find a specific file, the server *may* send back an error stating so, such as a 404 error, but does not necessarily have to do so (such as for a missing css file on a website) and will attempt to return as much data as possible. 
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Rich JD Smith](https://github.com/richjdsmith)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -256,6 +262,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+#### How do you move a directory or file?
+
+`$mv /path/to/source/<filename>  /path/to/destination/<filename>`
+
 
 #### Why are file permissions important?
 
