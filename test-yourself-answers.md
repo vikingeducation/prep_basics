@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+Not sure where to start? Simply do a quick search at Meetup.com! You'd be surprised at how many local communities there are, no matter where you are around the world. They would typically host monthly meetups, with little to no entrance fee.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Chiu Kwok](http://github.com/chiukwok)*
 
 #### What online developer communities can you join?
 
@@ -119,6 +122,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Think of your information as a puzzle pieces, except when received, it provides an instruction manual to easily reassamble your pieces!
+
+*Contributed by [Chiu Kwok](http://github.com/chiukwok)*
 
 #### What are packets?
 
@@ -335,6 +341,11 @@ Define the following:
 
 ### The Web
 
+The Web, short for the World Wide Web and also known under the abbreviation WWW, is an information space where documents and other web resources are identified by URLs, interlinked by hypertext links, and accessed via the Internet. Web pages are primarily text documents formmatted and annoted with HTML, and may contain multimedia contents such as images, video, audio, and software components. 
+
+Read more about it here: *Contributed by [Chiu Kwok](http://github.com/chiukwok)*
+
+*Contributed by [Chiu Kwok](http://github.com/chiukwok)*
 
 #### URL( Uniform Resource Locator)
 
