@@ -237,6 +237,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Bash, a shortened form of “Bourne-again Shell,” is a command line interpreter for unix-like systems, that also functions as a programming language. 
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
@@ -373,6 +375,8 @@ HyperText Transfer Protocol, defines how messages are formatted and transmitted 
 
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 
+An acronym for “Hypertext Transfer Protocol.” It’s essentially a standard that specifies how a client and server interact. More specifically, HTTP sets that standard for message syntax and the server or browser’s response.
+
 
 #### HTTPS
 
@@ -503,6 +507,8 @@ Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal
 Content that is visible immediately when the page is loaded, without having to scroll. Good design will place important elements here so the site's visitors don't have to scroll to find content. A reference to olde-tymey newspaper formatting, where headlines would be placed prominently above the physical fold.
 
 *Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
+
+This is a term that’s borrowed from old print journalism slang — in this context, it refers to the part of a webpage that’s visible in the browser when it first loads. Content below that is referred to as “below the fold.”
 
 
 #### GUI
