@@ -240,7 +240,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
+
+To navigate back to the parent directory, use `$ cd ..` 
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Anthony Sin](https://github.com/ats89/)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
@@ -256,6 +260,12 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+#### How do you create a new, empty file?
+
+`$ touch <fileName>`
+
+*Contributed by [Anthony Sin](https://github.com/ats89/)*
 
 #### Why are file permissions important?
 
@@ -838,8 +848,10 @@ Making a copy of another master repo into your own github account so as to not d
 
 Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
 
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
+The command for cloning a repo is `git clone URL`, where the URL can be found by clicking the "Clone or download" button of the Git repo you want to clone on your github account.
 
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
+*Contributed by [Anthony Sin](https://github.com/ats89/)*
 
 #### What is "Branching"?
 
@@ -866,8 +878,10 @@ Create a new branch by typing:
 git checkout -b branch_name
 ```
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+You can check to see what branch you are on by typing `git branch`, and navigate between branches by typing `git checkout <name of branch>`. Branches can also be deleted by typing `git branch -d <name-of-branch>`.
 
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Anthony Sin](https://github.com/ats89/)*
 
 
 #### Why would you use a branch?
