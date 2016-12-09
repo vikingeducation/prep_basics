@@ -314,7 +314,11 @@ $PATH dictates the locations within a file tree that contains commands executabl
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
+The $PATH variable makes it easy to run commonly used programs located in their own folders. If used unwisely, however, the value of the PATH variable can slow down the operating system by searching too many locations, or invalid locations.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Vitalii Diachenko](https://github.com/Nebelwerfergranate)*
 
 #### What are alias commands?
 
@@ -450,7 +454,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.
 3. Tricky enough to pretend to be one of the first two by gaming the search algorithm.
 
+Optimizing a website may involve editing its content, HTML and associated coding to both increase its relevance to specific keywords and to remove barriers to the indexing activities of search engines.
+
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+*Contributed by [Vitalii Diachenko](https://github.com/Nebelwerfergranate)*
 
 
 ### Design
@@ -459,8 +466,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 #### WYSIWYG
 
 "What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
+WYSIWYG implies a user interface that allows the user to view something very similar to the end result while the document is being created
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Vitalii Diachenko](https://github.com/Nebelwerfergranate)*
 
 
 #### Responsive Design
