@@ -398,9 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+An Internet server that responds to HTTP requests to provide content and services to the user.
 
-*Contributed by [Unknown]*
+*Contributed by [John Whittington](https://github.com/Johncw90)*
 
 
 #### Bugs
@@ -612,7 +612,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+Also known as revision control or source control, version control is a collaborative resource for storing and tracking files over time, making note of who contributed what and when they contributed.
+
+*Contributed by [John Whittington](https://github.com/Johncw90)* 
 
 #### Git
 
@@ -620,9 +622,9 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Freely accessible, malleable and distributable licensed code that the copyright holder has chosen to make public to anyone for any purpose. 
 
-*Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [John Whittington](https://github.com/Johncw90)*
 
 #### CMS
 
