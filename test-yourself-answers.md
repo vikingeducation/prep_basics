@@ -158,7 +158,7 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provide the data & files for the requested site.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
@@ -235,7 +235,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
+Bash allows users to type commands into a command-line window in order to communicate with the system.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Robert Wayne](https://github.com/robertjosephwayne)*
 
 #### How can you navigate into a particular file directory?
 
@@ -556,6 +560,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Unlike actual code, pseudo-code is intended for human reading, rather than machine reading.
+
+*Contributed by [Robert Wayne](https://github.com/robertjosephwayne)*
 
 #### C
 
@@ -612,7 +619,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between specific time stamps for coding.
+
+Version control can be used by individuals, or by teams who have multiple individuals simultaneously editing 
+
+*Contributed by [Robert Wayne](https://github.com/robertjosephwayne)*
 
 #### Git
 
