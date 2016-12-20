@@ -559,7 +559,14 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+
+Learning C is sort of like learning Latin: if you want to start programming in
+a related modern language such as C++ or Java, knowing C can help you adapt
+more quickly to the structure and syntax.
+
+*Contributed by [Anonymous]*
+*Contributed by [Laura L.] (https://github.com/liveoaks)*
 
 
 #### Ruby
@@ -614,6 +621,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+Version control is a way to work on parts of a project in parallel. You can create copies (branches) to make updates, add new material, or try out changes. The version control system tracks and manages all the pieces, and you can then choose what to keep and integrate back into the master project.
+
+*Contributed by [Anonymous]*
+*Contributed by [Laura L.] (https://github.com/liveoaks)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -669,7 +681,12 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
+A script is a set of commands, written in a scripting language such as
+JavaScript, that are interpreted by the programming environment when run
+rather than having to be compiled beforehand with a separate compiler program.
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Laura L.] (https://github.com/liveoaks)*
 
 
 
@@ -906,8 +923,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
