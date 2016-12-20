@@ -603,6 +603,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+This framework is especially helpful because of the way it abstracts and simplifies tasks.
+
+*Contributed by [Zach Rudy](https://github.com/zcr7948)*
 
 #### Command Line
 
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -768,6 +771,7 @@ The other way is typing a git commit -am "Your message", which will both stage a
 
 Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
 
+
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 
@@ -804,7 +808,11 @@ git status
 #### How do you see the history of your previous commits (from the command line)?
 
 git log
+
+"git log -- summary" will give more details regarding your previous commits.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Zach Rudy](https://github.com/zcr7948)*
 
 #### How can you look through your historical commits on the Github website?
 
@@ -874,7 +882,13 @@ git checkout -b branch_name
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
+Branches are especially useful when:
+1. Experimenting with new features.
+2. Keeping in-progress changes separate from the ready to deploy version.
+3. Collaborating with other developers working on separate features at once.
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Zach Rudy](https://github.com/zcr7948)*
 
 
 #### How do you create a new branch?
@@ -906,8 +920,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
