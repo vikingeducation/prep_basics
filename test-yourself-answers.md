@@ -603,12 +603,20 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+> Rails is a web application development framework written in the Ruby language. It is designed to make programming web applications easier by making assumptions about what every developer needs to get started. It allows you to write less code while accomplishing more than many other languages and frameworks.
+\- __*[Rails Guide](http://guides.rubyonrails.org/getting_started.html)*__
+
+*Contributed by [Tariq Khan](https://github.com/digitalgnome)*
+
 
 #### Command Line
 
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
+The Command Line Interface (CLI) is a powerful tool for obtaining (through various package managers, such as gem with Ruby and npm with Node), and working with tools that aide in web development projects.
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Tariq Khan](https://github.com/digitalgnome)*
 
 #### Version Control
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -779,7 +787,10 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 Committing your changes will only save them in your local repository. Pushing them to Github will save them to your remote repository.
 
+`git commit` will record the changes to the local repository, whereas `git push` will record the changes up to the specified remote repository.
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Tariq Khan](https://github.com/digitalgnome)*
 
 
 #### What is the difference between a "remote" and your local repo?
@@ -906,7 +917,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
