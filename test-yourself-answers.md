@@ -269,7 +269,12 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
+Alternately, for the Windows "Command Prompt with Ruby and Rails", use:
+`$ help <cmd>` for regular commands, or `$ <utility> help` for applications such as git or heroku.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Jason leacox](http://github.com/skillwavemedia)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -470,6 +475,11 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+#### Web Accessibility Design
+
+The practice of removing barriers the preventing people with disabilities to interact with a website/ product. This ensures disabled users have access to the same information and functionality.
+
+*Contributed by [Jason leacox](http://github.com/skillwavemedia)*
 
 #### Grid System
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,10 +677,12 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. You do not need tough preparations and internalization. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+
+A list of commands that can be executed without user interaction.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
-
+*Contributed by [Jason leacox](https://github.com/skillwavemedia)*
 
 
 ## Installations
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
