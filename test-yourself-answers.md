@@ -228,14 +228,18 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`. For most flavors of Linux the shortcut to open a terminal window is 'ctrl + alt + t'.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Nicholas Romeo](https://github.com/Throw22)*
+
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux. As a command processor it allows users to perform a variety of tasks like creating, copying, moving, opening, and deleting files.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Nicholas Romeo](https://github.com/Throw22)*
+
 
 #### How can you navigate into a particular file directory?
 
@@ -245,6 +249,13 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### How can you create a directory?
 `$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+#### How do you open a file from the command line?
+Mac: `$ open <fileName>`
+Linux:`$ xdg-open <fileName>`
+Windows: `$ start <fileName>`
+
+*Contributed by [Nicholas Romeo](https://github.com/Throw22)*
 
 #### How can you destroy a directory or file?
 
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +917,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
