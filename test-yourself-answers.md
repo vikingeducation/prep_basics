@@ -554,7 +554,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+It's basically shorthand for what you are planning to code. It's like sketching for programmers, and it helps you plan what you’re going to code. However, instead of using code you use plain language.
+
+*Contributed by [Pat Mellon](https://github.com/Pat878)*
 
 
 #### C
@@ -566,9 +568,11 @@ An older, light weight programming language that direcly inspired the developmen
 
 Ruby is the most enjoyable language on earth. Easy and happy to code.
 
-Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
+Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy". Ruby first appeared in 1995.
+
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
+*Contributed by [Pat Mellon](https://github.com/Pat878)*
 
 
 #### Ruby Gems
@@ -601,8 +605,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice. David Heinemeier Hansson was its original author.
 
+*Contributed by [Pat Mellon](https://github.com/Pat878)*
 
 #### Command Line
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
