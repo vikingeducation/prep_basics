@@ -60,12 +60,19 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+There are a bunch! Girl Develop It has a local Chapter in South Jersey. There are Ruby courses at a nearby Coworking space. I live within commuting distance from NYC and there is no end to communities there to be found on Meetup.
+
+*Contributed by [Rachel Krupnick](http://github.com/rkrupnick)*
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+CodeBuddies is a great place to meet other beginners online who are learning a variety of languages!
+*Contributed by [Rachel Krupnick](http://github.com/rkrupnick)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -192,12 +199,14 @@ and it makes the front end simpler by separating presentation from content.
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
-Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
+Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element." An alternative is Ctrl+Shift+i
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
-*Contributed by [Adam Kinson](http://github.com/kinsona)*
+There are also auditing tools which allow you to figure out what is making your site lag, and find unused CSS rules.
 
+*Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Rachel Krupnick](http://github.com/rkrupnick)*
 
 
 #### What happens behind the scenes after you click "search" on google.com?
