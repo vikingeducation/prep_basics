@@ -417,8 +417,10 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 
 Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+For example, the current market leader in cloud computing is Amazon Web Services, which is divided into eleven geographic regions. Each region is comprised of several distinct "data centers" which can prevent outages from spreading from zone to zone. 
 
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Jessica Rinks](https://github.com/jrinks)*
 
 #### Cookies
 
@@ -568,8 +570,10 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
-*Contributed by [René Maya](https://github.com/viejOMs)*
+The name "Ruby" was chosen because it was the birthstone of one of Matsumoto's colleagues.
 
+*Contributed by [René Maya](https://github.com/viejOMs)*
+*Contributed by [Jessica Rinks](https://github.com/jrinks)*
 
 #### Ruby Gems
 
@@ -702,10 +706,12 @@ RVM is helpful because some gems, tools, and frameworks may only work with a par
 
 #### What is XCode?
 
-An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
+An integrated development environment (IDE) created by Apple for developing OS X and iOS software. 
+
+XCode includes an iOS simulator which allows you to test your app in an iOS environment even if you don't have a device. 
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
-
+*Contributed by [Jessica Rinks](https://github.com/jrinks)*
 
 ## Git
 
