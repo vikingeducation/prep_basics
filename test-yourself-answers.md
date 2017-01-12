@@ -737,9 +737,9 @@ Git version control system is useful for a developer because it allows the devel
 
 #### Why is Git useful for a team of developers?
 
-Using Git allows a team of developers to independently work alongside one another, while having the ability to seamlessly implement those changes to the main project. It also helps situations where independent developers work may contradict each other, by showing changes and allowing the developers to choose which ones they would like to keep.
+Due to the importance of collaboration and development on a project, the means by which we get codes into a deliverable state matters. Git ensures that there is a single repository that serves as the Canonical Repository (the main store of code that will be delivered). And each developer has a clone of this repository that they use for development on their local workstations. When code is complete in the Developer’s workstation the Developer announces the fact. Another team member pulls the code, reviews, compiles and tests it. If any stage of the review fails, then the reviewer pushes back to the originating developer. If it passes, it is signed off and pushed to the target branch of the Canonical Repository.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Samson Akanbi](http://github.com/samseen)*
 
 
 
@@ -906,7 +906,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
