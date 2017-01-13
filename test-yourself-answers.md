@@ -119,6 +119,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Information is broken into packets and uses a schema as a blue print. If you are using an ISP this information will travel through the ISP to the backbone. If you are using a hosting company they have a direct connection to the backbone, which speeds up the process.
+
+*Contributed by [Jeffrey Charlesworth](https://github.com/jeffcharlesworth)*
+
 
 #### What are packets?
 
@@ -160,7 +164,11 @@ The server waits for requests from a client and tries to produce the proper resp
 
 HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
+HTTP allows a client to push, get, post, put, patch and delete.
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+
+*Contributed by [Jeffrey Charlesworth](https://github.com/jeffcharlesworth)*
 
 
 #### What are DNS servers?
@@ -169,7 +177,11 @@ A DNS server is a special kind of computer that links human-readable names of we
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
+A DNS server works a lot like a phone book. It takes domains (a name) amd routes them to an address (an IP)
+
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+
+*Contributed by [Jeffrey Charlesworth](https://github.com/jeffcharlesworth)*
 
 
 #### What is HTML and how is it used?
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
