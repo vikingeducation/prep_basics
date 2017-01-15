@@ -614,6 +614,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+A way for developers to make changes to code, knowing they can always revert to previous versions.
+
+*Contributed by [Tim Scott](https://github.com/ttscott2)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -770,10 +774,16 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+Staging involves storing changes in an area where they can then be committed. To commit a change is to permanently save a change or set of changes to your git repository. To stage: 'git add . ' OR 'git add -A'. To commit: 'git commit -m'. The '-m' flag allows the user to include a message describing the commit.
+
+*Contributed by [Tim Scott](https://github.com/ttscott2)*
 
 
 ### Remotes
 
+A remote repository is a version of the code from a local repository that is hosted on the internet or another network.
+
+*Contributed by [Tim Scott](https://github.com/ttscott2)*
 
 #### What is the difference between committing your changes and pushing them to Github?
 
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
