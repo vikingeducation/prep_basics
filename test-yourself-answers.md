@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+The information is broken down into packets with instructions for reassembly, addressed with their destination, encrypted if necessary, then routed through the various levels of the internet.
 
 
 #### What are packets?
@@ -559,7 +559,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that direcly inspired the development of many other languages. It's one of the lowest forms of programming language, one step removed from machine language. C is a static, strongly typed language making it ideal for things that should never change (such as an OS or an interpreted language).
 
 
 #### Ruby
@@ -601,8 +601,7 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
-
+Ruby on Rails is the amazing web framework for creating awesome web applications. It was created as an internal tool by David Heinemeier Hansson(DHH) for use at Basecamp, then extracted to create Rails. It has been widely adopted for its ease of use and limitless customizability. Rails is coded in Ruby and follows a naming convention to make things easier.
 
 #### Command Line
 
