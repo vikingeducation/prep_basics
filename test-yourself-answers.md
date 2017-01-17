@@ -234,7 +234,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again Shell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
@@ -256,6 +256,16 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+### How can you open a file once you've navigated to a given directory?
+
+`$ open <filename>`
+*Contributed by [Vincent Van Buskirk](https://github.com/vincentvb)*
+
+### How can you create a file within a given directory?
+
+`$ touch <filename>.filetype(txt, js, etc)`
+*Contributed by [Vincent Van Buskirk](https://github.com/vincentvb)*
 
 #### Why are file permissions important?
 
@@ -495,7 +505,10 @@ Short for red, green and blue, the three colors that make up a pixel. Each is an
 
 Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
 
+An excellent resource for looking up the Hexademical number for any given color is: http://www.w3schools.com/colors/colors_picker.asp
+
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+*Contributed by [Vincent Van Buskirk](https://github.com/vincentvb)*
 
 
 #### Above the Fold
@@ -508,6 +521,8 @@ Content that is visible immediately when the page is loaded, without having to s
 #### GUI
 
 Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.  It is used as a generic term for a visual interface that the user can interact with.
+
+
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
@@ -654,9 +669,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
