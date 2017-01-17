@@ -219,6 +219,7 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 
 
+
 ## The Command Line
 
 #### What is the command line?
@@ -538,6 +539,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+It allows easy style formatting to HTML files (color, font, etc.)
+
+*Contributed by [Kari Schendel](https://github.com/firefaded)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -624,6 +629,10 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+It is also freely available and can be redistributed and modified by anyone.
+
+*Contributed by [Kari Schendel](https://github.com/firefaded)*
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -868,6 +877,10 @@ git checkout -b branch_name
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+After creating the new branch, it will copy everything that is in your current branch into the new branch.
+
+*Contributed by [Kari Schendel](https://github.com/firefaded)*
+
 
 
 #### Why would you use a branch?
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
