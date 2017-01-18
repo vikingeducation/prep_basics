@@ -570,6 +570,9 @@ Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Ma
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+Ruby is high-level, object-oriented programming language, written in C.
+
+*Contributed by [Mariah Schneeberger](https://github.com/MariahAcacia)*
 
 #### Ruby Gems
 
@@ -612,7 +615,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+Version control is a system that saves changes or versions of code with a time and date stamp so you can easily go back and see who changed what, when. This is very helpful for collaboration projects and for going back to previous versions if you messed something up or lost a file.
+
+*Contributed by [Mariah Schneeberger](https://github.com/MariahAcacia)*
 
 #### Git
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,16 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+Merge conflicts are automatically marked for you by "Merge Markers" in the file itself. In order to fix the error, you need to open the file, find the markers and fix the error. There are three markers you will look for:
 
+1) <<<<<<<<<<HEAD - this will be before the line(s) in questions
+2) ============== - this will be between what Git thinks are the two versions of the line(s) in question (one will need to be deleted)
+3) >>>>>>>>>refs/heads/new_idea - this will be after the end of line(s) in question
+
+Decide what line you want to keep by deleting the one you would like to discard. Remove all the merge markers and save the file. Then you can stage and commit the file, finishing the merge process.
+
+*Contributed by [Mariah Schneeberger](https://github.com/MariahAcacia)*
