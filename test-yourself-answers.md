@@ -52,7 +52,19 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+Another way is to seek help from community members on TheOdinProject's Gitter.im chat room. There are fantastic individuals who are always willing to help.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Deven Bhatt](http://github.com/deven1)*
+
+#### What are some good blogs / articles recommended for Software Developers?
+
+Joel on Software.
+Paul Graham's Essays.
+Paul Ford's What is Code on Bloomberg
+Code Simplicity.
+
+*Contributed by [Deven Bhatt](http://github.com/deven1)*
 
 #### Where are the closest developer communities to you?
 
@@ -518,6 +530,12 @@ Graphical User Interface. This is the modern interface that is used across a mul
 "Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
+
+#### Mobile-First Design
+
+A UI/UX approach of designing a solution that is optimized for a mobile device from grounds up. In other words, designing your product for best experience on a mobile device first, rather than adopting your product for mobile devices as an after thought.
+
+*Contributed by [Deven Bhatt](http://github.com/deven1)*
 
 ### Developer Tools and Code
 
