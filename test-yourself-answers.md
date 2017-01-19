@@ -316,6 +316,11 @@ $PATH dictates the locations within a file tree that contains commands executabl
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+Let's assume you want to add ~/git/bin to your $PATH.  You then add it with the export command: "export PATH=$PATH:~/git/bin".  To keep this new addition, you will want to add that same export command to your ~/.profile or ~/.bash_profile using your text editor.
+
+*Contributed by [Frank Yu](https://github.com/frankyu)*
+
+
 #### What are alias commands?
 
 Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
@@ -614,6 +619,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+Version control allows people to easily compare changes made over time and switch back to a previous state if desired.  It does so by recording changes to files over time, taking snapshots along the way.  With version control, people can work on the same files without overriding each others' changes.
+
+*Contributed by [Frank Yu](https://github.com/frankyu)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -770,6 +779,11 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+"git add ." stages new and modified files only. "git add -u" does not add any new files.  It only stages files that are modified and deleted.  "git add -A" is actually the equivalent of "git add ." and "git add -u".  It stages all new, modified, and deleted files.  
+
+Committing a file is to store your changes permanently to your git directory. 
+
+*Contributed by [Frank Yu](https://github.com/frankyu1)*
 
 
 ### Remotes
