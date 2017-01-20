@@ -910,4 +910,10 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What's the difference between static and dynamic web pages?
+
+In simplest terms, static Web pages are those with content that cannot change without a developer editing its source code, while dynamic Web pages can display different content from the same source code.
+
+*Contributed by [Benjamin Cox](http://github.com/codejammin)*
+
 
