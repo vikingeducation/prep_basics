@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -53,6 +53,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
+The best formula to use if you are stuck in your projects is R-A-S(READ-ASK-SEARCH) . First always Read the manual/documentation provided in official website properly, since that's the last thing most people refer to . If still not clear then Ask in communities like Quora,Stackoverflow etc . Most of the time your problems will already be asked and solved too . Finally you have to learn proper Googling techniques and do extensive search on the topics . Always learn it in hardway so that you'll never forget ! (R-A-S) 
+
+*Contributed by [Roshan Adhikari](https://github.com/RoshanADK)*
 
 #### Where are the closest developer communities to you?
 
@@ -114,6 +118,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+If I have to explain the internet to a 12 years old , it goes like this . " Internet is communication among the computers using the same language(technical name is 'protocol' that you won't understand now) so that you being in New York can communicate with me in New Road,Kathmandu,Nepal ".
+PS : I would have to show him Map too .
+
+*Contributed by [Roshan Adhikari](https://github.com/RoshanADK)*
 
 #### How is information broken down and sent?
 
@@ -241,6 +249,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+
+"$ cd <Directory_Name>"  
+[without quotes]
+[cd refers to 'change directory']
+[$ is your bash prompt]
+"cd /d <Directory_Name>" will work fine if above commmand doesn't work .
+*Contributed by [Roshan Adhikari](https://github.com/RoshanADK)*
+
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
