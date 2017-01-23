@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -110,15 +110,17 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol). You can think of internet as a market place where there are different stalls(servers) selling/serving something or some service. People go to that market place commuting through different roads (Internet Service Providers) to get services/products from these stalls.   
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [M. Zohaib Jan]https://github.com/zohaibjan*
 
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets and sent through random different ways to get to their destination. International standards organization developed OSI (Open system interconnection) a reference model which entails how information can be divided into various layers with each layer adding its header information and the payload. This model was later adopted as TCP/IP model (Transmission Control Protocol / Internet Protocol) which we use till day.
 
+*Contributed by [M. Zohaib Jan]https://github.com/zohaibjan*
 
 #### What are packets?
 
@@ -176,9 +178,11 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+etc. Think of HTML as the skeleton of the webpage where you will "structurally" 
+divide information into various tags, elements etc. 
 
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [M. Zohaib Jan]https://github.com/zohaibjan*
 
 #### What is CSS and how is it used?
 
