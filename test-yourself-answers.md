@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -833,12 +833,20 @@ A pull request is when you contribute to someones else's project, and you let th
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+"Forking a Repo" is the process used to make a copy of a master repo before making changes. It takes place remotely i.e. on Github. The fork is then cloned to the local repo before the changes are made. The edited version is then submitted for review by the owner/maintainer via a pull request. The owner/maintainer decides whether to merge the changes back to the master. A fork includes all branches.
+
+*Contributed by [Matt Seaton](https://github.com/MattSeaton)*
+
 
 #### What is "Cloning" a repo?
 
 Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+
+"Cloning a Repo" is the act of bringing the copied repo from remote to a local machine, in order to make changes. This preserves the integrity of the master copy.
+
+*Contributed by [Matt Seaton](https://github.com/MattSeaton)*
 
 
 #### What is "Branching"?
@@ -849,6 +857,10 @@ Branching is when the developer creates a separate version of their local reposi
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+"Branching a Repo" is the technique used to work on a copy of a repo whilst maintaining the integrity of the master. Branches are usually made for each new feature, and can be worked on simultaneously by different team members before being merged to the master or discarded. 
+
+*Contributed by [Matt Seaton](https://github.com/MattSeaton)*
 
 
 #### Why would you use a branch?
