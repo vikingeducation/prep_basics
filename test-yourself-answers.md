@@ -298,17 +298,19 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells. It is where you can configure your command prompt. You can provide variables/alias' that allow for shortcuts to be used in your terminal. 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Chad Lucas](https://github.com/chadl76)*
 
 #### What is the `$PATH` variable?
 
-The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
+The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user. It allows for relative paths to be used instead of absolute paths. For example instead of typing /bin/ls to list files $PATH variable allows for the relative path of just ls to be used.
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contributed by [Chad Lucas](https://github.com/chadl76)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
@@ -906,8 +908,16 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. Example of merge markers: 
+<<<<<<<< HEAD
+console.log("Hello");
+============
+console.log("Bye");
+>>>>>>>> master
+
+ To resolve this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
+*Contributed by [Chad Lucas](https://github.com/chadl76)*
 
 
