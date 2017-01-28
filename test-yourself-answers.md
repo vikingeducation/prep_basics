@@ -238,7 +238,6 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
-
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
@@ -280,12 +279,13 @@ The "Superuser" is a user of a computer system with special privileges needed to
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
 #### What is Vim?
-
 Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is an editor that allows a user to create or edit a text file.
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -443,6 +443,7 @@ The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+An error that is returned when the web page cannot be found.
 #### SEO
 
 How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
@@ -603,6 +604,7 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails is a server-side web programming framework running on Ruby.
 
 #### Command Line
 
@@ -733,7 +735,6 @@ Git is the most popular distributed version control system used for software dev
 Git version control system is useful for a developer because it allows the developer the ability to access previous versions of their project, essentially being able to rewind time if they decide that a previous commit is better suited for their needs; be it a current implementation isn't working out, or to investigate changes to find where any problems may exist.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
 
 #### Why is Git useful for a team of developers?
 
