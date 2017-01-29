@@ -117,6 +117,12 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
+The sending system breaks down larger chunks of data into "packets". In addition to the data itself, these packets contain information
+including its final destination, instructions on how to rebuild the original file from these packets, and how to request any missing packets.
+Breaking information into smaller pieces also allows multiple systems to send data along the same network at the same time.
+
+*Contributed by [Renzo Tomlinson](https://github.com/rttomlinson)*
+
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
@@ -300,6 +306,11 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+Also be aware the for "non-login shells", bash will default to '.bashrc', but you are able to tell this shell to reference '.bash_profile'.
+Linux users will sometimes use '.bashrc' or just '.profile'.
+
+*Contributed by [Renzo Tomlinson](https://github.com/rttomlinson)*
 
 #### What is the `$PATH` variable?
 
@@ -666,6 +677,11 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### Script
+
+A script generally refers to a collection of commands or instructions written in a specific language. You then hand these instructions off
+to a piece of software (i.e. an interpreter and/or compiler), which turns these instructions into something that the computer can understand.
+
+*Contributed by [Renzo Tomlinson](https://github.com/rttomlinson)*
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
