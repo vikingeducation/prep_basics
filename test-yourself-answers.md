@@ -52,6 +52,8 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+Another good place to get help is Stackoverflow !
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
