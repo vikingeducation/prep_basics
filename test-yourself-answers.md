@@ -117,6 +117,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
+The sending system breaks down larger chunks of data into "packets". In addition to the data itself, these packets contain information
+including its final destination, instructions on how to rebuild the original file from these packets, and how to request any missing packets.
+Breaking information into smaller pieces also allows multiple systems to send data along the same network at the same time.
+
+*Contributed by [Renzo Tomlinson](https://github.com/rttomlinson)
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
