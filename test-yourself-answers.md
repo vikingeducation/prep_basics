@@ -16,7 +16,6 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 
 An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
 
-*Contributed by [Landon Simmons](https://github.com/landonain)*
 
 ## All about web delevolpers
 
@@ -24,6 +23,7 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 A web developer works on the internet with magic and corn tortillas. A true wizard of tomatoes and salsa that nevers lets css get in the way of adventures.
 
+*Contributed by [Landon Simmons](https://github.com/landonain)*
 
 *Contributed by [Erik Trautman](http://github.com/eriktrautman)*
 
