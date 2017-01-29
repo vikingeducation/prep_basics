@@ -122,6 +122,7 @@ including its final destination, instructions on how to rebuild the original fil
 Breaking information into smaller pieces also allows multiple systems to send data along the same network at the same time.
 
 *Contributed by [Renzo Tomlinson](https://github.com/rttomlinson)*
+
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
