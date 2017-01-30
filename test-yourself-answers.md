@@ -559,6 +559,16 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+It is a combination of using written language and code language to think through a problem, rather than say just trying to build through only code itself. 
+
+Example:
+if amount of times someone has contributed to the exercise equals 3
+
+	print "Done Exercise"
+else
+	print "You're not finished!"
+
+*Contributed by [Gus Richardson](https://github.com/gusr27)*
 
 #### C
 
@@ -913,4 +923,4 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
-
+c
