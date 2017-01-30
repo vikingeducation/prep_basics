@@ -536,7 +536,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
+Cascasing Style Sheets, or CSS, is used to define styles to be displayed in the browser. They define layouts from anything like shapes and alignment to colors and fonts. 
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Gus Richardson](https://github.com/gusr27)*
 
 #### Javascript
 
