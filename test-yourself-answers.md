@@ -261,6 +261,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+Permissions dictate who can read, write, and access files. They're important, because it can keep your stuff safe from unwanted modifications. 
+
+*Contributed by [Gus Richardson](https://github.com/gusr27)*
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -923,4 +926,4 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
-c
+
