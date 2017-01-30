@@ -261,6 +261,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+Permissions dictate who can read, write, and access files. They're important, because it can keep your stuff safe from unwanted modifications. 
+
+*Contributed by [Gus Richardson](https://github.com/gusr27)*
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -536,7 +539,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
+Cascasing Style Sheets, or CSS, is used to define styles to be displayed in the browser. They define layouts from anything like shapes and alignment to colors and fonts. 
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Gus Richardson](https://github.com/gusr27)*
 
 #### Javascript
 
@@ -556,6 +562,16 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+It is a combination of using written language and code language to think through a problem, rather than say just trying to build through only code itself. 
+
+Example:
+if amount of times someone has contributed to the exercise equals 3
+
+	print "Done Exercise"
+else
+	print "You're not finished!"
+
+*Contributed by [Gus Richardson](https://github.com/gusr27)*
 
 #### C
 
