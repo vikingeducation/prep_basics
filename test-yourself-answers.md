@@ -158,10 +158,12 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  Hypertext is structured text that uses hyperlinks between nodes containing text, and HTTP is the protocol to transfer hypertext.
+
+When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
-
+*Contributed by [Nate Thomas](http://github.com/nategthomas)*
 
 #### What are DNS servers?
 
@@ -259,7 +261,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions prevent unwanted access and/or modification of files. The three different types of permissions are read, write, and execute. Read permission allows you to view the contents of a file or folder.  Write permission allows you to write to a file or directory (or modify a file or directory).  Execute permission allows you to run a file or script for a specific file or directory.
+
+*Contributed by [Nate Thomas](https://github.com/nategthomas)*
 
 #### How do you view hidden files in a directory?
 
@@ -517,7 +521,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 "Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
 
+In short, front-end is what you see; back-end is how it works.
+
 *Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [Nate Thomas](https://github.com/nategthomas)*
 
 ### Developer Tools and Code
 
@@ -654,9 +661,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +913,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
