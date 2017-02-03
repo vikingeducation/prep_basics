@@ -334,7 +334,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+The web is made up of HTML pages shared through hypertext transfer protocol between server and user and viewed on browsers. This differs from the internet which is the interconnected networks of devices. 
+*Contributed by [piper6152](http://github.com/piper6152)*
 
 #### URL( Uniform Resource Locator)
 
@@ -344,7 +345,7 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
-*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Richard Peterson](https://github.com/webbuyrich)* 
 
 
 #### IP Address
@@ -386,6 +387,8 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+POP differs from IMAP in that when mail is fetched the files are deleted from the server and stored on device. There may be an option to save files but these files cannot be marked as read and will all be downloaded to device each time. IMAP keeps mail on server(in the cloud) and can mark each as read or replied. SMTP is typically used for sending e-mail via TCP/IP protocol and POP or IMAP receiving it.
+*Contributed by [piper6152](http://github.com/piper6152)*
 
 #### API
 
@@ -907,7 +910,8 @@ A merge conflict occurs during a merge when the same part of some file has chang
 #### How do you resolve a "Merge Conflict"?
 
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
-
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
+Alternatively the mergetool can be used if there are multiple conflicts. Assign your favorite default text editor for mergetool (google). When a conflict is fixed saved and closed mergetool will start the next conlict. Stage and commit as usual.
+*Contributed by [piper6152](http://github.com/piper6152)*
 
 
