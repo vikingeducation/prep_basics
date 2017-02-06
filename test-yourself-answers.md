@@ -69,7 +69,8 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+Programs like Dreamweaver or Microsoft Word add additional unnecessary code that can weigh down your project. And its a best practice. 
+*Contributed by [Meagan Campbell](http://github.com/meagancampbell)*
 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
@@ -77,15 +78,13 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Curiosity, Hacker Mindset, Passion, and Laziness [as in reusing code]
+The strongest assets you can have as a developer are a desire to continuously learn, a problem-solving mindset, and persistence in the face of setbacks.
+
+*Contributed by [Meagan Campbell](http://github.com/meagancampbell)*
 
 
 #### What do companies look for in a junior web developer?
-
-Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.
 
 Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
 
@@ -99,7 +98,6 @@ It's best to provide any infromation which can give relevant answers to the toug
 
 
 #### What is the hiring process like for a developer?
-
 To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
@@ -109,19 +107,17 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 
 #### What is the internet?
-
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
 
 #### How is information broken down and sent?
+It is broken down into several network packets and sent with directions on how to reassemble the information at its final destination back into a complete whole.
 
-It is broken down into packets and sent through random different ways to get to their destination.
-
+*Contributed by [Meagan Campbell](http://github.com/meagancampbell)*
 
 #### What are packets?
-
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
@@ -182,9 +178,7 @@ etc.
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment, and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
@@ -218,13 +212,13 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 
 
-
 ## The Command Line
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+The command line is a means of interacting with a computer program where the user issues commands to the program in the form of successive lines of text (command lines).
+
+*Contributed by [Meagan Campbell](http://github.com/meagancampbell)*
 
 #### How do you open it on your computer?
 
@@ -318,13 +312,9 @@ You might need to add onto your $PATH variable so an application can be found an
 
 #### What are alias commands?
 
-Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
+An "alias" command lets you specify a simple command that you want to type in order to run some other command or batch of commands. It's really useful for saving time. An alias command is a essentially a shortcut. 
 
-For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
-
-i.e. 'subl text.txt'
-
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Meagan Campbell](http://github.com/meagancampbell)*
 
 
 
@@ -465,10 +455,14 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
-Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
+Responsive design is an approach to web design aimed at allowing a website to be viewed in response to the size of the screen or web browser one is viewing it with. Responsive layouts adapt to the viewing environment by using fluid, proportion-based grids, flexible images, and CSS3 media queries:
+	•	The fluid grid concept calls for page element sizing to be in relative units like percentages, rather than absolute units like pixels or points.
+	•	Flexible images are also sized in relative units, so as to prevent them from displaying outside their containing element.
+	•	Media queries allow the page to use different CSS style rules based on characteristics of the device the site is being displayed on, most commonly the width of the browser.
+  
+Responsive web design has become more important as the amount of mobile traffic now accounts for more than half of total internet traffic. It is now considered best practice.
 
-*Contributed by [Jasen Carroll](https://github.com/jasenc)*
-*Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Meagan Campbell](https://github.com/meagancampbell)*
 
 
 #### Grid System
@@ -504,6 +498,9 @@ Content that is visible immediately when the page is loaded, without having to s
 
 *Contributed by [Dan Berger](https://github.com/dsberger) and [Nick Schwaderer](http://github.com/Schwad)*
 
+Above the fold is now an archaic term that is no longer relevant to todays design standards, as it is now common knowledge that viewers do not have a problem with scrolling. Any designer worth their salt pays no attention to this old and out of date design standard.
+
+*Contributed by [Meagan Campbell](https://github.com/meagancampbell)*
 
 #### GUI
 
