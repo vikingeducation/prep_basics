@@ -84,7 +84,7 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 
 Curios about technology and how things work, a passion for learning and building things, and grit.
 
-*Contributed by [Roy Chen](https://github.com/roychen5)
+*Contributed by [Roy Chen](https://github.com/roychen25)
 
 #### What do companies look for in a junior web developer?
 
@@ -292,7 +292,7 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 A text editor that you use for two reasons - you don't have Sublime Text available (because it's a server with no GUI install, for instance), or you've reached the pinnacle of your code journey.
 
-*Contributed by [Roy Chen](https://github.com/roychen5)
+*Contributed by [Roy Chen](https://github.com/roychen25)
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -343,7 +343,7 @@ Define the following:
 ### The Web
 The World Wide Web (Web, or WWW for short) is one of the mediums of information exchange over the Internet. Clients typically use the HTTP protocol and specify a URL to connect to a server to retrieve the information requested.
 
-*Contributed by [Roy Chen](https://github.com/roychen5)
+*Contributed by [Roy Chen](https://github.com/roychen25)
 
 #### URL (Uniform Resource Locator)
 
@@ -781,7 +781,7 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 Staging files tells git, "Hey, please get ready to track changes in these files that I've specified." Commiting tells git, "Okay, now make a permanent record of changes in those files I staged earlier, so that we can always go back to this state if required."
 
-*Contributed by [Roy Chen](https://github.com/roychen5)
+*Contributed by [Roy Chen](https://github.com/roychen25)
 
 ### Remotes
 
