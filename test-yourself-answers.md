@@ -1,5 +1,4 @@
-﻿# Test Yourself: Answers
-
+ ﻿# Test Yourself: Answers
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
 ### Instructions
@@ -171,6 +170,10 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+DNS stands for Domain Name System and is a technology for naming websites.
+A DNS server is any computer registered to join the Domain Name System. A DNS server runs special-purpose networking software, features a public IP address, and contains a database of network names and addresses for other Internet hosts.
+*Contributed by [Jason Woodley](https://github.com/jwoodley101)*
+
 
 #### What is HTML and how is it used?
 
@@ -237,6 +240,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Bash is a command line interpreter and stands for Bourne-Again SHell. It is a command processor that typically runs in a text window, where the user types commands that cause actions.
+*Contributed by [Jason Woodley](https://github.com/jwoodley101)*
+
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
@@ -286,6 +293,10 @@ Text editor that often causes debates with emacs lovers.
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is designed for use both from a command-line interface and as a standalone application in a graphical user interface. It is free and open source.
+*Contributed by [Jason Woodley](https://github.com/jwoodley101)*
+
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +917,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
