@@ -227,8 +227,12 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
-
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Windows:
+Type `cmd` under Start > Run
+MacOS:
+`Command + Space`, type `terminal` then hit `Enter`.
+Linux:
+Hit the keyboard shortcut `Ctrl - Alt + T`
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
@@ -334,8 +338,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
-
+The Web consists of pages that can be accessed using a Web browser. The Internet is the actual network of networks where all the information resides. The Hyper-Text Transfer Protocol (HTTP) is the method used to transfer Web pages to your computer. With hypertext, a word or phrase can contain a link to another Web site. All Web pages are written in the hyper-text markup language (HTML), which works in conjunction with HTTP.
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
@@ -520,7 +523,7 @@ Graphical User Interface. This is the modern interface that is used across a mul
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
 ### Developer Tools and Code
-
+The Developer Tools provide web developers deep access into the internals of the browser and their web application.
 #### HTML
 
 The markup language which specifies the structure of all the pieces of a webpage.
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +909,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
