@@ -38,7 +38,10 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
+Front-end developers work on what the users of the webpage will see and interact with. Back-end developers work on the code that runs what the users of the webpage are interacting with. Full stack developers work on both the front-end and back-end of development.
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Brent Benjamin](https://github.com/Improgue85)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -52,7 +55,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+The best way to get help when you get stuck is through the all knowing google search. There are tons of people out there coding and there's a good chance someone has already asked and another person answered your question already. Development forums are another good place to search such as r/Programming or r/learnprogramming.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Brent Benjamin](https://github.com/Improgue85)*
 
 #### Where are the closest developer communities to you?
 
@@ -269,7 +275,11 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
+In my personal experience the `$ man <cmd>` input did not work so another way to find more information on a particular command is `<cmd> --help`. This is how I needed to find more information using GitBash on my Windows 10 operating computer.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Brent Benjamin](https://github.com/Improgue85)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
