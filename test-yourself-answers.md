@@ -78,7 +78,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -259,7 +259,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions specify who and what can read, write, modify, and access files. They help to prevent unwanted access and/or modifications of files.
+*Contributed by [Matthew Paek](http://github.com/mattkfpc)*
 
 #### How do you view hidden files in a directory?
 
@@ -398,9 +399,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is a computer system that receives, processes, and responds to incoming HTTP requests from browsers.
 
-*Contributed by [Unknown]*
+*Contributed by [Matthew Paek](http://github.com/mattkfpc)*
 
 
 #### Bugs
@@ -559,7 +560,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -601,8 +602,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is a server-side web application framework written in Ruby that emphasizes Convention over Configuration (CoC) and the Don't Repeat Yourself (DRY) principle. 
 
+*Contributed by [Matthew Paek](https://github.com/mattkfpc)*
 
 #### Command Line
 
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +908,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
