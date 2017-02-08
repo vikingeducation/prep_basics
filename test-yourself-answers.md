@@ -34,7 +34,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application. Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
@@ -78,7 +78,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -91,7 +91,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -107,13 +107,11 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 ## How the Web Works
 
-
 #### What is the internet?
 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
-
 
 #### How is information broken down and sent?
 
@@ -129,7 +127,7 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
+A client is a device that needs to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
@@ -335,6 +333,9 @@ Define the following:
 
 ### The Web
 
+The Web is information accessible by computers around the world through a system of servers.
+
+*Contributed by [Kate Petrova](https://github.com/krastina)*
 
 #### URL( Uniform Resource Locator)
 
@@ -349,7 +350,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everyday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
@@ -362,7 +363,10 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 The Domain Name System, or DNS, is the phone book of the Internet. It takes human-readable URLs and translates them to IP addresses so that packets know exactly where to go.
 
+When a URL is requested, a DNS server with a public IP address is contacted to translate the URL into an IP address.
+
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+*Contributed by [Kate Petrova](https://github.com/krastina)*
 
 
 #### HTTP
@@ -536,12 +540,16 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
+CSS allows for the separation document content versus document formatting. A good example of this is the "CSS Zen Garden": http://www.csszengarden.com/.
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Kate Petrova](https://github.com/krastina)*
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of Node JS.
 
+*Contributed by [Unknown]*
 
 #### AJAX
 
@@ -556,10 +564,11 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+*Contributed by [Unknown]*
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -603,6 +612,7 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+ *Contributed by [Unknown]*
 
 #### Command Line
 
@@ -614,9 +624,13 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+*Contributed by [Unknown]*
+
 #### Git
 
 One of the most popular open-source version control systems.
+
+*Contributed by [Unknown]*
 
 #### Open Source
 
@@ -654,9 +668,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -784,7 +798,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the environment where we can make local changes and is typically the one on our computer.
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
@@ -820,7 +834,6 @@ A merge is when you take the changes you've made on one branch, and bring them i
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
-
 #### What is a "Pull Request"?
 
 A pull request is when you contribute to someones else's project, and you let them know that you have made changes that they can look over and possibly implement into their project.
@@ -847,9 +860,10 @@ In Git, branching is a way of duplicating your project so two different versions
 
 Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
 
+
+
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
 
 #### Why would you use a branch?
 
@@ -867,7 +881,6 @@ git checkout -b branch_name
 ```
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
 
 
 #### Why would you use a branch?
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
