@@ -910,4 +910,14 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is the quickest way to get help on git?
+Thie quickest way is to use "--help" flag following the git command in question. For example, to get help on how to clone a branch, type
+```
+$git clone --help
+```
+To get help on how to add a single file to the staging srea, type 
+```
+$git add --help
+```
+And so on.
 
