@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -38,7 +38,10 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
+Front end developers are responsible for client-side code, which is the website interface that users actually see and interact with. A front end developer must have a comprehensive understanding of HTML, CSS nad Javascript. Front end code also communicates with back end code. Back end developers are responsible for server side code, which ensures the right data is sent to the browser, or the client. Back end languages include PHP, Ruby, Python and more. Full-stack developers are the jack of all trades and know how to develop back-end databases and merge it with front-end interfaces.
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Sahar Ashraf](http://github.com/sahar13)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -177,6 +180,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -260,6 +264,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### Why are file permissions important?
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+
+File permissions control who can access and modify your data. They're used to protect your files and directories.
+
+*Contributed by [Sahar Ashraf](http://github.com/sahar13)*
 
 #### How do you view hidden files in a directory?
 
@@ -402,6 +410,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+The back end program or dedicated computers that store the files that make up the content of websites. Clients, or browsers, access these through HTTP (Hypertext Transfer Protocol) requests.
+
+*Contributed by [Sahar Ashraf](http://github.com/sahar13]*
 
 #### Bugs
 
@@ -454,7 +465,6 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 
 ### Design
-
 
 #### WYSIWYG
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,7 +677,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -717,13 +727,13 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+Source Code Management is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### What is a VCS?
 
-**V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
+Version Control Systems (like Git) provide monitored and regulated access to a software repository.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
