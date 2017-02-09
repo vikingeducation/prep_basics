@@ -32,6 +32,10 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+The ux/ui is the user experience/user interface. Web designers work on the feel, look, and flow of the user experience by modifying the visual user interface
+
+*Contributed by [HenryTheDJ](https://github.com/henrythedj)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -75,6 +79,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+Addendum: Developer-friendly text editors often provide 'autocomplete' features for different file types (ruby scripts '.rb', html '.html', etc) that help speed up development by making common commands or defined variables fast and easy to access.
+
+*Contributed by [HenryTheDJ](https://github.com/henrythedj)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -114,6 +122,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+Addendum: Internet is also known as a 'series of tubes'. It is NOT something you just dump something on. It is NOT a big truck.
+
+*Contributed by [HenryTheDJ](https://github.com/henrythedj)*
 
 #### How is information broken down and sent?
 
