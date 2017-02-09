@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into small packets of information that are send over a connected network. This network can include your local printer, to a website hosted in China.
 
 
 #### What are packets?
@@ -335,6 +335,8 @@ Define the following:
 
 ### The Web
 
+The Web is a massive interconnected network.
+
 
 #### URL( Uniform Resource Locator)
 
@@ -458,7 +460,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### WYSIWYG
 
-"What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
+"What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page. Pronounced as "Wiz-e-Wig"
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
