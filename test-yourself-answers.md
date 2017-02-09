@@ -910,4 +910,16 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is "MVC"?
+
+MVC is a software design paradigm which encourages strict seperation of concerns. This is acheived by dividing the software structure into three core layers namely: Models, Views and Controllers. The Models includes class definitions for core application objects, the Controllers contains the business logic and also act as the medium of information exchange between the Views and the Models. The Views is the user facing layer of the application and is simply a bulk of presentation logic.
+
+#### What is "TDD"?
+
+One of the main motives behind the MVC pattern of software development is reffered to as #TDD (Test-Driven-Development). TDD is a kind of development style where software is written against tests, as opposed to the old style where tests are given to suit software. MVC supports TDD so much as the seperation of concern it brings enables developers to implement #UNIT Testing in their application.
+
+### What is "UNIT Testing"?
+
+Unit Testing is a development approach where our codes are tested by running automated tests (read #rspec) on individual classes.
+
 
