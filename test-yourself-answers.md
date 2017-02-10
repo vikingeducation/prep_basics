@@ -337,7 +337,7 @@ Define the following:
 
 The Web) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.
 
-*Contributed by [Daniel Gos](hhttps://github.com/danielgos)
+*Contributed by [Daniel Gos](https://github.com/danielgos)*
 
 #### URL( Uniform Resource Locator)
 
@@ -407,7 +407,7 @@ A program usually running on a remote computer that responds to requests from a 
 
 Web servers reply to on port 80 by default for incoming HTTP requests, and port 443 for HTTPS.
 
-*Contributed by [Daniel Gos](http://github.com/danielgos)*
+*Contributed by [Daniel Gos](https://github.com/danielgos)*
 
 
 #### Bugs
