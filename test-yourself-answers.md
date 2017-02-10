@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+The Web) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.
+
+*Contributed by [Daniel Gos](hhttps://github.com/danielgos)
 
 #### URL( Uniform Resource Locator)
 
@@ -401,6 +404,10 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+Web servers reply to on port 80 by default for incoming HTTP requests, and port 443 for HTTPS.
+
+*Contributed by [Daniel Gos](http://github.com/danielgos)*
 
 
 #### Bugs
@@ -671,7 +678,9 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+Scripts are written for a special run-time environments, like the linux command shell, that automate the execution of tasks that could alternatively be executed one-by-one by a human operator.
 
+*Contributed by [Daniel Gos](https://github.com/danielgos)*
 
 ## Installations
 
