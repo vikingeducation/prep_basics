@@ -56,7 +56,7 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+Software Hamilton is the local software development community in my hometown.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -110,7 +110,7 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+Simply put, the internet is a series of inter-connected t3wbz.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
@@ -143,11 +143,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
-
-Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
-
-The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
+Ur mum, m8.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
