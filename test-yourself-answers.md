@@ -187,8 +187,10 @@ defined in an HTML document, such as fonts, colors, spacing, transparency, align
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+Since CSS applies to style, it can provide a consistent look and user experience across pages of a website irrespective of their content. CSS is used in conjunction with javascript in order to make webpages interactive.
 
+*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Sean Kelly](http://github.com/skel11417)*
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
@@ -269,7 +271,12 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+For windows users, type `$ <cmd> --help`
+
+*Contributed by [Sean Kelly](http://github.com/skel11417)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -349,7 +356,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everyday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
@@ -491,6 +498,8 @@ Short for red, green and blue, the three colors that make up a pixel. Each is an
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
 
+
+
 #### Hex
 
 Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
@@ -555,6 +564,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+A simplified code used by programmers to work through the logic underlying a program without specifying exact methods, operators etc. It's akin to the storyboards the director of an animated film would use to illustrate the action of a sequence to the artists before they began animating.
+*Contributed by [Sean Kelly](http://github.com/skel11417)*
 
 
 #### C
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
