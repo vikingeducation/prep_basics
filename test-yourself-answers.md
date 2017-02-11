@@ -126,6 +126,10 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Packets are how the TCP/IP stack package and send data between connections. Every packet has the address of the sending and receiving computers, along with information about the contents, and where that particular packet fits in the overall stream. It's important to understand that the packet headers do not alter the data, but just encapsulate it. In fact, that's the beauty of the TCP/IP stack, it doesn't care about what the data inside of it is. It just handles the routing and transmission.
+
+*Contributed by [Jon Grim](https://github.com/jongrim)*
+
 
 #### What is a "client"?
 
@@ -232,6 +236,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+Ctrl + Alt + T can be used on Ubuntu to quickly open a terminal. It's a great shortcut!
+
+*Contributed by [Jon Grim](http://github.com/jongrim)*
+
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
@@ -260,6 +268,12 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### Why are file permissions important?
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+
+*Contributed by unknown*
+
+File permissions can be used to protect system-critical files, or keep other users from overwriting or accessing files they don't own. There are separate permissions for Users and Groups, and you can assign Read, Write, and Execute permissions.
+
+*Contributed by [Jon Grim](http://github.com/jongrim)*
 
 #### How do you view hidden files in a directory?
 
