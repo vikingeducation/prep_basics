@@ -900,3 +900,16 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### Why use `git fetch` & `git merge` separately, instead of `git pull`?
+
+Git fetch allows you to pull the changes made to a remote repo into separate branch(es) in your local working directory (<remote_repo_name>/<branch_name>). After approving the changes, you can merge them into your local branch like a regular merge. It basically does the same thing as `git pull <repo_name> <branch_name>`, except *fetching* first allows you to view the changes before the merge.
+
+For instance, if we were pulling changes made to the remote *upstream* repo, on the *master* branch, and wanted to check for any issues before we merged with our local *master* branch, we would type:  
+`git fetch upstream`  
+`git checkout -a` (to see all branches, including remote-tracking branches)  
+`git checkout upstream/master` (get on the newly fetched branch)  
+*[look at files]*  
+`git checkout master` (get back on local master branch)  
+`git merge upstream/master`  
+
+*Contributed by [Ben Kautt](https://github.com/tallKitties)*
