@@ -858,18 +858,6 @@ Using a new branch allows the developer to make experimental changes to their pr
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
-#### How do you create a new branch?
-
-Create a new branch by typing:
-
-```
-git checkout -b branch_name
-```
-
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
-
-
 #### Why would you use a branch?
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
@@ -884,6 +872,7 @@ In your terminal type `git branch <name of branch>` to create a branch. Then typ
 You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
 #### How do you merge branches back together?
