@@ -626,9 +626,10 @@ Free licensed code.
 
 #### CMS
 
-CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
+CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise. A lot of CMS themes/templates are available online and advanced users can easily create their own theme/template.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+*Contributed by [Jm Fourneau](https://github.com/nrgtik/)
 
 #### Database
 
