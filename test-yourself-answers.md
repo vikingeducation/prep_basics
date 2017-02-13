@@ -673,12 +673,12 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:  
 --This definition is in the schema document:  
-<ELEMENT List (Item)+>
+<!ELEMENT List (Item)+>
 
 --This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.  
-<List>  
-	<Item>Chocolate</Item>  
-</List>
+\<List>  
+&nbsp;&nbsp;&nbsp;&nbsp;\<Item>Chocolate\</Item>  
+\</List>
 
 In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
 
