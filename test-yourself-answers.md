@@ -910,4 +910,14 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is the $PATH variable?
 
+A variable is a location for storing a value. $PATH is an environment variable which lists any default path locations for program excutables.
+
+#### Why might you need to add onto your $PATH variable?
+
+$PATH can append additional locations onto the PATH variable. If an application is not installed within the default location, you will need to append your PATH variable in order to launch or locate the program or excutable.
+
+#### What are alias commands?
+
+Alias commands are commands which are added to the default commands list. These newly added commands are usually abbreviated or shortcut commands.
