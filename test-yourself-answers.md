@@ -398,9 +398,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A program usually running on a remote computer that responds to requests from a browser. Web servers facilitate the communication between clients and the server using the HyperText Transfer Protocol (HTTP).
 
 *Contributed by [Unknown]*
+*Contributed by [JM Gamble](https://github.com/jmgamble)*
 
 
 #### Bugs
@@ -417,7 +418,10 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 
 Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
 
+Essential characteristics of cloud computing include [a] on-demand self-service, [b] broad network access, [c] pooling of resources, [d] rapid elasticity, [e] measured services. Cloud technologies provides services via infrastructure (IaaS), platform (PaaS), and software as-a-service (SaaS) models.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [JM Gamble](https://github.com/jmgamble)*
 
 
 #### Cookies
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +910,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
