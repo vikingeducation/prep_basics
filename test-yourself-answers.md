@@ -491,6 +491,9 @@ Short for red, green and blue, the three colors that make up a pixel. Each is an
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
 
+In CSS the RGB can also be a combination of hexes. Red corresponds to the first two, Green the next, and Blue the last two. (e.g. #000000 is black and #FFFFFF is white)
+*Contributed by [Lest Gabo](https://github.com/lestgabo)*
+
 #### Hex
 
 Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
@@ -555,6 +558,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+A requirements section written in REQUIREMENTS.txt can be made to write your pseudo-code in. It can also be your user story.
+*Contributed by [Lest Gabo](https://github.com/lestgabo)* 
 
 
 #### C
@@ -805,6 +811,9 @@ git status
 
 git log
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+To get out of git log in c9.io you need to type 'Q' or 'shift'+'q'
+*Contributed by [Lest Gabo](https://github.com/lestgabo)*
 
 #### How can you look through your historical commits on the Github website?
 
