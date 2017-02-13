@@ -133,6 +133,8 @@ A client is a device that need to get something. For example if we want to watch
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
+In a network, a client is a desktop computer, workstation, or other device (such as phones and tablets) that is capable of obtaining information and applications from a server.
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
@@ -177,6 +179,9 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
+It provides a means to create structured documents by denoting structural semantics for text such as headings, paragraphs, lists, links, quotes and other items. In other words, it identifies the content on the page.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -186,6 +191,8 @@ Cascading Stylesheets, a language that describes the look and style of the eleme
 defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
+
+Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language. It is most often used to set the visual style of web pages and user interfaces written in HTML.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
@@ -654,9 +661,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +913,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
