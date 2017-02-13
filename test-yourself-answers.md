@@ -386,6 +386,15 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+--
+
+POP, short for Post Office Protocol, is a protocol that allows an email client to download emails from a server. POP isn't great nowadays because it deletes the email from the server after the client has downloaded it. So if you check your email on your smartphone, it gets deleted from the server and you won't be able to read it on your laptop anymore for example.
+
+IMAP, short for Internet Message Access Protocol, is a protocol to download email from a server as well. Opposed to POP, it allows email to be saved on the server, so users can check their email on multiple devices.
+
+SMTP, short for Simple Mail Transfer Protocol, is a protocol used for sending email. It's used to contact other mail servers, i.e., get the email with the destined recipient.
+
+*Contributed by [Brent](http://github.com/brentguf)*
 
 #### API
 
@@ -585,7 +594,11 @@ Most gems are open source, and used in most applications. The majority of gems p
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+A Ruby Gem is a plugin, or a piece of Ruby code made by someone else that has some functionality that you can incorporate in your project without having to write any code yourself. This is "don't reinvent the wheel" in action.
 
+Gems are added to your project by using a package manager called RubyGems on the command line.
+
+*Contributed by [Brent](https://github.com/brentguf)*
 
 
 #### Frameworks
@@ -770,7 +783,17 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+The question actually asks: why would you want to stage changes when you can commit them or what is the use of staging?
 
+The answer is threefold. The first benefit of staging is that you sometimes have worked on a couple of files, but only want to make a commit of the changes you made to one file. This is where staging comes in handy; it allows you to add this one file, before committing the other files.
+
+Another benefit is that the stage can be used as a separate platform to use the `--cached` option to many commands. For example, say you want to compare just the difference of one file with the last commit; you can do so by adding this one file to the stage, then you can check its differences with the latest commit by using git diff `--cached`.
+
+Finally, the stage allows you to easily discard the non-useful file changes. Say you've been editing a JavaScript file, and along the way you tweaked an HTML file, but you neither want to commit or keep those changes to the HTML. Now you can add the JS file to the stage and then clean up your working directory with `git reset --hard`, which erases all uncommited changes in the working directory.
+
+Also, generally, the stage is good place to double check if you're committing the right files by doing a `git status` check before committing.
+
+*Contributed by [Brent](https://github.com/brentguf)*
 
 ### Remotes
 
