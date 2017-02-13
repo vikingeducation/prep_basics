@@ -65,6 +65,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -80,6 +81,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -93,8 +95,8 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*  
+*Contributed by [Shamash](https://github.com/Shamash2014)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -133,11 +135,11 @@ A client is a device that need to get something. For example if we want to watch
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*  
+*Contributed by [PGiese](https://github.com/PGiese)*  
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
+*Contributed by [Shamash](https://github.com/Shamash2014)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -149,11 +151,11 @@ Basically, it enables the sharing of resources and information for various appli
 
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*  
+*Contributed by [PGiese](https://github.com/PGiese)*  
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
+*Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*  
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -177,6 +179,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -224,6 +227,7 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
@@ -235,26 +239,31 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
@@ -264,11 +273,13 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -282,23 +293,28 @@ The "Superuser" is a user of a computer system with special privileges needed to
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
 `:q!` (to overwrite and not save any changes)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 `:qa!`
+
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
@@ -307,13 +323,14 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*  
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
@@ -339,11 +356,13 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 
@@ -409,7 +428,7 @@ An error or defect in software or hardware that causes a program to malfunction.
 
 For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
-*Contributed by [Yoshio Varney](https://github.com/yoshi415)*
+*Contributed by [Yoshio Varney](https://github.com/yoshi415)*  
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
 
@@ -445,9 +464,9 @@ The HTTP Status Code returned by a server indicating file not found.
 
 #### SEO
 
-How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
-1. Interesting enough to your customers that they find it organically and choose it over competitive products.
-2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.
+How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:  
+1. Interesting enough to your customers that they find it organically and choose it over competitive products.  
+2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.  
 3. Tricky enough to pretend to be one of the first two by gaming the search algorithm.
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
@@ -467,7 +486,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
 
-*Contributed by [Jasen Carroll](https://github.com/jasenc)*
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*  
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 
@@ -479,8 +498,8 @@ Grid systems speed up the design process while making the web page more visually
 
 Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
 
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Christopher Vicini](https://github.com/christophervicini)*  
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 
 
@@ -509,7 +528,7 @@ Content that is visible immediately when the page is loaded, without having to s
 
 Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.  It is used as a generic term for a visual interface that the user can interact with.
 
-*Contributed by [Jasen Carroll](https://github.com/jasenc)*
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*  
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
@@ -547,8 +566,8 @@ The scripting language that runs in the browser. It allows interactivity with th
 
 AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept used to enable web pages to exchange data with a server without the user having to refresh/reload the entire page.  It allows for web applications to send and receive data in the background.  A good example would be real-time updating of a twitter or facebook feed.
 
-*Contributed by [Adan Camacho](https://github.com/adancode)*
-*Contributed by [Jasen Carroll](https://github.com/jasenc)*
+*Contributed by [Adan Camacho](https://github.com/adancode)*  
+*Contributed by [Jasen Carroll](https://github.com/jasenc)*  
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
 
 
@@ -581,8 +600,8 @@ Essentially, a gem consists of two things: code and a gemspec (specifications fo
 
 Most gems are open source, and used in most applications. The majority of gems provide command line utilities that can automate tasks and speed up your work.
 
-*Contributed by [Olga](https://github.com/ayva)*
-*Contributed by [Christopher Vicini](https://github.com/christophervicini)*
+*Contributed by [Olga](https://github.com/ayva)*  
+*Contributed by [Christopher Vicini](https://github.com/christophervicini)*  
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
@@ -594,7 +613,7 @@ A framework is a platform where common code with generic functionality is ready 
 
 A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
 
-*Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Olga](https://github.com/ayva)*  
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 
@@ -652,13 +671,13 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 Schema -  defines a set of rules as to how XML documents should look like, what tags are used for what actions, where and how to use them.
 
-Example:
---This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+Example:  
+--This definition is in the schema document:  
+<ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
-<List>
-  <Item>Chocolate</Item>
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.  
+<List>  
+	<Item>Chocolate</Item>  
 </List>
 
 In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
@@ -685,6 +704,7 @@ As we might recall, back-end programming means coding on the server side. Since 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
 These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 Most web browsers have the ability to decode all of the before mentioned languages.
@@ -754,6 +774,7 @@ To create a Git repository locally, you want to navigate to the root directory o
 #### How do you create it on Github?
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you commit changes?
@@ -794,21 +815,25 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 git remote add origin URL
 
 URL is copied from my repo in my GitHub account
+
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### How do you check the status of your current repo in git?
 
 git status
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
 git log
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
 
 You can look through a history of commits by clicking on the repository name and then clicking the commits.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 
@@ -831,6 +856,7 @@ A pull request is when you contribute to someones else's project, and you let th
 #### What is "Forking" a repo?
 
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -847,7 +873,7 @@ In Git, branching is a way of duplicating your project so two different versions
 
 Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*  
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
@@ -871,7 +897,7 @@ In your terminal type `git branch <name of branch>` to create a branch. Then typ
 
 You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
 
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
@@ -879,12 +905,12 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 In order to merge branches back together you should merge the master branch into your-branch
 
-$git checkout your-branch
+$git checkout your-branch  
 $git merge master
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
 
-$git checkout master
+$git checkout master  
 $git merge your-branch
 
 You'll see output indicating any changes that were made
