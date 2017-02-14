@@ -229,8 +229,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+In Linux, hit Ctrl + Alt + T on your keyboard to open Terminal.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Kaspar Arme](http://github.com/vobango)*
 
 #### What is Bash?
 
@@ -336,7 +338,7 @@ Define the following:
 ### The Web
 
 
-#### URL( Uniform Resource Locator)
+#### URL (Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -717,7 +719,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -791,19 +793,24 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
+```
 git remote add origin URL
-
+```
 URL is copied from my repo in my GitHub account
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### How do you check the status of your current repo in git?
 
+```
 git status
+```
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
+```
 git log
+```
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
@@ -889,15 +896,16 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 #### How do you merge branches back together?
 
 In order to merge branches back together you should merge the master branch into your-branch
-
+```
 $git checkout your-branch
 $git merge master
+```
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
-
+```
 $git checkout master
 $git merge your-branch
-
+```
 You'll see output indicating any changes that were made
 
 #### What is a "Merge Conflict" and when will it occur?
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
