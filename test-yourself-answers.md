@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+﻿u# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -52,13 +52,17 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+ChicagoRuby is an organization for Ruby developers and designers in the Chicago area that hold annual conferences and meetups! 
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Steve Liniger](https://github.com/floydIVVI)*
 
 #### What online developer communities can you join?
 
@@ -230,7 +234,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+On Linux, a great shortcut to open the terminal anywhere on the desktop: ctrl + shift + T
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Steve Liniger](https://github.com/floydIVVI)*
 
 #### What is Bash?
 
@@ -333,8 +340,10 @@ i.e. 'subl text.txt'
 
 Define the following:
 
-### The Web
+### The Web 
 
+The web gives access to information from the internet via software like Firefox and Chrome (internet browsers)
+*Contributed by [Steve Liniger](https://github.com/floydIVVI)*
 
 #### URL( Uniform Resource Locator)
 
