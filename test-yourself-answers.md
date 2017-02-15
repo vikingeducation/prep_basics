@@ -547,7 +547,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### SASS (Syntactically Awesome Stylesheets)
 
-Is a CSS preprocessor which adds variables, nested rules, mixins and more to CSS. It simplifies your CSS making it easier to maintain and develop.
+SASS is a CSS preprocessor which adds variables, nested rules, mixins and more to CSS. It simplifies your CSS making it easier to maintain and develop.
 
 *Contributed by [James Kamana](https://github.com/JayKamana)*
 
