@@ -452,6 +452,13 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+#### Site Map
+
+A site map is a model of a web site's content that gives an overview of the pages within a website. It is designed to help both users and search engines navigate the site.
+
+*Contributed by [James Kamana](https://github.com/JayKamana)*
+
+
 
 ### Design
 
@@ -538,6 +545,12 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+#### SASS (Syntactically Awesome Stylesheets)
+
+Is a CSS preprocessor which adds variables, nested rules, mixins and more to CSS. It simplifies your CSS making it easier to maintain and develop.
+
+*Contributed by [James Kamana](https://github.com/JayKamana)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -597,7 +610,11 @@ A framework is a collection of libraries that are used for building web applicat
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
+#### jQuery
 
+jQuery is a popular javascript library designed to make it much easier to use javascript on your website. It provides cross-browser dom traversal, manipulation, ajax, event handling and effects for creating modern web applications.
+
+*Contributed by [James Kamana](https://github.com/JayKamana)*
 
 #### Ruby on Rails
 
