@@ -214,7 +214,9 @@ Decaseconds later (two point five of them, in this case) your search is returned
 
 There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
 
-*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+I think I found the reddit post [Daniel R. Dugan](https://github.com/Tvlistings) was referring to: [Here it is](https://www.reddit.com/r/programming/comments/2sqq7o/what_happens_when_you_type_googlecom_into_your/)
+
+*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)* *Contributed by [Patrick Keenan](https://github.com/pkeenan516)*
 
 
 
@@ -349,7 +351,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everyday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
@@ -419,6 +421,10 @@ Cloud computing is the practice of using a network of remote servers hosted on t
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+The cloud is someone else's computer.
+
+*Contributed by [Patrick Keenan](https://github.com/pkeenan516)*
+
 
 #### Cookies
 
@@ -442,6 +448,10 @@ Nasty error when a page is not found when requested that the hosting domain aler
 The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+A full list of HTTP status codes can be found on [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes). Of particular interest is Error Code 418: "I'm a teapot."
+
+*Contributed by [Patrick Keenan](https://github/pkeenan516)
 
 #### SEO
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
