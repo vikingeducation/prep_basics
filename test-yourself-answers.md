@@ -384,8 +384,9 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email. IMAP allows users to store their messages on remote servers. It also allows them to synchronize e-mail messages among multiple devices.
 
+*Contribued by [Keenan Solis](http://github.com/kls-89)*
 
 #### API
 
