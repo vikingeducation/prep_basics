@@ -32,6 +32,14 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+A web developer builds the backbone of websites, typically from the ground up, and knows languages specific to the web. HTML, CSS, Javascript, jQuery. Developers, historically, don’t focus on making something look visually appealing but create websites with clean code and that are technically sound.
+
+A web designer uses graphics and graphic design software (think Adobe Photoshop, Illustrator and InDesign) to create a look for the web. This design is then married with coding to bring it to life online.
+
+The designer may not always be the person writing the code and in some cases can work independently of the team who will take a website design live.
+
+*Contributed by [Stanly Liu](https://github.com/sjcliu)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -66,6 +74,10 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+Facebook and other social networks have good communities for developers. Another good place for face to face meetups would be www.meetup.com
+
+*Contributed by [Stanly Liu](https://github.com/sjcliu)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -538,6 +550,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+CSS stands for Cascading Style Sheets. CSS describes how HTML elements are to be displayed on screen. CSS saves a lot of work. It can control the layout of multiple web pages all at once.
+
+*Contributed by [Stanly Liu](https://github.com/sjcliu)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -654,9 +670,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +922,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
