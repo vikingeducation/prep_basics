@@ -384,8 +384,9 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email. IMAP allows users to store their messages on remote servers. It also allows them to synchronize e-mail messages among multiple devices.
 
+*Contribued by [Keenan Solis](http://github.com/kls-89)*
 
 #### API
 
@@ -667,7 +668,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Dont need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -863,10 +864,11 @@ Using a new branch allows the developer to make experimental changes to their pr
 Create a new branch by typing:
 
 ```
-git checkout -b branch_name
+git branch branch_name
 ```
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Keenan Solis](http://github.com/kls-89)*
 
 
 
