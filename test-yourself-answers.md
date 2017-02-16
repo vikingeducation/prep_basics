@@ -334,9 +334,10 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+This
 
 #### URL( Uniform Resource Locator)
+This is a system that supports formatted documents
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
