@@ -4,7 +4,7 @@ This is the file you'll use to add your answers to the [Test Yourself exercise](
 
 ### Instructions
 
-See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
+
 
 Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
 
@@ -67,6 +67,9 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Meetup groups, Stack Overflow, and even GitHub are some great developer communities you can join.
+*Contributed by [Brittny Angwafo](https://github.com/possession4)*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -126,6 +129,8 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Packets are pieces of data that are broken down into smaller parts in order to be transmitted. Each packet carries the information that will help it get to its destination -- the sender's IP address, the intended receiver's IP address, something that tells the network how many packets this piece of data has been broken into and the number of this particular packet.
+*Contributed by [Brittny Angwafo](https://github.com/possession4)*
 
 #### What is a "client"?
 
@@ -236,6 +241,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+
+Bash is short for Bourne Again SHell and is used for command line editing.
+*Contributed by [Brittny Angwafo](https://github.com/possession4)*
 
 #### How can you navigate into a particular file directory?
 
