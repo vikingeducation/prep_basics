@@ -594,8 +594,11 @@ A framework is a platform where common code with generic functionality is ready 
 
 A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
 
+A framework can best be thought of as a structured set of libraries making it easier to get a project launched, as well as making it easier for new developers to come into the codebase and focus on the code itself rather than how the project is structured.
+
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*Contributed by [Bill Hefty](https://github.com/bhefty)*
 
 
 
@@ -608,7 +611,10 @@ Ruby on Rails is the amazing web framework for creating awesome web applications
 
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
+Also known as the Terminal, this allows you to interact with the operating system traditionally through a shell called Bash.
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Bill Hefty](https://github.com/bhefty)*
 
 #### Version Control
 
@@ -628,7 +634,10 @@ Free licensed code.
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
 
+A CMS can be very useful for a freelance developer who develops the project and hands it over to the client to maintain. It makes it easier for the client to update content without the need for in-depth coding knowledge.
+
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+*Contributed by [Bill Hefty](https://github.com/bhefty)*
 
 #### Database
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
