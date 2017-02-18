@@ -114,10 +114,16 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+Many would argue that the internet is the single greatest resource people have (or are on their way to have) to access the vast expanses of human knowledge, to connect with other people across the world to share ideas and information, and allows us to create and share the technologies that seem to disappear into peoples day-to-day lives.
+
+*Contributed by [Brad Fehr](https://github.com/fehrsway)*
+
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+The information that is being sent over the internet is first broken down in smaller, more manageable sized chunks called packets. These packets are then "attached" to the information specifying the IP address of both the sending and receiving computer. Once the packet is ready to be sent through the internet, it is broken down further into an electrical signal that can now be sent anywhere. Most of the time it is traveling from router to router until its eventually routed to the specified IP address for the receiver. Of course, in real life this is a much more complex, but this is the gist of it.
+
+*Contributed by [Brad Fehr](https://github.com/fehrsway)*
 
 
 #### What are packets?
@@ -223,8 +229,11 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc).
+
+Most people will recognize this as the strange, black screen that movie-star computer hackers use to perform their digital witchcraft on the unsuspecting world.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Brad Fehr](https://github.com/fehrsway)*
 
 #### How do you open it on your computer?
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
