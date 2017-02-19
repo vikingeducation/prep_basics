@@ -242,6 +242,17 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+It depends on your working directory. If the destination directory isn't a child of the working directory, `$ cd <directoryName>` will not work. Consider the following working directory: C:/Users/Clara/portfolio.
+
+If I'm in the portfolio directory and want to navigate to another child of the Clara directory, I could type:
+`$ cd C:/Users/Clara/practice`
+or I could type:
+`$ cd ../practice`
+
+If I'm in the Clara directory and want to navigate to a directory that's a child of the practice directory (grandchild of Clara), I must first type `$ cd practice` then `cd <destinationDirectory>` or type:
+`$ cd practice/prep_basics`
+*Contributed by [Clara Mae Wells](http://github.com/run-cmw)
+
 #### How can you create a directory?
 `$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
@@ -270,6 +281,10 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+Windows: 
+`$ <cmd> --help`
+*Contributed by [Clara Mae Wells](http://github.com/run-cmw)
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
