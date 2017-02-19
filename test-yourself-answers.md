@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -883,7 +883,12 @@ In your terminal type `git branch <name of branch>` to create a branch. Then typ
 
 You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
 
+You can also specify the origin branch you would like to use. For example
+'git checkout -b <name of branch> origin/master' would create a local branch
+ with the name you chose as a copy of origin/master.
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Matt Byers](https://github.com/Matty-Be)*
 
 
 #### How do you merge branches back together?
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
