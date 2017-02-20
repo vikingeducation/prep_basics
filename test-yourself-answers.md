@@ -58,13 +58,16 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+San Diego Web Performance Meetup group is  a neutral professional networking organization dedicated to web and mobile performance management. Members are Web/Mobile technologists who are passionate about the performance of their application/sites and want to meet with other developers, web operations, system administrators, designers, and business professionals. The goal is to make  sites and applications faster, enhance the user experience, and lower abandonment rates and make more money.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Andrew Knox](http://github.com/iamknox)*
 
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
-
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -234,8 +237,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."  Bash is also the default shell for Mac OSX.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Andrew Knox](http://github.com/iamknox)*
 
 #### How can you navigate into a particular file directory?
 
@@ -277,7 +282,10 @@ The "Superuser" is a user of a computer system with special privileges needed to
 
 'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
+An alternative method to execute commands as the superuser is to use the 'su' command, which changes the ownership of the session.  All actions will be run as the superuser so typing 'sudo' before every command is no longer necessary.
+
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
+*Contributed by [Andrew Knox](http://github.com/iamknox)*
 
 #### What is Vim?
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
