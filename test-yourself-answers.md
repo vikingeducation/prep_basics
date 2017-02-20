@@ -488,7 +488,10 @@ Even though grids are not necessary to design a web page, they make the process 
 
 Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
 
+RGB and Hex both use the additive color model where adding all colors together teh result is white. Where in the subtractive color model adding all colors together you get black.
+
 *Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [William Whitworth](https://github.com/William-Charles)*
 
 
 #### Hex
@@ -515,9 +518,11 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 #### Front End / Back End
 
-"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
+"Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers. Common back "Back End" languages are JavaScript, Ruby, Python, Java, PHP and C#.
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [William Whitworth](https://github.com/William-Charles)*
+
 
 ### Developer Tools and Code
 
@@ -540,8 +545,9 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+Is an all purpose language that runs in the browser, as well as on the server. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+*Contributed by [William Whitworth](https://github.com/William-Charles)*
 
 #### AJAX
 
