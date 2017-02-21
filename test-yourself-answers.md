@@ -720,12 +720,19 @@ Git is the most popular distributed version control system used for software dev
 **S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
+SCM stands for Source Code Management, though sometimes it also stands for Software Configuration Management. The specific meaning is related to the context in which it is being used. Software Configuration Management is about the building of the code as well as the release of that code, while Source Code Management is more about version control.
+*Contributed by [Leslie Lello](https://github.com/RoadDragon)*
+
 
 #### What is a VCS?
 
 **V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+
+VCS stands for Version Control System and it is a way of tracking changes in a project so that it is easy to go back to a previous version or see and use changes other contributors have made to a project. Git is a Version Control System.
+
+*Contributed by [Leslie Lello](https://github.com/RoadDragon)*
 
 
 #### Why is Git useful for a developer?
@@ -755,6 +762,10 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+#### Can you create a new GitHub repository from the command line?
+No, you cannot. You may not create a new GitHub repository from the command line. You must go to your profile in GitHub.com and create a new repository by clicking on the plus ("+") symbol in the upper right hand corner of the page.
+*Contributed by [Leslie Lello](https://github.com/RoadDragon)*
 
 #### How do you commit changes?
 
