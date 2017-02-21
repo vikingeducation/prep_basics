@@ -226,6 +226,9 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+A very scary place for newbie developers, but actually a world filled with "Magic", "Wonders", and "Power" to those brave enough to learn and explore its depths.
+*Contributed by [Christopher Rimes](https://github.com/chrdev86)*
+
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
@@ -236,6 +239,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+
+Bash is a command line interpreter. When you type commands into the console, Bash is behind the scenes interpreting the commands. The console is able to process the input and then output the correct result because of Bash.
+*Contributed by [Christopher Rimes](https://github.com/chrdev86)*
 
 #### How can you navigate into a particular file directory?
 
@@ -286,6 +292,9 @@ Text editor that often causes debates with emacs lovers.
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is simply a text editor that allows you to write and edit text. However, what makes Vim special is how efficient it is. By forcing you to rely on the keyboard you actually save more time. Vim also comes with built-in and customizable shortcuts. You can try vimtutor to learn the basics of Vim.
+*Contributed by [Christopher Rimes](https://github.com/chrdev86)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
