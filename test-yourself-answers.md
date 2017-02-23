@@ -107,12 +107,10 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 ## How the Web Works
 
-The internet is billions of computers that are connected through wires that are run all over the earth.
-
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+Simply put, the internet is a global system of connected computers and devices through wires, all communicating with each other via a common language (or standard protocol).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
