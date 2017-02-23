@@ -334,7 +334,6 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-The web represents a large network of interconnected computers. It's commonly used to as an alias for the internet.
 
 #### URL( Uniform Resource Locator)
 
@@ -454,8 +453,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 
 ### Design
-Design determines how the web application/page is supposed to look and feel like before it's built. Designers usually follow a set of rules that are supposed to ensure maximum UX(User experience).
-The goal of the design process is to set a guideline for web developers to follow when building the application.
+
 
 #### WYSIWYG
 
@@ -626,6 +624,8 @@ Free licensed code.
 *Contributed by [Olga](https://github.com/ayva)*
 
 Note, open source software is not necessarily free to use as a commercial solution ! All it means is that you (the client) can view and analyze the code that makes the application run and see exactly what it does.
+
+*Contributed by [Nermin](https://github.com/noxyb0x)*
 
 #### CMS
 
