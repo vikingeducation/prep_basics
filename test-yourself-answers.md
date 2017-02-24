@@ -260,6 +260,13 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### Why are file permissions important?
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+*Contributed by Anonymous*
+
+Often as a developer, you will be access files and folders located on a system separate from your own. The administrator for this system will often want limit the accessibility of all the files and folders, usually by restricting access to only explicitly needed files and folders by the user. For example, if financial data is stored on this system, the administrator might limit access to this information so that only the accountants of a company can modify financial files inside these folders.
+
+For Linux users, [this guide](https://www.linux.com/learn/understanding-linux-file-permissions) offers an in-depth explanation of permissions on Linux systems.
+
+*Contributed by [Christian Florez](https://github.com/christianflorez)*
 
 #### How do you view hidden files in a directory?
 
@@ -452,9 +459,23 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+SEO stands for 'Search Engine Optimization'. SEO is the practice of refining a web site's content in order to improve their rankings on a search engine. When a user makes a search on Google, they will receive results that are algorithmically produced by Google's engine to be as useful for the user as possible. For example, if I search for "pizza new york city", the search engine will return results that are likely to be most interesting to me. Google will attempt to filter out information that is not useful, such as pizza shops in Massachusetts, recipes for pizza, and other items that might be somewhat similar.
+
+At the top of the rankings are links that Google considers will be most interesting to you. They are the most prized location, as they are the ones that will attract a user's attention the most. How does Google do this? Only engineers working at Google are privy to the exact workings of the algorithm. However, research and testing by online marketers have resulted in various guidelines that can help improve rankings.
+
+For more information on the specific guidelines, [Moz's Beginner SEO Guide](https://moz.com/beginners-guide-to-seo) is a good resource which details the fundamentals of SEO best practices.
+
+*Contributed by [Christian Florez](https://github.com/christianflorez)*
 
 ### Design
 
+Within the context of web development, design can be understood as the underlying principles that improve the visual aesthetics and usability of a web site or web application. Good visual design makes a web site easy to use. There is little doubt about how to navigate to different sections of the page. Information is clearly labeled and separated appropriately. It is appealing to the eye and uses complementary color schemes.
+
+Poor design is poor communication. Often times, it is hard to know the message of a poorly designed website. Information is hard to find and buried under links that are haphazardly placed throughout the website. Poor choice of fonts and color schemes make navigation a painful experience for the user.
+
+Visualmess.com provides [a good primer](http://www.visualmess.com/) on visual design which can help make your websites more user-friendly and attractive.
+
+*Contributed by [Christian Florez](https://github.com/christianflorez)*
 
 #### WYSIWYG
 
@@ -654,9 +675,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +927,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
