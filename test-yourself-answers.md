@@ -393,15 +393,19 @@ API stands for Application Programming Interface, which is a set of programming 
 
 For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+Another  example of API-use are CRM tools that use API's to fill in data from other sources, like automated marketing software etc. This is convenient for centralizing data in a web application. ***
 
+*Contributed by [Matt Davis](http://github.com/chewieee)*
+***Contributed by [Spencer Revare] (http://github.com/RevKC26)
 
 #### Web Server
 
 A program usually running on a remote computer that responds to requests from a browser.
 
-*Contributed by [Unknown]*
+The web server processes requests using HTTP
 
+*Contributed by [Unknown]*
+**added to by [Spencer Revare] (http://github.com/RevKC26)
 
 #### Bugs
 
@@ -433,6 +437,8 @@ Session (or transient) cookies are stored in temporary memory and erased when br
 
 The frustrating page a user receives when the specific page he or she was hoping to access doesn't exist. Can be made less frustrating if it is accompanied by a clever joke, or a picture of a kitten.
 
+
+
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
 Nasty error when a page is not found when requested that the hosting domain alerts the user/requester with.
@@ -443,6 +449,10 @@ The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+#### 503 Error
+This is a very bad error for any application that makes money. It means the server can't handle the traffic/load, temporarily.
+*Contributed by [Spencer Revare] (http://github.com/RevKC26)
+
 #### SEO
 
 How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
@@ -450,7 +460,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.
 3. Tricky enough to pretend to be one of the first two by gaming the search algorithm.
 
+Organic SEO refers to optimizing the website itself to play well with the search engine's algorithm. SEO can also be paid for via adwords. 
+
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+
 
 
 ### Design
@@ -654,9 +667,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
