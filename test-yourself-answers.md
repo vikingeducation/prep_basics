@@ -601,8 +601,11 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the amazing web framework for creating awesome web applications. Rails is actually a ruby gem created by a web development company named 37signals. The developed it while making an online project management software called Basecamp. They released Rails as an open source project in 2005 and it quickly became a popular web framework. One example of this is that Apple included it OS X Leopard in 2007.
 
+Rails is known to be an opinionated framework which means that instead of many ways to accomplish something, there is a right way that the authors of the framework have an opinion about. Also, it means that instead of having to make a lot of decisions each time you make a Rails project a lot of sensible defaults have been chosen for you. 
+
+*Contributed by [Gabriel Wilkes](https://github.com/gabriel-wilkes)*
 
 #### Command Line
 
@@ -616,7 +619,11 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### Git
 
-One of the most popular open-source version control systems.
+The most popular open source version control system. More specifically it is a distributed version control system sometimes called a DVCS. A centralized version control system differs from a DVCS in that it requires a central server. A DVCS on the other hand doesn't require a server as every computer is a full repository. This allows you to work on code even with no connection to the internet and then push or pull changes from another computer or server when you go back online. When you do go online the most famous, but not the only, repository is Github.
+
+Git was initially developed by the same creator of the Linux operating system, Linus Torvalds. He actually developed it to for the version control of Linux itself. 
+
+*Contributed by [Gabriel Wilkes](https://github.com/gabriel-wilkes)*
 
 #### Open Source
 
@@ -628,7 +635,10 @@ Free licensed code.
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
 
+An example of a famous CMS that you may have is heard of is Wordpress. It is so popular that it powers around 25% of the websites on the internet.
+
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+*Contributed by [Gabriel Wilkes](https://github.com/gabriel-wilkes)*
 
 #### Database
 
