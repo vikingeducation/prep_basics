@@ -234,8 +234,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+"Bash is a way of interacting with your computer without the use of a GUI. Using text commands, one can move through directories, move and modify files, and and create files without the use of a mouse. 'Bash' is an acronym for Born Again SHell. It is often call a terminal or a console. Bash is used in Unix based systems, such as linux or Mac."
+*Contributed by [Tyler Devers](http://github.com/TylerDevers)*
 
 #### How can you navigate into a particular file directory?
 
@@ -259,7 +259,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+"File permissions are a way of protecting important files from accidental or malicious destruction."
+*contributed by [Tyler Devers] (https://github.com/TylerDevers)* 
 
 #### How do you view hidden files in a directory?
 
@@ -334,7 +335,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+"The web is a term used to describe the internet. The web is huge connection of networks that lets any computer interact with those networks. It is a giant, information sharing, hub of connectiveness and it makes the sharing of information quick and easy"
+*contributed by [Tyler Devers] (https://github.com/TylerDevers)*
 
 #### URL( Uniform Resource Locator)
 
