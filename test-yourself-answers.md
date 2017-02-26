@@ -847,15 +847,21 @@ In Git, branching is a way of duplicating your project so two different versions
 
 Branching is when the developer creates a separate version of their local repository (master branch), allowing changes to be made to that new branch, that won't affect their master until the developer wishes to merge the changes.
 
+Branching in Git is adding another copy or version of your repo. It is essentially taking a snapshot of the repo that you are working on, so you can work on it independently of the original 'master' branch of the repo.
+
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Michelle Jump](http:github.com/littleredtootle)*
 
 
 #### Why would you use a branch?
 
 Using a new branch allows the developer to make experimental changes to their project while having the ability to either discard those changes later, or merge them into their main project. It also allows teams to work off the master branch simultaneously and merge them all later.
 
+A repo is a great idea when you want to work on a new idea for your code, without messing up the original ‘master’ branch. So if that swanky new feature that you wanted to try doesn’t work at all, the original repo is there, all shiny and new and without any unwanted changes. It’s also helpful for working with other developers, so you can merge your new additions (that have been created on separate branches) back into the master branch later.
+
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Michelle Jump](http:github.com/littleredtootle)*
 
 
 #### How do you create a new branch?
@@ -866,7 +872,14 @@ Create a new branch by typing:
 git checkout -b branch_name
 ```
 
+You can create a new branch by typing the following code into the console, naming the new branch whatever you choose.
+
+$ git checkout -b new_branch_name
+
+The new branch will be created as an off-shoot (branch!) of whichever branch you are working in at the time; e.g. if you are working in the master branch the new branch will branch directly off this. You are then able to branch a new branch from the lower-level branch that you have just created.
+
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Michelle Jump](http://github.com/littleredtootle)
 
 
 
