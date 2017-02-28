@@ -119,6 +119,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+The information is broken down into packets and labled with control information or instructions how to put the packets back together in proper order.
+
+*Contributed by [Ryan Mari](https://github.com/rpmdiver)*
 
 #### What are packets?
 
@@ -237,6 +240,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Bash is the command processor that runs in the terminal/shell where the user types commands.
+
+*Contributed by[Ryan Mari](https://github.com/rpmdiver)*
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
@@ -300,6 +307,10 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+The '.bash_profile' is a file that is read when starting a terminal. It is where the user can customize what the terminal will look like, for example, the color and size of the text and folders, as well as declaring different $PATH variables.
+
+*Contributed by [Ryan Mari](https://github.com/rpmdiver)*
 
 #### What is the `$PATH` variable?
 
