@@ -162,6 +162,9 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+HTTP, or "HyperText Transfer Protocol", is the protocol used across the web for just about all communication between clients and servers. It's a way of ensuring that all members of the communication chain are speaking the same language and following the same procedure to ask for and receive data.
+
+*Contributed by [Sean Ryefield](https://github.com/sryef)*
 
 #### What are DNS servers?
 
@@ -357,6 +360,10 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+The definitive address of a computer or server on the web. All requests use this address to locate the destination server and your own IP address to determine where to return the response.
+
+*Contributed by [Sean Ryefield](https://github.com/sryef)*
+
 
 #### DNS
 
@@ -395,13 +402,15 @@ For example, Amazon.com released its API so that web developers could more easil
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
-
 #### Web Server
 
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
 
+The part of your web application which actively receives and responds to incoming HTTP requests from browsers or other applications. There are all kinds of different languages they run on, but they all do basically the same thing.
+
+*Contributed by [Sean Ryefield](https://github.com/sryef)*
 
 #### Bugs
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
