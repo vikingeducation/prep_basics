@@ -386,12 +386,27 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+##### When to use IMAP
+
+When you check your emails from multiple devices, such as a work laptop, a home computer, or a tablet, smartphone, or other mobile device. Tap into your synced (updated) account from any device with IMAP.
+
+##### When to use POP 
+
+POP(3) downloads email from a server to a single computer, then deletes it from the server. Because your messages get downloaded to a single computer or device and then deleted from the server, it can appear that mail is missing or disappearing from your Inbox if you try to check your mail from a different computer.
+
+
 
 #### API
 
 API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
 
 For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
+
+#### Analogy of an API
+An API is the middleman between a programmer and an application. This middleman accepts requests and, if that request is allowed, returns the data. The middleman also informs programmers about everything they can request, exactly how to ask for it and how to receive it.
+Here is more [information](http://sproutsocial.com/insights/what-is-an-api/ "Title").
+
+
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
@@ -521,6 +536,8 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 ### Developer Tools and Code
 
+
+
 #### HTML
 
 The markup language which specifies the structure of all the pieces of a webpage.
@@ -646,6 +663,8 @@ Abbreviation of Structured Query Language, and pronounced either see-kwell or as
 
 Extensible Markup Language (XML) is a text-based format that allows for the structuring of electronic documents and is not limited to a set of labels. XML is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via web services on the public Internet.
 
+
+
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
 #### Schema
@@ -668,6 +687,14 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+
+##### Why use Shell (Terminal) Scripts 
+
+* Combine lengthy and repetitive sequences of commands into a single, simple command.
+* Generalize a sequence of operations on one set of data, into a procedure that can be applied to any similar set of data.  
+* Create new commands using combinations of utilities in ways the original authors never thought of.
+
+For more [information](https://www.dartmouth.edu/~rc/classes/ksh/why.html "Title").
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
