@@ -48,6 +48,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Technically,a website which requires no database connection or no interaction with database will be considered as static website
+in the other hand a website that can store our information into database and each time we log in it will require a database conection is a dynamic website
+* Contributed by [Oussama Ladhari](https://github.com/oladhari)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
@@ -538,10 +542,21 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+#### Bootstrap
+
+Bootstrap is a free and open-source front-end web framework for designing websites and web applications. It contains HTML- and CSS-based design templates for typographyand responsitivity.
+
+* Contributed by [Oussama Ladhari](https://github.com/oladhari)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+#### Jquery
+
+In Javascript ,developers would create their own small frameworks (group of code) this would allow all the developers to work around all the bugs and give them more time to work on features, so the JavaScript frameworks were born. Then came the collaboration stage, groups of developers instead of writing their own code would give it away for free and creating JavaScript code sets that everyone could use. That is what JQuery is, a library of JavaScript code.
+
+ * Contributed by [Oussama Ladhari](https://github.com/oladhari)*
 
 #### AJAX
 
