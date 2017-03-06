@@ -117,6 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
+
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
@@ -398,6 +399,11 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
+A Web server forwards, or 'serves', web page files to HTTP clients (such as a web browser) in response to their own HTTP requests.
+
+*Contributed by [Chris Banning](https://github.com/chrisbanning510)*
+
+
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
@@ -554,6 +560,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
+Pseudocode is high-level description of a computer algorithm written in human readable text, instead of actual programming code. It allows for language-independent understanding of a computer program's purpose and implementation.
+
+*Contributed by [Chris Banning](https://github.com/chrisbanning510)*
+
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
 
@@ -612,6 +622,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
+Version control is a method used to keep track of file(s) changes over time, allowing for recall of a specific 'version' of that file or files at a specified point in time.
+
+*Contributed by [Chris Banning](https://github.com/chrisbanning510)*
+
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
 #### Git
@@ -654,9 +668,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +920,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
