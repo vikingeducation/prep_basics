@@ -115,6 +115,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
 
+
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
@@ -910,4 +911,6 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### what is git
 
+Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
