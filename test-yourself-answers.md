@@ -216,8 +216,14 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+#### What's the difference between a URL, URI and URN?
+A URI (Uniform Resource Identifier) identifies a resource.
+A URL (Uniform Resource Locator) is a URI that tells you how and where to retrieve the resource.
+A URN (Uniform Resource Name) gives a unique, permanent name to a resource.
 
+See [this StackOverflow post](http://http://stackoverflow.com/questions/176264/what-is-the-difference-between-a-uri-a-url-and-a-urn) for more.
 
+*Contributed by [Andrew Chong](https://github.com/opheron)*
 
 ## The Command Line
 
@@ -326,7 +332,17 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### What's the difference between piping and redirection in Bash?
 
+Piping moves output from one program to another.
+For example, "ls | sort" will pipe the output from "ls" program to the "sort" program.
+
+Redirection moves output from one program to a file or stream.
+For example, "ls > output.txt" will redirect the output from the "ls" program to the "output.txt" file.
+
+See [this AskUbuntu post](http://askubuntu.com/questions/172982/what-is-the-difference-between-redirection-and-pipe) for more information.
+
+*Contributed by [Andrew Chong](https://github.com/opheron)*
 
 
 ## Terms to Know
@@ -833,6 +849,10 @@ A pull request is when you contribute to someones else's project, and you let th
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+#### Is forking a command in git?
+No, forking is not a command in git (the software), and but is rather a concept enabled by GitHub (the site). Forking is handled by cloning a repo to your account, allowing for separate development from and easy merging into the original, upstream repo. See [this StackOverflow post](http://stackoverflow.com/questions/6286571/are-git-forks-actually-git-clones) for more.
+
+*Contributed by [Andrew Chong](https://github.com/opheron)*
 
 #### What is "Cloning" a repo?
 
