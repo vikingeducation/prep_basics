@@ -602,7 +602,7 @@ A framework is a collection of libraries that are used for building web applicat
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. It was created as an internal tool by David Heinemeier Hansson(DHH) for use at Basecamp, then extracted to create Rails. It has been widely adopted for its ease of use and limitless customizability. Rails is coded in Ruby and follows a naming convention to make things easier.
-
+ 	
 #### Command Line
 
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
