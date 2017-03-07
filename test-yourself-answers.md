@@ -911,3 +911,19 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### How to create permanent alias in git?
+
+Open your .bash_profile file and add your alias there as if you were typing a commend into git console
+For example if you wanted to create permanent subl alias that would use Sublime Text then ass following code to .bash_profile
+alias subl='C://Program\ Files/Sublime\ Text\ 3/sublime_text.exe'
+
+
+#### What is "Forking" a repo?
+
+By "Forking" a repo you create a copy of a given repo for yourself. You can modify it and then then create a pull request for it to original repo for the changes you made to be implemented in the original repo.
+
+#### SEO
+
+SEO or Search Engine Optimization are series of ajustments made to a webpage in order to improve it`s standings in SER (Search Engine Rankings). Webpage`s SEO for most part is based around keywords and backlinks.
+
+*Contributed by [Kaspars Cernovskis](http://github.com/KC1987)*
