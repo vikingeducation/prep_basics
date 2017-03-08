@@ -32,6 +32,10 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+A web designer caters to the user experience. In other words, they design how we would see things on a website. A web developer is the one writing the code to figure out how to implement that design. As was mentioned above, there is overlap between the two areas, where one person can often handling both aspects of the work (in very simple terms).
+
+*Contributed by [Eleni Arvanitis](https://github.com/DatGreekChick)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -46,7 +50,10 @@ Dynamic webpages change depending on the user input and actions. Because of this
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
+A static page can also have a dynamic element. For example, if you can type in your information to receive an email newsletter, that tool is a dynamic one. Furthermore, static pages look the same no matter who is accessing the page, while dynamic pages look different depending on any changes made prior to accessing them.
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Eleni Arvanitis](https://github.com/DatGreekChick)*
 
 #### What's the best way to get help when you get stuck?
 
@@ -335,6 +342,9 @@ Define the following:
 
 ### The Web
 
+A system of servers that allow us, through web browsers, such as Safari or Google Chrome, to access websites. These websites are considered documents formatted in HTML. 
+
+*Contributed by [Eleni Arvanitis](https://github.com/DatGreekChick)*
 
 #### URL( Uniform Resource Locator)
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
