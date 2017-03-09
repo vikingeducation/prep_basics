@@ -1,4 +1,4 @@
-Ôªø# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -194,7 +194,7 @@ and it makes the front end simpler by separating presentation from content.
 
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
-The Web Inspector is a tool that allows you to view a web page‚Äôs source, the DOM hierarchy, debug Javascript, and more.
+The Web Inspector is a tool that allows you to view a web pageís source, the DOM hierarchy, debug Javascript, and more.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
@@ -210,7 +210,7 @@ Microseconds late (a few of them) the handshake is confirmed and search query da
 Centiseconds later (a handful of them) the data is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
-"About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second‚Äù
+"About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+secondî
 
 There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
 
@@ -285,7 +285,7 @@ Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
-*Contributed by [Ren√© Maya](https://github.com/viejOMs)*
+*Contributed by [RenÈ Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -401,6 +401,10 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+A program ruuning in a Server that contains all the backend functionallities of a web application.
+
+*Contributed by [Cesar Acosta](https://github.com/ceag235)*
 
 
 #### Bugs
@@ -568,14 +572,14 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
-*Contributed by [Ren√© Maya](https://github.com/viejOMs)*
+*Contributed by [RenÈ Maya](https://github.com/viejOMs)*
 
 
 #### Ruby Gems
 
 Ruby Gems are Ruby programs and libraries in a self-contained format called a "gem" packaged by RubyGems package manager, a tool designed to easily manage the installation of gems and a server for distributing them.
 
-Part of the Ruby programming language, RubyGems is a package manager that makes it easy to download, install and run ruby programs and libraries (‚Äúgem‚Äù) and it‚Äôs files through a simple terminal command.
+Part of the Ruby programming language, RubyGems is a package manager that makes it easy to download, install and run ruby programs and libraries (ìgemî) and itís files through a simple terminal command.
 
 Essentially, a gem consists of two things: code and a gemspec (specifications for that gem) which is then used by rubygems to handle the management of the code.
 
@@ -623,6 +627,14 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+Refer to the posibility of accesing to the code of an application, modify it, add new features or customize to your liking. All this can be done for free. A especial agreetment is on the lincensed that may limited the comercial usage of the modification or applications based on the code.
+
+Open Source projetcs growth depends on the community of developer who contribute to it further expansion and solve bugs.
+
+*Contributed by [Cesar Acosta](https://github.com/ceag235)*
+
+
 
 #### CMS
 
@@ -680,7 +692,7 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 As we might recall, back-end programming means coding on the server side. Since not all servers run the same programming languages we need to make sure we install in our computer the same language. When we install Ruby we are actually installing the Ruby interpreter which allows us to "run" our code locally so we can make sure that our Ruby programs will be executed correctly by our server.
 
-*Contributed by [Ren√© Maya](https://github.com/viejOMs)*
+*Contributed by [RenÈ Maya](https://github.com/viejOMs)*
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
@@ -875,6 +887,11 @@ git checkout -b branch_name
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+In order to keep a working base line of your project while developing more feature and testing code optimizations you use a branch for each changes and testing and if it work you can then add it to your baseline.
+
+*Contributed by [Cesar Acosta](https://github.com/ceag235)*
+
 
 
 #### How do you create a new branch?
