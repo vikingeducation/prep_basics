@@ -628,6 +628,14 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Refer to the posibility of accesing to the code of an application, modify it, add new features or customize to your liking. All this can be done for free. A especial agreetment is on the lincensed that may limited the comercial usage of the modification or applications based on the code.
+
+Open Source projetcs growth depends on the community of developer who contribute to it further expansion and solve bugs.
+
+*Contributed by [Cesar Acosta](https://github.com/ceag235)*
+
+
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -879,6 +887,11 @@ git checkout -b branch_name
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+In order to keep a working base line of your project while developing more feature and testing code optimizations you use a branch for each changes and testing and if it work you can then add it to your baseline.
+
+*Contributed by [Cesar Acosta](https://github.com/ceag235)*
+
 
 
 #### How do you create a new branch?
