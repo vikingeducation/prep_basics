@@ -479,6 +479,8 @@ Grid systems speed up the design process while making the web page more visually
 
 Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
 
+The Grid system is typically 12 or 18 grids, designed to be evenly divisible, to allow many styles of layouts, for different viewport, or screen sizes.  Often in mobile design your elements will be a single grid, so everything lines up well vertically, then for larger screens with more real estate, you can easily have 2,3,4,6 or 12 elements that are all equal size, or any combination of those grids that you like.  Grids can be further broken up with nested grids.
+
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
@@ -487,6 +489,10 @@ Even though grids are not necessary to design a web page, they make the process 
 #### RGB
 
 Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
+
+RGB is one of the many ways we talk about color, and the colors that are most important to web work,
+versus CYMK for print work.  RGB is measured from 0 - 255 of each color so in order of red, green, blue.
+Zero of each makes black, 255 of each makes white.
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
