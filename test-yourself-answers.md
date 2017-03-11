@@ -725,7 +725,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -801,7 +801,7 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 `git remote add origin <URL>`
 
-where <URL> is copied from my repo in my GitHub account
+where `<URL>` is copied from my repo in my GitHub account
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 *Contributed by [Tyler Ketron](https://github.com/tketron)*
 
