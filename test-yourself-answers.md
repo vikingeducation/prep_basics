@@ -339,12 +339,17 @@ Define the following:
 #### URI (Uniform Resource Identifier)
 
  Identifies a resource either by **location**, or a **name**, or **both**. Now what do we mean by “**resource**”? A resource, or a web resource in our case, refers to anything ranging from documents, files, images, web pages, etc that can be part of the web **architecture**. When you open your browser to look at something, you are actually looking up a bunch of web resources. More often than not, we use URIs that define the location of a resource. A URI has two specializations: one is URN and the other is URL.
+ <br/>
+
  *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
 
 
 #### URN (Uniform Resource Name)
 
-Identifies a **resource** by name in a given **namespace**. A namespace refers a group of names or identifiers. A simple real-life example would be the usage of our last names. If you just try to identify somebody with their first names, it may not be *unique*. But if you use their last name along with their first name, you can identify them easily. The *last name* is the *namespace* and the *first name* is the *identifier*. *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
+Identifies a **resource** by name in a given **namespace**. A namespace refers a group of names or identifiers. A simple real-life example would be the usage of our last names. If you just try to identify somebody with their first names, it may not be *unique*. But if you use their last name along with their first name, you can identify them easily. The *last name* is the *namespace* and the *first name* is the *identifier*.
+ <br/>
+
+ *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
 
 
 #### URL( Uniform Resource Locator)
@@ -360,28 +365,35 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### Difference between URI, URN, URL & Domain
 
-###### Domain names are placeholders for an IP addresses.
+**Domain** names are placeholders for an IP addresses.
 
-For example:
-`http://shashank7200.github.io/` represents IP address say `151.101.48.133`
+For example:<br/>`http://shashank7200.github.io/` represents IP address say `151.101.48.133`
 
-###### URI (Uniform Resource Identifier) identifies a resource either by location (URL), or a name (URN), or both (URL and URN)
-i.e. **URI = URL + URN**
+**URI** identifies a resource either by location (URL), or a name (URN), or both (URL and URN)
+ <br/>i.e. **URI = URL + URN**.<br/>
 
-For example:
-`http://facebook.com/vishami3`,
+For example:<br/>
+`http://facebook.com/vishami3`<br/>
 `ftp://10.10.7.14/`
 
-###### URL defines the network location of a specific resource and states how that resource can be obtained.
+**URL** defines the network location of a specific resource and states how that resource can be obtained.<br/>
 
-For example:
-`http://shashank7200.github.io/` is a URL with location `shashank7200.github.io` of resource and `http` is a protocol to access that resource.
-
+For example:<br/>
+`http://shashank7200.github.io/` is a URL with location `shashank7200.github.io` of resource and `http` is a protocol to access that resource.<br/>
 `ftp://10.10.7.14/ug2011/n2/shashank.pdf` is a URL with location `10.10.7.14/ug2011/n2/shashank.pdf` of resource and `ftp` is a protocol to access that resource.
 
-###### URI (Uniform Resource Name), a type of URI, basically states what something is, but do not have information on how to access it.
+**URN**, a type of URI, basically states what something is, but do not have information on how to access it.
+<br/>
 
-*Note: All URLs are URIs. But all URIs are not URLs.*
+For example:<br/>
+`author: James F. Kurose` <br/>
+`title: Computer Networking: A Top-Down Approach`<br/>
+`ISBN-10: 8131790541`<br/>
+this is URN and is pointed by URL to [Computer Networking: A Top-Down Approach](https://www.flipkart.com/computer-networking-top-down-approach-5th/p/itmdatheqysd3cfn?pid=9788131790540&srno=b_1&ref=263e6cee-177a-40dd-85d1-1678ab136a0b)
+
+**_Note: All URLs are URIs. But all URIs are not URLs._**
+<br/>
+
 *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
 
 
