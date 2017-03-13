@@ -365,33 +365,29 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### Difference between URI, URN, URL & Domain
 
-**Domain** names are placeholders for an IP addresses.
-
+__Domain__ names are placeholders for an IP addresses.<br/>
 For example:<br/>`http://shashank7200.github.io/` represents IP address say `151.101.48.133`
 
-**URI** identifies a resource either by location (URL), or a name (URN), or both (URL and URN)
- <br/>i.e. **URI = URL + URN**.<br/>
-
+__URI__ identifies a resource either by location (URL), or a name (URN), or both (URL and URN)
+ <br/>i.e. __URI = URL + URN__.<br/>
 For example:<br/>
 `http://facebook.com/vishami3`<br/>
 `ftp://10.10.7.14/`
 
-**URL** defines the network location of a specific resource and states how that resource can be obtained.<br/>
-
+__URL__ defines the network location of a specific resource and states how that resource can be obtained.<br/>
 For example:<br/>
 `http://shashank7200.github.io/` is a URL with location `shashank7200.github.io` of resource and `http` is a protocol to access that resource.<br/>
 `ftp://10.10.7.14/ug2011/n2/shashank.pdf` is a URL with location `10.10.7.14/ug2011/n2/shashank.pdf` of resource and `ftp` is a protocol to access that resource.
 
-**URN**, a type of URI, basically states what something is, but do not have information on how to access it.
+__URN__, a type of URI, basically states what something is, but do not have information on how to access it.
 <br/>
-
 For example:<br/>
 `author: James F. Kurose` <br/>
 `title: Computer Networking: A Top-Down Approach`<br/>
 `ISBN-10: 8131790541`<br/>
 this is URN and is pointed by URL to [Computer Networking: A Top-Down Approach](https://www.flipkart.com/computer-networking-top-down-approach-5th/p/itmdatheqysd3cfn?pid=9788131790540&srno=b_1&ref=263e6cee-177a-40dd-85d1-1678ab136a0b)
 
-**_Note: All URLs are URIs. But all URIs are not URLs._**
+__*Note: All URLs are URIs. But all URIs are not URLs.*__
 <br/>
 
 *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
