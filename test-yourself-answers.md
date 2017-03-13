@@ -400,7 +400,7 @@ For example, Amazon.com released its API so that web developers could more easil
 
 A program usually running on a remote computer that responds to requests from a browser. It can be a computer that that stores the files needed by the browser to display websites. It responds to HTTP request by serving those files back to the users browser.
 *Contributed by [Unknown]*
-*Contributed by [Daniel Clarke](https://github.com/DanielJamesClarke)
+*Contributed by [Daniel Clarke](https://github.com/DanielJamesClarke)*
 
 
 #### Bugs
@@ -872,7 +872,7 @@ You can create and checkout a new branch by typing:
 git checkout -b <branch_name>
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-*Contributed by [Daniel Clarke]9(http://github.com/DanielJamesClarke)
+*Contributed by [Daniel Clarke]9(http://github.com/DanielJamesClarke)*
 
 
 #### Why would you use a branch?
