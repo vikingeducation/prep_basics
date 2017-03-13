@@ -398,9 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
-
+A program usually running on a remote computer that responds to requests from a browser. It can be a computer that that stores the files needed by the browser to display websites. It responds to HTTP request by serving those files back to the users browser.
 *Contributed by [Unknown]*
+*Contributed by [Daniel Clarke](https://github.com/DanielJamesClarke)
 
 
 #### Bugs
@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -725,8 +725,10 @@ Git is the most popular distributed version control system used for software dev
 
 **V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
 
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
+Version Control Systems manage and record changes for a file or group of files over time and across multiple users. Enables the ability to restore documents to earlier versions and allows multiple users to access and edit working copies of documents and then later merge them into the origin repository.  
 
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
+*Contributed by [DanielClarke](https://github.com/DanielJamesClarke)*
 
 #### Why is Git useful for a developer?
 
@@ -768,9 +770,10 @@ The other way is typing a git commit -am "Your message", which will both stage a
 
 Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
 
+Staging adds a file or a portion of a file to the index.  Staged files can edited, removed or replaced before adding them to the repository.  Committing records the changes to the repository.
+
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
-
-
+*Contributed by [DanielClarke](https://github.com/DanielJamesClarke)*
 
 ### Remotes
 
@@ -860,14 +863,16 @@ Using a new branch allows the developer to make experimental changes to their pr
 
 #### How do you create a new branch?
 
-Create a new branch by typing:
+You can create a new branch by typing:
 
-```
-git checkout -b branch_name
-```
+git branch <branch_name>
+
+You can create and checkout a new branch by typing:
+
+git checkout -b <branch_name>
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
+*Contributed by [Daniel Clarke]9(http://github.com/DanielJamesClarke)
 
 
 #### Why would you use a branch?
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
