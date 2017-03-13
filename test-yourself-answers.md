@@ -336,6 +336,17 @@ Define the following:
 ### The Web
 
 
+#### URI (Uniform Resource Identifier)
+
+ Identifies a resource either by **location**, or a **name**, or **both**. Now what do we mean by “**resource**”? A resource, or a web resource in our case, refers to anything ranging from documents, files, images, web pages, etc that can be part of the web **architecture**. When you open your browser to look at something, you are actually looking up a bunch of web resources. More often than not, we use URIs that define the location of a resource. A URI has two specializations: one is URN and the other is URL.
+ *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
+
+
+#### URN (Uniform Resource Name)
+
+Identifies a **resource** by name in a given **namespace**. A namespace refers a group of names or identifiers. A simple real-life example would be the usage of our last names. If you just try to identify somebody with their first names, it may not be *unique*. But if you use their last name along with their first name, you can identify them easily. The *last name* is the *namespace* and the *first name* is the *identifier*. *Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
+
+
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
@@ -345,6 +356,33 @@ Address that one types in to reach a particular webpage.  Human readable address
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+
+#### Difference between URI, URN, URL & Domain
+
+###### Domain names are placeholders for an IP addresses.
+
+For example:
+`http://shashank7200.github.io/` represents IP address say `151.101.48.133`
+
+###### URI (Uniform Resource Identifier) identifies a resource either by location (URL), or a name (URN), or both (URL and URN)
+i.e. **URI = URL + URN**
+
+For example:
+`http://facebook.com/vishami3`,
+`ftp://10.10.7.14/`
+
+###### URL defines the network location of a specific resource and states how that resource can be obtained.
+
+For example:
+`http://shashank7200.github.io/` is a URL with location `shashank7200.github.io` of resource and `http` is a protocol to access that resource.
+
+`ftp://10.10.7.14/ug2011/n2/shashank.pdf` is a URL with location `10.10.7.14/ug2011/n2/shashank.pdf` of resource and `ftp` is a protocol to access that resource.
+
+###### URI (Uniform Resource Name), a type of URI, basically states what something is, but do not have information on how to access it.
+
+*Note: All URLs are URIs. But all URIs are not URLs.*
+*Contributed by [Shashank Shekhar](http://github.com/shashank7200)*
 
 
 #### IP Address
@@ -654,9 +692,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +944,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
