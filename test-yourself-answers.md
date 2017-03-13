@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -50,7 +50,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but Google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -66,6 +66,10 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+I'd also recommend the Free Code Camp community (even if you aren't working through their curriculum they have active and helpful chatrooms and weekly meetups in most major cities). The CodeNewbie and 100DaysOfCode communities are also pretty great.
+
+*Contributed by [TJ Bear](http://github.com/tjbear)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -335,6 +339,9 @@ Define the following:
 
 ### The Web
 
+A complex system of interlinked documents (or web pages) accessed via the Internet.
+
+*Contributed by [TJ Bear](http://github.com/tjbear)*
 
 #### URL( Uniform Resource Locator)
 
@@ -455,6 +462,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+Creative, visual problem solving.
+
+*Contributed by [TJ Bear](http://github.com/tjbear)*
 
 #### WYSIWYG
 
