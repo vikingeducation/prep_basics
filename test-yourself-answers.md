@@ -612,7 +612,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between specific time stamp for coding. 
+
+In particular it is used to keep track of changes to source code. When mistakes are made, as they always are, then developers can 'turn back time' to a prior build of the code to compare with the newer bugged version of the code to better allow error-fixing.
+
+*Contributed by [Charlie Shingleton](https://github.com/melliflorGunk)*
 
 #### Git
 
@@ -620,9 +624,15 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
-
+Free licensed code. 
 *Contributed by [Olga](https://github.com/ayva)*
+
+The term refers to the fact that 'open source' code is made publically accessible and amendable. It is 'open' in that sense that anyone can modify, enhance and share it. Though it is free licensed contributors still must accept the terms of a license that outlines the manner in which the user may use the code. However, this license differs drastically from that found in proprietary software. (See 'Closed Source').
+
+#### Closed Source 
+
+Closed source software source code is kept secret and is only viewable and accessible to certain parties designated either by the author or the legal owner of the code. 'Legal owners' are usually defined as companies that have contracts in place that ensure that all code that is produced by its employees is property of the company. As it is a company property it is protected by legislature against tampering with it or using it in ways that are unintended.
+*Contributed by [Charlie Shingleton] (https://github.com/melliflorGunk)*
 
 #### CMS
 
