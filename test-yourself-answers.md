@@ -288,6 +288,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
+First, don't panic. Then, hit the ESCAPE key. After that type ":q" to quit or ":q!" to quit without saving.
+*Contributed by [Steve Soltesz](https://github.com/stevezee)*
+
 `:q`
 
 `:q!` (to overwrite and not save any changes)
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -677,6 +680,11 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 
 #### Why did you need to install Ruby?
+
+Because Ruby is a programming language, we aren't actually installing Ruby. Rather, we are installing the Ruby interpreter. This allows our computer to understand the language of Ruby and thereby run Ruby programs.
+
+*Contributed by [Steve Soltesz](https://github.com/stevezee)*
+
 
 As we might recall, back-end programming means coding on the server side. Since not all servers run the same programming languages we need to make sure we install in our computer the same language. When we install Ruby we are actually installing the Ruby interpreter which allows us to "run" our code locally so we can make sure that our Ruby programs will be executed correctly by our server.
 
@@ -830,6 +838,11 @@ A pull request is when you contribute to someones else's project, and you let th
 
 #### What is "Forking" a repo?
 
+Forking a repo simply means creating an identical copy of a master repo in your own github account. This is the preparatory step to cloning a repo onto your hard drive in order to propose changes to someone else's project or to use someone else's project as a starting point for your own idea.
+
+*Contributed by [Steve Soltesz](https://github.com/stevezee)*
+
+
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
