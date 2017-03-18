@@ -119,7 +119,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down, tagged, and bagged into sections called packets. In these smaller, manageable parts, they're then sent through the magic power lines of the internet, and reassembled at their destination.
 
-*Contributed by [Nikinori] (https://github.com/Nikinori)*
+*Contributed by [Nikinori](https://github.com/Nikinori)*
 
 
 #### What are packets?
@@ -262,7 +262,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### Why are file permissions important?
 
 You wouldn't want someone to go changing files without your knowledge, or reading through your code for your ultra-secret project. Or maybe executing incomplete code by accident and bringing on WWIII.
-*Contributed by [Nikinori] (https://github.com/Nikinori)*
+*Contributed by [Nikinori](https://github.com/Nikinori)*
 
 
 #### How do you view hidden files in a directory?
@@ -394,7 +394,7 @@ POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol
 
 
 #### What do POP & IMAP & SMTP do?
-*Suggested question? from [Nikinori] (https://github.com/Nikinori)*
+*Suggested question? from [Nikinori](https://github.com/Nikinori)*
 
 
 #### API
