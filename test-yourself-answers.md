@@ -107,18 +107,27 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 ## How the Web Works
 
+The Web is the worldwide collection of text pages, digital photographs, music files, videos, and animations you can access over the Internet. The application protocol that makes the web work is "Hypertext Transfer Protocol" or HTTP. HTTP is the protocol that web browsers and web servers use to communicate and share data with each other over the Internet.
+
+*Contributed by [Jude Ocheje](https://github.com/j-mary)*
 
 #### What is the internet?
 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
+The Internet is a worldwide network of computers that use the Internet protocol suite (TCP/IP) to link devices globally.
+
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Jude Ocheje](https://github.com/j-mary)*
 
 
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Infromation is broken down and sent across the internet in packets. The packets will travel from one machine to another until they reach their destination. As the packets arrive, the computer receiving the data assembles the packets like a puzzle, recreating the message.
+
+*Contributed by [Jude Ocheje](https://github.com/j-mary)*
 
 #### What are packets?
 
