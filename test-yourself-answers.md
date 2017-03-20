@@ -298,17 +298,15 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+The .bash_profile is a file that contains the "profile" information for bash. This can be customized for each user to contain their environment and program preferences. 
+
+*Contriubuted by [Tiffany Graves](https://github.com/ttperry44)*
 
 #### What is the `$PATH` variable?
 
-The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
+The $PATH variable is essentially the bucket of directories that bash should look first when a directory isn't specified. Directories not in the path by by default can be added manually.
 
-$PATH dictates the locations within a file tree that contains commands executable within a command line setting
-
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
-*Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contriubuted by [Tiffany Graves](https://github.com/ttperry44)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
@@ -702,10 +700,9 @@ RVM is helpful because some gems, tools, and frameworks may only work with a par
 
 #### What is XCode?
 
-An integrated development environment (IDE) created by Apple for developing OS X and iOS software.
+XCode is a suite of development tools created by Apple. 
 
-*Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
-
+*Contriubuted by [Tiffany Graves](https://github.com/ttperry44)*
 
 ## Git
 
