@@ -711,21 +711,21 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 #### What is Git?
 
-Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
+Git is the language used by most version control system
 
-*Contributed by [Adan Camacho](https://github.com/adancode)*
+*Contributed by [Adan Camacho](https://github.com/Mawulijo)*
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
+Source Code Management is generally achieved via software that provides coordination, communication and version control services to developers.
+*Contributed by [Alex Clifford](https://github.com/Mawulijo)*
 
 
 #### What is a VCS?
 
-**V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
+Version Control Systems (like Git) provide monitored and regulated access to a software repository.
 
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
+*Contributed by [Alex Clifford](https://github.com/Mawulijo)*
 
 
 #### Why is Git useful for a developer?
