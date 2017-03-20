@@ -713,19 +713,19 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 Git is the language used by most version control system
 
-*Contributed by [Adan Camacho](https://github.com/Mawulijo)*
+*Contributed by [Joshua M. Agbeku](https://github.com/Mawulijo)*
 
 #### What does SCM stand for?
 
 Source Code Management is generally achieved via software that provides coordination, communication and version control services to developers.
-*Contributed by [Alex Clifford](https://github.com/Mawulijo)*
+*Contributed by [Joshua M. Agbeku](https://github.com/Mawulijo)*
 
 
 #### What is a VCS?
 
 Version Control Systems (like Git) provide monitored and regulated access to a software repository.
 
-*Contributed by [Alex Clifford](https://github.com/Mawulijo)*
+*Contributed by [Joshua M. Agbeku](https://github.com/Mawulijo)*
 
 
 #### Why is Git useful for a developer?
