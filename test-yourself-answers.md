@@ -12,6 +12,8 @@ The `.md` extension on this file means it's a markdown file.  You can just assum
 
 ### Example Answer
 
+
+
 #### Example Question
 
 An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
@@ -19,6 +21,30 @@ An awesome explanation about why this thing is amazing in plain-english that any
 *Contributed by [Erik Trautman](http://github.com/eriktrautman)*
 
 ## All About Web Developers
+
+#### Who is a full-stackdeveloper ?
+
+A full-stackdeveloper combines the function of a front-end developer and a back-end developer to develope applications.
+
+They are have design, coding and scripting skills. They are really sought after.
+
+*Contributed by [Okunsanmi Adedolapo](https://github.com/dollarpo7)*
+
+#### What is a code editor ?
+
+ It is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser.
+ 
+*Contributed by [Okunsanmi Adedolapo](https://github.com/dollarpo7)*
+
+
+
+#### What is difference between Git and GitHub?
+
+Git is a version control system (VCS) for tracking changes in computer files and coordinating work on those files among multiple people.
+
+While GitHub is a hosting service for Git repositories, means GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features.
+
+*Contributed by [Okunsanmi Adedolapo](https://github.com/dollarpo7)*
 
 #### What does a Web Developer do?
 
@@ -654,9 +680,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +932,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
