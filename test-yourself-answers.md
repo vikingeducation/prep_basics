@@ -911,3 +911,13 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### what is HTTP and how does HTTP work?
+HTTP is a protocol which is used as the basic foundation framework for communication between computer networks or network of other hypermedia information systems. It is the basic framework for data communication on the world wide web
+
+#### How do you view hidden files ? 
+you view hidden files by typing an -a after the ls function in the terminal
+
+#### Web server
+It is a a computer system that processes requests via HTTP. It could als obe explained as being the software that regulates all the HTTP requests
+
+*Contributed by [Fernando Trouw](https:/github.com/RasenGUY)*
