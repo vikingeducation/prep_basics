@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,42 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### How do you create a new Git repository for a project locally?
 
+Once you have navigated into the local directory in which you want to create your project, enter
+
+`$ git init <directoryName>`
+
+This will create directory called <directoryName> and install a .git directory in it. Change into your newly created directory by entering
+
+`$ cd <directoryName>`
+
+To verify that git has been successfully installed, enter
+
+`$ ls -a`
+
+You should see a .git folder in your directory.
+
+*Contributed by [Sridhar Rajagopalan](https://github.com/sridhar0909)*
+
+#### How do you create it on Github?
+
+Once you login to your GitHub account, select the "+" icon in the nav bar and then select the  "New repository" option in the resulting drop down menu. To complete the creation of your new repository, choose a name for your repository and click the "Create repository" button.  
+
+By default, the setting for your newly created repository is Public, which means that anyone can view, fork, clone and send you pull requests. GitHub offers paid plans that allow you to host private repositories.
+
+*Contributed by [Sridhar Rajagopalan](https://github.com/sridhar0909)*
+
+#### How do you commit changes?
+
+Once you have staged your changes, to commit them enter
+
+` $ git push -m '<message>'`
+
+Choose a message that is short and clearly describes the nature of the commit you are making.
+
+*Contributed by [Sridhar Rajagopalan](https://github.com/sridhar0909)*
