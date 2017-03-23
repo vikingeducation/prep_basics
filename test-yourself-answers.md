@@ -452,7 +452,11 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+Search Engine Optimization is the process of ranking the website in search result based on search engine's algorithm. 
+e.g Google's search engine algortihms consider relvent content and not just keyword stuffing.Algorithms like panda, panguine and humming 
+bird protect the process against black hat SEO methods.
 
+*Contributed by [Krina](https://github.com/KrinaS)
 ### Design
 
 
@@ -462,6 +466,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+"What you see is what you get" is a GUI interface provided by service providers like WORDPRESS and Wix. Where admin can directly use the 
+readymade templates to create blog or a website. it is easy to implement and can be customized with little bit knowledge of html and css. However, not suitable for more custom functionalities. it comes with plugin options but the downside is security may be compromised while using not so reliable plugins.
+
+*Contributed by [Krina] (https://github.com/KrinaS)*
 
 #### Responsive Design
 
@@ -470,6 +478,9 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+Responsive design is about changing the content layout based on the screen size of the device. It can be obtained by using CSS media query.
+
+*Contributed by [Krina](https://github.com/KrinaS)
 
 #### Grid System
 
