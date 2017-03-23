@@ -531,12 +531,16 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
+Hypertext markup language : this is the baselanguage used for all websites and web applications 
+
 
 #### CSS
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+
+"Cascading style sheets" : this language used to implement the feel of the website 
 
 #### Javascript
 
@@ -555,6 +559,8 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+used to write what program do and how to do it
 
 
 #### C
