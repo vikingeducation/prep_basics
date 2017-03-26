@@ -263,8 +263,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### How do you view hidden files in a directory?
 
-`$ ls -a`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+You view hidden files in a directory by using the command `$ls -a` where `$ls` means 'list' and `-a` means 'all'. This includes the hidden files as well as the unhidden.
+
+*Contributed by [Ariana Shackelford](http://github.com/ArianaShackelford)*
 
 #### How do you find information about a particular command?
 
