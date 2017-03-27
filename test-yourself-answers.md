@@ -32,6 +32,10 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+Web designers tend to experience the world in visual way. They develop the look and feel of websites. While Web developers approach the project from logical, scientific standpoint. They are more into details.  
+
+*Contributed by [Deividas Paplauskas](https://github.com/theroadman)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -91,7 +95,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -100,7 +104,7 @@ It's best to provide any infromation which can give relevant answers to the toug
 
 #### What is the hiring process like for a developer?
 
-To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
+To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behaviour assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
@@ -112,8 +116,10 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+Internet is not the same as World Wide Web. The Web is only one of applications that have been built on top of the Internet. The Internet network makes all of your communication and data sharing activities possible.
 
+*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Deividas Paplauskas](https://github.com/theroadman)*
 
 #### How is information broken down and sent?
 
@@ -400,6 +406,13 @@ For example, Amazon.com released its API so that web developers could more easil
 
 A program usually running on a remote computer that responds to requests from a browser.
 
+Websites and their associated HTML documents and
+files are stored on computers called web servers. Web
+servers must be able to receive requests from a user’s
+web browser and send the necessary files back to
+them to display a website.
+
+*Contributed by [Deividas Paplauskas](https://github.com/theroadman)*
 *Contributed by [Unknown]*
 
 
@@ -654,9 +667,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
