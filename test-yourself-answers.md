@@ -913,28 +913,44 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 ### Undo
 
-#### How do you make changes to the last commit?
+#### How do you make changes to the most recent commit?
 
-If you made a mistake such a typo or simply want to update the message to something more legible, then you would want to use the --amend -m flag.
+If you want to edit the commit message due to a typo mistake or simply want to update it to something more legible, then you would want to use the --amend -m flag.
 
-$git commit --amend -m "New message"
+```
+git commit --amend -m "New message"
+```
 
-If you have forgotten to add some files in the previous commit, then first stage the file(s) and then amend.
+If you have forgotten to add some files in the previous commit and now want to include them, then first stage the file(s) and then amend.
 
-$git add <filename>
-$git commit --amend
+```
+git add <filename>
+```
+```
+git commit --amend
+```
 
 Please note that amend will create an entirely new commit replacing the previous commit.
 
+*Contributed by [Khuyen Nguyen](https://github.com/Knworld)*
+
 #### What's the safest way to undo a change?
 
-The are many different methods to undo a mistake or go back in commit history. However, it's usually safer to to do so without having to change the existing records. In this case, using revert will create a new commit with the inverse of all the changes done in the previous commit. This way, the entire project history is still intact with the additional log of the revert commit.
+The are many different methods to undo a mistake or go back in commit history. However, it's usually safer to to do so by undoing changes without having to alter the existing records. Using the revert command will create a new commit with the inverse of all the changes done in the previous commit. This way, the entire project history is still intact with the additional log of the revert commit.
 
-$git revert <commit SHA>
+```
+git revert <commit SHA>
+```
+*Contributed by [Khuyen Nguyen](https://github.com/Knworld)*
 
-#### How do you make a permanent undo that clears out unwanted commits?
+#### How do you make a permanent undo?
 
-Sometimes, we make terrible commits and want to destroy the evidence. With reset, we can either a --soft or --hard undo, that would either clear the commit history only or everything in the working directory up till the specified commit point. 
+Sometimes, we make terrible commits and want to destroy the evidence. With reset, we can either make a --soft or --hard undo, that would either clears the commit history only or everything in the working directory up till the specified commit point.
 
-$git reset --soft <commit SHA>
-$git reset --hard <commit SHA>
+```
+git reset --soft <commit SHA>
+```
+```
+git reset --hard <commit SHA>
+```
+*Contributed by [Khuyen Nguyen](https://github.com/Knworld)*
