@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -117,7 +117,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets and sent through random different ways to get to their destination, along with instructions on how to be reassembled.
+
+When it reaches its destination, it is reassembled into the complete bit of information using the instructions provided.
+
+*Contributed by [Eryn MacNeil](https://github.com/erynm)*
 
 
 #### What are packets?
@@ -196,7 +200,10 @@ Developer Tools will show you the actual HTML and CSS that generated content on 
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
+These can be useful tools to see how other websites implement features, debug websites you've worked on, or just look around and learn.
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Eryn MacNeil](https://github.com/erynm)*
 
 
 
@@ -555,6 +562,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+It looks like a programming language in some ways, but is designed to be read by humans instead of computers. 
+
+*Contributed by [Eryn MacNeil](https://github.com/erynm)*
 
 
 #### C
