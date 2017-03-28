@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -62,7 +62,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area.
+Start with IRC channels, subreddits, and various meetups groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
@@ -91,7 +91,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -143,7 +143,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer program (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -234,7 +234,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again Shell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
@@ -349,7 +349,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everyday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
@@ -384,7 +384,7 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol, and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
 
 #### API
@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -784,7 +784,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the environment where we can make local changes and is typically the one on our computer.
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
@@ -906,8 +906,51 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+### Undo
+
+#### How do you make changes to the most recent commit?
+
+If you want to edit the commit message due to a typo mistake or simply want to update it to something more legible, then you would want to use the --amend -m flag.
+
+```
+git commit --amend -m "New message"
+```
+
+If you have forgotten to add some files in the previous commit and now want to include them, then first stage the file(s) and then amend.
+
+```
+git add <filename>
+```
+```
+git commit --amend
+```
+
+Please note that amend will create an entirely new commit replacing the previous commit.
+
+*Contributed by [Khuyen Nguyen](https://github.com/Knworld)*
+
+#### What's the safest way to undo a change?
+
+The are many different methods to undo a mistake or go back in commit history. However, it's usually safer to to do so by undoing changes without having to alter the existing records. Using the revert command will create a new commit with the inverse of all the changes done in the previous commit. This way, the entire project history is still intact with the additional log of the revert commit.
+
+```
+git revert <commit SHA>
+```
+*Contributed by [Khuyen Nguyen](https://github.com/Knworld)*
+
+#### How do you make a permanent undo?
+
+Sometimes, we make terrible commits and want to destroy the evidence. With reset, we can either make a --soft or --hard undo, that would either clears the commit history only or everything in the working directory up till the specified commit point.
+
+```
+git reset --soft <commit SHA>
+```
+```
+git reset --hard <commit SHA>
+```
+*Contributed by [Khuyen Nguyen](https://github.com/Knworld)*
