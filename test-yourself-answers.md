@@ -1,4 +1,10 @@
-﻿# Test Yourself: Answers
+﻿Aspects that I had trouble with, or are still a little fuzzy:
+
+.bash_profile
+$PATH
+Why might you need to add onto your `$PATH` variable?
+
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -299,6 +305,12 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
+Erik edits:
+This is one of the spots where I'm still a little fuzzy, and I think that's just because it feels like there is a lot that can go on in here. I feel like I just barely touched the surface of a glacier.
+
+The bash_profile file is a startup file when you first load into the terminal (Mac) that declares certain things specific for the user. It is a kin to loading up a "personal" profile in Chrome or OSX.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
@@ -307,6 +319,11 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
+Erik edits:
+Just like the .bash_profile, I feel like there is just a lot more going on here than we covered.
+
+THe '$PATH' variable is an environmental variable in the Terminal (Mac) that tells the shell where to find important executable files, or where to "first look for" that specific type of command.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
@@ -314,6 +331,12 @@ $PATH dictates the locations within a file tree that contains commands executabl
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
+Erik edits:
+I understand why I would need to add onto my '$PATH' variable, but I don't think at this stage that I'm very good at it.
+
+You might need to add onto the '$PATH' variable to specify certain commands that you want to use in a different way. I changed mine to more appropriately fit my needs and tailor my experience to fit my needs better.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
