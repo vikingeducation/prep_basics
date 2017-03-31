@@ -911,3 +911,20 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+####How is information broken down and sent?
+Data is broken up into packets and delivered in pieces rather than as a whole.These packets are then sent with an address and instructions on how to assemble the whole across the internet to the address and then pieced backed together following those instructions that were sent with them. The packets do not need to be sent in order or by the same route, if one route gets too congested the packets may take another.
+
+####What is a "Merge Conflict" and when will it occur?
+A merge conflict is the result of diverging branches, specifically when there are disagreeing changes between the current branch and the one you want to merge into. When Git is merging branches it checks the differences between the base commit and current revision and the differences between the base commit and the other branches newest commit. When there is only one side has changed between the two then it is easily merged, and when this is not the case you find a conflict, e.g. you might have a added something to a line in “test.md” in your commit and someone else removed something from the same line in “test.md” and Git isn’t sure which is correct. 
+
+
+####Ruby on Rails
+Ruby on rails is a web framework that was developed in the ruby language, it  follows a “convention over configuration” philosophy and uses the MVC model. Like many frameworks it diminishes the repetition inherent to creating websites. Rails does this by creating default structures for the user rather than creating a bespoke back-end. It facilitates this speed and ease of use by being an “opinionated” framework-in that there is more input from the framework itself-i.e. a lot happens behind the scenes with the framework working out the “Rails way”-which in turn requires less work on the user’s part, so while this does create a speedy development it also impacts customization and designer input on how the structure is put together.
+
+*Contributed by [Paul Aguilar](https://github.com/pja6)*
+
+
+
+
+
+
