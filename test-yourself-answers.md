@@ -117,7 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Often, information, or data, to be sent between computers is too large to send in one entire package. In that case, the data is broken down into smaller packages, called packets. These packets are then transmitted across an interconnected network, such as the internet, to reach their destination.
+
+*Contributed by [Terence Rogers](https://github.com/TerenceRogers)*
 
 
 #### What are packets?
@@ -187,7 +189,7 @@ defined in an HTML document, such as fonts, colors, spacing, transparency, align
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -216,8 +218,13 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+After receiving the search request, Google's back-end servers use algorithms looking for clues to better understand what you mean. Based on these clues, they pull the relevant documents from their index of all the various websites they have discovered over time.
 
+Their servers then rank the results using over 200 different factors and return those results to your computer for display in your browser. This all happens in a fraction of a second (1/8th of a second according to Google).
 
+To learn more, visit https://www.google.com/insidesearch/howsearchworks/thestory/
+
+*Contributed by [Terence Rogers](https://github.com/TerenceRogers)*
 
 ## The Command Line
 
@@ -236,6 +243,12 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+
+Fun fact, according to gnu.org, the name Bourne-Again SHell is a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell `sh`, which appeared in the Seventh Edition Bell Labs Research version of Unix.
+
+Source: https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html
+
+*Contributed by [Terence Rogers](https://github.com/TerenceRogers)*
 
 #### How can you navigate into a particular file directory?
 
@@ -654,9 +667,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
