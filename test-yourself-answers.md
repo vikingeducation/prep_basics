@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-Often, information, or data, to be sent between computers is too large to send in one entire package. In that case, the data is broken down into smaller packages, called packets. These packets are then transmitted across a interconnected network, such as the internet, to reach their destination.
+Often, information, or data, to be sent between computers is too large to send in one entire package. In that case, the data is broken down into smaller packages, called packets. These packets are then transmitted across an interconnected network, such as the internet, to reach their destination.
 
 *Contributed by [Terence Rogers](https://github.com/TerenceRogers)*
 
