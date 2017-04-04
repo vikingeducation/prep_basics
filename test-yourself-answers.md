@@ -259,6 +259,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
+File permissions are important to make sure no one has access to your files other than those you designate. You must have permissions set to state who can read (only view a content's files), write (change a file), or execute (run a program or script on the files) files that you've created to prevent someone like a hacker, for example, from accessing your documents.
+
+*Contributed by [Ashley Norton](http://github.com/ashleynorton)*
+
+
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
 #### How do you view hidden files in a directory?
@@ -364,6 +369,9 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
+Domain Name Server (DNS) is the directory of the web. Since computers cannot read URLs the way humans do, the DNS converts the URLs to IP addresses to tell our internet connection to go to the corresponding website.
+
+*Contributed by [Ashley Norton](http://github.com/ashleynorton)*
 
 #### HTTP
 
@@ -538,6 +546,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+CSS is the abbreviation for Cascading Style Sheets. CSS is a design language that makes it easy to "design" our web page to make it appealing to the user. It allows you to change the colors, fonts, layouts, or any other design aspect of the web page. It gives way for a lot of creative expression.
+
+*Contributed by [Ashley Norton](http://github.com/ashleynorton)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
