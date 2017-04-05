@@ -54,6 +54,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Learn-how-to-code forums and dedicated chat rooms.
+
+*Contributed by [Cameron](https://github.com/macwebb)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -521,6 +525,7 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 ### Developer Tools and Code
 
+
 #### HTML
 
 The markup language which specifies the structure of all the pieces of a webpage.
@@ -560,6 +565,12 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 #### C
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+
+---
+
+One of the most important languages in the history of programming, and still one of the most widely used. Considered a "fast" language (as opposed to a newer language, which, because the newer language is more human-readable, takes more computing power to translate down into ones and zeroes).
+
+*Contributed by [Cameron](https://github.com/macwebb)*
 
 
 #### Ruby
@@ -624,6 +635,10 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Basically the point of open source is to make software free to both use and modify for further distribution.
+
+*Contributed by [Cameron](https://github.com/macwebb)*
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -654,9 +669,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
