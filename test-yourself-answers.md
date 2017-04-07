@@ -51,7 +51,8 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 #### What's the best way to get help when you get stuck?
 
 google,is your very good friend..get used to it
-*contributed by [omoyeni timi](https://github.com/timibadass)
+
+*contributed by [omoyeni timi](https://github.com/timibadass)*
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
@@ -78,6 +79,9 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+It makes whatever you're doing easier and it gives beginners a guide to what they're doing
+
+*contributed by [omoyeni timi](https://github.com/timibadass)*
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -823,6 +827,9 @@ A merge is when you take the changes you've made on one branch, and bring them i
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+A merge is updating your master with your branch in order to avoid errors and makes keeping track easier
+
+*contributed by [Omoyeni timi](https://github.com/timibadass)*
 
 #### What is a "Pull Request"?
 
