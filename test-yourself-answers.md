@@ -610,6 +610,7 @@ The interactive shell where you can enter commands that will be run by your oper
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
@@ -654,9 +655,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +907,24 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### How do you create files/folders(directories) using the command shell, provided you're giving a specific file name and specific folder name (eg: folder/directory-name: newFolder, file-name: newFile)?
 
+Folders/Directories are created via the command shell with `mkdir newFolder`, while new files are created via command shell using `touch newFile`.
+
+*Contributed by [Lekan Omoniyi] (https://github.com/thislekan)*
+
+#### By default, in what format does the file created via commmand shell saved? is there a way to specify a particular format for the newly created file?
+
+Files created via command prompts can be specified. However, if a file was created without the format being specified, the file would be saved in a file format. To specify a partcular format for the newly created file, the command will look like this `touch newFile.txt` for a text document (.txt) or `touch newFile.docx` for a word document (.docx).
+
+*Contributed by [Lekan Omoniyi] (https://github.com/thislekan)*
+
+#### How do you open a folder in your Atom text editor using the command prompt?
+
+Folders can be opened in the Atom text editor using the command shell by passing the name of the text editor along with the name of the folder. eg: `atom vikingcodeschool`. This launches the text editor from the shell. This is also a shortcut for launching browsers from the shell, eg: `chrome`. !!Note!! To launch chrome, the only required command is `chrome`, as well as launching the text editor without the need of opening a folder, i.e `atom` to launch the Atom text editor.
+
+*Contributed by [Lekan Omoniyi] (https://github.com/thislekan)*
