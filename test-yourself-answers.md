@@ -774,6 +774,8 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+
+
 ### Remotes
 
 
