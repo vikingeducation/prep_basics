@@ -386,7 +386,14 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+One key difference between POP and IMAP is that a POP server will only hold
+your email until you retrieve you it, the server will then delete you email.
+On the other hand, an IMAP server will hold your mail on the server until it is
+removed (by a user, or in some cases, an administrator). As most individuals
+now access the internet using multiple devices, IMAP is generally the preferred
+method. 
 
+*Contributed by [Jared Truscott] (https://github.com/TruJared)
 #### API
 
 API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
@@ -442,6 +449,13 @@ Nasty error when a page is not found when requested that the hosting domain aler
 The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+Although "404's" can be quite irksome, some pages have pretty unique 404 pages,
+such as:
++ [Github](https://github.com/404) and
++ [Bloomberg] (https://www.bloomberg.com/404)
+
+*Contributed by [Jared Truscott] (https://www.github.com/TruJared)
 
 #### SEO
 
@@ -556,10 +570,14 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Keep in mind that Pseudo-code isn't actual code, it's just a term used for your
+version of code shorthand. Think of it as an outline for what you're about to
+code.
+* Contributed by [Jared Truscott] (https://github.com/TruJared)
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
