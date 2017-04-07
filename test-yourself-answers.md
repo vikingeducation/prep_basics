@@ -301,6 +301,10 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
+The .bash_profile file allows you to configure your command line to your own specifications. Among other things, you can change the colors, tell it to display more information in the prompt, or create shortcuts (an 'alias') for common commands.
+
+*Contributed by [Anne Do](https://github.com/annedo)*
+
 #### What is the `$PATH` variable?
 
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
@@ -770,8 +774,6 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
-
-
 ### Remotes
 
 
@@ -781,6 +783,9 @@ Committing your changes will only save them in your local repository. Pushing th
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+You can still access committed versions of your project on the computer you made them on, but you'll have to push the changes to Github to be able to clone the new versions on a different computer.
+
+*Contributed by [Anne Do](https://github.com/annedo)*
 
 #### What is the difference between a "remote" and your local repo?
 
@@ -910,4 +915,14 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+Look for the merge markers and then decide to
 
+<<<<<<< HEAD
+keep this change.
+=======
+keep this change instead.
+>>>>>>> branch-a
+
+Then, delete what you don't need, save the finalized file, and commit.
+
+*Contributed by [Anne Do](https://github.com/annedo)*
