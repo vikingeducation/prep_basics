@@ -226,6 +226,7 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+Command line is a window to your operation system. Basically, this is a programm which helps you interact with almost anything on your computer.
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
@@ -246,6 +247,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+$ mkdir -p <directoryName/subdirectoryName>
+ if you want to make subfoulders
 #### How can you destroy a directory or file?
 
 `$ rm <fileName>`
@@ -306,7 +309,7 @@ The bash '.bash_profile' file is a startup file for the bash shell and is used f
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
-
+$PATH dictates the locations within a file tree that contains programms executable by typing commands within a command line setting
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +909,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
