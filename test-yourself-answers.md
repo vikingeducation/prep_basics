@@ -582,7 +582,21 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language
+
+In contrast to Javascript, C is a much older language. C is very fast and useful for handling many low level computer tasks, which has lead to
+many modern languages being written in C. It is compiled, statically-typed, low level and does not have garbage collection.
+
+C files are written in a text file in the C programming, and then run through a C compiler, which turns them into machine code. Programs in
+machine code can be run directly by a computer, without an interpreter or browser, but it won't necessarily or every computer.
+
+It is statically-typed, meaning that you must tell exactly what kind of information each thing you tell the computer is.
+
+It is NOT garbage collected, which means that you have to tell the computer to take and return memory from the operating system while it runs.
+
+It is low level, meaning that it lacks a lot of features of modern languages and can be difficult for beginners to learn.
+
+*Contributed by [Roman A. Davis](https://github.com/RomanADavis)*
 
 
 #### Ruby
