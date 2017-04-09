@@ -614,6 +614,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+Version control allows the developer to iterate on their projects and save snapshots of their code at different points in the development process.  Since developing an app involves managing and changing many different files at once, version control allows the developer to revert back to a previous version of the code without trying to undo the changes that were made to all of the files.
+
+*Contributed by [Aaron Smith](https://github.com/aerosmith3430)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -623,6 +627,10 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+Open source code is available to all developers.  It uses the power of the worldwide community to create incredibly useful projects, apps and operating systems.
+
+*Contributed by [Aaron Smith](https://github.com/aerosmith3430)*
 
 #### CMS
 
