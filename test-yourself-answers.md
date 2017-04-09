@@ -548,8 +548,23 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+Javascript is a programming language. It is the primary programming language that runs inside of browser and on the front-end of websites. It is
+called a scripting language, which is a way to describe languages with a certain set of features. In Javascript's case this mean that the language
+is interpreted, dynamically typed, garbage collected, high level and portable.
 
+When we say Javascript is interpreted, we mean that the language runs in the browser without a compile step. We don't need to do anything with a
+piece of Javascript code we want to run except open it up with our favorite browser.
+
+Javascript is dynamically typed, meaning that when we use variables inside the program, we don't need to tell it exactly what kind of data it is.
+
+Javascript is garbage collected, meaning when we program in Javascript, we don't have to tell the computer exactly what to do with it's memory. the
+browser figures it out for us.
+
+It's high level, meaning that it takes care of many low level details that we would have to take care of for ourselves in an another language.
+
+It is portable. This means it can run on almost any computer. All it needs is a a browser.
+
+*Contributed by [Roman A. Davis](https://github.com/RomanADavis)*
 
 #### AJAX
 
