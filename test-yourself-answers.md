@@ -30,7 +30,15 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are focused on the aesthetics of the front end UI for the website. Theoretically, a web designers job could happen 100% in
+photoshop, without ever touching a line of code. Web developers focus on building the website, front end and back, and making sure every line
+of code works to make a functional website.
+
+However, there are particular languages that are completely focused on the organization and style of the website's UI. These languages are
+called HTML and CSS and a good website designer should make an effort to know them. At the same time, a dedicated Web Developer might want to
+work on their artistic skills to make a better looking UI.
+
+*Contributed by [Roman A. Davis](http://github.com/RomanADavis)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -540,8 +548,23 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+Javascript is a programming language. It is the primary programming language that runs inside of browser and on the front-end of websites. It is
+called a scripting language, which is a way to describe languages with a certain set of features. In Javascript's case this mean that the language
+is interpreted, dynamically typed, garbage collected, high level and portable.
 
+When we say Javascript is interpreted, we mean that the language runs in the browser without a compile step. We don't need to do anything with a
+piece of Javascript code we want to run except open it up with our favorite browser.
+
+Javascript is dynamically typed, meaning that when we use variables inside the program, we don't need to tell it exactly what kind of data it is.
+
+Javascript is garbage collected, meaning when we program in Javascript, we don't have to tell the computer exactly what to do with it's memory. the
+browser figures it out for us.
+
+It's high level, meaning that it takes care of many low level details that we would have to take care of for ourselves in an another language.
+
+It is portable. This means it can run on almost any computer. All it needs is a a browser.
+
+*Contributed by [Roman A. Davis](https://github.com/RomanADavis)*
 
 #### AJAX
 
@@ -559,7 +582,21 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language
+
+In contrast to Javascript, C is a much older language. C is very fast and useful for handling many low level computer tasks, which has lead to
+many modern languages being written in C. It is compiled, statically-typed, low level and does not have garbage collection.
+
+C files are written in a text file in the C programming, and then run through a C compiler, which turns them into machine code. Programs in
+machine code can be run directly by a computer, without an interpreter or browser, but it won't necessarily or every computer.
+
+It is statically-typed, meaning that you must tell exactly what kind of information each thing you tell the computer is.
+
+It is NOT garbage collected, which means that you have to tell the computer to take and return memory from the operating system while it runs.
+
+It is low level, meaning that it lacks a lot of features of modern languages and can be difficult for beginners to learn.
+
+*Contributed by [Roman A. Davis](https://github.com/RomanADavis)*
 
 
 #### Ruby
@@ -654,9 +691,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +943,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
