@@ -174,10 +174,12 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
+Hypertext Markup Language is the standard markup language for creating web pages and web applications
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Wongala Melvin](http://github.com/Wongala)*
 
 
 #### What is CSS and how is it used?
@@ -228,9 +230,9 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Type `cmd` under Start > Run on Windows, or Open your Applications folder > Utilities folder > Terminal application
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Wongala Melvin](http://github.com/Wongala)*
 
 #### What is Bash?
 
@@ -326,8 +328,10 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+####  How to open a folder using Atom text editor with command line?
 
-
+Atom  (folder_name)
+*Contributed by [Wongala Melvin](https://github.com/wongala)*
 
 ## Terms to Know
 
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +910,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
