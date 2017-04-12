@@ -250,7 +250,14 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+`$ rm <fileName>`
+`$ rmdir <emptyDirectoryName>`
+`$ rm -R <directoryName>`
+
+*Contributed by [Zeren Lu](https://github.com/1900at12358)*
 
 #### How can you rename a directory or file?
 
@@ -334,6 +341,10 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+
+Web is a system which consists of connected internet servers. All the servers contain documents written by HTML, which are also known as web page. Users can jump from one web page to another by clicking links in the web page. So this system that allows us to view the connected pages is Web.
+
+*Contributed by [Zeren Lu](https://github.com/1900at12358)*
 
 
 #### URL( Uniform Resource Locator)
