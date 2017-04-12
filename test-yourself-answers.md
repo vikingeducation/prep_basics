@@ -40,6 +40,10 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Front end developers tend to focus on designing the webpage whereas the backend developers build the actual interactions and business logic. Fullstack developers are kind of a new thing where one developer takes care of both of those disciplines. You will find that a lot of developers call themselves fullstack developers, although they still tend to specialize in a certain discipline.
+
+*Contributed by [Florian Beijers](http://github.com/zersiax)*
+
 #### What's the difference between static and dynamic web pages?
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
@@ -48,12 +52,18 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Dynamic pages are , in a sense, the opposite of static pages. The pages being dynamic basically means the content on the page can change, either live or through server interactions. How realtime this is and what exactly this dynamic element on the page is, depends on the technologies used and the goal of the webpage or web application.
+
+*Contributed by [Florian Beijers](http://github.com/zersiax)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+It kind of depends on your situation. Google can often fix your problem, asking a friend who's also a developer maybe more useful at times. StackOverflow is a good resource to peruse, but I've found that actually asking questions there is not very newbie friendly. If you don't adhere to what they think is a good question, you will get downvoted which will ensure you either get no answers at all or get them very late. You can also get prevented from asking more questions if a couple of questions don't match these criteria.
 
+*Contributed by [Florian Beijers](http://github.com/zersiax)*
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
