@@ -532,6 +532,13 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 ### Developer Tools and Code
 
+Chrome: menu->more tools->developer tools
+Firefox:add-ons web developer or Firefox developer edition
+Safari: option+command+I
+
+*Contributed by [Zeren Lu](https://github.com/1900at12358)*
+
+
 #### HTML
 
 The markup language which specifies the structure of all the pieces of a webpage.
