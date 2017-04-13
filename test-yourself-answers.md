@@ -52,7 +52,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+Google. Hands down. If that fails, a developer community like Stack Overflow.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Andrew Senner](http://github.com/drewdiddy611)*
 
 #### Where are the closest developer communities to you?
 
@@ -216,6 +219,8 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+Your search string is transmitted to Google servers where super computers apply complex algorithms to the string.  The algorithms generate a list of websites which correlate to the search string provided by you and are displayed in the window by your browser.
+*Contributed by [Andrew Senner](https://github.com/drewdiddy611)*
 
 
 
@@ -409,8 +414,11 @@ An error or defect in software or hardware that causes a program to malfunction.
 
 For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
+ A syntax error in a source file which causes an error during compilation or runtime.  A logical blunder, which executes without causing an error, but provides unexpected results from a conceptual standpoint.
+
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+*Contributed by [Andrew Senner](https://github.com/drewdiddy611)*
 
 
 #### The Cloud
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
