@@ -334,7 +334,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+The Web or World Wide Web (www) is not to be confused with the "Internet". While the Internet is a huge network of interconected computers the Web is the structure computers use to actually access the information on the Internet, and it uses protocols like HTTP,HTTPS,etc. to do so.
+*Contributed by [Kriss Flores](https://github.com/floreskrissafc)*
 
 #### URL( Uniform Resource Locator)
 
@@ -422,11 +423,9 @@ Cloud computing is the practice of using a network of remote servers hosted on t
 
 #### Cookies
 
-A text file stored by the browser which is sent back to the server each time the browser requests a page from the server. Mainly used to identify users and possibly prepare customized web pages for them.
+Ever wonderer how is it that you are looking at stuff on Amazon and then when you go to another web page all the ads you can see are about that same thing you were watching and you tell yourself "how this new web page nows what I was doing in Amazon?, I'm being stalked!!!!". Well.. not that much. These are cookies working, these are little pieces of code that every web page has and they store all the information of what you did on that webpage to later tell the next web page you visit "Hey this is what she/he saw!". Sounds a little creepy but these cookies also allow us not to have to put our user and password everytime we access our google mail, Facebook page, etc., the "stored" cookies will tell the servers that we already provided that information so we can access our pages directly. If you are scared of cookies just use a incognito window on Chrome :) 
 
-Session (or transient) cookies are stored in temporary memory and erased when browser is closed, they do not collect info on user. Instead, they store information in the form of a session identification that does not personally identify the user. Persistent (or permanent) cookie are stored on hard drive until it expires at expiration date or until user deletes it. They are used to collect identifying info about the user such as surfing behavior or user prefs for a site.
-
-*Contributed by [Yoshio Varney](https://github.com/yoshi415)*
+*Contributed by [Kriss Flores](https://github.com/floreskrissafc)*
 
 
 #### 404 Error
