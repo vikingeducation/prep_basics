@@ -4,7 +4,7 @@ This is the file you'll use to add your answers to the [Test Yourself exercise](
 
 ### Instructions
 
-See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
+See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details. 
 
 Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
 
@@ -165,29 +165,32 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+DNS stands for domain name server. Name servers provide a distributed, hierarchical system for internet devices to connect via human-readable computer hostnnames such as www.apple.com and mail.google.com. These names are associated by the DNS system with the IP addresses of the devices that can properly respond to the requests.
 
-For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
+For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser! But try remembering a number like this for each of the millions of web, mail, ftp and other servers the system supports today. 
+
+Well this is the way it was in the old days. And if for some reason you moved your web, mail or ftp server from one machine to another, you would have to make a phone call to Elizabeth Feinler, during business hours, to ask her to update her HOSTS.TXT file so that everything on the internet would know that your IP addresses had changed.
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Alan Millar](https://github.com/alanmodia)*
 
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+HTML (HyperText Markup Language) is the most basic building block of the Web. It describes and defines the content of a webpage. Other technologies besides HTML are generally used to describe a webpage's appearance/presentation (CSS) or functionality (JavaScript).
+
+Learn more about it [here](*https://developer.mozilla.org/en-US/docs/Web/HTML)*.
+*Contributed by [Alan Millar](https://github.com/alanmodia)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Style Sheets (CSS) are a stylesheet language used to describe the presentation of a document written in HTML or XML (including XML dialects like SVG or XHTML). CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
 
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+CSS is one of the core languages of the open web and has a standardized W3C specification. Developed in levels, CSS1 is now obsolete, CSS2.1 is a recommendation, and CSS3, now split into smaller modules, is progressing on the standardization track.
+
+Learn more about it [here](*https://developer.mozilla.org/en-US/docs/Web/CSS)*.
+*Contributed by [Alan Millar](https://github.com/alanmodia)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
