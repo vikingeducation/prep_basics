@@ -117,7 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets and sent through random different ways to get to their destination. Each packet is guided through the internet by a series of specialized computers called routers. They read the packet data and IP address, make sure it's assigned to the correct route to go to the correct destination. The process is repeated until each of the packets arrive and the instructions for reassembly are used by the browser. The whole process can be analogous to the way mail moves through the Post Office system to reach recipients.
+
+*Contributed by [Laura L](https://github.com/leseme)*
 
 
 #### What are packets?
@@ -160,7 +162,10 @@ The server waits for requests from a client and tries to produce the proper resp
 
 HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
 
+HTTP requests are made in the form of verbs. A GET request seeks to retrieve information such as results from a search. A POST request seeks to post new information to a database such as registering with a web site or posting a comment. PUT requests are used to update information in the database. An example would be updating a title of an image on Facebook. DELETE requests aim to delete data from the database. For each request a response is returned which may contain any requested data or status of the request that was made.
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Laura L](https://github.com/leseme)*
 
 
 #### What are DNS servers?
@@ -493,9 +498,10 @@ Short for red, green and blue, the three colors that make up a pixel. Each is an
 
 #### Hex
 
-Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green.
+Hexadecimal: a base-16 numeral system. Digits are 0-9, a-f. Example: Hexadecimal(1c) == Decimal(28). In the context of color, Hexadecimal is used to numerically represent Red, Green, and Blue content, using three pairs of digits. This allows 256^3 (over 16 million) unique colors. Color example: #00ff00 is Green. Hexadecimals are used to represent binary numbers more efficiently and in a human-readable way. A binary value of 111111111111111111111111 can be represented in hexadecimal with ffffff.
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+*Contributed by [Laura L](https://github.com/leseme)*
 
 
 #### Above the Fold
