@@ -119,6 +119,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Larger pieces of code or information are broken down into smaller pieces or packets that are transmitted separately and reassembled at their destination.
+
+*Contributed by [Austin Smith](https://github.com/Austin1780)*
+
 
 #### What are packets?
 
@@ -225,6 +229,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+The Command Line Interface (CLI) appears in the command prompt or terminal shell where a user can type text based commands to direct the computer to complete specific tasks. It allows a programmer to change settings and permissions, move between directories, create, open, edit, and remove files and directories, interact with Github repositories to create or merge branches, add commits, and more.
+
+*Contributed by [Austin Smith](https://github.com/Austin1780)*
 
 #### How do you open it on your computer?
 
@@ -395,6 +403,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+An Application Programming Interface (API), is an exposed portion of a web application, which allows other web applications to communicate with and retrieve information from it. APIs are essentially a way for applications on different web servers to interact with each other. Applications such as YouTube, Instagram, Twitter, and Facebook produce API keys for the public to implement into their own webpages or applications. For example, a YouTube API key can be used on a blog to display how many subscribers a specific channel has. In another example, an Instagram API key can be used by a web application to retrieve the most recent posts or number of followers of a specific user. This is done by requesting that information from the Instagram application and web server via the API. The information is then delivered to the other application’s server, so it can ultimately be displayed to the client.
+
+*Contributed by [Austin Smith](https://github.com/Austin1780)*
+
 
 #### Web Server
 
@@ -402,6 +414,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+This is the portion of a web application that accepts, processes, and responds to incoming HTTP requests from client browsers or separate applications. This is what is referred to as the back end of the web application and is often run on a remote computer. There are many different programming languages developers utilize to create the coded instructions for the back end, or server side, of an application, such as Java, Ruby, Python, PHP, Perl, SQL, C++, C#, Python, Go, Swift, and others.
+
+*Contributed by [Austin Smith](https://github.com/Austin1780)*
 
 #### Bugs
 
@@ -614,6 +629,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+A system whereby each version of a set of code is saved, so that changes can be tracked easily and multiple developers can easily work on the same set of code at the same time via branches. Changes created by separate developers within the same time frame can then be merged together into the master branch via pull requests.
+
+*Contributed by [Austin Smith](https://github.com/Austin1780)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -654,9 +673,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -784,7 +803,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the environment where we can make local changes and is typically the one on our computer.
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
@@ -909,5 +928,3 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
