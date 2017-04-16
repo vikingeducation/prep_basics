@@ -179,6 +179,12 @@ content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Markup languages like HTML are used to manage the presentation of data. For example,
+video game names represented as unordered lists or tables. This differs from a 
+programming language, which is used to transform data.
+
+*Contributed by [Benjamin Soung](http://github.com/bsoung)*
+
 
 #### What is CSS and how is it used?
 
@@ -188,6 +194,12 @@ and other design aspects of a page. In short, it makes the raw information look 
 and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+
+The term *cascading* comes from the fact that multiple style sheets can be applied to the
+same webpage. In essence, this means that the order of CSS rules matter, and the selectors 
+used between different style sheets can potentially render other ones useless. 
+
+*Contributed by [Benjamin Soung](http://github.com/bsoung)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -541,6 +553,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+
+It is a dynamically typed, object orientated programming language. This means that it has the ability to interact with the Document Object Model. You can imagine Javascript as the "infrastructure" that operates beneath HTML and CSS. If we have the model of a factory and its decorations, We need the factory pipes working and the machinery churning. That's where Javascript comes in.
+
+*Contributed by [Benjamin Soung](http://github.com/bsoung)*
 
 
 #### AJAX
