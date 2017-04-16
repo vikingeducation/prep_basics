@@ -414,7 +414,7 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
-•	This is the portion of a web application that accepts, processes, and responds to incoming HTTP requests from client browsers or separate applications. This is what is referred to as the back end of the web application and is often run on a remote computer. There are many different programming languages developers utilize to create the coded instructions for the back end, or server side, of an application, such as Java, Ruby, Python, PHP, Perl, SQL, C++, C#, Python, Go, Swift, and others.
+This is the portion of a web application that accepts, processes, and responds to incoming HTTP requests from client browsers or separate applications. This is what is referred to as the back end of the web application and is often run on a remote computer. There are many different programming languages developers utilize to create the coded instructions for the back end, or server side, of an application, such as Java, Ruby, Python, PHP, Perl, SQL, C++, C#, Python, Go, Swift, and others.
 
 *Contributed by [Austin Smith](https://github.com/Austin1780)*
 
@@ -925,6 +925,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
