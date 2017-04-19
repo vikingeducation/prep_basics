@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is broken down in to _packets_, and sent from the senders computer to the ISP's POP then to the internet. The packets are then routed to the correct Internet backbone and delivered to the recipient, reassembled identical to the data sent.
 
 
 #### What are packets?
@@ -241,6 +241,14 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+also...
+
+string your directories together like:
+
+`cd /User/coolperson/Desktop/folder-on-desktop`
+
+*Contributed by [Aron](https://github.com/arightous)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
@@ -671,6 +679,13 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+or...
+
+A program written to execute or automate tasks that would otherwise be done by a human, one-at-a-time.
+
+c
+
+
 
 
 ## Installations
@@ -758,15 +773,15 @@ By clicking on the plus symbol ('+') of your github user account and selecting N
 
 #### How do you commit changes?
 
-By typing a git command, "git commit -m "Your message". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
+By typing a git command, `git commit -m "Your message"`. It will move the files from staged to unmodified. Type `git status` prior to commit. You can see "Changes to be committed:". Type `git status` again after commit, you will see "nothing to commit, working directory clean".
 
-The other way is typing a git commit -am "Your message", which will both stage and commit changes.
+The other way is typing a `git commit -am "Your message"`, which will both stage and commit changes.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
 #### What is the difference between staging and committing changes?
 
-Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
+Staging is moving files from Modified to Staged by issuing a git command, `git add your_file`, `git add . `, or `git add -A`. Committing is moving files from Staged to Unmodified.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
@@ -791,19 +806,19 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
-git remote add origin URL
+`git remote add origin URL`
 
 URL is copied from my repo in my GitHub account
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### How do you check the status of your current repo in git?
 
-git status
+`git status`
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
-git log
+`git log`
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### How can you look through your historical commits on the Github website?
@@ -890,13 +905,15 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 In order to merge branches back together you should merge the master branch into your-branch
 
-$git checkout your-branch
-$git merge master
+`$git checkout your-branch`
+
+`$git merge master`
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
 
-$git checkout master
-$git merge your-branch
+`$git checkout master`
+
+`$git merge your-branch`
 
 You'll see output indicating any changes that were made
 
