@@ -338,8 +338,9 @@ Define the following:
 
 #### URL( Uniform Resource Locator)
 
-Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+A Uniform Resource Locator is essentially a web resource used to specify a certain location on a computer network and then retrieve it.
+
+*Contributed by [Grantmks] (https://github.com/Grantmks)*
 
 
 #### Domain
@@ -360,9 +361,9 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 #### DNS
 
-The Domain Name System, or DNS, is the phone book of the Internet. It takes human-readable URLs and translates them to IP addresses so that packets know exactly where to go.
+DNS stands for Domain Name System, and is primarily used for managing names of web sites an applicable internet domains. DNS is what allows you to type a name into your web browser and have your computer automatically find that website on the internet. 
 
-*Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+*Contributed by [Grantmks] (https://github.com/Grantmks)*
 
 
 #### HTTP
@@ -616,7 +617,9 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### Git
 
-One of the most popular open-source version control systems.
+Git is a version control system used primarily for tracking changes in a computers files, and coordinating those changes among multiple people.
+
+*Contributed by [Grantmks] (https://github.com/Grantmks)*
 
 #### Open Source
 
