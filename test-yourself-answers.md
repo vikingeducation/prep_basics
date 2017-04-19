@@ -622,7 +622,10 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+Software in which the source the code is made universally available to all users so that it can be redistributed and modified i.e. most github projects.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Orlando Rodriguez](https://github.com/orodriguez95)*
 
 #### CMS
 
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -685,7 +688,11 @@ As we might recall, back-end programming means coding on the server side. Since 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
 These are already native to the browsers and do not need a compiler or back end to interpret. They can also be authored in a simple text editor.
+
+These are front-end developer languages and as such do not need a compiler as the compiler is already built into a web browser.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Orlando Rodriguez](https://github.com/orodriguez95)*
 
 Most web browsers have the ability to decode all of the before mentioned languages.
 
@@ -838,7 +845,10 @@ Making a copy of another master repo into your own github account so as to not d
 
 Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
 
+Cloning a repo is making a copy on your local machine so that you can work on it remotely without having to be connected to the internet.
+
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+*Contributed by [Orlando Rodriguez](https://github.com/orodriguez95)*
 
 
 #### What is "Branching"?
@@ -874,7 +884,10 @@ git checkout -b branch_name
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
+Using branches allows a developer the ability to work on new features or test fixes for issues without damaging the master branch in a repository. When the new feature is ready or the issue has been fixed the changes can merged into the master branch without any ill effects.
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Orlando Rodriguez](https://github.com/orodriguez95)*
 
 
 #### How do you create a new branch?
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
