@@ -400,7 +400,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 A program usually running on a remote computer that responds to requests from a browser.
 
+The server is where the information is stored for a website, so it can "serve" the data to a computer upon request.
+
 *Contributed by [Unknown]*
+*Contributed by [Ian Halverson](http://github.com/IDHalverson)*
 
 
 #### Bugs
@@ -542,8 +545,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
-*Contributed by [Unknown]*
+Javascript is the way to get web pages to act dynamically (interactive and computational). It is used increasingly as browsers handle more and more of the computation.
 
+*Contributed by [Unknown]*
+*Contributed by [Ian Halverson](https://github.com/IDHalverson)*
 
 #### AJAX
 
@@ -715,7 +720,10 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
 
+Git is also extremely useful for collaborative projects due to its ability to handle overlapping and/or erroneous changes and submissions.
+
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+*Contributed by [Ian Halverson](http://github.com/IDHalverson)*
 
 #### What does SCM stand for?
 
