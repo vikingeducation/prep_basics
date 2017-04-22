@@ -234,8 +234,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux." It is a Unix shell & command language originally written by Brian Cox for the GNU Project. It is mainly used for Unix/Linux task automation through an interactive shell or also to run commands from a file or script.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Peter Quin](http://github.com/pgqu)*
 
 #### How can you navigate into a particular file directory?
 
@@ -298,8 +299,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells. It is also used to configure the look and feel of the bash shell with options such as PS1 to change the way you prompt is displayed and PROMPT_COLOR, CLICOLOR, LSCOLORS to regulate the colour schemes to be used with those types of output. The setting of default programs, for instance the text editor with the EDITOR option, are also done through this file.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Peter Quin](https://github.com/pgqu)*
 
 #### What is the `$PATH` variable?
 
@@ -334,6 +336,9 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+
+A system of internet servers that support specially formatted documents (HTML or Hypertext Markup Language). It operates through a system of 'hyperlinks' that facilitate joining pages together and linking related information.
+*Contributed by [Peter Quin](http://github.com/pgqu)*
 
 
 #### URL( Uniform Resource Locator)
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
