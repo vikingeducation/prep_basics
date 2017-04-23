@@ -230,7 +230,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+In most linux distros you can open the terminal using the keyboard shortcut `Ctrl + Alt + T` or you can make your own.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Kevin Castro](https://github.com/kancas)*
 
 #### What is Bash?
 
@@ -299,7 +302,11 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
+It can also be used to set up aliases, your own custom commands.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Kevin Castro](https://github.com/kancas)*
 
 #### What is the `$PATH` variable?
 
@@ -334,7 +341,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+Using HTTP and HTML the web forms a subset of the internet, it consists of pages that can be accesed using a Web browser.
+*Contributed by [Kevin Castro](https://github.com/kancas)*
 
 #### URL( Uniform Resource Locator)
 
