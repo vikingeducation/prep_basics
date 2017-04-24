@@ -259,7 +259,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 File permissions are important because they prevent unauthorized access to your website that could potentially result in security breaches. They determine who (and what) can read, write, modify and access files on your website.  They are important to maintain privacy and also to help protect your site from malicious activity. 
 
-*Contributed by [Emily Koyfman] (http://github.com/emilyk481)
+*Contributed by [Emily Koyfman](http://github.com/emilyk481)
 
 #### How do you view hidden files in a directory?
 
