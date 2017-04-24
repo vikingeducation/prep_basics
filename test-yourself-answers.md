@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -55,7 +55,6 @@ The best bet to get help when you are stuck is to use google! There are other fa
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
-
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
@@ -182,12 +181,11 @@ etc.
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+CSS stands for Cascading Style Sheets.  It is used to easily and uniformly customize the appearance of their website.
 
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+It is used to set styles of colors, borders, fonts, and other aesthetic aspects of the site.  It allows the developer to keep the appearance and content of their page seperate.
+
+*Contributed by [Emily Koyfman](http://github.com/EmilyK481)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -259,7 +257,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions are important because they prevent unauthorized access to your website that could potentially result in security breaches. They determine who (and what) can read, write, modify and access files on your website.  They are important to maintain privacy and also to help protect your site from malicious activity. 
+
+*Contributed by [Emily Koyfman] (http://github.com/emilyk481)
 
 #### How do you view hidden files in a directory?
 
@@ -334,7 +334,11 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+The Web or "World Wide Web" was invented by Tim Berners-Lee and Robert Cailliau in 1990.  It refers to the system of internet servers that support documents formatted in Hyper Text Markup Language (HTML) known as "Web Pages".  HTML allows users to easily jump or "link" to other web pages" via "hyperlinks".  Software known as "Web Browsers" helps users to view, interact with, and navigate between web pages, colloquially referred to as "surfing the web".
 
+It is important to note that "the Web" is *not* synonymous with "the Internet".
+The Internet refers to the networking infrastructure which connects computers to other computers, and uses various protocols as a means of communication.  Examples of these protocols include Hyper Text Transfer Protocol (HTTP), and e-mail protocols like POP, IMAP and SMTP. The Web is considered to be a part of the Internet.
+*Contributed by [Emily Koyfman](http://github.com/emilyk481)
 
 #### URL( Uniform Resource Locator)
 
