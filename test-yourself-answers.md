@@ -67,6 +67,9 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Stack Overflow is highly recommended. The answer to almost any question you might have can usually be found there.
+*Contributed by [Tony Nassif](http://github.com/tonynassif)*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -232,9 +235,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+#### What is a shell?
+
+A shell is a user interface utilized to access the services of an operating system. Operating System shells generally use
+either a command line interface (CLI) or a graphical user interface (GUI).
+*Contributed by [Tony Nassif](http://github.com/tonynassif)*
+
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again Shell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
@@ -286,6 +295,9 @@ Text editor that often causes debates with emacs lovers.
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is a highly configurable text editor that is a favorite of many programmers. It can be used for many types of text editing including composing emails among other things. A great introduction can be had by typing vimtutor into your shell.
+*Contributed by [Tony Nassif](https://github.com/tonynassif)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
