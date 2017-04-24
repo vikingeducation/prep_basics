@@ -174,18 +174,14 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+Hypertext markup language, a language of tags used to define the structure and content of Web pages, such as headings, lists, paragraphs, line breaks, images, etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Stylesheets, a language that describes the look and style of the elements defined in an HTML document, such as fonts, colors, spacing, transparency, alignment, and other design aspects of a page. In short, it makes the raw information look pretty, and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
@@ -202,21 +198,20 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 
 #### What happens behind the scenes after you click "search" on google.com?
 
-A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
-Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
-Centiseconds later (a handful of them) the data is processed and the return data is exchanged
-Decaseconds later (two point five of them, in this case) your search is returned to your screen.
+A single click rings out on a dark night...<br>
+Picoseconds (a lot of them) later, the input is received by a USB or other peripheral device port.<br>
+Nanoseconds (a pile of them) later, a short string of integers is sent and interpreted by the CPU of device used as a "click".<br>
+Milliseconds (a group of them) later, a command is sent to open up an HTTP handshake.<br>
+Microseconds (a few of them) later, the handshake is confirmed and search query data is exchanged.<br>
+Centiseconds (a handful of them) later, the data is processed and the return data is exchanged.<br>
+Decaseconds (2.5 of them, in this case) later, your search is returned to your screen.
 
-"About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
+["About 98,600,000 results (0.25 seconds)"](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second)
 
-There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than .25 seconds) when I find it.
+There was a great reddit post on this somewhere that I filed away mentally. I will return it (in far more than 0.25 seconds) when I find it.
 
-*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
-
-
+*Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*<br>
+*Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
 
 
 ## The Command Line
@@ -228,9 +223,15 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+<strong>Mac</strong><br>
+In Spotlight Search (shortcut: `⌘ + Space`), type `Terminal`, then hit `Return`.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+<strong>Windows</strong><br>
+Go to `Start > Run`, then type `cmd` and hit `Enter`.
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*<br>
+*Edited by [Erik Jönsson](http://github.com/erikwithuhk)*
+
 
 #### What is Bash?
 
