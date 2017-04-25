@@ -612,7 +612,7 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between specific time stamp for coding.  Its a way for individuals to stay organized when there are several different versions of a project.  This can be on an individual basis or a collaborative effort.
 
 #### Git
 
@@ -623,6 +623,8 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+Open source indicates that source code must be freely available and anyone can modify and redistribute that code.
 
 #### CMS
 
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -781,6 +783,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+Committing saves the changes to your local repository.  This means when you log into GitHub you will not see the changes you made.  Pushing those changes to GitHub is what allows you to see the changes online at GitHub.
 
 #### What is the difference between a "remote" and your local repo?
 
@@ -906,8 +909,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
