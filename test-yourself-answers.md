@@ -234,7 +234,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 On Linux you can access the command line by pressing `CTRL + ALT + T`. If your build of Linux is Ubuntu or similar, you can also find the Terminal by clicking the Ubuntu icon on the sidebar and searching `Terminal`.
 
-*Contributed by [Ashley Alden](http://github.com/brexile)
+*Contributed by [Ashley Alden](http://github.com/brexile)*
 
 #### What is Bash?
 
