@@ -232,6 +232,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+On Linux you can access the command line by pressing `CTRL + ALT + T`. If your build of Linux is Ubuntu or similar, you can also find the Terminal by clicking the Ubuntu icon on the sidebar and searching `Terminal`.
+
+*Contributed by [Ashley Alden](http://github.com/brexile)
+
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
@@ -614,6 +618,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+Version control is very important for developers as it allows for changes to be made, labelled, timestamped and stored so previous versions of code can be accessed when needs be, as well as it also allowing current code to be identified based on changes and by who changed it.
+
+*Contributed by [Ashley Alden](https://github.com/brexile)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -816,9 +824,10 @@ You can look through a history of commits by clicking on the repository name and
 
 #### What is a "Merge"?
 
-A merge is when you take the changes you've made on one branch, and bring them into another branch to update it with the new changes.
+A merge is when you take the changes you've made on one branch, and bring them into another branch to update it with the new changes. If there are any conflicts, such as those that would occur in group work, the files will be noted and marked inside so you can see where the conflicting parts lie and then you are able to analyse and remove the unneeded code/lines.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Ashley Alden](https://github.com/Brexile)*
 
 
 #### What is a "Pull Request"?
