@@ -224,6 +224,9 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
+For some tasks, using the Command Line (CLI) may dramatically improve your work flow rather than using a GUI.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
@@ -460,6 +463,8 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 "What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
 
+Examples of WYSIWYG are Adobe Dreamweaver, Amaya, Adobe Contribute, Microsoft Expression, NetObjects Fusion, Create for Mac, or KompoZer.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 
@@ -516,6 +521,8 @@ Graphical User Interface. This is the modern interface that is used across a mul
 #### Front End / Back End
 
 "Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
+
+When visiting a website, the content which is displayed by the browser is the content which is handled by the Front End ("client-side"). The Back End ("server-side") handles parts of web apps which cannot be seen by the user. The Front End interacts with the user and the Back End.
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
@@ -654,9 +661,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +913,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
