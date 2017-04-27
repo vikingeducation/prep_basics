@@ -32,6 +32,10 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+The differences between web designers and web developers can be hard to distinguish in modern web development. The best way to describe the difference is that web designers focus on the look and usability of a web application or website, while web developers focus the skeleton or guts of the application to implement the design and usability created by the web designer. Again, however, remember that there is quite a bit of overlap now days. 
+
+*Contributed by [Brian Roberts](https://github.com/jnbroberts)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -54,6 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+The best way to to get help when you are stuck is threefold. First, make sure you actually understand the problem by writing out the specific question you need answered. Then make use of google to search for the answer to your specific problem. If you cannot find a site or place that has answered the same question, then you can go to stack overflow to ask the question with the proper format once you are sure it has not already been answered. 
+
+*Contributed by [Brian Roberts](https://github.com/jnbroberts)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -74,6 +82,10 @@ I think the most important reason why developer-friendly text editors are better
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+It is important to use a developer specific text editor because they are designed for coding and web development. You will be most productive by using the tool designed for the job. Microsoft Word on the other hand is not designed from the ground up for coding. It would be like trying to fit a square peg in a round hole. 
+
+*Contributed by [Brian Roberts](https://github.com/jnbroberts)*
 
 #### What are the top 3 characteristics of great web developers?
 
