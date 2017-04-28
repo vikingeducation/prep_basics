@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -911,3 +911,13 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### What is a "superuser" and how do you execute commands as this user?
+A superuser is that user who has permissions to read, write or execute any application on the system. It must be used with care since its use can cause serious consequences to the system if you are not sure what is being done. To have the privileges of this user you must enter a key after the command "su"
+
+####What is the $PATH variable?
+It is an environment variable on operating systems, that specifying a set of directories where executable programs (binary) are located. This variable $PATH allows me to execute a binary without having to call it by its adsolute route.
+
+####How do you find information about a particular command?
+In the command line, you can find information about a particular command with three commands: [command] --help, man [command] and info [command]. You can find information about any command on internet too.
+
+*Contributed by [Ketty Flores](https://github.com/kiro021)
