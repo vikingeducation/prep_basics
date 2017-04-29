@@ -117,8 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is first broken down into manageably small pieces called data "packets." The packets also contain information like where they are going and where they are coming from, how many packets are being sent, and how to reassemble the packets once they arrive at their destination. It is sort of like mailing a jigsaw puzzle to your friend one piece at a time along with instructions on how to put the puzzle together once it all arrives.
 
+*Contributed by [Daniel Johnson](https://github.com/dtj-human)*
 
 #### What are packets?
 
@@ -234,8 +235,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux." "Bourne Again" is a play on words, as it replaced the previous Bourne shell. It is a command processor which means that the commands you type into a text window are processed into actions on your computer. It provides an interface between the user and the operating system of the computer.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Daniel Johnson](http://github.com/dtj-human)*
 
 #### How can you navigate into a particular file directory?
 
@@ -269,7 +271,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+In Windows, you may need to use: '$ <cmd> --help'
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Daniel Johnson](http://github.com/dtj-human)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +910,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
