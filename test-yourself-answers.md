@@ -60,7 +60,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
-Austin, Texas has a veritable cornucopia of web developers, engineers and aspiring software game-changers all living together in the same woefully inadequate public transportation system. There are weekly meetups all over town, every night of the week, for developers and people wanting to join the developer community. There are dozens of conferences each year, free workshops every weekend, tech startups in every neighborhood, and approximately twelve milllion coding bootcamps. Austin is basically San Francisco circa 1989 minus Dave Eggars. Google it. 
+Austin, Texas has a cornucopia of web developers, engineers and aspiring software game-changers all living together in the same woefully inadequate public transportation system. There are weekly meetups all over town, every night of the week, for developers and people wanting to join the developer community. There are dozens of conferences each year, free workshops every weekend, tech startups in every neighborhood, and approximately twelve milllion coding bootcamps. Austin is basically San Francisco circa 1989 minus Dave Eggars. Google it. 
 
 *Contributed by [Molly Morrow] (http://github.com/molldawg)*
 
