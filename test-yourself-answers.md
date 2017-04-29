@@ -60,12 +60,20 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Austin, Texas has a cornucopia of web developers, engineers and aspiring software game-changers all living together in the same woefully inadequate public transportation system. There are weekly meetups all over town, every night of the week, for developers and people wanting to join the developer community. There are dozens of conferences each year, free workshops every weekend, tech startups in every neighborhood, and approximately twelve milllion coding bootcamps. Austin is basically San Francisco circa 1989 minus Dave Eggars. Google it. 
+
+*Contributed by [Molly Morrow] (http://github.com/molldawg)*
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+I love the Slack rooms for Hack Reactor Prep (a free online community that helps aspiring developers prepare for Hack Reactor Bootcamp) as well as codecademy.com and CodeWars. 
+
+*Contributed by [Molly Morrow](http://github.com/molldawg)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -542,6 +550,11 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+JavaScript - more information: 
+
+Javascript is a programming language that is variously described as 'object-oriented,' 'hideous,' 'infuriating,' and 'the way of the future.' There appears to be some debate about whether or not JavaSript is an object-oriented language at all, with many web developers saying that JavaScript is a multi-paradigm language that can handle many different programming styles including object-oriented ones, but it fails several tests a language would need to pass in order to properly be considered object-oriented. A great resource for learning JavaScript is the book 'Eloquent JavaScript' which is available online for free at this website: http://eloquentjavascript.net/
+
+*Contributed by [Molly Morrow] (https://github.com/molldawg)*
 
 #### AJAX
 
