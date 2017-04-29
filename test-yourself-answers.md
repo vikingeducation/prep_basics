@@ -117,7 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It chopped up into little bits of data called packets, and is sent at random over multiple paths.
+This is more effective then sending one large lump of data over the same path at the same time.
+*Contributed by [Zach Sapp](http://github.com/ZachS26)*
 
 
 #### What are packets?
@@ -182,12 +184,9 @@ etc.
 
 #### What is CSS and how is it used?
 
-Cascading Stylesheets, a language that describes the look and style of the elements
-defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
-and other design aspects of a page. In short, it makes the raw information look pretty,
-and it makes the front end simpler by separating presentation from content.
+Cascading Stylesheets is a language that can be read by browsers like HTML and JavaScript. It is used to style already structured HTML elements. It uses selectors to grab a HTML element or elements and declarations to specify what kind of styling to do. It has cascading in its name because styled Html elements will pass on their styles to siblings so the styles cascade down the page. It is a easy powerful styling language.  
 
-*Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Zach Sapp](http://github.com/ZachS26)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -270,6 +269,12 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+#### How do you end a process that is running on the command line?
+'q'   If that doesnt work then  
+'CTRL+c' should do it.
+*Contributed by [Zach Sapp](http://github.com/ZachS26)*
+
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
