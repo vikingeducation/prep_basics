@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -78,9 +78,14 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer.
+Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+[Curiosity, passion, and laziness.](https://www.vikingcodeschool.com/dashboard#/web-development-basics/review-of-concepts)
+
+*Contributed by [psychopamplemousse](https://github.com/psychopamplemousse)*
 
 
 #### What do companies look for in a junior web developer?
@@ -91,7 +96,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -143,7 +148,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer program (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -540,7 +545,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of node.js.
 
 
 #### AJAX
@@ -559,7 +564,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -592,7 +597,7 @@ Most gems are open source, and used in most applications. The majority of gems p
 
 A framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
 
-A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
+A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  *i.e.* date format, size, shapes of particular web elements.
 
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
@@ -638,7 +643,7 @@ A database is a collection of information that is organized so that it can easil
 
 #### SQL
 
-Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
+Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database system in 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
@@ -654,20 +659,20 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
 
-In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
+In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifestation is <!DOCTYPE html>
 
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -681,6 +686,7 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 As we might recall, back-end programming means coding on the server side. Since not all servers run the same programming languages we need to make sure we install in our computer the same language. When we install Ruby we are actually installing the Ruby interpreter which allows us to "run" our code locally so we can make sure that our Ruby programs will be executed correctly by our server.
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
 
 #### Why didn't you need to install HTML, CSS and Javascript?
 
@@ -717,7 +723,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -784,7 +790,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the environment where we can make local changes and is typically the one on our computer.
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
@@ -906,8 +912,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
