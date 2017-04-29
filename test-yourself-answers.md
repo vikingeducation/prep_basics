@@ -228,9 +228,11 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Windows: Type `cmd` under Start > Run
+OSX `Command + Space`, type `terminal`, then hit `Enter`
+Linux: `Ctrl + Alt + T`
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Matt Weber](http://github.com/weber93)*
 
 #### What is Bash?
 
@@ -255,11 +257,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
+This will not work if the new name is already an existing directory. Instead, it will move the old directory inside the new one.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Matt Weber](http://github.com/weber93)*
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Permissions are important for creating a secure environment and prevent unwanted reading, writing, and executing of files.
+*Contributed by [Matt Weber](http://github.com/weber93)*
 
 #### How do you view hidden files in a directory?
 
@@ -454,7 +460,6 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 
 ### Design
-
 
 #### WYSIWYG
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
