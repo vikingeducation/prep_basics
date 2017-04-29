@@ -229,7 +229,7 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 #### How do you open it on your computer?
 
 Windows: Type `cmd` under Start > Run
-OSX `Command + Space`, type `terminal`, then hit `Enter`
+OSX: `Command + Space`, type `terminal`, then hit `Enter`
 Linux: `Ctrl + Alt + T`
 
 *Contributed by [Matt Weber](http://github.com/weber93)*
