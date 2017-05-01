@@ -557,7 +557,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Psuedo-Code is a detailed yet readable description of what a computer program or algorithm must do, expressed in the regular/spoken language and not in a programming language.
+Psuedo-Code is a detailed yet readable description of what a computer program or algorithm must do, expressed in a regular/spoken language and not in a programming language.
 
 *Contributed by [Gabriel DeFazio](https://github.com/gabrieldefazio)*
 
