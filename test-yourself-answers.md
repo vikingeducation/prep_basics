@@ -517,6 +517,9 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 "Front End" refers to browser, and languages like HTML, CSS and JavaScript that work within the browser. "Back End" refers to the server that hosts the web application, and frameworks like Rails that operate on those servers.
 
+In software engineering and web development, we use the terms, "front end" and "back end" to designate the separation of concerns between the presentation layer (front end), and the data access layer (back end) of a piece of software or web code. In the client–server model, the client is usually considered the front end and the server is usually considered the back end, even when some presentation work is actually done on the server.
+
+*Contributed by [Gabriel DeFazio](https://github.com/gabrieldefazio)*
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
 ### Developer Tools and Code
@@ -554,7 +557,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Psuedo-Code is a detailed yet readable description of what a computer program or algorithm must do, expressed in a regular/spoken language and not in a programming language.
+
+*Contributed by [Gabriel DeFazio](https://github.com/gabrieldefazio)*
 
 
 #### C
@@ -616,7 +621,10 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### Git
 
-One of the most popular open-source version control systems.
+Not to be mistaken with the british slang for a jerk, Git describes itself as "the most widely used modern version control system". This evolved and up-to-date open source project was originally developed in 2005 by Linus Torvalds, the famous creator of the Linux operating system kernel. Git is important for allowing every developer's working copy of a code to also act as a repository which contains the full history of all changes of that code.
+
+*Contributed by [Gabriel DeFazio](https://github.com/gabrieldefazio)*
+
 
 #### Open Source
 
