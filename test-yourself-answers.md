@@ -98,6 +98,10 @@ It's best to provide any infromation which can give relevant answers to the toug
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
+#### What are the characteristics of a good portfolio project?  -- *Contributed by [Sean Dezoysa](https://github.com/CMmz)*
+
+
+
 #### What is the hiring process like for a developer?
 
 To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
@@ -556,6 +560,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+The code you want to write in plain English. It helps you clarify the actual code to be written. -- *Contributed by [Sean Dezoysa](https://github.com/CMmz)*
 
 #### C
 
@@ -763,6 +768,9 @@ By typing a git command, "git commit -m "Your message". It will move the files f
 The other way is typing a git commit -am "Your message", which will both stage and commit changes.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+
+A quick way is to use git commit -am "messageHere" as this skips staging (note: not always a good thing)  -- *Contributed by [Sean Dezoysa](https://github.com/CMmz)*
+
 
 #### What is the difference between staging and committing changes?
 
