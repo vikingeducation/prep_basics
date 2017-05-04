@@ -621,7 +621,7 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### Git
 
-One of the most popular open-source version control systems used for content management and as a tracking systems of files which can be worked on by a group of people.
+One of the most popular open-source version control systems used for content management and as a tracking systems for files which can be worked on by a group of people.
 
 *Contributed by [David San](https://github.com/sannrs)*
 
