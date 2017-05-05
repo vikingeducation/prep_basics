@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets and sent through random different ways to get to their destination thanks to routers.
 
 
 #### What are packets?
@@ -174,9 +174,9 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+Hypertext markup language, a language of tags used to define the structure and content of Web pages, such as headings, lists, paragraphs, line breaks, images, etc.
+It defines how the content of a page is structured.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -240,6 +240,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
+if the directory is exactly in the same directory you are, otherwise you will have to specify the path.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
