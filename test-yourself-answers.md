@@ -58,7 +58,9 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+In Greater Los Angeles area, Orange County Android Developers is a good community group for those interested in mobile app and program development. 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Dale Boyd] (http://github.com/drbjax)*
 
 #### What online developer communities can you join?
 
@@ -80,8 +82,9 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+Fearless intellectual curiosity - sometimes when you want to learn to swim, you just have to dive in the deep end and start paddling.
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-
+*Contributed by [Dale Boyd] (http://github.com/drbjax)*
 
 #### What do companies look for in a junior web developer?
 
@@ -235,7 +238,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+A god-send for Windows users who don't want to buy a Mac and would rather not have to load Linux on their PC. Then again, Macs are looking better and better...
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Dale Boyd] (http://github.com/drbjax)*
 
 #### How can you navigate into a particular file directory?
 
