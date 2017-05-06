@@ -177,7 +177,10 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+HTML documents are the basis of the World Wide Web and are displayed by web browsers.
+HTML is continuously developed further by W3C and WHATWG.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Florian Steger](http://github.com/FlorianSteger)*
 
 
 #### What is CSS and how is it used?
@@ -339,13 +342,16 @@ Define the following:
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
+A URL identifies and localizes a resource, e.g. a webpage by the used access method and the location of the resource.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Florian Steger](http://github.com/FlorianSteger)*
 
 
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
+It is a unique and distinct location on the World Wide Web below a top-level-domain.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
-
+*Contributed by [Florian Steger](http://github.com/FlorianSteger)*
 
 #### IP Address
 
@@ -654,9 +660,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +912,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
