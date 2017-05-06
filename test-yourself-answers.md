@@ -32,6 +32,11 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+Web designers work on the front-end, the 'presentation' layer. This often involves the general design and layout of the website. A more experienced web designer isn't afraid to dig into code and create fancy effects.
+
+A backend developer works with what most users will never see or care about. This ranges from database management to successfully submitting form data. 
+
+**Contributed by [Brandon Parker](http://github.com/thrashmaniac890)*
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
