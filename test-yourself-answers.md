@@ -386,7 +386,7 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
-POP operates through port 110 and is typically used by local email clients for retrieving emails from a server. Encrypted POP communication occurs via SSL on port 995. IMAP is also used for retrieving emails from a server, but unlike POP, IMAP does not automatically delete the email from the mail server after it is downloaded to the local mail client, allowing for the synchronization of emails between multiple devices. IMAP communicates via SSL on port 143, while an encrypted version utilizes port 993. SMTP, which traditionally utilizes port 25, is used for transferring emails between email servers. 
+POP operates through port 110 and is typically used by local email clients for retrieving emails from a server. Encrypted POP communication occurs via SSL on port 995. IMAP is also used for retrieving emails from a server, but unlike POP, IMAP does not automatically delete the email from the mail server after it is downloaded to the local mail client, allowing for the synchronization of emails among multiple devices. IMAP communicates on port 143, while an encrypted version utilizes port 993. SMTP, which traditionally utilizes port 25, is used for transferring emails between email servers. 
 
 *Contributed by [Ryan Tubbs](https://github.com/RyanTubbs)* 
 
