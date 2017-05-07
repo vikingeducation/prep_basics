@@ -386,6 +386,10 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+POP operates through port 110 and is typically used by local email clients for retrieving emails from a server. Encrypted POP communication occurs via SSL on port 995. IMAP is also used for retrieving emails from a server, but unlike POP, IMAP does not automatically delete the email from the mail server after it is downloaded to the local mail client, allowing for the synchronization of emails among multiple devices. IMAP communicates on port 143, while an encrypted version utilizes port 993. SMTP, which traditionally utilizes port 25, is used for transferring emails between email servers. 
+
+*Contributed by [Ryan Tubbs](https://github.com/RyanTubbs)* 
+
 
 #### API
 
@@ -622,7 +626,10 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+In contrast to closed-source, proprietary software that is produced in secret and sold for a profit, the code for open-source software is freely available to the public and can be modified by end users to suit their own needs. Open-source software is often developed collaboratively by individual developers around the world working towards a common goal.    
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Ryan Tubbs](https://github.com/RyanTubbs)* 
 
 #### CMS
 
@@ -725,7 +732,10 @@ Git is the most popular distributed version control system used for software dev
 
 **V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
 
+Other Version Control Systems exist, such as Mercurial, Subversion, and Bazaar, but Git has emerged as the predominant VCS, likely due to the flexible and open collaboration available through GitHub. 
+
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+*Contributed by [Ryan Tubbs](https://github.com/RyanTubbs)* 
 
 
 #### Why is Git useful for a developer?
