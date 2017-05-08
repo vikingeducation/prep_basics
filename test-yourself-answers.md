@@ -341,6 +341,7 @@ Define the following:
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+A web address that's representative of a human friendly version of an IP address. These URL's can be dissected into these components: protocol, domain name, and path. This information relates to where a file is located and how to interact with the file.
 
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
@@ -356,6 +357,8 @@ IP addresses are the absolute address of a website. Four number ranging from 0 t
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+A unique identifer for each computer using the Internet Protocol to communicate over a network. Historically, these numbers were assigned manually. Contemporary IP assignment relies upon a dynamic system in which the IP addresses are assigned based on previous IP address assignments to avoid convflict.
 
 
 #### DNS
@@ -555,6 +558,8 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+A high level description of what the programmer is trying to code with the following characteristics: The structure of Pseudo-Code has similar conventions to that of actual code with basic logic structure (for loops, while loops, if statements) but also can include sentences and words to describe certain processes. Furthermore, there is an omission of lower level programming practices (object declaration, memory allocation). Lastly, although these are guidelines for Pseudo-Code, there technically are no defined rules, so have fun with it and for once in your life, don't worry about syntax. 
 
 
 #### C
