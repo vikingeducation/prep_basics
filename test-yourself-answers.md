@@ -60,6 +60,10 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+There are more communities in my area than I could possibly define. I live in one of the most proflific tech communities in the world, Portland Oregon. I attend community meetings as often as I can. Particularly RailsBridgePDX and PDXWeb & Design.
+
+*Contributed by [Joel Smith](http://github.com/smithjoelt)*
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
@@ -158,9 +162,13 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site. 
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+
+An HTTP request has three main components: The HTTP Request Method(GET, HEAD, POST, PUT, DELETE, TRACE, OPTIONS, CONNECT, PATCH), URI(Universal Resource Identifier) and Protocol Version(HTTP 1.1, 1.2, etc); The HTTP Request Headers; The Request Body. The content of the request tells the server what version of the protocol to use, what kind of request the client is making, and the content of the request (the actual request being made, GET (what?), POST (what?))
+
+*Contributed by [Joel Smith](http://github.com/smithjoelt)*
 
 
 #### What are DNS servers?
@@ -231,6 +239,12 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+To open the command line in linux, use the magic key given to you by the Dwarvs of the Seven Stones, by inserting it into the...
+
+Just kidding. Just pull up the application manager and it should be under accessories.
+
+*Contributed by [Joel Smith](http://github.com/smithjoelt)
 
 #### What is Bash?
 
