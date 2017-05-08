@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application. Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsibile for both the front-end and back-end of the application. Even Full-stack developers tend to specialize in back or front-end , though. 
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -393,6 +393,8 @@ API stands for Application Programming Interface, which is a set of programming 
 
 For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
 
+One of the videos presented APIs as a type of side door into an application, as opposed to the traditional front door of the application which is utilized by users.
+
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
 
@@ -559,7 +561,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language. 
 
 
 #### Ruby
