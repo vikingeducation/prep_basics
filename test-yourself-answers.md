@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Data is divided into segments and given a header with information on how to reassemble the segments They are then sent to the to the network layer where segments are loaded into packets and given another header containing networking information. These packets are loaded once more into frames on the data link layer, with yet another header and are then sent in the form of bits to its destination.
 
 
 #### What are packets?
