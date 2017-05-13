@@ -117,7 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is broken down using a set of rules or protocols such as http (hypertext transfer protocol). The packets contains IP addresses of their destinations. Routers read the IP address destinations and direct the packets to where they need to go.
+
+*Contributed by [Phuong Tran](https://github.com/ptran0089)*
 
 
 #### What are packets?
@@ -335,6 +337,9 @@ Define the following:
 
 ### The Web
 
+The web is a collection of all the websites that are hosted on servers.
+
+*Contributed by [Phuong Tran](https://github.com/ptran0089)*
 
 #### URL( Uniform Resource Locator)
 
@@ -455,6 +460,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+The proces of planning and implementing an aesthetically pleasing product that appeals to the masses.
+
+*Contributed by [Phuong Tran](https://github.com/ptran0089)*
 
 #### WYSIWYG
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
