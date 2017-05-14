@@ -60,6 +60,9 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Here in Los Angeles, there are so many developers it's easy to find a community. The fastest way is likely through meetup.com because there are groups specific to programming languages and regions (to help avoid the nasty LA traffic).
+*Contributed by [Melissa Manousos](https://github.com/mmanousos)*
+
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
@@ -119,6 +122,8 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+The data is broken into small chunks called "packets" that are able to be sent quickly through various protocols from the server to the client.
+*Contributed by [Melissa Manousos](https://github.com/mmanousos)
 
 #### What are packets?
 
@@ -335,6 +340,8 @@ Define the following:
 
 ### The Web
 
+For most people, "the web" is interchangeable with "the internet". In reality, the web (or "world wide web") is the information transfer protocol built on top of the interconnected series of computers that make up the internet. The web specifically uses HTTP but that is only one protocol which can be used to communicate over the internet.
+*Contributed by [Melissa Manousos](https://github.com/mmanousos)
 
 #### URL( Uniform Resource Locator)
 
@@ -654,9 +661,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +913,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
