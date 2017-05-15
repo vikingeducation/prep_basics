@@ -279,6 +279,12 @@ The "Superuser" is a user of a computer system with special privileges needed to
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
+The "Supersuser" has special privileges that, if employed recklessly or without much knowledge, have the potential to create a lot of damage, like deleting essential system files;
+potentially damaging or losing the computer system. To execute commands as the "Superuser" one can use SUDO. With great privileges come great responsibilities,
+therefore the "SUDO" prefix should be used sparingly and sensibly.
+
+*Contributed by [Rodolphe Geant](http://github.com/rodolphe85)*
+
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
@@ -326,8 +332,11 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+An Alias is a command that enables the replacement of a command by another string. It is mainly used for abbreviating a system comand or adding default arguments to an often used command.
+For instance, I could decide to alias the "ls -rtla" command to "ls" in order to save me some typing time since I use it all the time!
 
 
+*Contributed by [Rodolphe Geant](http://github.com/rodolphe85)*
 
 ## Terms to Know
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -714,6 +723,11 @@ An integrated development environment (IDE) created by Apple for developing OS X
 Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+
+Git is a versioning system that has been invented by a genius called Linus Torvalds, the creator of LINUX. This is a set of commands that enable the user to take snapshots of a file tree or folder
+and to revert back to old snapshots if necessary. It is a bit like a time machine for computer files.
+
+*Contributed by [Rodolphe Geant](http://github.com/rodolphe85)*
 
 #### What does SCM stand for?
 
@@ -906,7 +920,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
