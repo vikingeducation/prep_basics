@@ -554,7 +554,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Pseudo-code is the short-hand a developer uses to get an idea of the full scope of their project prior to writing in code.  It is a combination of human-language and code that allows the writer to think of their process before they get into the details of specific coding.
+
+*Contributed by [Tanner B. Hess Webber](https://github.com/tbhesswebber)
 
 
 #### C
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -796,6 +798,10 @@ git remote add origin URL
 URL is copied from my repo in my GitHub account
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
+You can use either the SSH or HTTPS URL's from GitHub to set your remote, however using the HTTPS requires a password for any pushes to the GitHub repository.
+
+*Contributed by [Tanner B. Hess Webber](https://github.com/tbhesswebber)*
+
 #### How do you check the status of your current repo in git?
 
 git status
@@ -857,6 +863,10 @@ Using a new branch allows the developer to make experimental changes to their pr
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+Using a branch allows a developer to have two functioning versions of their code.  This is useful for: maintaining an operational code base that continues its own version control separate from that of a new, experimental feature or future update in order to enable debugging and maintenance of the currently functioning code.  This is also useful for multiple users who are working on different aspects of a project simultaneously and will aggregate their work after the fact (similar to using a GitHub repository to collaborate
+
+  *Contributed by [Tanner B. Hess Webber](https://github.com/tbhesswebber)*
+
 
 #### How do you create a new branch?
 
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
