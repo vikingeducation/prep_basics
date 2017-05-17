@@ -50,6 +50,8 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
+The best way to get unstuck is to use Google. I say this because even prior to taking this prep course, I was using Google to find answers to everything from how to center a div to looking up error codes. It also provides a way to find other resources to getting answers to your questions like Stack Overflow. A method that wasn't mentioned, that I've actually found useful is networking with other developers on Twitter. I couldn't get a project to load on Heroku, and I couldn't understand the error message so I took to Twitter to ask all the great developers I have in my network.
+
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
@@ -58,6 +60,7 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+*Contributed by [Rita Bradley](http://github.com/ritabradley*)
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
@@ -69,10 +72,13 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
+I think one of the biggest advantage of using a developer-friendly editor is syntax highlighting. It makes it easier to see when mistakes are made, and makes code easier to read. More importantly, Word is made for rich-text documents where as editors like Atom and Sublime are made for plain text. Trying to code in word will be problematic as it'll add formatting to your code which is not necessary and will cause code to not work.
+
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
+*Contributed by [Rita Bradley](http://github.com/ritabradley*)
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What are the top 3 characteristics of great web developers?
@@ -554,6 +560,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
+I like to think of pseudo code as drafting an outline for an essay. The whole purpose of it is to get the ideas out on paper before sitting down to type up your masterpiece. It allows you to think about the how a program needs to run and the order in which certain things should be executed. I noticed that I take notes now almost like I'm coding which indents and comment slashes. It's pretty useful stuff.
+*Contributed by [Rita Bradley](http://github.com/ritabradley*)
+
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
