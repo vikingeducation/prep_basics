@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -30,7 +30,11 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web Developers create a fully functional website or web application for user/client interaction (UI),
+        and
+Web Designers take charge of making the website or app look better by skillful use of colors and artistic presentation for User experience (UX).
+
+*Contributed by [Shola] (https://github.com/HokageSholz)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
