@@ -119,6 +119,13 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+It is broken down into packets and sent through random different ways to get to their destination.
+
+Information is divided into manageable chunks called packets. This is necessary in order for traffic to move smoothly. The packets go through each layer of the protocol stack, starting at the Application Layer, then on to Transmission layer, the Internet layer, and finally ending at the Hardware layer. When packets arrive at the destination computer, they go through the layer again but starting at the Hardware layer and ending at the Application layer.
+
+The two most important protocols in the Internet layer are TCP and IP, and thus usually are referred together as TCP/IP. TCP handles the "handshaking", establishing a connection for information to be exchanged. TCP also detects errors and ensures that packets arrive at their destination and in the right order before the data is received by the application such as E-mail or HTTP. The IP protocol has the responsibility of addressing packets with source and destination information, as well as sending and routing packets from one computer to another.
+
+*Contributed by [Ro Langam](https://github.com/azureowl)*
 
 #### What are packets?
 
@@ -179,6 +186,10 @@ content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+
+HTML (HyperText Markup Language) is a standard markup language of the web that primarily builds out the structure of and provides semantics to web pages and applications.
+
+*Contributed by [Ro Langam](https://github.com/azureowl)*
 
 #### What is CSS and how is it used?
 
@@ -402,6 +413,8 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+A program that stores web pages and serves them to client computers by processing requests via HTTP (Hypertext Transfer Protocol).
+*Contributed by [Ro Langam](https://github.com/azureowl)*
 
 #### Bugs
 
@@ -654,9 +667,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
