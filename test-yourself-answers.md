@@ -680,7 +680,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -730,13 +730,13 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**Source Code Management** is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
 #### What is a VCS?
 
-**V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
+**Version Control Systems** (like Git) provide monitored and regulated access to a software repository.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
