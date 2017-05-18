@@ -119,8 +119,6 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
-It is broken down into packets and sent through random different ways to get to their destination.
-
 Information is divided into manageable chunks called packets. This is necessary in order for traffic to move smoothly. The packets go through each layer of the protocol stack, starting at the Application Layer, then on to Transmission layer, the Internet layer, and finally ending at the Hardware layer. When packets arrive at the destination computer, they go through the layer again but starting at the Hardware layer and ending at the Application layer.
 
 The two most important protocols in the Internet layer are TCP and IP, and thus usually are referred together as TCP/IP. TCP handles the "handshaking", establishing a connection for information to be exchanged. TCP also detects errors and ensures that packets arrive at their destination and in the right order before the data is received by the application such as E-mail or HTTP. The IP protocol has the responsibility of addressing packets with source and destination information, as well as sending and routing packets from one computer to another.
