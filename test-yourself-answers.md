@@ -54,6 +54,9 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Googling in awesome and I always try it first. Another thing I find useful is to talk out loud about your code and issues you are facing (preferably when alone!) aka rubber duck debugging.
+*Contributed by [Iva Erceg](http://github.com/IvaErceg)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -216,6 +219,8 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+Domain name is mapped to IP adress through DNS. Our browser sends HTTP request to the server and if all goes well and it gets response google page is rendered.
+*Contributed by [Iva Erceg](https://github.com/IvaErceg)*
 
 
 
@@ -315,6 +320,9 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+You might need to add path to .exe you want to be executable in cl by using just a name of the program, so you can say for instance java -v or brackets in your cl and it will find appropriate program file
+*Contributed by [Iva Erceg](https://github.com/IvaErceg)*
 
 #### What are alias commands?
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +914,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
