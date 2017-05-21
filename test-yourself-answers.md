@@ -624,6 +624,12 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Open Source is code or programs made available to the public for free, and can thus be shared, edited, and improved (ideally) through the collaboration of unlimited users around the world.
+This is in contrast to proprietary information/code that belongs to a company and is sold or used for profit.
+
+Contributed by April Cound
+https://github.com/savvysqrrl3
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
