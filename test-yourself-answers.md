@@ -624,6 +624,12 @@ Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
+Open Source is code or programs made available to the public for free, and can thus be shared, edited, and improved (ideally) through the collaboration of unlimited users around the world.
+This is in contrast to proprietary information/code that belongs to a company and is sold or used for profit.
+
+Contributed by April Cound
+https://github.com/savvysqrrl3
+
 #### CMS
 
 CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
@@ -635,6 +641,12 @@ CMS stands for Content Management System, which is an application used to manage
 A database is a collection of information that is organized so that it can easily be accessed, managed, and updated. They cornerstone of every web application. This is where everything your users do is saved. Like a giant collection of giant spreadsheets that moves really fast.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
+
+A database is a collection of indexed digital information organized into schemas, tables, columns, and rows, like a spreadsheet on a massive scale.
+Databases are built and maintained using a database programming language, the most common of which is SQL, in some form or another.
+
+Contributed by April Cound
+https://github.com/savvysqrrl3
 
 #### SQL
 
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -672,6 +684,10 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
 
+Scripts or scripting languages within a file can execute commands without needing to be compiled like a complete program. Scripts are open source, and can therefore be viewed and edited. Python and Javascript are two scripting languages.
+
+Contributed by April Cound
+https://github.com/savvysqrrl3
 
 ## Installations
 
@@ -906,8 +922,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
