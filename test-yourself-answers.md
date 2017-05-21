@@ -636,6 +636,12 @@ A database is a collection of information that is organized so that it can easil
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
+A database is a collection of indexed digital information organized into schemas, tables, columns, and rows, like a spreadsheet on a massive scale.
+Databases are built and maintained using a database programming language, the most common of which is SQL, in some form or another.
+
+Contributed by April Cound
+https://github.com/savvysqrrl3
+
 #### SQL
 
 Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
