@@ -39,7 +39,7 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
-*Contributed by [Ed Triplett](http://github.com/EdTriplett)*
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -82,7 +82,7 @@ Curiosity/creativity - The passion for creating/building and the hunger for lear
 Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-*Contributed by [Ed Triplett](http://github.com/EdTriplett)*
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 
 #### What do companies look for in a junior web developer?
@@ -98,7 +98,7 @@ It's best to provide any information which can give relevant answers to the toug
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-*Contributed by [Ed Triplett](http://github.com/EdTriplett)*
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### What is the hiring process like for a developer?
 
@@ -156,7 +156,7 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-*Contributed by [Ed Triplett](http://github.com/EdTriplett)*
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -355,7 +355,7 @@ The part of the URL which specifies the location of the web server who is going 
 IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everyday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
-*Contributed by [Ed Triplett](http://github.com/EdTriplett)*
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
 
@@ -411,11 +411,11 @@ A program usually running on a remote computer that responds to requests from a 
 
 An error or defect in software or hardware that causes a program to malfunction.  Typically coding issue, but has extended to other fields.
 
-For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
+For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Halliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
-
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### The Cloud
 
