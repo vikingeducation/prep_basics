@@ -667,9 +667,10 @@ Example:
   <Item>Chocolate</Item>
 </List>
 
-In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
+In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifestation is <!DOCTYPE html>
 
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### Script
 
