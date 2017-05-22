@@ -879,30 +879,27 @@ Branching allows for different features to be developed without modifying the ma
 
 #### How do you create a new branch?
 
-In your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
+git checkout -b <name of new branch>
 
-You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
-
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Sarah Schlueter](https://github.com/sarahmarie73)*
 
 
 #### How do you merge branches back together?
 
-In order to merge branches back together you should merge the master branch into your-branch
+Branches are merged back together by checking out the destination branch (i.e. master) and merging from the other branch with the changes on it.  For example:
 
-$git checkout your-branch
-$git merge master
+We're on branch 'experiments' and want to merge changes to branch 'master'.
 
-Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
+git checkout master
+git merge experiments
 
-$git checkout master
-$git merge your-branch
-
-You'll see output indicating any changes that were made
+*Contributed by [Sarah Schlueter](https://github.com/sarahmarie73)*
 
 #### What is a "Merge Conflict" and when will it occur?
 
-A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed.
+A merge conflict happens when two branches both make changes to the same file and are subsequently merged.  Git doesn't know which version to keep so someone would need to go in and correct it.
+
+*Contributed by [Sarah Schlueter](https://github.com/sarahmarie73)*
 
 #### How do you resolve a "Merge Conflict"?
 
