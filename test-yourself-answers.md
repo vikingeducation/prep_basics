@@ -144,7 +144,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer program (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -155,6 +155,7 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Ed Triplett](http://github.com/EdTriplett)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -314,7 +315,7 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 #### Why might you need to add onto your `$PATH` variable?
 
-You might need to add onto your $PATH variable so an application can be found and run in the command line.
+You might need to add onto your $PATH variable so an application can be found and run in the command line.  
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
