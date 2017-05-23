@@ -536,7 +536,11 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
+CSS usually exists on a separate page and contains stylization elements such as font size, color, borders, and margins. Css is useful for making websites look pretty.
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [Gregory Alford](https://github.com/coelacanth7)*
+
 
 #### Javascript
 
@@ -601,8 +605,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice. It is an open-source software that helps developers save time by containing frameworks of code that has already been written by other developers to implement into new websites.
 
+*Contributed by [Gregory Alford](https://github.com/coelacanth7)*
 
 #### Command Line
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -872,10 +877,10 @@ git checkout -b branch_name
 
 #### Why would you use a branch?
 
-Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
+Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired. This is beneficial to keep the main document clean and bug free while testing new features and fixing bugs.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-
+*Contributed by [Gregory Alford](https://github.com/coelacanth7)*
 
 #### How do you create a new branch?
 
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
