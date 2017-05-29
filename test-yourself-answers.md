@@ -75,6 +75,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+I think the best reasons would be that they can really cut down on extra work. With features like smart code completion, and auto formatting. They also allow you to see the full project hierarchy, without having to keep Finder/Explorer open.
+
+*Contributed by [Brennan Holmich](https://github.com/brennanholm)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -197,6 +201,8 @@ Developer Tools will show you the actual HTML and CSS that generated content on 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+
+
 
 
 
@@ -654,9 +660,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +912,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
