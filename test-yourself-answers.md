@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,20 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+### What do I do if I forget the Git command I need?
 
+Check out the Getting to Know Git page in the Web Basics part of the free Viking Code School prep work.
+
+### I'm getting some crazy error when I try to run something in command line! What do I do?
+
+Google it! This is part of being a developer. Everything won't be spelled out perfectly in the prep work. This gives you the opportunity to experience what it's like to troubleshoot a problem in your job as a web developer. Great practice!
+
+### Why are there videos from the Odin Project on Viking Code School?
+
+The Odin Project is a free program from the founder of Viking Code School.
+
+*Contributed by [Jeff Bernstein](https://github.com/jeffbernst)
