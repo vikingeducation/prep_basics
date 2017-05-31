@@ -910,4 +910,23 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### What is Responsive Design?  
+
+responsive web design (RWD) is an approach to web design that lets your website compatible, as well as look good on different devices (monitors, ipads, iphones, etc).  With responsive design the shape of the web page responds to the contours of the medium of which it is viewed on.
+
+*Contributed by [Eric Ober] (https://github.com/EricOber)*
+
+#### What is CMS?
+
+CMS or "Content Management System, is an application used to manage the content displayed on a web page.  It can regulate information a user sees or interacts with.  It allows less technical individuals to make more complicated looking web pages. WordPress would be one example of a CMS  
+
+*Contributed by [Eric Ober] (https://github.com/EricOber)*  
+
+#### What is VIM?  
+
+Quite simply VIM is a text editor, although it specializes in efficiency because it only allows you to use the keyboard and hotkeys to tell the computer what you want.  The ability for a programmer to customize VIM to their specific needs/patterns can be crucial in saving time on a coding project.
+
+*Contributed by [Eric Ober] (https://github.com/EricOber)*
+
+
 
