@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -828,10 +828,23 @@ A pull request is when you contribute to someones else's project, and you let th
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
+#### What is a "Pull Request"?
+
+A pull request is a combination of a fetch and a merge.
+
+*Contributed by [Michael Lin](https://github.com/mmichaellin)*
+
+
 #### What is "Forking" a repo?
 
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+
+#### What is "Forking" a repo?
+
+By "forking" a repository, you are making a copy of it on Github in your account so that you have edit permissions.
+*Contributed by [Michael Lin](https://github.com/mmichaellin)*
 
 
 #### What is "Cloning" a repo?
@@ -839,6 +852,13 @@ Making a copy of another master repo into your own github account so as to not d
 Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+
+
+#### What is "Cloning" a repo?
+
+Cloning a repository basically saves an offline copy of the online repository to easier access.
+
+*Contributed by [Michael Lin](https://github.com/mmichaellin)*
 
 
 #### What is "Branching"?
@@ -906,8 +926,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
