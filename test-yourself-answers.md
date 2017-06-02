@@ -718,7 +718,11 @@ Git is the most popular distributed version control system used for software dev
 #### What does SCM stand for?
 
 **S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+
+**S**oftware **S**onfiguration **M**anagement. But for most of us that effectively means **S**ource **C**ode **M**anagement.
+
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+*Contributed by [Ezequiel Farioli](https://github.com/efarioli)*
 
 
 #### What is a VCS?
@@ -739,7 +743,11 @@ Git version control system is useful for a developer because it allows the devel
 
 Using Git allows a team of developers to independently work alongside one another, while having the ability to seamlessly implement those changes to the main project. It also helps situations where independent developers work may contradict each other, by showing changes and allowing the developers to choose which ones they would like to keep.
 
+Collaboration made simple. A programmer uploads code to Git, where other developers can access it and edit it, isolated from each other and with all versions kept intact. Git takes away any confusion with having multiple people work on the same file at the same time.
+
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Ezequiel Farioli](https://github.com/efarioli)*
+
 
 
 
@@ -910,4 +918,8 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### Git - What is a tag?
 
+Like most VCSs, Git has the ability to tag specific points in history as being important. Typically people use this functionality to mark release points (v1.0, and so on). In this section, you’ll learn how to list the available tags, how to create new tags, and what the different types of tags are.
+
+*Contributed by [Ezequiel Farioli](https://github.com/efarioli)*
