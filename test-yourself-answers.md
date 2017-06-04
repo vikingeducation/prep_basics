@@ -804,6 +804,14 @@ URL is copied from my repo in my GitHub account
 git status
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+#### How do you check the status of the remote repos connected to your project?
+
+You can import all of the commits from a remote, or you can specify a branch to import. Fetching stores the commits in remote branches that are separate from your code and allows for easy review and merging of other contributors' work.
+```
+$ git fetch [remote name]
+$ git fetch [remote name] [branch name]
+```
+
 #### How do you see the history of your previous commits (from the command line)?
 
 git log
