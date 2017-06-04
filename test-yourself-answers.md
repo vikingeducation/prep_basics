@@ -401,9 +401,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is a computer that runs software that responds to requests passed to it using a web protocol over a network interface. Though historically the term referred to the machine itself, it is now common to use it to describe the software as well. Web servers are used to host websites and web applications on the internet, but they are also commonly incorporated into electronic devices like printers or routers. These web servers are used as configuration or informational interfaces and are generally only accessible via the local network.
 
-*Contributed by [Unknown]*
+*Contributed by [Will Timpson](https://github.com/thebopshoobop)*
 
 
 #### Bugs
