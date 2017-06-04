@@ -531,12 +531,20 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
+HTML is not a programming language like python, java etc., but a markup language used by the web browser, in order to add structure to elements on a web page, using tags such as <h1>Main Header</h1>. Without using HTML, everything would be displayed as one big block of text!
+
+*Contributed by [Jason Williams](https://github.com/codeadventure12)*
+
 
 #### CSS
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+
+CSS can be implemented in three different ways to make a website have style (pretty). The most common way is to link a separate CCS file to your HTML file, which will separate the "styling" from the "structuring". This method makes it much easier to update websites with multiple pages.
+
+*Contributed by [Jason Williams](https://github.com/codeadventure12)*
 
 #### Javascript
 
@@ -610,6 +618,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+Probably the most feared program of any OS, because it's text-based, therefore lacks a graphical user interface (GUI), so knowledge of bash commands is necessary is do anything useful, such as changing directories etc. Developers and programmers must have a good grasp of the Command Line.
+
+*Contributed by [Jason Williams](https://github.com/codeadventure12)*
+
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
