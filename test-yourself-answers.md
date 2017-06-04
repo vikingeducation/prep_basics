@@ -117,7 +117,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-The internet is a *packet switched* network. When you upload a file, that file is cut op into pieces called packets, which are then handed off from computer to computer across networks until they reach their destination. Each packet is free to follow its own path through the internet, though usually there is one route that is most efficient. When the packets reach their destination they are put back in order and the data is combined to recreate the original file.
+The internet is a *packet switched* network. When you upload a file, that file is cut up into pieces called packets, which are then handed off from computer to computer across networks until they reach their destination. Each packet is free to follow its own path through the internet, though usually there is one route that is most efficient. When the packets reach their destination they are put back in order and the data is combined to recreate the original file.
 
 Since each packet travels by itself, it is common for some packets to be lost along the way. Therefore, the protocols that are used to transmit packets across the internet are built to be *fault tolerant*. They notice when packets go missing and attempt to correct by retransmitting them. This tolerance echoes the physical structure of the internet, which is designed to provide many routes from place to place, which limits the importance of any given route to the connectivity of the whole.
 
