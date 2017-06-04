@@ -812,6 +812,8 @@ $ git fetch [remote name]
 $ git fetch [remote name] [branch name]
 ```
 
+*Contributed by [Will Timpson](https://github.com/thebopshoobop)*
+
 #### How do you see the history of your previous commits (from the command line)?
 
 git log
