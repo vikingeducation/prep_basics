@@ -117,8 +117,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+The internet is a *packet switched* network. When you upload a file, that file is cut up into pieces called packets, which are then handed off from computer to computer across networks until they reach their destination. Each packet is free to follow its own path through the internet, though usually there is one route that is most efficient. When the packets reach their destination they are put back in order and the data is combined to recreate the original file.
 
+Since each packet travels by itself, it is common for some packets to be lost along the way. Therefore, the protocols that are used to transmit packets across the internet are built to be *fault tolerant*. They notice when packets go missing and attempt to correct by retransmitting them. This tolerance echoes the physical structure of the internet, which is designed to provide many routes from place to place, which limits the importance of any given route to the connectivity of the whole.
+
+*Contributed by [Will Timpson](https://github.com/thebopshoobop)*
 
 #### What are packets?
 
@@ -398,9 +401,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is a computer that runs software that responds to requests passed to it using a web protocol over a network interface. Though historically the term referred to the machine itself, it is now common to use it to describe the software as well. Web servers are used to host websites and web applications on the internet, but they are also commonly incorporated into electronic devices like printers or routers. These web servers are used as configuration or informational interfaces and are generally only accessible via the local network.
 
-*Contributed by [Unknown]*
+*Contributed by [Will Timpson](https://github.com/thebopshoobop)*
 
 
 #### Bugs
@@ -800,6 +803,16 @@ URL is copied from my repo in my GitHub account
 
 git status
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+#### How do you check the status of the remote repos connected to your project?
+
+You can import all of the commits from a remote, or you can specify a branch to import. Fetching stores the commits in remote branches that are separate from your code and allows for easy review and merging of other contributors' work.
+```
+$ git fetch [remote name]
+$ git fetch [remote name] [branch name]
+```
+
+*Contributed by [Will Timpson](https://github.com/thebopshoobop)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
