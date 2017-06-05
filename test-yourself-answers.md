@@ -299,7 +299,12 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+The '.bash_profile' is a file that is loaded before your shell environment and contains startup configurations as well as preferences for your terminal. For example, you can change the the prompt of your terminal, the colors of text, or even add aliases for functions that you use repeatedly. There is an example '.bash_profile' on git (https://gist.github.com/natelandau/10654137) by Nate Landau that is well commented to help understand all that can be done in a '.bash_profile'.
+
+*Contributed by [Victor Query](https://github.com/ashlabogan)*
 
 #### What is the `$PATH` variable?
 
@@ -538,6 +543,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+'Cascading Style Sheets' is a style sheet language that is used to describe the presentation of a document made using a markup language such as HTML.  CSS is used to in order to separate the presentation and the content, which allows for easier changes to presentation down the road.
+
+*Contributed by [Victor Query](https://github.com/ashlabogan)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,7 +676,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don\`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -717,7 +726,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -868,6 +877,10 @@ git checkout -b branch_name
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+To create a new branch you can type '$git branch brance_name'.  This will create a branch, but you will till be on the master.  In order to move to the branch you will need to type 'git checkout branch_name'.  In order to create a branch and move to it in one step you can type: 'git checkout -b branch_name'.
+
+*Contributed by [Victor Query](https://github.com/ashlabogan)*
+
 
 
 #### Why would you use a branch?
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
