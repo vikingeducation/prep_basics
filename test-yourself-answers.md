@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,21 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### How do you resolve a "Merge Conflict"?
+A merged conflict generates a copy of the code with the conflicting changes tagged by merge markers (HEAD, redirection symbols >>>>>>>>, =========, <<<<<<<). Each conflicting code contains a set of these markers. Determine or correct the lines of codes to include. Once you've cleaned the code, delete all the merge markers as well. The code should read as you have intended the changes to be. Save the file and do a git add to stage and commit the changes. Do a git status then git log to confirm. This is the part that made me doubt a bit. The log still contained the previous 2 commit messages from the conflicting codes. I think it's correct but I had the wrong expectation that those will go away. Maybe including a screen shots of the commits in GitHub, will be comforting to a newbie to Git like me :-). Just a suggestion.
 
+*Contributed by [Tess Aquino](https://github.com/tessdja)*  
+
+#### What is "Branching"?
+Git-Scm defines a branch as is simply a lightweight movable pointer to one of these commits. So, is there only one physical version of the file in the local project repo? If so, this is an amazing concept, which took me some convincing. We are so used to creating a backup copy of a document and work on a working copy, where you actually have 2 physical copies. The try-Git tutorial and Erik's video were truly great. I'm not sure if more "Gits" during the basics would have been better! I'm sure you guys have thought of these before. I have to step away from the Basics before I "git" (got) it. :-).  
+
+*Contributed by [Tess Aquino](https://github.com/tessdja)*
+
+#### How to delete staged and committed changes in Git?
+This is not one of your questions, but the stubborn me had me "googling" and trying this. The linked Try-git video from code academy explained this very well. An extra exercise would have re-enforced the process. I tried this when I messed up the merge exercise :-(, but didn't get the same results as the one in the try-Git video. Is it because you can't reset any committed changes from merges?   
+
+*Contributed by [Tess Aquino](https://github.com/tessdja)*
