@@ -50,11 +50,19 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
+Although it may sound like trite advice, Google really is your best friend.  Many questions you have—often stemming from perplexing, frustrating manifestations in the command line—have already been answered in the StackOverflow.com forums.  In many cases it may be more time-efficient to locate landing pages with relevant, helpful results from Google queries than hunting down answers by using the StackOverflow’s navigation/ search functions.  This website has an excellent reputation based on a “pay it forward” mission in which veteran programmers reach out to help their peers—including programming newbies. 
+
+*Contributed by [Robert Marley](http://github.com/rastamangamer)*
+
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
-#### Where are the closest developer communities to you?
+#### Where are the closest developer communities to you? 
+
+In Phoenix there is a group that I found on meetup.com called Welcome-to-Programming.  They offer introductory programming workshops.  I also found HackerNest.  On their official webpage on meetup.com, the group describes itself as follows: HackerNest is a grassroots nonprofit organization that runs unpretentious community events and epic, meaningful, universally-acclaimed hackathons. Our mission is economic development through technological proliferation.
+
+*Contributed by [Robert Marley](http://github.com/rastamangamer)*
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
@@ -144,6 +152,10 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 #### What is a "server"?
 
 A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+
+As the term applies to hardware, a web server is a computer that not only stores files but also delivers them to the devices. Such a web server is connected to the Internet and is accessible via a domain name (e.g. vikingcodeschool.com).  As the term applies to software, a web server is a group of components that control how web users access hosted files. 
+
+*Contributed by [Robert Marley](http://github.com/rastamangamer)*
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
