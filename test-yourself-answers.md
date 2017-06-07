@@ -83,7 +83,7 @@ The best developers...
 3) Let their passion for technology and problem overflow the bounds of their professional nine-to-five. Have tech hobbies, side-projects that excite you!
 4) Are lazy. In order to avoid doing things multiple times, they write code that eliminates the need for repetition. Don't repeat yourself! In fact, repeat "Don't repeat yourself" to yourself so you don't repeat yourself!
 
-*Contributed by [Nathaniel Blaney](https://github.com/nrblaney)
+*Contributed by [Nathaniel Blaney](https://github.com/nrblaney)*
 
 
 #### What do companies look for in a junior web developer?
@@ -197,7 +197,7 @@ and it makes the front end simpler by separating presentation from content.
 
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
-The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
+The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug, and more.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
