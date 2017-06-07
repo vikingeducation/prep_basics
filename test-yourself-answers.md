@@ -445,6 +445,10 @@ The HTTP Status Code returned by a server indicating file not found.
 
 #### SEO
 
+Search Engine Optimization (SEO) is the process of improving site rankings in organic (non-paid) search engine results. This is achieved through a variety of techniques and strategies, such as improving on-page SEO elements.
+
+*Contributed by [Matt Underwood](https://github.com/mattunderwood)*
+
 How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
 1. Interesting enough to your customers that they find it organically and choose it over competitive products.
 2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.
@@ -554,12 +558,20 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Pseudo-Code is a notation used to quickly and easily illustrate what you're planning to code. It uses the basic structure of a programming language, but it cannot be executed to create a working program. It's like sketching for programmers.
+
+Pseudo-Code is language independent and anyone can read it. It is often found in textbooks and is frequently used when planning code as a team.  
+
+*Contributed by [Matt Underwood](https://github.com/mattunderwood)*
 
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, high-level, general-purpose programming language that is powerful and flexible. It is commonly used for systems programming and general purpose programs. 
+
+C is one of the most widely used languages and it directly inspired the development of many other languages.
+
+*Contributed by [Matt Underwood](https://github.com/mattunderwood)*
 
 
 #### Ruby
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
