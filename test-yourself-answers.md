@@ -75,12 +75,15 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
-#### What are the top 3 characteristics of great web developers?
+#### What are the top characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+The best developers...
+1) Are insatiably curious. Embrace the the constant need to learn new things in a rapidly evolving field.
+2) Possess a hacker mindset. Think outside the box, poke around, retool your thinking to find solutions outside of the current paradigm.
+3) Let their passion for technology and problem overflow the bounds of their professional nine-to-five. Have tech hobbies, side-projects that excite you!
+4) Are lazy. In order to avoid doing things multiple times, they write code that eliminates the need for repetition. Don't repeat yourself! In fact, repeat "Don't repeat yourself" to yourself so you don't repeat yourself!
+
+*Contributed by [Nathaniel Blaney](https://github.com/nrblaney)*
 
 
 #### What do companies look for in a junior web developer?
@@ -540,8 +543,21 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+The scripting language that runs in the browser. It allows interactivity with the user. With the jQuery library, it allows for easy dynamic manipulation of HTML elements. It is also invading the back-end with the popularity of nodejs.
 
+*Contributed by [Nathaniel Blaney](https://github.com/nrblaney)*
+
+#### jQuery
+
+jQuery is a popular Javascript library that allows developers to easily select elements on the webpage ("DOM elements") and modify their properties, whether that's hiding them, moving them, changing their contents. Over 70 percent of websites use this library!
+
+*Contributed by [Nathaniel Blaney](https://github.com/nrblaney)*
+
+#### What is the DOM?
+
+The Document Object Model is a schema for organizing documents that represents elements as objects. This allows programs and scripts to dynamically access and update the content, structure, and style of a document.
+
+*Contributed by [Nathaniel Blaney](https://github.com/nrblaney)*
 
 #### AJAX
 
@@ -654,9 +670,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +922,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
