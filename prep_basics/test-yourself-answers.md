@@ -54,19 +54,11 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
-Although it may sound like trite advice, Google really is your best friend.  Many questions you have—often stemming from perplexing, frustrating manifestations in the command line—have already been answered in the StackOverflow.com forums.  In many cases it may be more time-efficient to locate landing pages with relevant, helpful results from Google queries than hunting down answers by using the StackOverflow’s navigation/ search functions.  This website has an excellent reputation based on a “pay it forward” mission in which veteran programmers reach out to help their peers—including programming newbies. 
-
-(http://github.com/rastamangamer)
-
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
-
-In Phoenix there is a group that I found on meetup.com called Welcome-to-Programming.  They offer introductory programming workshops.  I also found HackerNest.  On their official webpage on meetup.com, the group describes itself as follows: HackerNest is a grassroots nonprofit organization that runs unpretentious community events and epic, meaningful, universally-acclaimed hackathons. Our mission is economic development through technological proliferation.
-
-(http://github.com/rastamangamer)
 
 #### What online developer communities can you join?
 
@@ -410,9 +402,6 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
-As the term applies to hardware, a web server is a computer that not only stores files but also delivers them to the devices. Such a web server is connected to the Internet and is accessible via a domain name (e.g. vikingcodeschool.com).  As the term applies to software, a web server is a group of components that control how web users access hosted files. 
-
-(http://github.com/rastamangamer)
 
 #### Bugs
 
