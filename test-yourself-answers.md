@@ -197,7 +197,7 @@ and it makes the front end simpler by separating presentation from content.
 
 Developer Tools will show you the actual HTML and CSS that generated content on the page.  By hovering over items, you can see how they were defined in HTML, how they were styled in CSS, and any other relevant attributes.  You can open up the Developer Tools by right-clicking in the browser and selecting "Inspect Element."
 
-The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug, and more.
+The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
