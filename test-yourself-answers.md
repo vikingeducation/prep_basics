@@ -616,6 +616,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+A text based interface program that provides an a faster alternative way of interacting with your computer. Almost all of the tasks such as navigating via directories and files, manipulating files and more, that you can do in a **GUI** environment can be done using command line.
+
+*Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
+
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
