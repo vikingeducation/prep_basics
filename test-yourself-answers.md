@@ -226,6 +226,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+A text based interface program that provides an a faster alternative way of interacting with your computer. Almost all of the tasks such as navigating via directories and files, manipulating files and more, that you can do in a **GUI** environment can be done using command line.
+
+*Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
+
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
@@ -402,6 +406,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+A computer program that serve web pages to users using **HTTP** in response to their requests. It can be setup remotely or locally. Examples of widely used Web Servers include Apache, Ngix.
+
+*Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
 
 #### Bugs
 
@@ -531,6 +538,9 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
+HTML stands for **HyperText Markup Language**. It is a markup language which defines and describes the contents of the webpage.
+
+*Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
 
 #### CSS
 
@@ -609,6 +619,10 @@ Ruby on Rails is the amazing web framework for creating awesome web applications
 The interactive shell where you can enter commands that will be run by your operating system. Also useful for navigating your file system.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+
+A text based interface program that provides an a faster alternative way of interacting with your computer. Almost all of the tasks such as navigating via directories and files, manipulating files and more, that you can do in a **GUI** environment can be done using command line.
+
+*Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
 
 #### Version Control
 
