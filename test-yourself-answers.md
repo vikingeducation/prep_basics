@@ -402,7 +402,7 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
-A computer program that serve web pages to users using HTTP in response to their requests. It can be setup remotely or locally. Examples of widely used Web Servers include Apache, Ngix.
+A computer program that serve web pages to users using #### HTTP in response to their requests. It can be setup remotely or locally. Examples of widely used Web Servers include Apache, Ngix.
 *Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
 
 #### Bugs
