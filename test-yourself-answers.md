@@ -911,3 +911,17 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+###Who is a Front-End Web Developer?
+This refers to a person that possesses the skills to develop a web site and some Web Applications. Such skills consist primarily of HTML, CSS, JavaScript and some CSS framework like Bootstrap. As the name implies, their job function lies in the front-end where users interact with a website or web application.
+*Contributed by [Victor Akanam] (https://github.com/akanam-vic)*
+
+##Who is a Back-End Web Developer?
+This refers to a developer that is concerned with development activities that takes place on the server side of things, the skills-set of a back-end developer depends on the developer's choice and can include but not limited to these server side programming languages; PHP, Nodejs, Ruby and Python. They have some skills with building and administering databases such as MySQL, MongoDB and the likes. They also have skills in integrating APIs and the workings of a typical web server.
+*Contributed by [Victor Akanam] (https://github.com/akanam-vic)*
+
+##Who is a Full-Stack Web Developer?
+The full stack developer's job cuts accross both the front-end and the back-end, hence a full-stack developer is a person that can work confidently in both stacks. It is common this days to find developers that are full-stack rather than those that specialises in only one.
+*Contributed by [Victor Akanam] (https://github.com/akanam-vic)*
+
+
+
