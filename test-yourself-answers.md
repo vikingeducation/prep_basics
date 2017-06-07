@@ -226,6 +226,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+A text based interface program that provides an a faster alternative way of interacting with your computer. Almost all of the tasks such as navigating via directories and files, manipulating files and more, that you can do in a **GUI** environment can be done using command line.
+
+*Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
+
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
