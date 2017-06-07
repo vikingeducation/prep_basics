@@ -403,6 +403,7 @@ A program usually running on a remote computer that responds to requests from a 
 *Contributed by [Unknown]*
 
 A computer program that serve web pages to users using **HTTP** in response to their requests. It can be setup remotely or locally. Examples of widely used Web Servers include Apache, Ngix.
+<br />
 *Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
 
 #### Bugs
@@ -534,6 +535,7 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 HTML stands for **HyperText Markup Language**. It is a markup language which defines and describes the contents of the webpage.
+<br />
 *Contributed by [Muhammad A. Mwinchande](https://github.com/mamwinchande)*
 
 #### CSS
