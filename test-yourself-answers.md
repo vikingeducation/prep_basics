@@ -602,7 +602,7 @@ A framework is a collection of libraries that are used for building web applicat
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
-
+It's also open source so you can use it and contribute to make it even better and it has a large support community.  
 
 #### Command Line
 
