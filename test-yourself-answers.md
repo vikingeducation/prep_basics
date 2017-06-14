@@ -82,6 +82,20 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+####On graduating, should I set up as a freelancer or should I work for a company?
+There is no straight forward answer to this question but there are a number of
+factors that you should take into account before making your decision. These
+questions include the following.
+Which do I value more: the freedom to work when
+I want to and on projects that are of interest to me or the security associated
+with a regular job (i.e. a regular pay cheque)?
+As a freelancer (particularly a new one) will I realistically have freedom and flexibility or will I be
+compelled to take work where I can get it?
+Am I motivated (and experienced) enough to chase work, liaise with clients,
+invoice, write code and find enough time to maintain/update my skills?
+Do you value those other benefits associated with working for a company
+(esprit de corps, security, sick pay, holiday pay and medical insurance etc)?
+
 
 #### What do companies look for in a junior web developer?
 
@@ -542,6 +556,11 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+#### What is ES6?
+ES6 (ECMAScript6) represents the latest version of javascript. ES6 carries new features
+such as arrow functions, block scoping and classes. Browser compatibility is not
+yet 100% so a transpiler such as  Babel is often used to convert  ES6 into ES5 files.
+
 
 #### AJAX
 
@@ -586,8 +605,6 @@ Most gems are open source, and used in most applications. The majority of gems p
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
 
-
-
 #### Frameworks
 
 A framework is a platform where common code with generic functionality is ready to be used by developers along with possibility to write custom code.
@@ -597,7 +614,10 @@ A framework is a collection of libraries that are used for building web applicat
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
-
+#### Provide an example of a popular backend javascript framework examined later on the programme.
+Express.js is essentially the 'defacto framework' used to work with Node.js.
+Express.js is open source (MIT License) and is used to power websites
+such as MySpace and UBER.
 
 #### Ruby on Rails
 
@@ -654,9 +674,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +926,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
