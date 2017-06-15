@@ -82,6 +82,12 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Curiosity: Curiosity aids creative thinking and problem-solving and powers the search for better ways of accomplishing things. Curiosity is necessary to fully understand concepts, methods, and tools: it drives a developer to figure out how, not just whether, something works. This deeper understanding allows a developer to maximize the utility of everything they learn and use and makes them more effective at everything they do.
+
+Persistence / Resilience: Setbacks, mistakes, unforeseen issues, and change in general are a natural part of the development process. Persistence and resilience allow a web developer to keep their eyes on the end goal and power through the boredom, frustration, and desire to quit that inevitably set in when tackling difficult problems.
+
+Effective communication skills: most development projects involve more than one person, and it is crucial for web developers to be able to communicate effectively and clearly with team members, clients, users, and everyone else involved in the development process. This helps ensure that the work the developer does is actually in service of the goals of the project. Good communication also aids problem solving and collaboration, helps set appropriate expectations, and avoids costly misunderstandings.
+*Contributed by [Mitch Mills](https://github.com/mitchmills)*
 
 #### What do companies look for in a junior web developer?
 
@@ -140,6 +146,8 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
+“Client” refers to the requesting device or software in a client-server relationship. A client enables a user to make requests for services or resources from a server, usually via a network. A common example of a client is a web browser (which makes client requests for web pages from servers all over the world wide web).
+*Contributed by [Mitch Mills](https://github.com/mitchmills)*
 
 #### What is a "server"?
 
@@ -155,6 +163,8 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
+“Server” refers to the request-fulfilling device or software in a client-server relationship. A server awaits requests for services or resources from a client and then fulfills those requests. A common example of a server is a web server (which serves up web pages and files requested by client web browsers).
+*Contributed by [Mitch Mills](https://github.com/mitchmills)*
 
 #### What is HTTP and how does an HTTP request work?
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
