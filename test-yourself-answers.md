@@ -75,6 +75,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+Some developer-friendly text editors will prompt you for what it assumes you might need, based on the type of file extension that you use.  Some of them will also automatically add things like closing tags.  All of them will add line numbers which helps when you're working with large files.
+
+*Contributed by [Nancy Chaudhry] (http://github.com/chaudhryna)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -198,6 +202,9 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+Developer tools will also allow you to make changes to the page within your current session. You can change anything on the page from font size to color and you'll automatically see the result.  The changes you make don't change the actual page but you can copy the changes that you've made in the developer tool environment into your own file.
+
+*Contributed by [Nancy Chaudhry] (http://github.com/chaudhryna)
 
 
 #### What happens behind the scenes after you click "search" on google.com?
@@ -556,6 +563,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+It's the plain English description of what you want the computer to execute.  It's computer language agnostic, but it's used to help the programmer think through how he'll organize the program.
+
+*Contributed by [Nancy Chaudhry] (https://github.com/chaudhryna)*
+
 
 #### C
 
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +917,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
