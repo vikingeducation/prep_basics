@@ -334,7 +334,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+A worldwide network of interconnected servers linked via the Internet.  These servers host content formatted in HTML, CSS, and Javascript, accessible through a browser.  Each Internet-connected server that hosts content forms a small link in a massive chain- the web is the sum of all of those parts.  Disclaimer: not every Internet-connected server is a part of the web.
+*Contributed by [Owen Geoghegan](http://github.com/caulfield-h)*
 
 #### URL( Uniform Resource Locator)
 
@@ -398,9 +399,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+Web servers are programs which use Hypertext Transfer Protocol (HTTP) to serve the content featured on Web pages to individual users in response to requests made by their computers.
 
-*Contributed by [Unknown]*
+*Contributed by [Owen Geoghegan](https://github.com/caulfield-h)*
 
 
 #### Bugs
@@ -564,11 +565,10 @@ An older, light weight programming language that direcly inspired the developmen
 
 #### Ruby
 
-Ruby is the most enjoyable language on earth. Easy and happy to code.
+Ruby is an open-source, reflective, object-oriented programming language created by Yukihiro "Matz" Matsumoto. Written in C but abstracted to a higher level, Ruby reads almost like English.  This higher-level abstraction allows programmers to focus their efforts on actual programming- largely removing many of the arduous, memorization-heavy challenges that prior programming languages grappled with.  By mitigating some of these syntactical constraints, Ruby is an environment that welcomes both novice and veteran programmers, allowing them to write crisp, clean, efficient code on day one. 
 
-Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
-*Contributed by [René Maya](https://github.com/viejOMs)*
+*Contributed by [Owen Geoghegan](http://github.com/caulfield-h)*
 
 
 #### Ruby Gems
@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
