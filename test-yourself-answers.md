@@ -42,6 +42,11 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
+Static web pages are just that, static.  These types of web pages do not change.  The user will read and view the web pages as they are.  There is no user interaction.  Whereas, Dynamic web pages will change.  Dynamic web pages ask for user input and based on that input change accordingly.  Examples of this would be the submission of a form, enter a date of birth to enter the website or answering questions.
+
+*Contributed by Brian Senick*
+
+
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
@@ -49,6 +54,11 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
+
+The best way to assist yourself when stuck is to utilize Google.  A quick search with Google will return many answers to questions.  In addition to these answers, many times you will find exmples as well.  These examples will allow you to see what must be done in order to receive the results you are looking for.
+
+*Contributed by Brian Senick*
+
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
@@ -181,6 +191,11 @@ etc.
 
 
 #### What is CSS and how is it used?
+
+CSS (Cascading Stylesheets), is a language that is utilized along with HTML.  It is through CSS, that we are able to dictate font styles, text color, image location, etc.  CSS is also a convenience due to the fact that we are able to apply those styles directly to divs, classes, etc. while only having to declare the "styles" one time in CSS.
+
+*Contributed by Brian Senick*
+
 
 Cascading Stylesheets, a language that describes the look and style of the elements
 defined in an HTML document, such as fonts, colors, spacing, transparency, alignment,
@@ -654,9 +669,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
