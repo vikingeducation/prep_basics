@@ -288,12 +288,12 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
-`:q`
+`:q` (to save changes and quit a single window)
 
 `:q!` (to overwrite and not save any changes)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-`:qa!`
+`:qa!` (to save changes and quit all)
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
 #### What is the `.bash_profile` file and what is it used for?
@@ -601,7 +601,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the amazing open-source web framework for creating awesome web applications. It is the amalgamation of the object-oriented programming language called "Ruby" that sits upon a model-view-controller (MVC) framework called "Rails". If you want to live on edge, RoR is the right choice.
+
+*Contributed by [Ashleigh Chun](https://github.com/ashleighchun)*
 
 
 #### Command Line
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +908,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
