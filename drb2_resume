@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My resume</title>
+  <meta charset="utf-8">
+</head>
+<body>
+  <header>
+   <h1>Dale R. Boyd | Full-Stack Developer</h1>
+  <!-- In "real world" would use <p> below or a <ul>, not <span>, and eliminate line space between <address> and <a> using CSS. But since <span> is an inline element, the browser won't include a default line space after it.-->
+   <address>
+    <span>2708 Ridgeline Drive<br>H302<br>Corona, CA 92882</span>
+   </address>
+   <a href="mailto:drbwork16@gmail.com">drbwork16@gmail.com</a>
+  <hr>
+</header>
+<section id="goals">
+  <h3>Career Goals</h3>
+  <p>To provide full-stack developer services to clients as an independent contractor. In addition, develop various templates, apps and services that can be montized through purchase or use by third parties.</p>
+</section>
+<section id="skills">
+  <h3>Skills</h3>
+  <h4>Programming Languages</h4>
+  <ol>
+    <li>HTML5</li>
+    <li>CSS3</li>
+    <li>PHP</li>
+  </ol>
+  <h4>Databases</h4>
+  <ol>
+    <li>SQLite3</li>
+  </ol>
+  <h4>Platforms</h4>
+  <ol>
+    <li>Heroku</li>
+  </ol>
+  <h4>Version Control</h4>
+  <ol>
+    <li>Git</li>
+    <li>GitHub</li>
+  </ol>
+  <h4>Other Tools</h4>
+  </section>
+  <section id="workx">
+   <h3>Work Experience</h3>
+   <table>
+     <thead>
+      <tr>
+        <th>Company</th>
+        <th>Position Title</th>
+        <th>Responsibilities</th>
+        <th>Years</th>
+        <th>Contact Info</th>
+      </tr> 
+     </thead>
+      <tbody>
+      </tbody>
+   </table> 
+  </section>
+  <section id="educ">
+    <h3>Education</h3>
+    <table>
+      <thead>
+        <tr>
+          <th>School</th>
+          <th>Location</th>
+          <th>Time</th>
+          <th>Major/Degree Earned</th>
+          <th>Minor</th>
+        </tr>
+      </thead>
+    </table>
+  </section>
+  <section id="achiev">
+    <h3>Achievements</h3>
+    <ol>
+      <li>Example 1</li>
+      <li>Example 2</li>
+    </ol>
+  </section>
+  <section id="ref">
+    <h3>References</h3>
+    <p><i>Available upon request.</i></p>
+  </section>
+  <hr>
+  <footer>
+    <strong><p>Dale R. Boyd | Full-Stack Developer</p>
+    <address>
+     <span>2708 Ridgeline Drive<br>H302<br>Corona, CA 92882</span>
+   </address>
+   <a href="mailto:drbwork16@gmail.com">drbwork16@gmail.com</a></strong>
+  </footer>
+</body>
+</html>
