@@ -119,6 +119,12 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+*Contributed by [Unknown]*
+
+The information is broken down into smaller packets of information and are transmitted to its destination. While being sent to the destination, the packets may all take different routes depending on the flow of traffic. Once received by the destination, the packets are reassembled back into the original message.
+
+*Contributed by [John Valera][https://github.com/jdvalera]*
+
 
 #### What are packets?
 
@@ -259,7 +265,13 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+
+*Contributed by [Unknown]*
+
+File permissions allow the system to control which users or groups are allowed to read, write or execute a file. The permissions for each file can be viewed by typing `ls -l` in the command line.
+
+*Contributed by [John Valera][https://github.com/jdvalera]*
 
 #### How do you view hidden files in a directory?
 
@@ -384,8 +396,15 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are a set of protocols for handling email.
 
+*Contributed by [Unknown]*
+
+POP, by default, downloads emails to your device and deletes the email from the remote server. There is an option for keeping the emails in the remote server but, since it downloads all the emails into the device, you will have no indication of which emails you have read or deleted in your other devices.
+
+IMAP allows users to keep their email synced across all their devices. If an email is read or deleted from one device, the changes will be synced with the email server allowing the changes to persist across any other device connected to the same email server.
+
+*Contributed by [John Valera][https://github.com/jdvalera]*
 
 #### API
 
@@ -654,9 +673,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +925,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
