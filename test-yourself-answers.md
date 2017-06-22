@@ -22,7 +22,7 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
+A web developer's job is very hands-on and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
 
 In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
 
@@ -34,7 +34,7 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
@@ -44,13 +44,13 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Dynamic pages allow users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use Google! There are other fantastic resources but Google will give you great access to all of them. A lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -234,8 +234,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+This is taken from the [GNU.org website](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html):
+
+> Bash is the shell, or command language interpreter, for the GNU operating system. The name is an acronym for the ‘Bourne-Again SHell’, a pun on Stephen Bourne, the author of the direct ancestor of the current Unix shell sh, which appeared in the Seventh Edition Bell Labs Research version of Unix.
+
+> Bash is largely compatible with sh and incorporates useful features from the Korn shell ksh and the C shell csh. It is intended to be a conformant implementation of the IEEE POSIX Shell and Tools portion of the IEEE POSIX specification (IEEE Standard 1003.1). It offers functional improvements over sh for both interactive and programming use.
+
+> While the GNU operating system provides other shells, including a version of csh, Bash is the default shell. Like other GNU software, Bash is quite portable. It currently runs on nearly every version of Unix and a few other operating systems - independently-supported ports exist for MS-DOS, OS/2, and Windows platforms.
+
+*Contributed by [Rick Roberts](http://github.com/rickroberts)*
 
 #### How can you navigate into a particular file directory?
 
@@ -259,12 +266,15 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permissions control who can access (read, write, and/or execute) files in UNIX systems.
+
+*Contributed by [Rick Roberts](http://github.com/rickroberts)*
 
 #### How do you view hidden files in a directory?
 
-`$ ls -a`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+`$ ls -alh` will list files in long format, including hidden files and directories, with sizes in a human readable format.
+
+*Contributed by [Rick Roberts](http://github.com/rickroberts)*
 
 #### How do you find information about a particular command?
 
