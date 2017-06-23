@@ -100,10 +100,10 @@ It's best to provide any infromation which can give relevant answers to the toug
 
 #### What is the hiring process like for a developer?
 
-To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
+To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Some companies also give you home coding problems as a screening tool as well. Every company's different, but this is the sort of application process I would prepare for!
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
-
+*Contributed by [Sara Canfield](https://github.com/SaraCanfield)*
 
 ## How the Web Works
 
@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+According to Webopedia: The Web is just one of the ways that information can be disseminated over the Internet. The Internet, not the Web, is also used for email, which relies on SMTP, Usenet news groups, instant messaging and FTP. So the Web is just a portion of the Internet, albeit a large portion, but the two terms are not synonymous and should not be confused. 
+
+*Contributed by [Sara Canfield](https://github.com/SaraCanfield)*
 
 #### URL( Uniform Resource Locator)
 
@@ -344,7 +347,10 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
+
+A group of computers and devices on a network that are administered as a unit with common rules and procedures, defined by the IP address within the Internet
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+*Contributed by [Sara Canfield](https://github.com/SaraCanfield)*
 
 
 #### IP Address
