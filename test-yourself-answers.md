@@ -326,6 +326,19 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+Alias commands are handy shortcuts that substitute "some_text" for "some_other_text" in the command line. They can save you a lot of typing . For example:
+"alias goprog= 'cd ~/that_really_long_full_path_to_where_my_programming_directory_is'"
+
+You can also use them to prevent typos. For example if you want to remove all the files in a directory you'd type in the command:
+$ rm -rf */
+**
+But you might accidentally add a space and type:
+$ rm -rf * /
+Which removes all the intended files, and starts to remove all the files starting at the root directory, wiping your whole drive. So you can write an alias to help prevent this by forcing you to confirm that you indeed do want to remove those files (by adding the option i).
+"alias rm ="rm -i"
+**
+*Contributed by [Eric Glover](https://github.com/EricGlover)*
+
 
 
 
@@ -556,11 +569,18 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Pseudo-Code is the ultimate high-level language, if machine-code is darkness then pseudo-code is the light. Since it's never intended to actually be interpreted by a computer pseudo-code isn't bogged done with implementation details which allows you to focus on how you want to approach a problem. Further, it allows you to communicate ideas with developers of different backgrounds; in this regard it acts like a universal language.
+
+*Contributed by [Eric Glover](https://github.com/EricGlover)*
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
+After getting it's start in 1972 C was prominent in programming for a goodly while then when people became fed up with various things about it they would extend plain C with their own libraries until eventually the language split into many variants ( C#, C++, Objective-C, etc..). This new generation of C descendants are mainly used in areas that value speed ( C++ is the most common language for video-game development ) but also need the utility that built-in support for Objective Oriented Programming provides. C is infamous for being verbose, low-level, rigid, and unwieldy. It was designed with the assumption that the developer knows what they are doing, so it gives you enough rope that you could make a bridge across any gap http://goo.gl/44QMQV or end up hanging yourself https://goo.gl/2FW2Nt.
+Nowadays it's mainly seen in operating system code and embedded systems.
+
+*Contributed by [Eric Glover](https://github.com/EricGlover)*
 
 #### Ruby
 
@@ -654,9 +674,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +926,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
