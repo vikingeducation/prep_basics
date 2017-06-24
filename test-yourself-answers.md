@@ -129,7 +129,7 @@ Information is broken down into parts between 1,000 and 1,500 bytes called packe
 
 The Transmission Control Protocol (TCP) and the Internet Protocol (IP) are what make it possible to have a single, worldwide Internet. The TCP divides and reassembles the data. The IP assigns address information and determines the route the data will take.
 
-*Contributed by [Holly Erickson] (https://github.com/Holly-E)*
+*Contributed by [Holly Erickson](https://github.com/Holly-E)*
 
 
 #### What are packets?
