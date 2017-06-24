@@ -65,7 +65,15 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
+Become an active contributor on Github; contributing to open-source projects is a great way to build your Github portfolio which future employers will likely review.
+
+Stack Overflow and Hacker News are very active communities.
+
+It can be helpful to check out blogs, YouTube channels and even podcasts. For example, Code Newbie is a very supportive community for people learning to code with new podcasts every week.
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Holly Erickson](https://github.com/Holly-E)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -117,7 +125,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is broken down into parts between 1,000 and 1,500 bytes called packets. The packet contains headers and footers that describe how it fits with other packets to create a file, along with destination information. The packets travel individually up the network to your computer, sometimes taking different routes avoiding congested areas on the internet. This flexibility is part of what makes the internet so powerful. Once the packets arrive at their destination, they are recompiled to form the entire file.
+
+The Transmission Control Protocol (TCP) and the Internet Protocol (IP) are what make it possible to have a single, worldwide Internet. The TCP divides and reassembles the data. The IP assigns address information and determines the route the data will take.
+
+*Contributed by [Holly Erickson](https://github.com/Holly-E)*
 
 
 #### What are packets?
@@ -231,6 +243,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+If using Linux press Ctrl Alt T.
+
+*Contributed by [Holly Erickson](https://github.com/Holly-E)*
 
 #### What is Bash?
 
@@ -654,9 +670,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +922,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
