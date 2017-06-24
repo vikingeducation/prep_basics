@@ -54,6 +54,8 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+The above methods are the easiest ways to get help, but there is also documentation available for most programming languages and frameworks online. It may take a little bit more time to parse through the details to get the information you actually need, but developers heavily rely on documentation. It's also a good way to become familiar with any optional parameters or additional uses for whatever you're looking up.
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -74,6 +76,8 @@ I think the most important reason why developer-friendly text editors are better
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+As we've seen, code is obviously structured much differently than normal prose, which is what word processors really excel at. Text editors for developers offer a wide range of functionality that can be customized to your specific needs. I'm using Atom text editor now, and I've been astonished at the number of features that make the life of a developer easier - connecting with Git, choosing custom styles, packages that help structure your code, along with a ton of more powerful features that I don't understand (yet!).
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -556,6 +560,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Pseudo-code can be used to illustrate general programming concepts and algorithms without tying those concepts to a specific language. Using pseudo-code can help ensure that your program logic is sound structurally before actually writing out code.
 
 #### C
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
