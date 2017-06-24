@@ -93,9 +93,13 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
+The determination and commitment to be able to adapt quickly to a new environment and work flow they are not use too. Also, ability to learn quickly and willingness to learn.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Emmanuel Raymond](http://github.com/peoray)*
+
 
 
 #### What is the hiring process like for a developer?
@@ -531,12 +535,22 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
+The markup that provides the skeletons (contetnts) of a simple. **Every** Websites and Web apps make use of it.
+
+*Contributed by [Emmanuel Raymond](http://github.com/peoray)*
+
+
 
 #### CSS
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+
+This styles up your webpage and makes it looks attractive, thereby increasing User experience and consumption.
+
+*Contributed by [Emmanuel Raymond](http://github.com/peoray)*
+
 
 #### Javascript
 
