@@ -234,7 +234,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 More efficiently, you can add a shortcut to the command line in Windows onto your taskbar by hitting the Windows key, typing 'cmd' to search for the command line prompt, then dragging it to the taskbar for easy access.
 
-*Contributed by [Shripe](https://github.com/shripe)
+*Contributed by [Shripe](https://github.com/shripe)*
 
 #### What is Bash?
 
