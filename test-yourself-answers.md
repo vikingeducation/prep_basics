@@ -386,6 +386,9 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+IMAP allows users to store their email on remote servers. This two-way protocol also allows the user to synchronize their email among multiple devices, which is extremely important today, when most people have at least two devices - their laptop and smartphone.
+
+*Contributed by [Olga Fursova](http://github.com/OFursova)*
 
 #### API
 
@@ -402,6 +405,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to serve the files that form Web pages to users, in response to their requests, which are forwarded by their computers' HTTP clients. Dedicated computers and appliances may be referred to as Web servers as well.
+
+*Contributed by [Olga Fursova](http://github.com/OFursova)*
 
 #### Bugs
 
