@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,18 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### Above the Fold
+Above the fold is a term taken from print newspaper.  It means anything a user would see on the page before having to scroll down in order to see more.  It suggests that a developer put the best or most useful information at the beginning, i.e. "above the fold"
 
+#### Why is Git useful for a developer?
+
+Git allows you to revert to an earlier version of your application if you mess it up, and it is a great tool for projects where multiple developers are working on the same project.  Each developer is able to contribute and merge changes easily.
+
+### What is the difference between committing your changes and pushing them to Github?
+Committing changes permanently records a historical version as they existed at a point in time.  Pushing changes into Github allows these changes and historical versions to be kept safely in your repository.
+
+*Contributed by [Alana James](http://github.com/jameam)*
