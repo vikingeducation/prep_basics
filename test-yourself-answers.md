@@ -232,6 +232,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+More efficiently, you can add a shortcut to the command line in Windows onto your taskbar by hitting the Windows key, typing 'cmd' to search for the command line prompt, then dragging it to the taskbar for easy access.
+
+*Contributed by [Shripe](https://github.com/shripe)
+
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
@@ -538,6 +542,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+In contrast with HTML, Cascading Style Sheets work with how HTML elements ought to be displayed, taking webpage design a step further than simple structures allowed by HTML.
+
+*Contributed by [Shripe](https://github.com/shripe)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -726,6 +734,10 @@ Git is the most popular distributed version control system used for software dev
 **V**ersion **C**ontrol **S**ystems (like Git) provide monitored and regulated access to a software repository.
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
+
+When there are multiple contributors to a software repository (often at the same time), a Version Control System helps to coordinate changes, ensure proper merging of various versions of files in the repository, and provide a method of rolling back to previous versions in case of significant errors with a more current version's release.
+
+*Contributed by [Shripe](http://github.com/shripe)*
 
 
 #### Why is Git useful for a developer?
