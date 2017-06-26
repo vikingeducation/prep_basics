@@ -384,7 +384,11 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Message Access Protocol, and SMTP, IMAP, and SMTP for Simple Mail Transfer Protocol.  These are protocols used for the sending/receiving of emails.
+
+Using POP, messages are downloaded from a server to a machine and deleted from the server.  Once messages are downloaded a particular machine the messages generally cannot be access from another machine.  Using IMAP, messages are stored on a server and can be accessed accessed from many locations by a mail client or web-mail.  SMTP is a protocol generally used for delivering messages.
+
+*Contributed by [Kevin Gustafson](http://github.com/kkgustafson)*
 
 
 #### API
@@ -402,6 +406,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+A web server (running on a local or remote machine) receives requests from a client, processes the request, and returns a response to the client.  Web servers communicate with the client using HyperText Transfer Protocl (HTTP).
+
+*Contributed by [Kevin Gustafson](http://github.com/kkgustafson)*
 
 #### Bugs
 
@@ -554,7 +561,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Pseudo-Code is a human-readable description of code.  It describes what the code in a programming language will do or is doing in a way that a person unfamiliar with that programming language can interpret.  It may be used in designs, comments, release notes to describe the purpose of the code.
+
+*Contributed by [Kevin Gustafson](http://github.com/kkgustafson)*
 
 
 #### C
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
