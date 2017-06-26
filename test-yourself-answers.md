@@ -54,6 +54,9 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Another way is to make friends with a coder who knows more than you do, and can help when you get stuck.
+*Contributed by [Joel Rose]
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -81,7 +84,8 @@ Curiosity/creativity - The passion for creating/building and the hunger for lear
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-
+Communication skills-To solve problems within a team framework, or even to get help on your own projects, being able to effectively communicate issues is vital.  
+*Contributed by [Joel Rose]
 
 #### What do companies look for in a junior web developer?
 
@@ -334,7 +338,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+An information system on the Internet that allows documents to be connected to other documents by hypertext links, enabling the user to search for information by moving from one document to another.
+*Contributed by [Joel Rose]
 
 #### URL( Uniform Resource Locator)
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
