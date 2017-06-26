@@ -706,6 +706,9 @@ An integrated development environment (IDE) created by Apple for developing OS X
 
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+Xcode is an integrated development environment used to develop software for macOS, IOS, watchOS and tvOS. It is available free of charge from the Mac Apple Store and supports software development in several programming languages - C, C++, Objective-C, Java, AppleScript, Python, Ruby, ResEdit and Swift.
+
+*Contributed by [Paul Savage](http://github.com/paul-savage)*
 
 ## Git
 
