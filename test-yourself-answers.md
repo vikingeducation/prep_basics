@@ -259,7 +259,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Prevents unwanted access and/or modification of files. Permissions are important for keeping your data safe and secure.
+*Contributed by [Dylan Bailey](http://github.com/dylancbailey)*
 
 #### How do you view hidden files in a directory?
 
@@ -269,7 +270,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+Man is short for 'manual'. It's a very easy and efficient way to figure out what the command you're using does.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Dylan Bailey](http://github.com/dylancbailey)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -335,7 +338,6 @@ Define the following:
 
 ### The Web
 
-
 #### URL( Uniform Resource Locator)
 
 Address that one types in to reach a particular webpage.  Human readable address that eventually gets mapped through DNS into actual IP addresses.
@@ -398,7 +400,8 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+Put bluntly: Web servers deliver web pages. Every Web Server has an IP address and, usually, a domain name. Browsers communicate with Web servers via TCP/IP protocol. The browser will send an HTTP request to the server, which in turn responds with HTML pages and possibly additional programs.
+*Contributed by [Dylan Bailey](http://github.com/dylancbailey)*
 
 *Contributed by [Unknown]*
 
