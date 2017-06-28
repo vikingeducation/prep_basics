@@ -34,11 +34,14 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on user interaction and how the site looks to the end user (client/user side). Front-end developers focus on languages that live in the browser, such as HTML, CSS, and JavaScript.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Back-end devlopers focus on the server side code that runs the application and ensures the correct data is being sent out of the browser. Usually they use programming languages like Python, Ruby, or Java to store,deliver, or generate data for thefront end. 
+
+Full-Stack developers are responibile for both the front-end and back-end of the application, ensuring that they can build a web application from start to finish.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Daniel Kirkpatrick](http://github.com/thedanieljk)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -129,7 +132,7 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
+A client is a device or program which needs data from servers. For example if we want to watch videos on Youtube, we're a client that needs data from a Youtube server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
@@ -139,22 +142,22 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-
+*Contributed by [Daniel Kirkpatrick](http://github.com/thedanieljk)*
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, the server will look for it. If the server found what the client wants, the server will return the data to the client. If the server can't find what the client requested, then the server will tell the client that what they want is not present on the server. 
 
-Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
+If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with therequested resource or an error if there is an error.
 
-The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
+Basically, a server enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-
+*Contributed by [Daniel Kirkpatrick](http://github.com/thedanieljk)*
 
 #### What is HTTP and how does an HTTP request work?
 
