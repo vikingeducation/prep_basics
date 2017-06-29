@@ -452,6 +452,12 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
 
+#### MarkDown
+Created by John Gruber markdown is an easy way to provide structure or formatting to text documents without all
+of the < open and > closing brackets in HTML.
+
+*Contributed by [Carl Jenkins](https://github.com/carljenkins)*
+
 
 ### Design
 
@@ -603,6 +609,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Rails is a framework library which helps programmers build web sites. Rails runs on a web server, and allows developers to use HTML, CSS, JavaScript and of course Ruby to create web applications. Rails establishes conventions which developers use to make building web sites easier, quicker and FUN!
+
+*Contributed by [Carl Jenkins](https://github.com/carljenkins)*
 
 #### Command Line
 
@@ -613,6 +622,9 @@ The interactive shell where you can enter commands that will be run by your oper
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
+Version control is a program which helps users manage changes to files. The files can be text files, source code or any other type of information or data. Version control allows you to merge or pull-in changes made by others into your file, go back in time see a history on a file or compare two files and only pull in the modifications you choose.
+
+*Contributed by [Carl Jenkins](https://github.com/carljenkins)*
 
 #### Git
 
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
