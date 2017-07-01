@@ -481,7 +481,7 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
-Responsive Design is nothing but enabling your website or web app look good in all sorts of devices.
+Responsive Design is nothing but enabling your website or web app to look good in all sorts of devices.
 
 *Contrubuted by [Arvind M](https://github.com/Judis07)*
 
