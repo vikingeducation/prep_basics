@@ -75,6 +75,11 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+
+I feel developer-friendly text editors like sublime, atom etc are extremely featureful editors.They are simple yet powerful.These editors have a huge and active plugin community with thousands of pluigns available to make your coding adventure awesome.
+
+*Contributed by [Arvind M](https://github.com/Judis07)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -125,6 +130,12 @@ It is broken down into packets and sent through random different ways to get to 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+
+It turns out that everything you do on the Internet involves packets.For instance,every web page we receive comes as a series of packets and every message we send leaves as a series of packets.
+
+*Contributed by [Arvind M](https://github.com/Judis07)*
+
 
 
 #### What is a "client"?
@@ -469,6 +480,10 @@ Ensuring that all possible devices and browsers are capable of properly displayi
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+Responsive Design is nothing but enabling your website or web app to look good in all sorts of devices.
+
+*Contrubuted by [Arvind M](https://github.com/Judis07)*
 
 
 #### Grid System
