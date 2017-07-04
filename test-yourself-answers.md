@@ -230,6 +230,9 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+Also, CMD + Spacebar will launch Spotlight. Type in Terminal, press return to launch.
+
+*Contributed by [Cleon Walden](https://github.com/WALDENCLEON)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What is Bash?
@@ -335,6 +338,9 @@ Define the following:
 
 ### The Web
 
+The Web is the largest network in the world. The Web consists of a heck of alot of isolated networks connected to each other. So when your client calls and says, "I can't get connected to the Internet!", what she really means is I can't get connected to the other networks outside of my own. Because it's likely that she can hit her printer's web server through her browser, just not Google's DNS. 
+
+*Contributed by [Cleon Walden](https://github.com/WALDENCLEON)
 
 #### URL( Uniform Resource Locator)
 
@@ -351,6 +357,9 @@ The part of the URL which specifies the location of the web server who is going 
 
 IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
+IP addresses are the numberical identifier for a given device/host/node on a network. They can be supplied dynamically or statically. These identifiers typically follow a strict range when used privately and publically. For example, a private Class A IP range will have the network ID as 10.0.0.0 with the IP range from 10.1.0.0 to 10.255.255.254. That's a lot of IPs!
+
+*Contributed by [Cleon Walden](https://github.com/WALDENCLEON)*
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
