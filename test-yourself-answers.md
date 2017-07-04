@@ -117,8 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into packets of a certain size, each of which contain information to help get the packet to its destination, including the IP addresses of the sender and receiver, the number of packets this information has been broken into and what number in that sequence the particular packet is. Each packet is routed through network switches using the best available route as determined by networking protocols. The packets that make up a particular piece of information may all take various different routes to the same destination, meaning they can all arrive as quickly as possible.
 
+*Contributed by [Matt Conley](https://github.com/norskmatty)*
 
 #### What are packets?
 
@@ -386,6 +387,9 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+While POP supports a single login at a time, IMAP can support multiple logins (i.e. opening Gmail on both your phone and desktop simultaneously). SMTP is typically used only to send messages from a user to the mail server and to hand off mail from one system to another (i.e. from a user sending a mail from a Gmail account to a user receiving the mail in their Outlook account).
+
+*Contributed by [Matt Conley](https://github.com/norskmatty)*
 
 #### API
 
@@ -556,6 +560,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+An interpretation of the intended code to be written, usually in the convention of the programming language, but using English (or other human languages) rather than the coding language read by computers.
+
+*Contributed by [Matt Conley](https://github.com/norskmatty)*
+
 
 #### C
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
