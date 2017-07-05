@@ -73,7 +73,11 @@ I think the most important reason why developer-friendly text editors are better
 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
+Developer friendly text editors are tailored for development enviroments, providing features such as automated syntax highlighting (so that your code work does not look like one giant blob of characters), cross-platforming (good for Chrome notebooks!), to adding packages (plugins). Microsoft Word is a word processor that focuses on composing, editing, formatting, and printing of documents such as legal, reports, publications, letters, and memos.
+
+*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -93,9 +97,13 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
+Companies want individuals who has some experience working with developer tools and can quickly adapt to new applications when needed.  Flexiability in tools, creativity, and collaboration are some of the key skills sought by employers. A portfolio is a good way to showcase your work to new employers. Each portfolio project should include the tools used and a small summary of what you were trying to achieve.
+
+*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+
 
 
 #### What is the hiring process like for a developer?
@@ -617,6 +625,10 @@ It's like a time machine for jumping back and forth between specific time stamp 
 #### Git
 
 One of the most popular open-source version control systems.
+
+A version control system that is simple, fast, and free. Simple in a sense that a handful of command is that is needed for daily use. Fast due to the way Git works in switches branches to identify changes in files. It is a free softwre distributed under the GNU General Public License version 2.
+
+*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai)*
 
 #### Open Source
 
