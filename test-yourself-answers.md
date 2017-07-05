@@ -73,9 +73,7 @@ I think the most important reason why developer-friendly text editors are better
 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
-Developer friendly text editors are tailored for development enviroments, providing features such as automated syntax highlighting (so that your code work does not look like one giant blob of characters), cross-platforming (good for Chrome notebooks!), to adding packages (plugins). Microsoft Word is a word processor that focuses on composing, editing, formatting, and printing of documents such as legal, reports, publications, letters, and memos.*
-
-*https://en.wikipedia.org/wiki/Word_processor
+Developer friendly text editors are tailored for development enviroments, providing features such as automated syntax highlighting (so that your code work does not look like one giant blob of characters), cross-platforming (good for Chrome notebooks!), to adding packages (plugins). Microsoft Word is a word processor that focuses on composing, editing, formatting, and printing of documents such as legal, reports, publications, letters, and memos.
 
 *Contributed by [Kelvin Huynh](https://github.com/PythonSenpai/)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
