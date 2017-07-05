@@ -65,7 +65,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
-*Contributed by [Yilen Pan](http://github.com/yilenpan)
+*Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -75,7 +75,7 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 Developer friendly text editors are tailored for development enviroments, providing features such as automated syntax highlighting (so that your code work does not look like one giant blob of characters), cross-platforming (good for Chrome notebooks!), to adding packages (plugins). Microsoft Word is a word processor that focuses on composing, editing, formatting, and printing of documents such as legal, reports, publications, letters, and memos.
 
-*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai/)*
+*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 
@@ -99,7 +99,7 @@ It's best to provide any infromation which can give relevant answers to the toug
 
 Companies want individuals who has some experience working with developer tools and can quickly adapt to new applications when needed.  Flexiability in tools, creativity, and collaboration are some of the key skills sought by employers. A portfolio is a good way to showcase your work to new employers. Each portfolio project should include the tools used and a small summary of what you were trying to achieve.
 
-*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai/)*
+*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
@@ -628,7 +628,7 @@ One of the most popular open-source version control systems.
 
 A version control system that is simple, fast, and free. Simple in a sense that a handful of command is that is needed for daily use. Fast due to the way Git works in switches branches to identify changes in files. It is a free softwre distributed under the GNU General Public License version 2.
 
-*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai/)*
+*Contributed by [Kelvin Huynh](https://github.com/PythonSenpai)*
 
 #### Open Source
 
