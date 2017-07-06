@@ -34,12 +34,11 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -82,7 +81,6 @@ Curiosity/creativity - The passion for creating/building and the hunger for lear
 Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 
 #### What do companies look for in a junior web developer?
@@ -98,7 +96,7 @@ It's best to provide any information which can give relevant answers to the toug
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
+
 
 #### What is the hiring process like for a developer?
 
@@ -156,7 +154,6 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -209,7 +206,7 @@ A single click rings out on a dark night...
 Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
 Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the  is confirmed and search query data is exchanged
+Microseconds late (a few of them) the handshake something is confirmed and search query data is exchanged
 Centiseconds later (a handful of them) the data is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
@@ -316,7 +313,7 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 #### Why might you need to add onto your `$PATH` variable?
 
-You might need to add onto your $PATH variable so an application can be found and run in the command line.  
+You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
@@ -352,10 +349,9 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everyday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
 
@@ -411,11 +407,11 @@ A program usually running on a remote computer that responds to requests from a 
 
 An error or defect in software or hardware that causes a program to malfunction.  Typically coding issue, but has extended to other fields.
 
-For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Halliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
+For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
+
 
 #### The Cloud
 
@@ -563,8 +559,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
+An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -643,10 +638,9 @@ A database is a collection of information that is organized so that it can easil
 
 #### SQL
 
-Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database system in 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
+Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### XML
 
@@ -667,10 +661,9 @@ Example:
   <Item>Chocolate</Item>
 </List>
 
-In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifestation is <!DOCTYPE html>
+In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
 
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
-*Edited by [Ed Triplett](http://github.com/EdTriplett)*
 
 #### Script
 
