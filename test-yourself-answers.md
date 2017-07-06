@@ -207,7 +207,7 @@ Picoseconds later (a lot of them) later the input is received by a usb or other 
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
 Milliseconds later (a group of them) a command is sent to open up an http handshake
 Microseconds late (a few of them) the handshake something is confirmed and search query data is exchanged
-Centiseconds later (a handful of them) the data is processed and the return data is exchanged
+Centiseconds later (a handful of them) the is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
 "About 98,600,000 results (0.25 seconds) https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=divisions+of+a+second”
