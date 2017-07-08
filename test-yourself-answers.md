@@ -44,7 +44,7 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Dynamic pages allows users to create, destroy, edit, and read data(also known as CRUD). The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -71,7 +71,7 @@ Look at r/Programming or r/learnprogramming
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
+Additionally, developer-friendly editors have features such as Syntax Highlightning, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
@@ -110,7 +110,7 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
+Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol -> HTTP).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
