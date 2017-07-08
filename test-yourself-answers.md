@@ -262,7 +262,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Permissions often are for read, write and execute. One reason is to prevent users, new and experienced, from accidently changing/executing important system files. Which could cause the system to crash or have unexpected problems. Also to prevent users from purposely trying to hurt the system.
+
+Other reason, as a user you might have a file you want other users to read but not be able to edit. That can easily be done with file permissions. These are just two examples, there are plenty of other reasons you will learn and run into in the future.
+
+*Contributed by [Joseph Goodwin](https://github.com/jcgoodwin86)*
 
 #### How do you view hidden files in a directory?
 
