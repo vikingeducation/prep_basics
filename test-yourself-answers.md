@@ -287,6 +287,9 @@ Text editor that often causes debates with emacs lovers.
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+Vim is a text editor for Unix that can be found in the terminal on MacOS. Some consider Vim the text editor choice for developers, a beginners guide can be found [here](https://www.linux.com/learn/vim-101-beginners-guide-vim).
+*Contributed by [Michael List](https://github.com/List-Michael)*
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -309,6 +312,9 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+
+$PATH is an environment variable, it points to the directory of executable commands or programs for an easy execution. Thanks to the $PATH variable, the user does not have to type the whole path into the terminal (or remember the path) to start a program or command.
+*Contributed by [Michael List](https://github.com/List-Michael)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
@@ -442,6 +448,9 @@ Nasty error when a page is not found when requested that the hosting domain aler
 The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+The 404 Error is one out of many HTTP Status Codes a server can return, the 404 Error indicates that the requested URL does not exist. Fun Fact: the server should return the 410 Error if a resource is permanently, and intentionally gone.
+*Contributed by [Michael List](https://github.com/List-Michael)*
 
 #### SEO
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
