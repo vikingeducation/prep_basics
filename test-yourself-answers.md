@@ -117,8 +117,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Data from emails, web pages and etc are broken down to small packets of information. There is limited room to transmit data on the internet. So the data is kept to fewer than 1500 characters. They are sent individually to the destination then put back together.
 
+This is all done by protocols called TCP (Transmission Control Protocol) and IP (Internet Protocol). TCP is responsible for breaking and recombining data. IP gets the information to the right destination. Often people refer this as TCP/IP.
+
+*Contributed by [Joseph Goodwin](https://github.com/jcgoodwin86)*
 
 #### What are packets?
 
@@ -259,7 +262,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Permissions often are for read, write and execute. One reason is to prevent users, new and experienced, from accidently changing/executing important system files. Which could cause the system to crash or have unexpected problems. Also to prevent users from purposely trying to hurt the system.
+
+Other reason, as a user you might have a file you want other users to read but not be able to edit. That can easily be done with file permissions. These are just two examples, there are plenty of other reasons you will learn and run into in the future.
+
+*Contributed by [Joseph Goodwin](https://github.com/jcgoodwin86)*
 
 #### How do you view hidden files in a directory?
 
@@ -335,6 +342,9 @@ Define the following:
 
 ### The Web
 
+Also know as World Wide Web (W3). The web is bunch of servers from all over the world that support HTML documents. Which also supports graphics, video, and audio. Not all servers are part of the World Wide Web and its not synonymous with the Internet.
+
+*Contributed by [Joseph Goodwin](https://github.com/jcgoodwin86)*
 
 #### URL( Uniform Resource Locator)
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
