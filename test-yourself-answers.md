@@ -342,6 +342,9 @@ Define the following:
 
 ### The Web
 
+Also know as World Wide Web (W3). The web is bunch of servers from all over the world that support HTML documents. Which also supports graphics, video, and audio. Not all servers are part of the World Wide Web and its not synonymous with the Internet.
+
+*Contributed by [Joseph Goodwin](https://github.com/jcgoodwin86)*
 
 #### URL( Uniform Resource Locator)
 
