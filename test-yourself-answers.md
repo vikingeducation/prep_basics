@@ -313,7 +313,7 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 #### Why might you need to add onto your `$PATH` variable?
 
-You might need to add onto your $PATH variable so an application can be found and run in the command <line class=""></line>
+You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
