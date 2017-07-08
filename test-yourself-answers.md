@@ -326,7 +326,23 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### How to add an alias command?
 
+To add an alias command, you first need to locate and open your personal ".bashrc" file, this file is located in your user directory. In my case, I'll open it directly from the terminal with sublime text, using this command:
+
+`$ subl ~/.bashrc`
+
+In your text editor, go to the end of the file, and add your alias. As an example, at the end of my .bashrc file, I'll add the alias to replace the "git push origin master" command and *alias* it into the shorter version "gpom":
+
+`alias gpom='git push origin master'`
+
+After I added my alias, and saved my file, the final step would be to *source* or *execute* my .bashrc file, like this:
+
+`$ . ~/.bashrc`
+
+Alternatively, you could just close and open your terminal. Now your added alias should be available.
+
+*Contributed by [Luis Rodriguez](http://github.com/codekommissar)*
 
 
 ## Terms to Know
