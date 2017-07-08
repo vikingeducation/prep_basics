@@ -334,13 +334,13 @@ To add an alias command, you first need to locate and open your personal ".bashr
 
 In your text editor, go to the end of the file, and add your alias. As an example, at the end of my .bashrc file, I'll add the alias to replace the "git push origin master" command and *alias* it into the shorter version "gpom":
 
-alias gpom='git push origin master'
+`alias gpom='git push origin master'`
 
 After I added my alias, and saved my file, the final step would be to *source* or *execute* my .bashrc file, like this:
 
 `$ . ~/.bashrc`
 
-Alternatively, you could just close and open your terminal. Now your added alias should be available to you.
+Alternatively, you could just close and open your terminal. Now your added alias should be available.
 
 *Contributed by [Luis Rodriguez](http://github.com/codekommissar)*
 
