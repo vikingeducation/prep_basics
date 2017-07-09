@@ -601,7 +601,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice. Ruby on Rails is open source software, with an active community of contributors. Applications such as Hulu, Airbnb, and Github were built with RoR.
+
+*Contributed by [Sam Crabtree](https://github.com/Glitchmeat)*
 
 
 #### Command Line
@@ -620,9 +622,10 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Free licensed code. Anyone is allowed to modify and share as they see fit.
 
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Sam Crabtree](https://github.com/Glitchmeat)*
 
 #### CMS
 
@@ -644,9 +647,10 @@ Abbreviation of Structured Query Language, and pronounced either see-kwell or as
 
 #### XML
 
-Extensible Markup Language (XML) is a text-based format that allows for the structuring of electronic documents and is not limited to a set of labels. XML is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via web services on the public Internet.
+Extensible Markup Language (XML) is a text-based format that allows for the structuring of electronic documents and is not limited to a set of labels. XML is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via web services on the public Internet. While XML is a markup language (like HTML), it doesn't actually perform any functions on its own; rather, the information it stores has to be read by a seperate piece of software.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
+*Contributed by [Sam Crabtree](https://github.com/Glitchmeat)*
 
 #### Schema
 
