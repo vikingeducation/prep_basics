@@ -610,6 +610,13 @@ The interactive shell where you can enter commands that will be run by your oper
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+#### Command Line Games
+
+http://overthewire.org/wargames/
+http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+
+*Contributed by [Jacob Lofton] https://github.com/agjlofto
+
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
