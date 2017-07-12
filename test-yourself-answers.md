@@ -348,6 +348,7 @@ If you type a URL into your browser, your browser extracts the name passes it to
 *Contributed by [Mustafa Katipoğlu](https://github.com/herolenk)*
 
 The part of the URL which specifies the location of the web server who is going to respond to your request.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 
