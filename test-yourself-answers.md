@@ -352,8 +352,6 @@ If you type a URL into your browser, your browser extracts the name passes it to
 *Contributed by [Mustafa Katipoğlu](https://github.com/herolenk)*
 
 
-
-
 #### IP Address
 
 IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
