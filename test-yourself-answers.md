@@ -22,66 +22,58 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
+A web Developer in short builds websites and/or web applications. A Developer works closely with end users, designers to ensure the programs and sites work properly. Some of their responsbilities include building apps or websites from scratch, debugging issues, & maintaining sites and web apps. 
 
-In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web Designers are more focused on the design of the website, including UX while developers are focused more on how build and maintain websites. 
+
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front end  is more focused on the browser side, which includes scripting sites in html and css styling, and integrating javascript. The backend developer is more focused on teh server-side of things. Full stack Developers are proficient in doing both. 
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
-
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+Static pages are less interactive, and consists of pulling a request for a page just to read it's contents.  Dynamic pages, allow more interaction, which includes logging into a site, searching it's contents, filling out a form, etc. 
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
-
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+Start with doing a search on Google, then try searching sites like stackoverflow, check out online manuals and resources, and finally ask someone to assist if you can't find the solution. 
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+there is a meetup in Manila through meetup.com: https://www.meetup.com/ManilaJavaScript/
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What online developer communities can you join?
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
-Look at r/Programming or r/learnprogramming
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+Word-processing is a text editor, but is a wysiwyg application and add formating that would render the code unreadable by a compiler/interpreter. Also text editors make coding a lot easier by allowing coding shortcuts, reccomendations, and color coding. 
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Curiosity, persistence and passion. 
 
+*Contributed by [Chad Brooks](https://github.com/chadbrooks80)*
 
 #### What do companies look for in a junior web developer?
 
@@ -909,5 +901,4 @@ A merge conflict occurs during a merge when the same part of some file has chang
 In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
 
