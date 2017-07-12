@@ -344,7 +344,12 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+If you type a URL into your browser, your browser extracts the name passes it to a domain name server(DNS), and the domain name server returns the correct IP address for the URL.Because of most people having trouble remembering the strings of numbers that make up IP addresses, and because IP addresses sometimes need to change, all servers on the Internet also have human-readable names, called domain names.
+
+*Contributed by [Mustafa Katipoğlu](https://github.com/herolenk)*
 
 
 #### IP Address
@@ -620,9 +625,10 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+The term "open source" refers to something people can modify and share because its design is publicly accessible.It is said "Open source" just mean something is free of charge but this is a common misconception about what "open source" implies and using the code you created after doing some modifications from a open source project may or may not be made available for free , It depends on the project's license.
 
-*Contributed by [Olga](https://github.com/ayva)*
+
+*Contributed by [Mustafa Katipoğlu](https://github.com/herolenk)*
 
 #### CMS
 
@@ -858,18 +864,6 @@ Using a new branch allows the developer to make experimental changes to their pr
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
-#### How do you create a new branch?
-
-Create a new branch by typing:
-
-```
-git checkout -b branch_name
-```
-
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
-
-
 #### Why would you use a branch?
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
@@ -883,7 +877,7 @@ In your terminal type `git branch <name of branch>` to create a branch. Then typ
 
 You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
 
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)* *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
 #### How do you merge branches back together?
