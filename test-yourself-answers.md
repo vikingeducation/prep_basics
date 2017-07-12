@@ -343,6 +343,10 @@ Address that one types in to reach a particular webpage.  Human readable address
 
 
 #### Domain
+If you type a URL into your browser, your browser extracts the name passes it to a domain name server(DNS), and the domain name server returns the correct IP address for the URL.Because of most people having trouble remembering the strings of numbers that make up IP addresses, and because IP addresses sometimes need to change, all servers on the Internet also have human-readable names, called domain names.
+
+*Contributed by [Mustafa Katipoğlu](https://github.com/herolenk)*
+
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
