@@ -271,11 +271,13 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+Bash user you can also do '$ command --help'  for Example '$ mkdir --help'
+
 #### What is a "Superuser" and how do you execute commands as this user?
 
 The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
+sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
@@ -283,9 +285,11 @@ The "Superuser" is a user of a computer system with special privileges needed to
 
 Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
-
+ 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim or sometimes called Vi, is a highly configurable text editor that apprently I have to learn to be a real programmer. There are other like Sublime-Text 2 (which downloaded and was going to keep but you had to pay 70 bucks for that!!!) 
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -300,6 +304,8 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+Protip- for Unbuntu users you can edit the ~./bashrc file to change your bash profile
 
 #### What is the `$PATH` variable?
 
