@@ -620,7 +620,7 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-The term "open source" refers to something people can modify and share because its design is publicly accessible.It is said "Open source" just mean something is free of charge but this is a common misconception about what "open source" implies and using the code you created after doing some modifications from a open source project may or may not be made available for free it depends on the project's license.
+The term "open source" refers to something people can modify and share because its design is publicly accessible.It is said "Open source" just mean something is free of charge but this is a common misconception about what "open source" implies and using the code you created after doing some modifications from a open source project may or may not be made available for free , It depends on the project's license.
 
 
 *Contributed by [Mustafa Katipoğlu](https://github.com/herolenk)*
