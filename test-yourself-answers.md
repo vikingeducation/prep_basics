@@ -346,6 +346,9 @@ Address that one types in to reach a particular webpage.  Human readable address
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+It is the name of the website or URL, and is sometimes called the host name. The host name is a more memorable name to stand in for the numeric, and hard to remember, IP address of a website.
+*Contributed by [Maddie Rajavasireddy](https://github.com/maddiereddy)*
+
 
 #### IP Address
 
@@ -519,6 +522,16 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
+
+#### Web Server
+
+A web service is a collection of open protocols and standards used for exchanging data between applications or systems. Software applications written in various programming languages and running on various platforms can use web services to exchange data over computer networks like the Internet in a manner similar to inter-process communication on a single computer. This interoperability (e.g., between Java and Python, or Windows and Linux applications) is due to the use of open standards.
+
+Web services based on REST Architecture are known as RESTful Web Services. These web services use HTTP methods to implement the concept of REST architecture. A RESTful web service usually defines a URI (Uniform Resource Identifier), which is a service that provides resource representation such as JSON and a set of HTTP Methods.
+
+*Contributed by [Maddie Rajavasireddy](https://github.com/maddiereddy)*
+
+
 ### Developer Tools and Code
 
 #### HTML
@@ -597,6 +610,12 @@ A framework is a collection of libraries that are used for building web applicat
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
+
+#### npm
+
+npm is a package manager for the JavaScript programming language. It is the default package manager for the JavaScript runtime environment Node.js. It consists of a command line client, also called npm, and an online database of public packages, called the npm registry. The registry is accessed via the client, and the available packages can be browsed and searched via the npm website.
+
+*Contributed by [Maddie Rajavasireddy](https://github.com/maddiereddy)*
 
 
 #### Ruby on Rails
