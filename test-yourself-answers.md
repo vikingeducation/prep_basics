@@ -30,15 +30,18 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are focused on the artistic design and UX/UI of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays. While modern web designers often do write code, they work primarily in HTML and CSS--code that affects layout and visual elements rather than the code the runs interactive elements or manipulates information and content in response to user input or actions.
+
+*Contributed by [Dani Cupples](https://github.com/danivcupples)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Typos fixed by [Dani Cupples](https://github.com/danivcupples)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -56,9 +59,9 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+Charlotte Junior Developers, Girl DevelopIt, Code for Charlotte, freeCodeCamp and a number of bootcamps and companies have local developer communities. There are coding crash courses, seminars, expert talks, hackathons and social events. It's a thriving community with many spin-offs into specific language interest groups as well.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Dani Cupples](http://github.com/danivcupples)*
 
 #### What online developer communities can you join?
 
@@ -556,6 +559,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+It is particularly helpful for thinking through code. By writing pseudo-code, a developer is able to outline and think through the steps to complete a task. By breaking down a task into smaller steps in this way, the developer can focus on smaller tasks without losing sight of the big picture.
+
+*Contributed by [Dani Cupples](https://github.com/danivcupples)*
+
 
 #### C
 
@@ -612,7 +619,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+Allows users to keep track of changes made to projects over time. By taking a snapshot of the project at the time of each commit, the user is always able to revert back to an earlier status and can make changes without losing her work history.
+
+*Contributed by [Dani Cupples](https://github.com/danivcupples)*
 
 #### Git
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -717,7 +726,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
