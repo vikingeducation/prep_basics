@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -224,7 +224,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+The command line is also the means in which a user can interact with a computer program by inputting successive lines of text. Command line interfaces (CLI) require a bit of memorization to quickly convey thoughts into commands, but still provide access to all the same information as graphical user interfaces  (GUI’s). Command lines were used for many more functions before usage of a GUI became ubiquitous. Now CLI’s are used normally only by developers.
+*Contributed by [Michelle Ho](http://github.com/michelleyho)* 
+*Contributed by [Paul Brown] (https://github.com/thestoneparadox)*
+
 
 #### How do you open it on your computer?
 
@@ -507,10 +510,12 @@ Content that is visible immediately when the page is loaded, without having to s
 
 #### GUI
 
-Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI.  It is used as a generic term for a visual interface that the user can interact with.
+Graphical User Interface. This is the modern interface that is used across a multitude of computers and devices and allows a user to interact with the electronic device through graphics and indicators. Basically if it isn't a text-based interface it's a GUI. It is used as a generic term for a visual interface that the user can interact with.GUI’s utilize icons, a keyboard, and a mouse (or even your finger) to interact with a computer program.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
 *Contributed by [Chris Fullinwider](https://github.com/Fully34)*
+*Contributed by [Paul Brown] (https://github.com/thestoneparadox)*
+
 
 
 #### Front End / Back End
@@ -540,7 +545,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 #### Javascript
 
-The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+Javascript is a computer programming language utilized for dynamic interaction with web pages. It can make multimedia updates, animate images, and many more things just from inputting the lines of code. Javascript is paired with HTML (Hyper Text Markup Language) and CSS(Cascading Style Sheets). It is the scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
+
+*Contributed by [Paul Brown](https://github.com/thestoneparadox)
+
 
 
 #### AJAX
