@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -114,6 +114,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+The internet is a global network of server computers which are accessed by devices such as computers, tablets, smart phones and future devices, such as home assistants. The servers main use is to dispense information to the end user, whether through static web sites or web applications. Servers also receive data from the end user.  Rarely do two end user's computers connect directly to each other without going through a server.
+
+*Contributed by [Ric Alonso] (https://github.com/ricalonso58)*
 
 #### How is information broken down and sent?
 
@@ -133,12 +136,16 @@ A client is a device that need to get something. For example if we want to watch
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
+A client is a software interface that runs on devices connected to the internet. It can be a web browser, an email application, a home thermostat, Amazon Echo's Alexa, and future devices.
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Ric Alonso] (https://github.com/ricalonso58)*
+
 
 
 #### What is a "server"?
@@ -149,11 +156,14 @@ Basically, it enables the sharing of resources and information for various appli
 
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
+A server can mean any physical computer that serves data. With regard to the internet, a server runs web server programs that serve web sites and web applications. It may also run databases. A web server runs back end programming when needed.
+
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Ric Alonso] (https://github.com/ricalonso58)*
 
 
 #### What is HTTP and how does an HTTP request work?
