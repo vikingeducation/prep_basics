@@ -117,7 +117,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Information is broken down into smaller pieces called "packets" that have a maximum size of 1,500 bytes and are reassembled together at the final destination.
+Because the information is broken down into these "packets", they can each take a different path to the final destination without much issue.
+This is possible because the "packets" are wrapped with a header and footer that lets the receiver, and other computers, know
+how to assemble the packets back together, what kinds of data they contain, and other relevant information.
 
 
 #### What are packets?
@@ -397,6 +400,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 
 #### Web Server
+
+The primary function of a web server is to store, process, and deliver web pages and web apps to clients via HTTP. A client (usually a web browser) makes a
+request for a specific resource to the web server and the web server responds (it can respond with an error message if the resource is not available or if an issue is 
+encountered with the request). A web server can also receive content from a client depending on how it was set up or implemented.
 
 A program usually running on a remote computer that responds to requests from a browser.
 
@@ -790,6 +797,15 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 
 #### How do you add your Github repo as the remote?
+
+In order to add a Github repo as a remote, you must first copy the repo's URL from your Github account.
+After you have copied the URL, you can use the following command in your command prompt:
+
+"git remote add origin <your repo's URL>" 
+(do not include the brackets when adding your URL)
+
+When using this command, you can technically name your repo something other than "origin", but it is conventional to call the online verion of your repo the "origin"
+and it is better to stick to this convention in order to reduce confusion when discussing or working with other developers or when reviewing online resources.
 
 git remote add origin URL
 
