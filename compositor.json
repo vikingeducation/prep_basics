@@ -1,0 +1,85 @@
+{
+  "name": "aaronkeith/prep_basics",
+  "version": "0.1.4",
+  "libraries": {
+    "xv": "^1.1.25"
+  },
+  "title": "",
+  "branch": "",
+  "style": {
+    "name": "Future",
+    "componentSet": {
+      "nav": "nav/BasicNav",
+      "header": "header/BannerHeader",
+      "article": "article/BasicArticle",
+      "footer": "footer/BasicFooter"
+    },
+    "fontFamily": "\"Avenir Next\", Helvetica, sans-serif",
+    "heading": {
+      "fontWeight": 500,
+      "textTransform": "uppercase",
+      "letterSpacing": "0.2em"
+    },
+    "alternativeText": {
+      "textTransform": "uppercase",
+      "fontWeight": 400,
+      "letterSpacing": "0.2em",
+      "opacity": 0.75
+    },
+    "colors": {
+      "text": "#333",
+      "background": "#fff",
+      "primary": "#666",
+      "secondary": "#888",
+      "highlight": "#1f80ff",
+      "muted": "#f6f6f6",
+      "border": "#eee"
+    },
+    "layout": {
+      "centered": true,
+      "maxWidth": 1024,
+      "bannerHeight": "80vh"
+    }
+  },
+  "content": [
+    {
+      "component": "nav",
+      "links": [
+        {
+          "href": "https://github.com/aaronkeith/prep_basics",
+          "text": "GitHub"
+        }
+      ]
+    },
+    {
+      "component": "header",
+      "heading": "prep_basics",
+      "subhead": "The repo students will push to as part of the final project in the Web Development Basics (http://vikingcodeschool.com/web-development-basics) unit of the prep curriculum",
+      "children": [
+        {
+          "component": "ui/TweetButton",
+          "text": "prep_basics: The repo students will push to as part of the final project in the Web Development Basics (http://vikingcodeschool.com/web-development-basics) unit of the prep curriculum",
+          "url": ""
+        },
+        {
+          "component": "ui/GithubButton",
+          "user": "aaronkeith",
+          "repo": "prep_basics"
+        }
+      ]
+    },
+    {
+      "component": "footer",
+      "links": [
+        {
+          "href": "https://github.com/aaronkeith/prep_basics",
+          "text": "GitHub"
+        },
+        {
+          "href": "https://github.com/aaronkeith",
+          "text": "aaronkeith"
+        }
+      ]
+    }
+  ]
+}
