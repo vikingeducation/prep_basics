@@ -296,10 +296,16 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+':wq!' (saves any changes that may have been made to the file)
+*Contributed by [Robert Walker](https://github.com/demond611)*
+
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+The '.bash_profile' can also be used to configure your bash prompt to display personal preferences. The text color, background color, alias commands, etc... can all be saved
+*Contributed by [Robert Walker](https://github.com/demond611)*
 
 #### What is the `$PATH` variable?
 
