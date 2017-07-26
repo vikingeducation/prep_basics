@@ -538,11 +538,6 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
-Cascading Style Sheets define how web pages should look. Cascading refers to the idea that one stylesheet can cascade, or have influence over, multiple pages. Likewise, many CSS files can define a single page.
-
-
-*Contributed by [Elias Hantula](https://github.com/eliashantula/)*
-
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
