@@ -821,6 +821,18 @@ git status
 git log
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+#### How do you see the history of  previous commits from a specific user if there are multiple users (from the command line)?
+
+Use:
+ git log --author="Jon"
+will match a commit made by "Jonathan Smith"
+
+If you don't need any spaces you can use:
+
+git log --author=Jon
+
+*Contributed by [Elias Hantula](https://github.com/eliashantula)*
+
 #### How can you look through your historical commits on the Github website?
 
 You can look through a history of commits by clicking on the repository name and then clicking the commits.
