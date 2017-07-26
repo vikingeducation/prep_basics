@@ -900,6 +900,15 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+#### How do you delete branches?
+
+To delete a remote branch:
+$ git push origin --delete <branch_name>
+
+To delete a local branch:
+$ git branch -d <branch_name>
+
+*Contributed by [Elias Hantula](https://github.com/eliashantula)*
 
 #### How do you merge branches back together?
 
