@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -751,6 +751,9 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+
+
+
 #### How do you create it on Github?
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
@@ -763,6 +766,13 @@ By typing a git command, "git commit -m "Your message". It will move the files f
 The other way is typing a git commit -am "Your message", which will both stage and commit changes.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+
+#### What is good practice for Git commit messages?
+
+Git commit messages should be in the present tense and no more than 50 characters. Its should sum up the changes made.
+
+*Contributed by [Elias Hantula](https://github.com/eliashantula)*
+
 
 #### What is the difference between staging and committing changes?
 
@@ -805,6 +815,18 @@ git status
 
 git log
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+#### How do you see the history of  previous commits from a specific user if there are multiple users (from the command line)?
+
+Use:
+ git log --author="Jon"
+will match a commit made by "Jonathan Smith"
+
+If you don't need any spaces you can use:
+
+git log --author=Jon
+
+*Contributed by [Elias Hantula](https://github.com/eliashantula)*
 
 #### How can you look through your historical commits on the Github website?
 
@@ -885,6 +907,15 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+#### How do you delete branches?
+
+To delete a remote branch:
+$ git push origin --delete <branch_name>
+
+To delete a local branch:
+$ git branch -d <branch_name>
+
+*Contributed by [Elias Hantula](https://github.com/eliashantula)*
 
 #### How do you merge branches back together?
 
@@ -906,8 +937,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
