@@ -910,4 +910,10 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### How do you check that your local version is still up-to-date?
+
+In order to keep your local repo up-to-date you must add the original repo and pull or fetch the changes.
+
+*Contributed by [Algenis Romero](https://github.com/algenisromero)*
+
 
