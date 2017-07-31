@@ -80,8 +80,13 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+Adaptability- being able to learn new things quickly, whether it's a new language or adjusting to a new work environment, being able to adapt to new things quickly is needed for an ever-evolving industry.
+Persistence- problems always crop up. The ability to keep going and not give up, no matter how much hair has been pulled out or how much you want to smash the screen is important. Just keep going, even if it means doing something else for a little while.
+Creativity- finding new/easier ways to do something is always good.
+
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Joe McGarry](https://github.com/jmcg015)*
 
 #### What do companies look for in a junior web developer?
 
@@ -187,7 +192,10 @@ defined in an HTML document, such as fonts, colors, spacing, transparency, align
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
+Cascading Stylesheets (CSS) is used to style the HTML webpage. It can control the font size, font/background/border colours, image size,　alignment... almost any design choice can be done with CSS. It adds a nice bit of flair to the standard HTML.
+
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
+*Contributed by [Joe McGarry](https://github.com/jmcg015)*
 
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
@@ -622,7 +630,10 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+Anyone can use open source software, and anyone is free to edit it and do with it as they please...within reason of course
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Joe McGarry](https://github.com/jmcg015)*
 
 #### CMS
 
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +917,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
