@@ -296,7 +296,7 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
-`:wq` (to write/save and quite)
+`:wq` (to write/save and quit)
 *Contributed by [Hugh Bowman](https://github.com/digitopoi)*
 
 #### What is the `.bash_profile` file and what is it used for?
