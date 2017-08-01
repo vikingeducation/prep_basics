@@ -296,6 +296,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
+`:wq` (to write/save and quit)
+*Contributed by [Hugh Bowman](https://github.com/digitopoi)*
+
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
@@ -395,6 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+APIs can also be internal to an application's backend, e.g. when the front end of an application makes a request to the server.
+
+*Contributed by [Hugh Bowman](https://github.com/digitopoi)*
 
 #### Web Server
 
@@ -556,6 +562,18 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Example:
+```
+  // Calculate paycheck
+  Prompt and get hourly pay rate (payRate) & the number of hours (hours)
+  IF hours <= 50
+    pay = hours * payRate
+  ELSE
+    pay = 50 * payRate
+  ENDIF
+  output play
+```
+*Contributed by [Hugh Bowman](https://github.com/digitopoi)*
 
 #### C
 
