@@ -334,7 +334,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+The web is the world's largest international network of servers and routers. It uses computer protocols to communicate by sending data through fiber optic cables. At first it was exclusively used (and developed) by military, while today it is used in every single country in the world by the general population. *Contributed by [Daniel Söderling](https://github.com/dannepling)*
 
 #### URL( Uniform Resource Locator)
 
@@ -345,7 +345,7 @@ Address that one types in to reach a particular webpage.  Human readable address
 #### Domain
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
-
+The explanation above is applicable to the internet, but domains is also used by companies or other mid-large sized organizations to connect and manage groups of computers in a network. *Contributed by [Daniel Söderling](https://github.com/dannepling)*
 
 #### IP Address
 
@@ -602,7 +602,8 @@ A framework is a collection of libraries that are used for building web applicat
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
-
+(Added by unknown)*
+A framework like rails is a collection of (mostly) well-created methods and classes. In the end you can save a lot of time when creating content and it's often easier to start using a programming-framework instead of the original language. *Contributed by [Daniel Söderling](https://github.com/dannepling)*
 
 #### Command Line
 
@@ -654,9 +655,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +907,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
