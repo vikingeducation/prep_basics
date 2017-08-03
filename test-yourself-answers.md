@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+Raleigh has a lot of tech meetups on Meetup.com. Code for Raleigh and Code for Durham are always working on projects. 
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Michael Costanzo](http://github.com/mvcostanzo)*
 
 #### What online developer communities can you join?
 
@@ -85,25 +88,27 @@ Persistence - The developer world is fraught with obstacles and setbacks, but pe
 
 #### What do companies look for in a junior web developer?
 
-Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.
+Companies want developers who have built working code. They are looking for good portfolios which demonstrate talent and persistence. Passionate and committed developers who are able to communicate effectively and work on a team are in high demand.  
 
-Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques.
+Companies looking for Junior Web Developers are seeking people who are competent communicators, show a high level of effort, creativity, and willingness to learn new technologies and techniques. When describing projects, set a context about the purpose and goals of the software, not just the technology. 
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
+
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
-
+*Contributed by [Michael Costanzo](http://github.com/mvcostanzo)*
 
 #### What is the hiring process like for a developer?
 
-To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements).  If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
+To apply for a job, you'll have to submit a resume, cover letter, links to your portfolio projects, and your Github page.  If the employer likes what they see, you will likely have a phone screen interview, through which the employer will get more information on your background and interest in the position (and also determine if you pass their baseline requirements). If you are working with a recruiter for a temporary position, you will have multiple rounds of phone screens with the staffing firm and then again with the hiring client. If they bring you on-site, you will likely have a series of interviews, each with a different focus (behavior assessment, portfolio/code review, on-the-spot programming observation).  Every company's different, but this is the sort of application process I would prepare for!
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
-
+*Contributed by [Michael Costanzo](http://github.com/mvcostanzo)*
 
 ## How the Web Works
 
