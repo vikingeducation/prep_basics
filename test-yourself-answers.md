@@ -868,6 +868,13 @@ git checkout -b branch_name
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
+#### How do you switch between branches?
+
+git checkout branch_name
+
+*Contributed by [Shweta](https://github.com/shwetar)*
+
+
 
 
 #### Why would you use a branch?
