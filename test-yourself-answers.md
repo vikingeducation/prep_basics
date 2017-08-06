@@ -560,6 +560,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 #### C
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+It's the 'lingua franca' of programming, today it's used for writing other languages (ruby, python, ...), system embedded programming, command line tools, daemons, operating systems and basically for everything that concerns low-level programming.
 
 
 #### Ruby
