@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -31,6 +31,16 @@ In other words, a web developer plays the role of both an architect and handyman
 #### What's the difference between web developers and web designers?
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+
+<!-- Inclussion begins -->
+Web developers are the ones concerned with the inner works of a site. They make sure all gears and bolts are in place and do what they are supposed to do. Their goal is to deliver a site that works.
+
+Web designers are the people who take care fo the appearance of a website. They take care of the aspect of the user interface.
+
+The difference might seem clear cut, but since designers and developers work together to deliver the final product (i.e., a website), it is not uncommon for them to work in the other one's field.
+
+*Contributed by [Diosnel Herrnsdorf](https://github.com/Diosnel)*
+<!-- Inclussion ends -->
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -231,6 +241,15 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+<!-- Inclussion begins -->
+If you are a Linux user, chances are you know how to do it, but for the sake of completeness, these are a few ways.
+
+  * Press the equivalent of the 'Start' button on the Desktop you are using and look for `terminal`.
+  * Go radical and move to a Command Line Interface (CLI) by pressing `Ctrl+Alt+F(2~6)`, log in with your credentials, and you'll be away from the Graphical User Interface (GUI).
+
+*Contributed by [Diosnel Herrnsdorf](http://github.com/Diosnel)*
+<!-- Inclussion ends -->
 
 #### What is Bash?
 
@@ -623,6 +642,12 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+<!-- Inclussion begins -->
+The open-source model is a decentralized development model that encourages open collaboration. A main principle of open-source software development is peer production, with products such as source code, blueprints, and documentation freely available to the public. The open-source movement in software began as a response to the limitations of proprietary code. The model is used for projects such as in open-source appropriate technologies, and open-source drug discovery [Open-source Model](https://en.wikipedia.org/wiki/Open-source_model).
+
+*Contributed by [Diosnel Herrnsdorf](https://github.com/Diosnel)*
+<!-- Inclussion ends -->
 
 #### CMS
 
