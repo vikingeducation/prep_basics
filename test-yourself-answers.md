@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,7 +667,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -717,9 +717,9 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
+**S**ource **C**ode **M**anagement is generally achieved via software that provides coordination, communication and version control services to developers.
 
+*Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 #### What is a VCS?
 
@@ -784,7 +784,7 @@ Committing your changes will only save them in your local repository. Pushing th
 
 #### What is the difference between a "remote" and your local repo?
 
-A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the enviroment where we can make local changes and is typically the one on our computer.
+A remote repo allows you to either pull upstream changes from the master repo, or publish (push) your local commits. A local repo is the environment where we can make local changes and is typically the one on our computer.
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
@@ -805,6 +805,12 @@ git status
 
 git log
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+### How can you look for specific changes in different version of your saved commits?
+
+git diff
+
+You can add the commit IDs to compare two specific commits to see what exactly was changed in the code.
 
 #### How can you look through your historical commits on the Github website?
 
@@ -840,6 +846,15 @@ Making an identical copy of a Git repo on your local server is "cloning" the rep
 
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
+#### How do you clone a GitHub repo to your local device?
+
+Click the green box that says "Clone or download" and copt the url given. In your terminal/command-line type in:
+
+git clone <url>
+
+Make sure you are in the correct directory where you want the repo so be cloned to (i.e. Desktop).
+
+*Contributed by [Daniel Nguyen](https://github.com/ziggysauce)]*
 
 #### What is "Branching"?
 
@@ -885,6 +900,13 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
+#### How do you navigate to a different branch?
+
+git checkout <branch desired>
+
+This will take you to the branch you wish to work on. If the brnach has not been created yet, use the code:
+
+git checkout -b <new branch>
 
 #### How do you merge branches back together?
 
@@ -906,8 +928,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
