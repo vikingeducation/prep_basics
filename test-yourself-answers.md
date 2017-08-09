@@ -54,6 +54,12 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+[Here are the answers that you seek.](http://lmgtfy.com/?q=what%27s+the+difference+between+a+git+push+pull)
+
+In all seriousness, leveling up your Google-fu is probably just as important as the traditional skills you would put on your resume. It can kind of be daunting to come to terms that you'll never know everything, but at the same time, can be comforted by the fact that somebody else probably already faced what you're stuck on.
+
+*Contributed by [Hai Nguyen](http://github.com/memyselfandhai)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -326,7 +332,9 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### Do you need a handy cheat sheet of command line shortcuts?
 
+[Best Shortcuts for Maximum Productivity](https://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 
 
 ## Terms to Know
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,11 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### Do you have a cheat sheet for git commands?
+
+[Sure do.](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
