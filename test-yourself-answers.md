@@ -402,6 +402,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+A computer system that stores, processes, and delivers web pages to clients through http requests.
+
+*Contributed by [James Cosgrove](http://github.com/Seamus88)*
 
 #### Bugs
 
@@ -536,7 +539,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
+Used for describing the presentation of a document written in HTML to make the documents visually engaging.
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [James Cosgrove](https://github.com/Seamus88)*
 
 #### Javascript
 
@@ -556,6 +562,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+A description of what a computer program's code is doing. Made to be read and understood by humans instead of by the computer.
+
+*Contributed by [Unknown]*
+*Contributed by [James Cosgrove](https://github.com/Seamus88)*
 
 #### C
 
@@ -614,6 +624,11 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+A system that records and controls the changes you make to different documents over time. So you can then revert to older versions if you wish. 
+
+*Contributed by [Unknown]*
+*Contributed by [James Cosgrove](https://github.com/Seamus88)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -654,9 +669,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
