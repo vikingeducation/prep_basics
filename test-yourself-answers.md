@@ -336,6 +336,7 @@ i.e. 'subl text.txt'
 
 [Best Shortcuts for Maximum Productivity](https://www.skorks.com/2009/09/bash-shortcuts-for-maximum-productivity/)
 
+*Contributed by [Hai Nguyen](https://github.com/memyselfandhai)*
 
 ## Terms to Know
 
@@ -922,3 +923,5 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 #### Do you have a cheat sheet for git commands?
 
 [Sure do.](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+*Contributed by [Hai Nguyen](https://github.com/memyselfandhai)*
