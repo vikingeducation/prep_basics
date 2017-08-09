@@ -54,6 +54,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+As mentioned prior, google is a fantastic way to seek help. Stack Overflow and Quora tend to be useful sources to look for help topics as well!
+
+*Contributed by [Berk Nacir](http://github.com/Berk91)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -119,7 +123,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Information is broken down into bit sized data(see what I did there?) and sent one at a time to it's destination (computer, server, email, whatever it may be)
 
+*Contributed by [Berk Nacir](http://github.com/Berk91)*
 #### What are packets?
 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
@@ -177,6 +183,10 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
+HTML is a subset of XML and is different from CSS, which is used for the design of webpages. Both are often learned together, however.
+
+*Contributed by [Berk Nacir](http://github.com/Berk91)*
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
