@@ -261,6 +261,10 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+The three basic types of file permissions are read, write, and execute. Different users (or groups of users) can be given access to any one of these permissions. They are important because they can help customize access to files; for example, in a Healthcare setting: a doctor should be able to read AND write to a patient's lab results file, however the patient should only be able to read it.
+
+*Contributed by [Steven Zarrella](https://github.com/stevenvz)*
+
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -315,6 +319,10 @@ $PATH dictates the locations within a file tree that contains commands executabl
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
+
+If you've just installed a new application and want to be able to run it from the command line, you might need to add it into your $PATH variable.
+
+*Contributed by [Steven Zarrella](https://github.com/stevenvz)*
 
 #### What are alias commands?
 
@@ -555,6 +563,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 #### Pseudo-Code
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
+
+A mix of human language & computer code, usually quickly tapped out in the planning stages of writing code in order to help give an overview of the basic building blocks that will be needed.
+
+*Contributed by [Steven Zarrella](https://github.com/stevenvz)*
 
 
 #### C
