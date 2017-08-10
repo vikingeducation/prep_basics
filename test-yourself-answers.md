@@ -34,15 +34,15 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual web page itself, how the site looks to the end user. Back-end developers focus on the server side code that runs the application. Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+Dynamic web pages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
 Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
@@ -203,10 +203,10 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 #### What happens behind the scenes after you click "search" on google.com?
 
 A single click rings out on a dark night...
-Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
-Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
-Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
+Picoseconds later (a lot of them) the input is received by a usb or other peripheral device port.
+Nanoseconds later (a pile of them) a short string of integers is sent and interpreted by the CPU of device used as a "click".
+Milliseconds later (a group of them) a command is sent to open up an http handshake.
+Microseconds later (a few of them) the handshake is confirmed and search query data is exchanged
 Centiseconds later (a handful of them) the data is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
@@ -228,9 +228,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 #### How do you open it on your computer?
 
-Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`. Also, you type `Ctrl + Alt + T` in Debian based Linux machines.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Adam Rios](https://github.com/mricab)*
 
 #### What is Bash?
 
@@ -298,8 +299,10 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+'~/.bash profile' is a configuration script that contains variable declarations, commands to be executed on login, export variables and other values that define the default shell environment. It is used for storing values like $PS1 (sets how the prompt will be displayed), $HOME (stores the path to the home directory), aliases for frequently used functions, custom functions, etc.
+
+This file is executed first during a login shell (when the user is prompted to introduce its credentials before running bash) and later in non-login or interactive shells. Therefore, its values prevail when a login shell its executed.
+*Contributed by [Adam Rios](https://github.com/mricab)*
 
 #### What is the `$PATH` variable?
 
@@ -398,10 +401,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is a computer system which primary function is to store, process and deliver web pages to its clients. It responds to requests of its clients using the HTTP and HTTPS protocols and send mostly HTML files, though nowadays various other types of files are used to deliver web pages like XML or JavaScript. Web servers are generally composed of a physical server, an OS and software to facilitate HTTP communication.
 
-*Contributed by [Unknown]*
-
+*Contributed by [Adam Rios](https://github.com/mricab)*
 
 #### Bugs
 
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,7 +669,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -906,8 +908,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
