@@ -77,6 +77,8 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 Another very popular open source text editor designed for programming is Atom text editor.
 
+*Contributed by [Joe Vitale](https://github.com/JoeVitale1)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
