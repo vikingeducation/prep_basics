@@ -42,11 +42,11 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+Static web pages display the same pre-built content each time the page is loaded, and as such are suitable for pages with content that never or rarely needs to be updated.  They are typically written in plain HTML, and are delivered to the user exactly as stored on the web server.  One advantage of static web pages is that they provide improved security over dynamic web pages.  One disadvantage is that any dynamic functionality needs to be added separately
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Dynamic web pages provide a "live", "dynamic", or "interactive" user experience, wherein content on the page can change in response to different contexts or conditions.  They can be implemented using client-side scripting or using server-side scripting.  Client-side scripting changes interface behaviors within a specific web page in response to mouse or keyboard actions, or at specified timing events, with content being generated on the user's local computer.  A typical client-side scripting language is JavaScript.  Server-side scripting is implemented by an application server processing server-side scripts.  Web pages that use server-side scripting are often created with the help of languages such as Ruby, Python, PHP, Perl, ASP, ASP.NET, and other languages.
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Evan Roberts](https://github.com/erobotz)*
 
 #### What's the best way to get help when you get stuck?
 
@@ -165,19 +165,18 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+Domain Name System (DNS) servers are specialized computers that translate human-readable, text-based identifiers into numeric identification or addressing components.  The most important function of DNS servers is the translation (resolution) of human-readable domain names and hostnames into their corresponding Internet Protocol (IP) addresses.
 
-For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
+As an example, DNS servers provide us humans the convenience of only needing to remember the URL https://www.vikingcodeschool.com as opposed to the IP address 62.116.130.8.
 
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Evan Roberts](https://github.com/erobotz)*
 
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+Hyper Text Markup Language (HTML) is the markup language used for creating web pages.  HTML describes the structure of web pages using various HTML tags, which represent the building blocks of the web page.  These tags are used to render the content of the web page.  The tags label pieces of content such as headings, paragraphs, tables, etc.
+
+*Contributed by [Evan Roberts](https://github.com/erobotz)*
 
 
 #### What is CSS and how is it used?
@@ -654,9 +653,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +905,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
