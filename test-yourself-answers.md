@@ -54,6 +54,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+Additionally, you can also use Mozilla Developer Network (MDN) as a great resource for information on specific elements of programming languages. 
+
+*Contributed by [David Aguillon]
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
