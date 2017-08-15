@@ -556,6 +556,11 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+When describing how a solution may be implemented in actual code, instead of using some target language, like Ruby, for instance, the developer decides to use a simple to understand programming language.
+That is called pseudo-code and it is used by explaining concepts and implementations more easy to other developers from other target languages that can then follow and make the real implementation in some target language.
+
+*Contributed by [Eduardo Weidman Barijan](https://github.com/weidmaster)*
+
 
 #### C
 
@@ -602,6 +607,10 @@ A framework is a collection of libraries that are used for building web applicat
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+
+Ruby on Rails is a web framework for developing web applications using Ruby language.
+
+*Contributed by [Eduardo Weidman Barijan](https://github.com/weidmaster)*
 
 
 #### Command Line
@@ -763,6 +772,10 @@ By typing a git command, "git commit -m "Your message". It will move the files f
 The other way is typing a git commit -am "Your message", which will both stage and commit changes.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+
+Just remember if you are commiting for the first time using Git Bash on Windows, you won't be able to use -am flag as a shortcut.
+
+*Contributed by [Eduardo Weidman Barijan](https://github.com/weidmaster)*
 
 #### What is the difference between staging and committing changes?
 
