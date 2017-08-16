@@ -119,6 +119,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+A device connects to POP (Point of Presence), which is connected to NAP (Network Access Points). The data/information is sent in smaller pieces called network “packets.” The data is then sent to the internet guided by routers.
+
+*Contributed by [Dominique Mitchell](https://github.com/dominiquemitchell)*
+
 
 #### What are packets?
 
@@ -287,6 +291,9 @@ Text editor that often causes debates with emacs lovers.
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+Vim is a text editor that is highly configurable. It is often known as the “programmer’s editor.”
+*Contributed by [Dominique Mitchell](https://github.com/dominiquemitchell)*
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -363,6 +370,9 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 The Domain Name System, or DNS, is the phone book of the Internet. It takes human-readable URLs and translates them to IP addresses so that packets know exactly where to go.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
+
+DNS is a directory of IP addresses, similar to a phone book.
+*Contributed by [Dominique Mitchell](https://github.com/dominiquemitchell)*
 
 
 #### HTTP
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
