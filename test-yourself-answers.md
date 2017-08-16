@@ -75,6 +75,12 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+#### Why is it better to use a developer-friendly text editor like Atom or Sublime Text than something oriented more towards word-processing like Microsoft Word?
+
+One reason to use a developer-friendly editor like Sublime is the ability to do batch edits--you can also do edits to multiple variables very quickly.
+
+*Contributed by [Eliot Jordon](http://github.com/vimusr)*
+
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
@@ -252,6 +258,14 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ rm -rf <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+#### How do you destroy a directory?
+
+Along with the above explanation on destroying a directory, you can also use the following command (only if the directory is empty):
+
+rmdir <directoryName> 
+
+*Contributed by [Eliot Jordon](http://github.com/vimusr)*
+
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
@@ -278,6 +292,14 @@ The "Superuser" is a user of a computer system with special privileges needed to
 'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
+
+#### What is a "Superuser" and how do you execute commands as this user?
+
+The sudo command effectively elivates the user to root while not actually staying under the root user account.  If you want to stay root (which isn't really recommended...but you can,) you would run:
+
+sudo su
+
+*Contributed by [Eliot Jordon](http://github.com/vimusr)*
 
 #### What is Vim?
 
