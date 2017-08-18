@@ -20,6 +20,13 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 ## All About Web Developers
 
+#### Why Web Development is a great choice for you!
+
+I believe that Web Development along with other kinds of coding/programming is a beneficial and should be an essential part of our education for the following reasons:
+We live in a world where technology and the Internet of Things are growing and becoming more and more life like in the sense that the communication and connectivity is improving on all platforms. Technology is a growing organism and we must learn about it. The tech skills you learn through programming will help you navigate the interconnected world of technology and be able to add to the world we live in. We have the power now to contribute to open source projects that could possibly change the course of human history as we know it. We can change the world for the better. These skills also allow people to create, build and expand their consciousness and their skills, to explore a world of their own making. Let us improve our world.
+
+*Contributed by [JJ Meyer](https://github.com/BlueMangoDream)*
+
 #### What does a Web Developer do?
 
 A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
@@ -68,6 +75,10 @@ Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
+
+The reason why we as developers and future developers must accustom ourselves with a developer-type text editor is quite simple. These editors are designed to help a developer move around blocks of code to adjust for scope, syntax highlighting for each language format so that each language is easier to read/write and implement. Programmers are constantly working with various amounts of objects, variables and constants and such editors are designed to help the coder to identify the afformentioned entities. They help save time with specific shortcuts and assistance that close the gap of human-computer cognition.
+
+*Contributed by [JJ Meyer](https://github.com/BlueMangoDream)*
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
@@ -563,6 +574,10 @@ An older, light weight programming language that direcly inspired the developmen
 
 
 #### Ruby
+
+Ruby is a high-level programming language created in the 90's by Yukihiro "Matz" Matsumoto. Matz designed Ruby/ruby to make programmers happy. Meaning that he understood that we write thousands of lines of code and while we are grinding our fingers on our keyboards countless hours a day we must be able to enjoy it and be able to focus on refactoring your programs. Ruby incorporates Meta-Programming (fancy term for code that writes code) and is a language that is easy to read and understand. Because of it's simplicity in syntax, the concepts of OOP (Object Orientated Programming) make it simpler to understand how your program works but also allows you to create complex applications with less lines of code. A similar concept to Scala programming which I see as the Ruby of Java.
+
+*Contributed by [JJ Meyer](https://github.com/BlueMangoDream)*
 
 Ruby is the most enjoyable language on earth. Easy and happy to code.
 
