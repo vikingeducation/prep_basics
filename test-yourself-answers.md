@@ -54,6 +54,9 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+The best place to look for answers when you get stuck is google. Some other resources that I have found useful are YouTube and Stack overflow.
+*Contributed by [Carleton Snow] (https://github.com/chip90)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -114,6 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+The Internet is a world wide network of interconnected computers and devices.
+*Contributed by [Carleton Snow] (https://github.com/chip90)*
+
 
 #### How is information broken down and sent?
 
@@ -170,6 +176,9 @@ A DNS server is a special kind of computer that links human-readable names of we
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+
+DNS servers receive domain name such as www.google.com from your browser and then send your browser the IP address of the requested website.
+*Contributed by [Carleton Snow] (https://github.com/chip90)*
 
 
 #### What is HTML and how is it used?
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
