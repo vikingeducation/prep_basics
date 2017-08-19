@@ -554,7 +554,11 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Is a simple technique that lets you write out step-by-step instructions for your program in plain English instead of a programming
+language. It enables you to break a problem down into simple steps like a computer would without the hassle of getting bogged down
+in syntax.
+
+*Contributed by [Kevin Lezama](https://github.com/Caesar-Zama)*
 
 
 #### C
