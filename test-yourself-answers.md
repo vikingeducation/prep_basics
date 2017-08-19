@@ -389,11 +389,11 @@ POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol
 
 #### API
 
-API stands for Application Programming Interface, which is a set of programming instructions and standards for accessing a Web-based software application. Software companies typically release APIs to the public so that other software developers can design products that are powered by its service.
+A.P.I. (Application Programming Interface) is a set of routines, protocols and tools for building software applications. An API eases the development of a program by providing all the essential components you need for your build. In terms of web development, it is a way for a website to access an application or database (of different sources) to provide data on at the users request.
 
-For example, Amazon.com released its API so that web developers could more easily access Amazon's product information. Using the Amazon API, a third-party website can post direct links to Amazon products with updated prices and product descriptions.
+Before the days of dynamic websites which included API's, when making hotel reservations, a traveler would need to call each individual hotel, to inquire about room availability, price, location and more. Now, a website can be built to access each hotels database, and provide that data using an API.
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Kevin King](http://github.com/SweatyKeys)*
 
 
 #### Web Server
@@ -612,7 +612,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+Version control is a record of changes to files or set of files that can be recalled later on.
+
+* Contributed by [Kevin King](https://github.com/SweatyKeys)*
 
 #### Git
 
@@ -830,8 +832,8 @@ A pull request is when you contribute to someones else's project, and you let th
 
 #### What is "Forking" a repo?
 
-Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Forking is like receiving a photocopied version of someones essay, so you can edit it, without making marks on the original copy. by forking on Github, you now have a personal copy of someone's project, to which you can clone it on your computer. Once you've made the desired changes, you can keep it for your own use, or make a pull request to the original copy's author. Whether or not changes will be made to the master will be up to the original creator of the project.
+*Contributed by [Kevin King](https://github.com/SweatyKeys)*
 
 
 #### What is "Cloning" a repo?
