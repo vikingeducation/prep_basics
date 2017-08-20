@@ -107,7 +107,6 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 ## How the Web Works
 
-
 #### What is the internet?
 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
@@ -118,6 +117,8 @@ Simply put, the internet is a global system of interconnected computers and devi
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
+A very basic rule of data (files, e-mails, web pages et-cetera) transmission across the Internet, and actually a distinctive feature of the TCP/IP protocols used to move data, is that data is never transmitted “as such”. Instead, it is subdivided in so-called “packets” before transmission.
+*Contributed by [Vadim Vainer](https://github.com/VainerV)*
 
 
 #### What are packets?
@@ -242,6 +243,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ cd <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+
 #### How can you create a directory?
 `$ mkdir <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
@@ -334,6 +336,9 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
+The World Wide Web (abbreviated WWW or the Web) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet. English scientist Tim Berners-Lee invented the World Wide Web in 1989. Source Wikipedia.
+    Nework of the computers connected between each other via servers.
+    *Contributed by [Vadim Vainer](http://github.com/VainerV)*
 
 
 #### URL( Uniform Resource Locator)
@@ -401,6 +406,10 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+A Web server is a program that uses HTTP (Hypertext Transfer Protocol) to serve the files that form Web pages to users, in response to their requests, which are forwarded by their computers' HTTP clients. Dedicated computers and appliances may be referred to as Web servers as well. Source techtarget.com
+*Contributed by [Vadim Vainer](http://github.com/VainerV)*
+
 
 
 #### Bugs
@@ -602,6 +611,9 @@ A framework is a collection of libraries that are used for building web applicat
 #### Ruby on Rails
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+
+Ruby on Rails, or simply Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages. Source Wikipedia
+*Contributed by [Vadim Vainer](https://github.com/VainerV)*
 
 
 #### Command Line
