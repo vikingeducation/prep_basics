@@ -158,9 +158,9 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Joshua M Hall](https://github.com/reformedinchrist)*
 
 
-#### What is https and how does an https request work?
+#### What is HTTP and how does an HTTP request work?
 
-https stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the https request and sends it to the server, which also responds via https to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the http request and sends it to the server, which also responds via http to provides the data & files for the requested site.
 
 *Contributed by [Adam Kinson](https://github.com/kinsona)*
 
@@ -370,9 +370,9 @@ The Domain Name System, or DNS, is the phone book of the Internet. It takes huma
 *Contributed by [Malcolm Reddoch](https://github.com/mreddoch)*
 
 
-#### https
+#### HTTP
 
-https stands for Hypertext Transfer Protocol. It is the protocol or standard used for transferring information around the web. It is the agreed upon way a browser (or client) and server "talk" through requests by the browser (or client) and responses by the server.
+HTTP stands for Hypertext Transfer Protocol. It is the protocol or standard used for transferring information around the web. It is the agreed upon way a browser (or client) and server "talk" through requests by the browser (or client) and responses by the server.
 
 HyperText Transfer Protocol, defines how messages are formatted and transmitted and what actions web servers and browsers should take in response to various commands. For example a URL request to retrieve a web page from a server.
 
