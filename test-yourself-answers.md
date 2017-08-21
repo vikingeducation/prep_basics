@@ -67,6 +67,9 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Stack Overflow & Github
+*Contributed by [Davey Wright](http://github.com/davey-wright)*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -119,6 +122,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+The transmitting computer chops the information/data into smaller chunks called Network Packets. The packets are addressed(IP address) and sent individually over the internet with instructions on how to assemble them together and recreate the original file.
+
+*Contributed by [Davey Wright](https://github.com/davey-wright)*
 
 #### What are packets?
 
@@ -805,6 +811,10 @@ git status
 
 git log
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+git log -oneline
+	Will display part of each commits shacode and message on oneline
+*Contributed by [Davey Wright](https://github.com/davey-wright)*
 
 #### How can you look through your historical commits on the Github website?
 
