@@ -119,6 +119,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+The transmitting computer chops the information/data into smaller chunks called Network Packets. The packets are addressed(IP address) and sent individually over the internet with instructions on how to assemble them together and recreate the original file.
+
+*Contributed by [Davey Wright](https://github.com/davey-wright)*
 
 #### What are packets?
 
