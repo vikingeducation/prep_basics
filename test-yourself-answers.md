@@ -301,6 +301,10 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
+The bash_profile can also be used for customization. It can alter not only the appearance of your terminal to cater to your preferences visually (say to have different file types displayed in differing colors for ease of discernment), but can also add and set various preferences that the user prefers for ease in commanding the terminal (eg. that certain commands can be assigned a name so that instead of typing a longer or less intuitive command into the terminal, the user can type a simplified name of their choosing that is assigned to a specific command by their profile).
+
+*Contributed by [Jeff Dederick](https://github.com/Seeker0)*
+
 #### What is the `$PATH` variable?
 
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
@@ -335,6 +339,9 @@ Define the following:
 
 ### The Web
 
+The collection of programs, websites and information that is created, stored and maintained on various computers that are connected via a global network.
+
+*Contributed by [Jeff Dederick](http://github.com/Seeker0)*
 
 #### URL( Uniform Resource Locator)
 
@@ -614,6 +621,14 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+----------
+
+A system that allows for working on a project, either by a single person or many, that by allowing there to be any number of current working versions of the project or even piece of the project, each can be altered without effecting the central or "master" files of the project until it is approved and will cause no error to the original files.
+
+Also by keeping each version separate and time stamped, reverting to an earlier version or omitting entire sections of code is possible without having to rewrite each piece of the project that would be effected by the changes.
+
+*Contributed by [Jeff Dederick](https://github.com/Seeker0)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -654,9 +669,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
