@@ -809,6 +809,10 @@ git status
 git log
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+git log -oneline
+	Will display part of each commits shacode and message on oneline
+*Contributed by [Davey Wright](https://github.com/davey-wright)*
+
 #### How can you look through your historical commits on the Github website?
 
 You can look through a history of commits by clicking on the repository name and then clicking the commits.
