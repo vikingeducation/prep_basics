@@ -561,6 +561,8 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
+FAST!!!
+
 
 #### Ruby
 
@@ -569,6 +571,10 @@ Ruby is the most enjoyable language on earth. Easy and happy to code.
 Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+A highly readable and simple programming language made to resemble plain english as much as possible.
+
+*Contributed by [Aaron Saloff](https://github.com/asaloff)*
 
 
 #### Ruby Gems
@@ -654,9 +660,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -714,6 +720,10 @@ An integrated development environment (IDE) created by Apple for developing OS X
 Git is the most popular distributed version control system used for software development.  It is used to efficiently maintain and manage code for a project, is free and open source, has an emphasis on speed and data assurance, and allows for multiple workflows which can branch out or merge as needed.
 
 *Contributed by [Adan Camacho](https://github.com/adancode)*
+
+An awesome version control web app used for version control and storing code.
+
+*Contributed by [Aaron Saloff](https://github.com/asaloff)*
 
 #### What does SCM stand for?
 
@@ -906,7 +916,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
