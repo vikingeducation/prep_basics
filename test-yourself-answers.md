@@ -257,6 +257,21 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ mv <oldFileName> <newFileName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+#### How can you copy a file to another directory?
+
+`$ cp <fileName> <directoryName>`
+*Contributed by [Aaron Feigenbaum](http://github.com/adace123)*
+
+#### How can you view the contents of a file?
+
+`$ cat <fileName>`
+*Contributed by [Aaron Feigenbaum](http://github.com/adace123)*
+
+#### How do you make a file from the command line?
+
+`$ touch <fileName>`
+*Contributed by [Aaron Feigenbaum](http://github.com/adace123)*
+
 #### Why are file permissions important?
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
