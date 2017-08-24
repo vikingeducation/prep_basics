@@ -554,8 +554,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Pseudo-Code is a method for programmers to wire-frame their logic structures before beginning the actual coding progress. Plain-english is used as the initial sketch of the program and then replaced piece by piece with code.
 
+*Contributed by [Brian Carroll](https://github.com/BrianCarroll112)*
 
 #### C
 
@@ -601,8 +602,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
-Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
+Ruby on Rails is the "Rails" framework written primarily in the Ruby language. Rails uses the model-view-controller pattern and provides an easy method for creating web applications.
 
+*Contributed by [Brian Carroll](https://github.com/BrianCarroll112)*
 
 #### Command Line
 
@@ -612,7 +614,9 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+Version control is a coding paradigm giving the ability to keep track of every change made to the codebase. Revisions may be added by multiple parties and labeled/timestamped with the future option to roll back any changes.
+
+*Contributed by [Brian Carroll](https://github.com/BrianCarroll112)*
 
 #### Git
 
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +910,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
