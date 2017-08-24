@@ -900,13 +900,11 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 In order to merge branches back together you should merge the master branch into your-branch
 
-`$git checkout your-branch`
-`$git merge master`
+First `$git checkout your-branch` then `$git merge master`
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
 
-`$git checkout master`
-`$git merge your-branch`
+First `$git checkout master` then`$git merge your-branch`
 
 You'll see output indicating any changes that were made
 
