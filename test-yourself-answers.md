@@ -71,9 +71,11 @@ Look at r/Programming or r/learnprogramming
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
+Additionally, developer-friendly editors have features such as syntax highlighting, indent guides, auto-complete, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+Some of the most popular developer-friendly text editors are Sublime Text, Atom, Brackets. Some allow you to add on custom modules and features that can make your life easier. Why not try out a bunch of editors and see what you prefer?
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### What are the top 3 characteristics of great web developers?
 
