@@ -71,9 +71,11 @@ Look at r/Programming or r/learnprogramming
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
+Additionally, developer-friendly editors have features such as syntax highlighting, indent guides, auto-complete, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+Some of the most popular developer-friendly text editors are Sublime Text, Atom, Brackets. Some allow you to add on custom modules and features that can make your life easier. Why not try out a bunch of editors and see what you prefer?
+
+*Contributed by [Aaron Dressler](http://github.com/aarondressler) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -165,11 +167,11 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+A DNS server is a special kind of computer that links human-readable names of URLs, such as www.google.com, to the actual IP address location, where the website content is actually stored. When you type in a site's URL, the DNS points you to the correct IP address for that URL.
 
-For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
+For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser! (Not all websites can be accessed directly by IP address, and Google uses a range of IP addresses, so YMMV depending on time and location)
 
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+*Contributed by [Daniel Au](https://github.com/dakmau) and [Andrei Calinescu](https://github.com/drecali)*
 
 
 #### What is HTML and how is it used?
@@ -235,6 +237,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
@@ -273,11 +276,11 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
-The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using `sudo` in the command line, which stands for Superuser do.
 
-'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
+`sudo` allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
-*Contributed by [Matt Davis](http://github.com/chiewieee)*
+*Contributed by [Matt Davis](http://github.com/chiewieee) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### What is Vim?
 
@@ -285,6 +288,7 @@ Text editor that often causes debates with emacs lovers.
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
@@ -322,9 +326,9 @@ Alias commands are shortcuts that can be set up for use with the command line. T
 
 For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
 
-i.e. 'subl text.txt'
+i.e. `subl text.txt`
 
-*Contributed by [Matt Davis](http://github.com/chewieee)*
+*Contributed by [Matt Davis](http://github.com/chewieee) and [Andrei Calinescu](https://github.com/drecali)*
 
 
 
@@ -758,17 +762,17 @@ By clicking on the plus symbol ('+') of your github user account and selecting N
 
 #### How do you commit changes?
 
-By typing a git command, "git commit -m "Your message". It will move the files from staged to unmodified. Type "git status" prior to commit. You can see "Changes to be committed:". Type "git status" again after commit, you will see "nothing to commit, working directory clean".
+By typing a git command, `git commit -m "Your message"`. It will move the files from staged to unmodified. Type `git status` prior to commit. You can see "Changes to be committed:". Type `git status` again after commit, you will see "nothing to commit, working directory clean".
 
-The other way is typing a git commit -am "Your message", which will both stage and commit changes.
+The other way is typing a `git commit -am "Your message"`, which will both stage and commit changes.
 
-*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Coco Matthey](https://github.com/cocoyeh) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### What is the difference between staging and committing changes?
 
-Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
+Staging is moving files from Modified to Staged by issuing a git command, `git add your_file`, `git add .` , or `git add -A`. Committing is moving files from Staged to Unmodified.
 
-*Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Coco Matthey](https://github.com/cocoyeh) and [Andrei Calinescu](https://github.com/drecali)*
 
 
 
@@ -791,20 +795,26 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 #### How do you add your Github repo as the remote?
 
+```
 git remote add origin URL
+```
 
 URL is copied from my repo in my GitHub account
-*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*Contributed by [Dariusz Biskupski](https://github.com/Visiona) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### How do you check the status of your current repo in git?
 
+```
 git status
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+```
+*Contributed by [Dondi Fusco](https://github.com/dondi2112) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### How do you see the history of your previous commits (from the command line)?
 
+```
 git log
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+```
+*Contributed by [Dondi Fusco](https://github.com/dondi2112) and [Andrei Calinescu](https://github.com/drecali)*
 
 #### How can you look through your historical commits on the Github website?
 
@@ -890,15 +900,15 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 In order to merge branches back together you should merge the master branch into your-branch
 
-$git checkout your-branch
-$git merge master
+First `$git checkout your-branch` then `$git merge master`
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
 
-$git checkout master
-$git merge your-branch
+First `$git checkout master` then`$git merge your-branch`
 
 You'll see output indicating any changes that were made
+
+*Contributed by anon and [Andrei Calinescu](https://github.com/drecali)*
 
 #### What is a "Merge Conflict" and when will it occur?
 
