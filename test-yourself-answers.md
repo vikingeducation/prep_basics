@@ -398,9 +398,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is a program that utilizes Hypertext Transfer Protocol (HTTP) to serve files that form web pages to users, in response to their requests, which were in turn forwarded to the web server by their computers' HTTP clients.  A web server is not just a program; dedicated computers and appliances are often called web servers as well.
 
-*Contributed by [Unknown]*
+*Contributed by [Crista Cooper](https://github.com/ainevethe)*
 
 
 #### Bugs
@@ -415,9 +415,10 @@ For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (comple
 
 #### The Cloud
 
-Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer.
+Cloud computing is the practice of using a network of remote servers hosted on the Internet to store, manage, and process data, rather than a local server or a personal computer. In the simplest terms, cloud computing means to store and access data and programs over the internet instead of on your computer's hard drive.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Crista Cooper](http://github.com/ainevethe)*
 
 
 #### Cookies
@@ -442,6 +443,10 @@ Nasty error when a page is not found when requested that the hosting domain aler
 The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+A 404 error means that the webpage that you were trying to reach could not be found on the server.  It is a client side error which means that either the page has been moved or removed and the URL wasn't changed accordingly, or that the URL was typed in incorrectly. 
+
+*Contributed by [Crista Cooper](http://github.com/ainevethe)
 
 #### SEO
 
