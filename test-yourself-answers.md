@@ -196,7 +196,10 @@ Developer Tools will show you the actual HTML and CSS that generated content on 
 
 The Web Inspector is a tool that allows you to view a web page’s source, the DOM hierarchy, debug Javascript, and more.
 
+You can also use the inspector to do simply what if scenarios when you are facing issues or trying to work through an issue
+
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
+*Contributed by [Amie Krepel](https://github.com/amiesue)*
 
 
 
@@ -230,7 +233,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+I put it in the dock for easy access
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Amie Krepel](https://github.com/amiesue)*
 
 #### What is Bash?
 
@@ -409,8 +415,11 @@ An error or defect in software or hardware that causes a program to malfunction.
 
 For example: From DARPA newsletter 6.11.2009 "Code compiled successfully (completed tier 1.6 of Google/Haliburton world takeover project), but during deployment we found several bugs where sample populations were still able to think and feel independently.
 
+Outcomes of my insistence to forget my closing curly brace -.-
+
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+*Contributed by [Amie Krepel](https://github.com/amiesue)*
 
 
 #### The Cloud
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +915,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
