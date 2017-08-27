@@ -6,7 +6,7 @@ This is the file you'll use to add your answers to the [Test Yourself exercise](
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
 
-Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
+Keep your answers under 3 paragraphs.  Add your explanation under the relevant question and then add a link to your Github username at the end of the contributor list for that question.  See the example below.
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
@@ -79,9 +79,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success.
 
+Web developers need to love learning new things all the time, be flexible, and use perspective. Keep learning: Just because you did it one way yesterday does not mean there isn't a better way to do it today. Be flexible: You learned one way to do something, but that is not the only way to do it. Be open to trying different ways to solve an issue. Keep things in perspective and try to balance how important is an issue to the overall project success: Is it worth losing the good will of coworkers, clients or users? How much will it cost: extra development time, production time, extra costs, ROI, personal stress to all involved?
+*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 #### What do companies look for in a junior web developer?
 
@@ -305,10 +306,14 @@ The bash '.bash_profile' file is a startup file for the bash shell and is used f
 
 The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-like operating systems that tells _shell_ which directories to search for *executable files* in response to commands issued by a user.
 
-$PATH dictates the locations within a file tree that contains commands executable within a command line setting
+$PATH dictates the locations within a file tree that contains commands executable within a command line setting.
+
+PATH variables can be set for a single user, machine wide, or only for the current session.
 
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
+*Contributed by [C-Lion](https://github.com/C-Lion)*
+
 
 
 #### Why might you need to add onto your `$PATH` variable?
@@ -616,13 +621,17 @@ It's like a time machine for jumping back and forth between specific time stamp 
 
 #### Git
 
-One of the most popular open-source version control systems.
+One of the most popular open-source version control systems. Git can be used locally exclusively, but the most common use of git is to track changes and coordinate work on a shared project. It is primarily used for source code management to track changes to a set of files, but it can also be used to track changes in any set of files. 
+*Contributed by [C-Lion](https://github.com/C-Lion)*
+
 
 #### Open Source
 
-Free licensed code.
+Open source software (OSS) is software with its source code made available with a license that allows the user to study, change, and distribute the modified software to anyone for any purpose. Open-source software is often developed in a collaborative, public manner. 
 
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [C-Lion](https://github.com/C-Lion)*
+
 
 #### CMS
 
