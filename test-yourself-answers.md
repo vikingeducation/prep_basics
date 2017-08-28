@@ -58,7 +58,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+Check for local meetup.com groups
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Chris Reynoso](https://github.com/chrtravels)*
 
 #### What online developer communities can you join?
 
@@ -263,8 +266,16 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### How do you view hidden files in a directory?
 
+Mac or Linux:
+
 `$ ls -a`
+
+Windows:
+
+`$ dir /a` shows hidden files `$ dir /ah` shows hidden files and directories
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Chris Reynoso](https://github.com/chrtravels)*
 
 #### How do you find information about a particular command?
 
