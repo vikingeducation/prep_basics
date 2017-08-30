@@ -54,6 +54,10 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
+A Google search, making sure to use key terms such as the language you're coding in, will lead you to places like Stack Overflow. It is more than likely that your question has been asked and answered before in one way or another, but even if you can't find the exact answer you're looking for, a post on a message board or a blog post on the topic will most likely get you moving.
+
+*Contributed by [Andy Prickett](http://github.com/andyprickett)*
+
 #### Where are the closest developer communities to you?
 
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
@@ -179,6 +183,9 @@ content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+Hypertext Markup Language uses tags embedded in text to structurally and semantically describe a web page, and allow a browser to render it as such. The tags represent elements, including hyperlinks, and can embed scripts which might dynamically affect the page.
+
+*Contributed by [Andy Prickett](http://github.com/andyprickett)*
 
 #### What is CSS and how is it used?
 
@@ -402,6 +409,9 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+While the term can refer to either hardware, software, or both, it altogether refers to a computer system that receives and responds to an HTTP request by providing the files necessary to fulfill that request. These files can be sent to the browser just as they are by a static web server, or updated and modified by a dynamic web server.
+
+*Contributed by [Andy Prickett](http://github.com/andyprickett)*
 
 #### Bugs
 
