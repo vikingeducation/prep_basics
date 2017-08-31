@@ -455,6 +455,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+The visual styling and layout of a page, site, or application. Images, logos, fonts, and color schemes are a few areas under the umbrella of design.
+
+*Contributed by [John Chappelle] (https://github.com/jrchapprogrammer)
+
 
 #### WYSIWYG
 
