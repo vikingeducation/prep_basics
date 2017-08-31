@@ -77,10 +77,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+Curiosity - Having a genuine interest and passion for understanding how things work
+Adaptability/Efficiency - The ability to work with anyone's code and, in turn, write code in a clean and transferable way
+Persistence - You will always be faced with a challenge new to you, but being willing to push forward will make the difference in your career success
+*Contributed by [John Chappelle](https://github.com/jrchapprogrammer)*
 
 
 #### What do companies look for in a junior web developer?
