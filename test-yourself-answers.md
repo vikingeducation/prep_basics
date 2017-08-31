@@ -69,11 +69,11 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+One of the main reasons why developer-friendly text editors are more appropriate than Word, is that editors such as Atom and Sublime Text save files in a format that Web Servers and Browsers understand.  MSWord, along with other word processing programs, by default, format the document into something that browsers and servers don't interpret well (rich text format or RTF). They also tend to be a bit bulkier in size than a plain text document due to extras that are added for the benefit of the Word application. Word processing applications are meant for producing human-friendly documents, not machine-friendly.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
+Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, version control integration and can be customized to your particular development needs.
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [John Chappelle](http://github.com/jrchapprogrammer)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
