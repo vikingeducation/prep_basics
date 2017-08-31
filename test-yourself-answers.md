@@ -77,9 +77,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity - Having a genuine interest and passion for understanding how things work
-Adaptability/Efficiency - The ability to work with anyone's code and, in turn, write code in a clean and transferable way
-Persistence - You will always be faced with a challenge new to you, but being willing to push forward will make the difference in your career success
+Curiosity - Having a genuine interest and passion for understanding how things work.
+Adaptability/Efficiency - The ability to work with anyone's code and, in turn, write code in a clean and transferable way.
+Persistence - You will always be faced with a challenge new to you, but being willing to push forward will make the difference in your career success.
+
 *Contributed by [John Chappelle](https://github.com/jrchapprogrammer)*
 
 
