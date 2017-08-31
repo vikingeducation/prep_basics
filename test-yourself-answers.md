@@ -30,15 +30,15 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are more focused on how a site looks to a user and the experience a user will have when using the site. A web developer is more focused on the act of building the the website.
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front end developers tend to be focused more on developing the interface (what a user sees in the browser) of websites using HTML (Hyper Text Markup Language) for the website structure, CSS (Cascading Style Sheets) for the website styles/design and JavaScript for the behaviour of the website.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Back end developers are more inclined to be focused on building the server side code that responds to incoming browser requests using various languages (e.g. Server side JavaScript via the NodeJS runtime environment).
 
-*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+Full stack developers tend to do the work of both front end and back end developer jobs.
 
 #### What's the difference between static and dynamic web pages?
 
@@ -143,7 +143,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer programme (like Apache or Nginx) that waits for a request from the clients browser. When the browser sends a request, the server will look for what was requested. If the server found what the browser wanted then the server will return the data to the browser. If the server cannot find what the browser requested, then the server will respond the the browser with a 404 not found error.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
