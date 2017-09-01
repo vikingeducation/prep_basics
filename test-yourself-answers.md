@@ -335,6 +335,8 @@ Define the following:
 
 ### The Web
 
+The web is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.The World Wide Web has been central to the development of the Information Age and is the primary tool billions of people use to interact on the Internet.
+*Contributed by [Alvaro Mesa](https://github.com/TSIIAM)*
 
 #### URL( Uniform Resource Locator)
 
@@ -356,6 +358,12 @@ IP addresses are the absolute address of a website. Four number ranging from 0 t
 A specific and unique numeric signifier of a networked entity; can be an appliance, computer, phone, etc.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+
+#### IPv4
+
+Internet Protocol version 4 (IPv4) is the fourth version of the Internet Protocol (IP).IPv4 uses 32-bit addresses which limits the address space to 4294967296 (2**32) addresses.
+*Contributed by [Alvaro Mesa](https://github.com/TSIIAM)*
 
 
 #### DNS
@@ -890,15 +898,26 @@ You can combine the two commands and just type `git checkout -b <name of branch>
 
 In order to merge branches back together you should merge the master branch into your-branch
 
-$git checkout your-branch
-$git merge master
+
+```
+git checkout your-branch
+git merge master
+
+```
+ 
 
 Resolve any conflicts that occur. Move back to your master branch and merge your-branch into the master branch.
 
-$git checkout master
-$git merge your-branch
+
+```
+git checkout master
+git merge your-branch
+
+```
+ 
 
 You'll see output indicating any changes that were made
+*Contributed by [Alvaro Mesa](https://github.com/TSIIAM)*
 
 #### What is a "Merge Conflict" and when will it occur?
 
