@@ -73,7 +73,10 @@ I think the most important reason why developer-friendly text editors are better
 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
+On top of this, several developer-friendly editors warn you when there is an error in your code, unlike MSWord.  
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Pierre Courpron](http://github.com/pcourpron)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -235,6 +238,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
@@ -259,7 +263,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+File permission can prevent unwanted access and/or modification of files. Permissions often are for read, write, and execute and allow someone to have greater control over what happens to their programs.
+*Contributed by [Pierre Courpron](http://github.com/pcourpron)*
 
 #### How do you view hidden files in a directory?
 
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,8 +672,10 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don\`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
+Simply put a script or scripting language is a computer language with a series of commands within a file that is capable of being executed without being compiled.
+*Contributed by [Pierre Courpron](https://github.com/pcourpron)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
 
@@ -906,8 +913,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
