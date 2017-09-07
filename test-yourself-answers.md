@@ -22,11 +22,8 @@ An awesome explanation about why this thing is amazing in plain-english that any
 
 #### What does a Web Developer do?
 
-A web developer's job is very hands-on, and can vary wildly from person to person. Generally, a web developer's job involves a lot of planning, building websites or web apps from the ground up, deploying them, and maintaining them by fixing bugs or optimizing the code.
-
-In other words, a web developer plays the role of both an architect and handyman, but their work lives in the cloud.
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+A Web Developer is a programmer who specilizes in the development of web applications that  runs on HTTP from webservers on web browsers.
+*Contributed by [Maryjane](https://github.com/hupsj)*
 
 #### What's the difference between web developers and web designers?
 
@@ -110,9 +107,8 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 
 #### What is the internet?
 
-Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
-
-*Contributed by [Daniel Au](https://github.com/dakmau)*
+The internet is a group of interconnected computer/ wires that runs all over the earth.
+*Contributed by [Maryjane](https://github.com/hupsj)*
 
 
 #### How is information broken down and sent?
@@ -223,8 +219,8 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+A terminal/shell that runs on an operating system, it controls and has access to everything in the operating system one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+*Contributed by [Maryjane &  Micheal](http://github.com/hupsj)*
 
 #### How do you open it on your computer?
 
@@ -654,9 +650,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +902,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
