@@ -119,6 +119,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
+Information is broken into discreet packets by the web server following http protocol. Data is then reconstructed by the client's router. 
+*Contributed by [Ryan White](https://github.com/mrwhiterk)*
+
 
 #### What are packets?
 
@@ -261,6 +264,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
 
+
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
@@ -270,6 +274,9 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 `$ man <cmd>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+`$ help <cmd>`
+*Contributed by [Ryan White](https://github.com/mrwhiterk)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -295,6 +302,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+`:wq` (to save changes and quit)
+*Contributed by [Ryan White](https://github.com/mrwhiterk)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
