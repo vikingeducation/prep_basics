@@ -456,6 +456,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 ### Design
 
 
+
 #### WYSIWYG
 
 "What you see is what you get". Often a GUI interface where the changes you make in your editor are nearly identical (in theory) to the changes you will see on your page.
@@ -617,6 +618,8 @@ It's like a time machine for jumping back and forth between specific time stamp 
 #### Git
 
 One of the most popular open-source version control systems.
+
+Alternatively, an unpleasant or contemptible person.
 
 #### Open Source
 
