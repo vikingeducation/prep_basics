@@ -334,7 +334,7 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+The World Wide Web (abbreviated WWW or the Web) is an information space where documents and other web resources are identified by Uniform Resource Locators (URLs), interlinked by hypertext links, and can be accessed via the Internet.
 
 #### URL( Uniform Resource Locator)
 
