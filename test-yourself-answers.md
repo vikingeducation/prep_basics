@@ -117,7 +117,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+ Information is broken down into packets and during that process a header and footer is added. The header and footer contain items such as routing information (sender and recipient IP address) and the data type. After the packets are built on your computer they travel through the network to the router at which point they're either sent to the destination (if on the same network) or are sent to the internet. In this instance the internet is ultimately just a series of routers between the senders network and the destination network. Once at the destination network the packets are reassembled to recreate the originally sent information.
+
+*Contributed by [Brennan Fulmer](http://github.com/BrennanFulmer)*
 
 
 #### What are packets?
@@ -384,7 +386,13 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+ Post Office Protocol (POP) is an email protocol that connects to an email server (typically on port 110 or 995) then downloads emails and deletes them from the email server (but POP clients often have an option to keep emails on the server after download). 
+
+Internet Messaging Access Protocol (IMAP) is an email protocol that connects to an email server (typically on port 143 or 993) then downloads emails but keeps them around both locally and on the server until deleted by a user. 
+
+Simple Mail Transfer Protocol (SMTP) is an email protocol used by email servers to transfer email (typically on port 25 or 465) between each other, and is not used by email clients such as Outlook to retrieve emails.
+
+*Contributed by [Brennan Fulmer](http://github.com/BrennanFulmer)*
 
 
 #### API
@@ -398,9 +406,9 @@ For example, Amazon.com released its API so that web developers could more easil
 
 #### Web Server
 
-A program usually running on a remote computer that responds to requests from a browser.
+A web server is either software used to deliver web pages to clients (such as web browsers or crawlers) or the actual server where the website is stored and the software to provide the content is installed.
 
-*Contributed by [Unknown]*
+*Contributed by [Brennan Fulmer](http://github.com/BrennanFulmer)*
 
 
 #### Bugs
