@@ -42,10 +42,11 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 #### What's the difference between static and dynamic web pages?
 
-Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
+Dynamic web pages change depending on the user input and actions; static web pages remain the same for all users, all the time. The server of a static web page has only to 'serve up' the same page whenever asked by the client, but the server of a dynamic web page may prompt the user for information, store usage data (e.g. cookies), and/or run server-side code, such as JavaScript, in response to user actions.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Although fewer and fewer sites are completely static these days (restaurants may let you order on-line, blogs might allow you to leave comments, etc) the static web page is still a useful tool, whenever all you need is to present infromation to a user. The Internet was built around static pages before languages like JavaScript and PHP took off; they are easy to build and even easier to maintain. Dynamic pages, however, allow for much greater flexibility and power, so it is no surprise that they are taking over.
 
+*Contributed by [Johann Baptista](http://github.com/JohnRPB)*
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
@@ -56,8 +57,11 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
+In San Francisco, there is a Viking-affiliated [Learn Web Development and Paired Programming meetup](https://www.meetup.com/Learn-Web-Development-Paired-Programming-in-SF/). There is also the [Ruby on Rails Group](https://www.meetup.com/SFRails/) that meets roughly once a month.
+
 Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
+*Contributed by [Johann Baptista](http://github.com/JohnRPB)*
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### What online developer communities can you join?
@@ -114,7 +118,6 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
-
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
@@ -125,7 +128,6 @@ It is broken down into packets and sent through random different ways to get to 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-
 
 #### What is a "client"?
 
@@ -234,7 +236,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+"Bash" is an abbreviation for "Bourne-Again SHell", a pun on the Bourne shell that it replaced, and it is both a command-line shell and language for Unix and Unix-like operating systems.
+*Contributed by [Johann Baptista](http://github.com/JohnRPB)*
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
@@ -654,9 +657,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +909,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
