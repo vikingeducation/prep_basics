@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -911,3 +911,23 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+### Agent has no identities(Public key) issue?
+
+I created a repo then on my terminal i did
+ eval "$(ssh-agent -s)" then got agent PID. However, when I did ssh-add -l
+it says agent has no identities. I was able to create a new public key after reading articles here https://help.github.com/articles/connecting-to-github-with-ssh/ . Try to read up those articles, especially the first 4 and you will hit the ground running. 
+
+### 6 easy steps toward contributing to an open source project via github
+
+firstly, fork the repo. This will create a personal repo of the project for you. 
+Secondly, you clone the forked repo. You clone by using the SSH link or HTTPS link. With git clone <SSH/HTTPS link>, you get a copy of the project on your local machine.
+Thirdly, you make the necessary changes on any of the project files.
+Fourthly, you do git pull to ensure the upstream repo (the repo you forked) updates yours else if any new changes had been committed you won’t be able to push. 
+Fifthly, you push to the upstream repo. 
+Lastly, go to your fork and click on the icon for “compare review and submit pull request”. After submitting pull request the owner of the upstream repo will check and accept your pull or ask you to make some changes.  
+
+### Which is recommended, SSH or HTTPS ?
+
+ Why SSH connection is recommended when interacting with GitHub is because they are a way to identify trusted computers, without involving passwords.
+
+*Contributed by [Raphael Nkwazema] (https://github.com/KingCyrus)*
