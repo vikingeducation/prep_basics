@@ -298,8 +298,11 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
-The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells. It contains informations needed for starting appliction related to the login.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Marco Dell'Olio](https://github.com/Xantrac)*
+
+
 
 #### What is the `$PATH` variable?
 
@@ -594,8 +597,12 @@ A framework is a platform where common code with generic functionality is ready 
 
 A framework is a collection of libraries that are used for building web applications. It saves a lot of time as instead of reinventing a wheel, developer can use  source code which is already there, tweak it according to needs and use it for it's website. Example - Instead of spending hours on creating interactive website with census form from scratch, I can use existing forms and change  ie. date format, size, shapes of particular web elements.
 
+Frameworks are part of code used as a bridge between application and websites, used to bridge back-end and front end applications.
+
 *Contributed by [Olga](https://github.com/ayva)*
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*Contributed by [Marco Dell'Olio](https://github.com/Xantrac)*
+
 
 
 
@@ -767,8 +774,11 @@ The other way is typing a git commit -am "Your message", which will both stage a
 #### What is the difference between staging and committing changes?
 
 Staging is moving files from Modified to Staged by issuing a git command, "git add your_file", "git add . ", or "git add -A". Committing is moving files from Staged to Unmodified.
+Staging means prepare your file to be committed like take a timestamp of that file. Committing is adding the Git information to that file, like who modified and what.
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
+*Contributed by [Marco Dell'Olio](https://github.com/Xantrac)*
+
 
 
 
