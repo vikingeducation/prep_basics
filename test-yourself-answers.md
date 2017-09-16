@@ -911,7 +911,7 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
-#fixed the formatting.
+#### Fixed the formatting.
 
 cause you know people like to mess up.
 
