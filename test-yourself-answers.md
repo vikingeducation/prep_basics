@@ -559,16 +559,17 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
 
 Ruby is the most enjoyable language on earth. Easy and happy to code.
 
-Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy".
+Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Matz" Matsumoto who has said that "The goal of Ruby is to make programmers happy". He achieved this by making the language read as much like english as possible.
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
+*Contributed by [Charles Clemens](https://github.com/CClemensJr)*
 
 
 #### Ruby Gems
@@ -603,6 +604,9 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+Ruby on Rails is a popular framework built in the Ruby programming language. The framework is most well know for it's ability to facilitate rapid development of functional web applications a very attractive attribute for many start up companies. Some detractors of the framework, however, believe this comes at the cost of reduced scalability. Popular websites that have used Ruby on Rails include Twitter and Github, Hulu, Groupon and Shopify.
+
+*Contributed by [Charles Clemens](https://github.com/CClemensJr)*
 
 #### Command Line
 
@@ -614,6 +618,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
+A protocol for developers to access a previous iteration of the code base should any updates and modifications to code produce undesirable results. Also a way for multiple developers to work on a single project without overwriting each other’s work.
+
+*Contributed by [Charles Clemens](https://github.com/CClemensJr)*
+
 #### Git
 
 One of the most popular open-source version control systems.
@@ -623,6 +631,10 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+A community in which software is freely available and can be updated, modified, and/or monetized by anyone.
+
+*Contributed by [Charles Clemens](https://github.com/CClemensJr)*
 
 #### CMS
 
@@ -654,14 +666,14 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
 
-In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
+In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifestation is <!DOCTYPE html>
 
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
@@ -671,6 +683,9 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+A series of executeable commands in a file.
+
+*Contributed by [Charles Clemens](https://github.com/CClemensJr)*
 
 
 ## Installations
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
