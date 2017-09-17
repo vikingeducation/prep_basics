@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -162,6 +162,7 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+HTTP ensures everyone is speaking the same language and requesting and receiving data the same way.
 
 #### What are DNS servers?
 
@@ -225,6 +226,8 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+`$` is the shell prompt; its presence indicates Terminal is ready to accept a command
 
 #### How do you open it on your computer?
 
@@ -295,6 +298,8 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 `:qa!`
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+`:wq` (to write and quit)
 
 #### What is the `.bash_profile` file and what is it used for?
 
