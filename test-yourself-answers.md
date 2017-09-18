@@ -235,7 +235,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Bash is a popular command line interpreter for Unix operating system. When we type a command in the cli, the bash program processes our command and gives us back the information we have requested for. https://github.com/lakshmi2812*
 
 #### How can you navigate into a particular file directory?
 
@@ -663,13 +663,13 @@ Example:
 
 In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
 
-*Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*XML Schema is used to describe the structure of an XML document. It lists the name, type, attribute, etc., for each element. https://github.com/lakshmi2812*
 
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Scripts are programs used to automate tasks. Scripts are executed one line at a time by an interpreter. https://github.com/lakshmi2812*
 
 
 
