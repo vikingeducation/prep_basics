@@ -235,6 +235,7 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Bash is a popular command line interpreter for Unix operating system. When we type a command in the cli, the bash program processes our command and gives us back the information we have requested for. https://github.com/lakshmi2812*
 
 #### How can you navigate into a particular file directory?
