@@ -232,10 +232,11 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+On Linux (Ubuntu), the shortcut key is mapped to `Ctrl + Alt + T`.
+
 #### What is Bash?
 
-"Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+Bash (Bourne Shell) is a specific implementation of a "Shell." "Shell" is an interface (like command line) for running programs.
 
 #### How can you navigate into a particular file directory?
 
@@ -556,6 +557,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+Pseudo-code is written for humans, not machines to read. It is often written to show how an algorithm completes the needed/given task.
 
 #### C
 
