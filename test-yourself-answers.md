@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+The web is the model that we use to share information on the internet. It uses the HTTP protocol to communicate data across networks, usually through the user of a browser, which allows users to access the pages that they want to visit.
+
+*Contributed by [William Adamowicz](http://github.com/WADAMOMO)*
 
 #### URL( Uniform Resource Locator)
 
@@ -455,6 +458,9 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 ### Design
 
+Design describes the aspects of the webpage that go beyond the information being displayed and involve things like styling, involving CSS, but also a site's functionality and user experience. Although many webdevelopers end up having to do some design work, especially if they are freelance developers, the task of coming up with the best kind icon to represent a particular word or brand and how that icon should look is something that is generally turned over to a web designer.  
+
+*Contributed by [William Adamowicz](http://github.com/WADAMOMO)*
 
 #### WYSIWYG
 
@@ -520,6 +526,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
 ### Developer Tools and Code
+
+Developer tools on a browser allow users to inspect the different elements of the page (html, CSS, javascript) and to get information about interactions with the webpage that the browser is rendering.
+
+*Contributed by [William Adamowicz](http://github.com/WADAMOMO)*
 
 #### HTML
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +916,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
