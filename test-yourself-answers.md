@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +906,26 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+## Web Development Jobs and Careers
 
+#### Will my age affect how a potential employer or recruiter views me?
+
+I am currently fifty-three years old and have some concerns about how my age might be perceived in an industry where the best and brightest young people are entering the workforce.
+I know that there are many people in Tech my age or older but I would question how many are entering at fifty plus years of age. I would hope that my ability to perform the work would be the most important consideration. I consider myself young at heart and open to and aware of newer trends in life as well as tech.
+I have been immersed in technology since 1993 when I attended Heald Institute of Technology, Martinez, CA so I have experienced most of the explosion of computer and software use that began around the mid to late nineties with the advent and growth of the internet.
+
+*Contributed by [Michael Maxwell](https://github.com/madmax747)*
+
+## Installations
+
+#### Why did you need to install Ruby
+
+Ruby is not installed by default in Lubuntu, the distro running on my computer. By comparison, HTML, CSS and Javascript are all incorporated into web browsers and interpreted and utilized when a web designer or developer writes the code for them so they do not require individual installation.
+Ruby is an object oriented programming language that, along with the Rails framework, makes building useful and robust web applications more streamlined. Typing a little code does a lot.
+Ruby and Rails saves web developers a lot of time and customers a lot of money. Convention over Configuration is a pillar of the Ruby on Rails community.   
+
+*Contributed by [Michael Maxwell](https://github.com/madmax747)*
