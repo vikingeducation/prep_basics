@@ -346,6 +346,8 @@ Address that one types in to reach a particular webpage.  Human readable address
 The part of the URL which specifies the location of the web server who is going to respond to your request.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+The domain is what is typically thought of as the name of a website as it appears in the URL. (i.e. www.google.com)
+*Contributed by [Lee Rogers](https://github.com/eleerogers)*
 
 #### IP Address
 
@@ -538,6 +540,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+"Cascading Style Sheets" is a language intended to stylize content as defined in the HTML code. Keeping style/presentation code separate from content makes it easier to adjust the style across the site without having to re-write a lot of code.
+
+*Contributed by [Lee Rogers](https://github.com/eleerogers)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
@@ -556,6 +562,10 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+
+Notes which detail how the code will function, piece by piece.  This allows a developer to clarify their thoughts before writing the code in earnest. Later they can go back and replace the pseudo-code with functioning code.
+
+*Contributed by [Lee Rogers](https://github.com/eleerogers)*
 
 #### C
 
@@ -654,9 +664,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +916,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
