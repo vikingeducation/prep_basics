@@ -67,6 +67,9 @@ Start with IRC channels, subreddits, and various meetup groups in your specific 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+FreeCodeCamp and Stack Overflow are great online developer communities you can join.
+*Contributed by [Seong Kim](https://github.com/ksc23)*
+
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
 I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
@@ -118,6 +121,14 @@ Simply put, the internet is a global system of interconnected computers and devi
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
+
+Information is broken down and sent through the use of a protocol stack.  A protocol stack consists of the: Application Protocols Layer (eg. HTTP, SMTP, FTP), Transmission Control Protocol (TSP) Layer, Internet Protocol (IP) Layer, and the Hardware Layer (eg. router, modem).
+
+Starting from the Application layer, your data is broken down into packets.  The packets pass through the Application layer and continue to the TCP layer, where each packet is assigned a port number.  After going through the TCP layer, the packets proceed to the IP layer.  This is where each packet receives its destination IP address.  Now that your packets have a port number and an IP address, they are ready to be sent over the Internet.  The hardware layer takes care of converting your packets into electronic signals which are transmitted over the cables that make up the Internet.
+
+Source: http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm
+
+*Contributed by [Seong Kim](https://github.com/ksc23)*
 
 
 #### What are packets?
@@ -613,6 +624,10 @@ The interactive shell where you can enter commands that will be run by your oper
 #### Version Control
 
 It's like a time machine for jumping back and forth between specific time stamp for coding.
+
+A version control system keeps track of your files and remembers all of the changes you've made, so you can revert back to a previous version if needed.  It also makes collaboration between developers much easier.
+
+*Contributed by [Seong Kim](https://github.com/ksc23)*
 
 #### Git
 
