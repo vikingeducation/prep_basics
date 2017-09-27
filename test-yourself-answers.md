@@ -446,7 +446,7 @@ The HTTP Status Code returned by a server indicating file not found.
 
 #### Favicon
 
-A small icon image the is associated with a specific website, usually containing the company logo or a variation. The favicon is displayed in either the title bar or tab of the browser and also appears with bookmarks.
+A small icon image that is associated with a specific website, usually containing the company logo or a variation. The favicon is displayed in either the title bar or tab of the browser and also appears with bookmarks.
 
 *Contributed by [Chikwendu Abakporo](https://github.com/igwelism)*
 
