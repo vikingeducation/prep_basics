@@ -443,6 +443,14 @@ The HTTP Status Code returned by a server indicating file not found.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+
+#### Favicon
+
+A small icon image that is associated with a specific website, usually containing the company logo or a variation. The favicon is displayed in either the title bar or tab of the browser and also appears with bookmarks.
+
+*Contributed by [Chikwendu Abakporo](https://github.com/igwelism)*
+
+
 #### SEO
 
 How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
