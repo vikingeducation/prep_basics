@@ -911,3 +911,41 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### How do you create a new branch?
+
+In your terminal type `git branch <name of branch>` to create a branch. Then type `git checkout <name of branch>` to start working on your new branch.
+
+You can combine the two commands and just type `git checkout -b <name of branch>` and that will create and change into your new branch.
+
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+
+
+#### What happens behind the scenes after you click "search" on google.com?
+
+First, your browser creates a "request" and sends it out via your modem to your internet service provider (ISP), who routes the request onto the fiberoptic superhighway that is the internet.
+
+Next, the request is received by a domain naming service (DNS) that translates "google.com" into Google's IP address, so the request will end up at Google's servers.
+
+When the request is received, Google's servers process your search term and fetch the relevant search results from Google's index, which contains all of their website listings along with their respecitve ranking formation.
+
+Then, the servers put together a unique search engine results page (SERP) for you based on your search term and location, break the HTML file down into smaller packages that are easier to process, and send the packages to you.
+
+Finally, when your ISP receives the packages, they reassembles the file, then deliver the file to your modem, and subsequently, your computer and browser.
+
+
+#### What is a "Superuser" and how do you execute commands as this user?
+
+In Unix, a "Superuser" is a special user account used for the system administrator. This system admin account has special priveleges that other users do not have, including changing the root directory and running programs with security priveleges only other users have.
+
+Superuser access is called with the "sudo" command. At that point, the current user's password is required to execute the command.
+
+
+#### What is "Forking" a repo?
+
+In GitHub, "forking" a repo means making a copy of a repository that exists independent of the master version. This allows users to make additions, changes, or overhauls to forked repos without effecting the master version. 
+
+Once changes are made, the user can request the forked repo and master repo be merged back together via a pull request. If the pull request is accepted, the changes made in the forked version will be merged into the master version.
+
+*Contributed by [Brent Mercer](https://github.com/BrentMercer)*
+
