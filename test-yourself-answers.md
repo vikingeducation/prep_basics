@@ -30,8 +30,12 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
+<<<<<<< HEAD
 Web designers are focused on the artistic design and explores how users might feel when using the website or web app. They research the market demand, give surveys, interview potential users, and produce a design that is most easy to use and attractive looking to users. Web developers are focused on how to build what the designer wants. 
 
+=======
+Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+>>>>>>> dfb9d69d616242f3444309769c85ad677a36421c
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -51,7 +55,11 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
+<<<<<<< HEAD
 The best bet to get help when you are stuck is to use google and check out StackOverflow. I also have used a mentor through CodeMentor, which has been very hepful. 
+=======
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+>>>>>>> dfb9d69d616242f3444309769c85ad677a36421c
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -387,12 +395,15 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+<<<<<<< HEAD
 #### What is POP, IMAP, & SMTP and what do they do?
 	SMTP (Simple Mail Transfer Protocol) is used for sending email from an email client (e.g. Microsoft Outlook) to an email server. It's also used for forwarding mail messages from one mail server to another. The ability to send messages from one server to another is necessary if the sender and recipient have different email service providers. 
 	POP (Post Office Protocol) retrieves email messages from a mail server to a mail client. A POP client retrieves email in the following: Connects to the mail server on port 110 (or 995 for SSL/TLS connections), retrieves email messages, deletes copies of the messages stored on the server, and disconnects from the server. 
 	IMAP (Internet Message Access Protocol) allows users to group related messages and place them in folders, which can in turn be arranged hierarchically. It's also equipped with message flags that indicate whether a message has been read, deleted, or replied to. It even allows users to carry out searches against the server mailboxes. It connects to the mail server on port 143 (or 993 for SSL/TLS connections), retrieves email messages, stays connected until the mail client app is closed, and downloads messages on demand.
 	http://www.jscape.com/blog/smtp-vs-imap-vs-pop3-difference
 
+=======
+>>>>>>> dfb9d69d616242f3444309769c85ad677a36421c
 
 #### API
 
