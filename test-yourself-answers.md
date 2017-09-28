@@ -52,7 +52,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+Sometimes it's easier to get answers to complex issues in person rather than online. Meetup.com has lots of meetups devoted tech and meetups for specific languages. Most attendees are friendly to beginners and are a great resource if you get really stuck.
+
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Samuel Langenfeld](http://github.com/SamuelLangenfeld)*
 
 #### Where are the closest developer communities to you?
 
@@ -64,8 +67,12 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
+A lot of cities have specific Slack communities for people in the tech industry. They have channels for specific languages, events, and job postings. Try googling "(Your closest city) tech Slack".
+
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Samuel Langenfeld](http://github.com/SamuelLangenfeld)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
@@ -223,8 +230,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, etc). The command line interface takes written lines of code from the user as input, instead of interacting with graphics such as buttons. More advanced programmers use the command line because it is a concise and powerful way of interacting with the computer.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Samuel Langenfeld](http://github.com/SamuelLangenfeld)*
 
 #### How do you open it on your computer?
 
