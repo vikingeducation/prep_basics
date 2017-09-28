@@ -30,7 +30,8 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are focused on the artistic design and explores how users might feel when using the website or web app. They research the market demand, give surveys, interview potential users, and produce a design that is most easy to use and attractive looking to users. Web developers are focused on how to build what the designer wants. 
+
 
 #### What's the difference between front end, back end, and full stack developers?
 
@@ -50,7 +51,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google and check out StackOverflow. I also have used a mentor through CodeMentor, which has been very hepful. 
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
