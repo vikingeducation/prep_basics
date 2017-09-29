@@ -114,6 +114,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
 
+Not so simply put, Internet is essentially a network of networks, and is not to be confused with World Wide Web, which is not the same thing as the Internet. Communication (or data transfer), which is what communication essentially is, takes place using various protocols and methods best understood by reviewing the conceptual Open Systems Interconnection (OSI) model.
+
+*Contributed by [Igor Ryabchuk](https://github.com/nixlim)*
 
 #### How is information broken down and sent?
 
@@ -122,9 +125,10 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together. The information that is attached to the actual data is called "control information" and the data we are actually sending is called the "payload". Control information contains the source and destination addresses, error detection codes and the packet sequencing information for reassembly at destination. 
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Igor Ryabchuk](https://github.com/nixlim)*
 
 
 #### What is a "client"?
@@ -174,11 +178,12 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+HTML stands for Hypertext Markup Language. HTML is a language used to define the structure and
+content of web pages using tags such as "<h> </h>" for headings, "<li> </li>" for lists, "<p> </p>" paragraphs, "<br>" for line breaks, "<img>" for images, etc. Each tag is called an "element" and is meant to define the semantic structure of the document/text/page.
 
+
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Igor Ryabchuk](https://github.com/nixlim)*
 
 #### What is CSS and how is it used?
 
