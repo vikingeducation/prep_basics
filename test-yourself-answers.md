@@ -30,6 +30,12 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
+-*Your explanation here!*
+ +Web designers get to utilize design applications such as the Adobe Suites to create the layout and intricate visual elements of a website.
+ +Web Developers usually after the initial storyboards take a website design and actually make a it functional and build the website from it. They use technologies like HTML, CSS, Javascript, PHP, Ruby and other programming languages to bring to life the design files.
+
+ +*Contributed by [Kirbs](https://github.com/Kirbs80*
+
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
 #### What's the difference between front end, back end, and full stack developers?
@@ -49,6 +55,11 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
+
+-*Your explanation here!*
+ +Google it!
+
+ +*Contributed by [Kirbs](https://github.com/Kirbs80*
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
@@ -116,6 +127,12 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 
 #### How is information broken down and sent?
+
+-*Your explanation here!*
+ +A request for a site, file or other form of internet data is sent in a ‘packet’ or 'datagram'. A packet is virtually a parcel that contains lots of important information like stamps and an address label. The two most important bits of information for sending & receiving are contained in a packet. These are the IP address of the web server that the data is stored on and the IP address of your computer.
+
+ +*Contributed by [Kirbs](https://github.com/Kirbs80*
+
 
 It is broken down into packets and sent through random different ways to get to their destination.
 
