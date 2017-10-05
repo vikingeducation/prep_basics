@@ -2,6 +2,8 @@
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
+DON'T ACCEPT THIS DUMB EDIT
+
 ### Instructions
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
