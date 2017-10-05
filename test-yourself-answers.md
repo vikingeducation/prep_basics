@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -38,7 +38,10 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 
 Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
 
+Nowadays a full-stack education is the norm in order to produce well rounded and competetive developers. One might specialize in either front or back-end tasks when working with a development team.
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Michael Rulewicz](https://github.com/mrulewicz66)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -50,9 +53,10 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. A lot of times you will find your answer turning up on StackExchange or StackOverflow.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Michael Rulewicz](https://github.com/mrulewicz66)*
 
 #### Where are the closest developer communities to you?
 
@@ -113,6 +117,13 @@ To apply for a job, you'll have to submit a resume, cover letter, links to your 
 Simply put, the internet is a global system of interconnected computers and devices, all communicating with each other via a common language (or standard protocol).
 
 *Contributed by [Daniel Au](https://github.com/dakmau)*
+
+
+### How does the internet basically work?
+
+Every device and everything along the way has its own ip address which are assigned based on location. Using these ip addresses your device can talk to your modem then to a router which is set up by your web service. The router sends a request to the domain name server (DNS) that would send back the information it was asked for right back to your device.
+
+*Contributed by [Michael Rulewicz] (https://github.com/mrulewicz66)*
 
 
 #### How is information broken down and sent?
@@ -654,9 +665,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +917,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
