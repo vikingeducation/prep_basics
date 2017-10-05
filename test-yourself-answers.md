@@ -554,7 +554,7 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
-Basically shorthand for what you are planning to code. It's like sketching for programmers.
+Basically shorthand for what you are planning to code. It's like sketching for programmers since you can structure how your program will work.
 
 
 #### C
@@ -620,7 +620,7 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
-Free licensed code.
+Free licensed code. Open source projects have their code available for anyone to read and test.
 
 *Contributed by [Olga](https://github.com/ayva)*
 
