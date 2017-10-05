@@ -62,16 +62,16 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 
 #### What online developer communities can you join?
 
-Start with IRC channels, subreddits, and various meetup groups in your specific area.
+Start with IRC channels, subreddits, forums and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers, code files in general.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
+Additionally, developer-friendly editors have features such as syntax highlighting (Code Coloring), basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
@@ -165,7 +165,7 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 #### What are DNS servers?
 
-A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location.
+A DNS server is a special kind of computer that links human-readable names of web sites, such as www.google.com, to their actual IP address location. You can think of it as a digital version of a phonebook.
 
 For example, instead of typing www.google.com and asking a DNS server to look-up the address of google for you, you can simply enter http://74.125.224.72/ directly into your browser!
 
