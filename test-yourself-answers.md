@@ -400,7 +400,10 @@ For example, Amazon.com released its API so that web developers could more easil
 
 A program usually running on a remote computer that responds to requests from a browser.
 
+Web servers use all kinds of different programming languages to run on but the result is basically the same.
+
 *Contributed by [Unknown]*
+*Contributed by [Andy Hunt](https://github.com/Encolpius)*
 
 
 #### Bugs
@@ -488,8 +491,10 @@ Even though grids are not necessary to design a web page, they make the process 
 
 Short for red, green and blue, the three colors that make up a pixel. Each is an integer between 0 and 255, and a combination of three integers specifies a color to display.
 
-*Contributed by [Dan Berger](https://github.com/dsberger)*
+Some examples: White(255, 255, 255); Black(0,0,0); and Mint Cream(245,255,0).
 
+*Contributed by [Dan Berger](https://github.com/dsberger)*
+*Contributed by [Andy Hunt](https://github.com/Encolpius)*
 
 #### Hex
 
@@ -559,7 +564,7 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 #### C
 
-An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
+An older, light weight programming language that directly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
 
 #### Ruby
@@ -622,7 +627,10 @@ One of the most popular open-source version control systems.
 
 Free licensed code.
 
+Open source is, as Ron Burgundy ("Anchorman") would say, kind of a big deal. Specifically, open source allows the community to access the code and do whatever they want with it - including monetizing it.
+
 *Contributed by [Olga](https://github.com/ayva)*
+*Contributed by [Andy Hunt](https://github.com/Encolpius)*
 
 #### CMS
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
