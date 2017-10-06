@@ -612,7 +612,7 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
-It's like a time machine for jumping back and forth between specific time stamp for coding.
+It's like a time machine for jumping back and forth between specific time stamp for coding. Essentially, version control enables you to have your code organized in versions that change through time.
 
 #### Git
 
@@ -668,6 +668,8 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 #### Script
 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+
+Scripts are snippets of code that aren't necessary to compile to use them, they run through an interpreter which reads the scripts and execute the code on the fly. A good example for web development is Javascript code that is taken and interpreted by your browser on the fly.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
