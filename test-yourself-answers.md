@@ -56,7 +56,7 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from [Meetup.com](https://meetup.com). There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
