@@ -230,7 +230,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
+Type `terminal` under Search Your Computer in Ubuntu then click to `open`.
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Tylar Pierson](https://github.com/tylarpierson)*
 
 #### What is Bash?
 
@@ -240,7 +243,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
+`cd <~directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Tylar Pierson](https://github.com/tylarpierson)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
@@ -250,7 +255,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+`rm -R <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Tylar Pierson](https://github.com/tylarpierson)*
 
 #### How can you rename a directory or file?
 
@@ -654,9 +661,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +913,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
