@@ -123,9 +123,11 @@ It is broken down into small pieces of the original file, called packets. These 
 
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets. Packets have two basic parts to them, referred to as the "control information" and the user data or "payload". The "control information" is the metadata required to rebuild the packets back into the original data file.
+
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Brett Armstrong](https://github.com/brar3449)*
 
 
 #### What is a "client"?
