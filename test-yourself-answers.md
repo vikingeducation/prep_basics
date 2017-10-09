@@ -179,8 +179,12 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+etc. Originally designed for Academic and Scientific articles, the ability to link to different parts of the page and to other pages of the internet was hugely influential to the development of the "modern" internet. 
+
+HTML is used to essentially organize the content of a website. It gives the ability to link websites and images, create forms, display tables, and other things that have to do with organizing. It also contains metadata about the page in the header, such as what language is being displayed and what libraries need to be used to read the page, e.g. JQuery. The browser interprets and displays the HTML as the webpage.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Brett Armstrong](https://github.com/brar3449)*
 
 
 #### What is CSS and how is it used?
