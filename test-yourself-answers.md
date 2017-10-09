@@ -117,14 +117,17 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+It is broken down into small pieces of the original file, called packets. These are then sent across many channels, spreading out the data being sent. The advantage of doing this is that separately the packets can travel much faster and create less traffic than they would being sent as a whole. Once they have reached the specified IP address, they are rebuilt by the destination computer.
 
+*Contributed by [Brett Armstrong](https://github.com/brar3449)*
 
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets. Packets have two basic parts to them, referred to as the "control information" and the user data or "payload". The "control information" is the metadata required to rebuild the packets back into the original data file.
+
 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Brett Armstrong](https://github.com/brar3449)*
 
 
 #### What is a "client"?
@@ -176,8 +179,12 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+etc. Originally designed for Academic and Scientific articles, the ability to link to different parts of the page and to other pages of the internet was hugely influential to the development of the "modern" internet. 
+
+HTML is used to essentially organize the content of a website. It gives the ability to link websites and images, create forms, display tables, and other things that have to do with organizing. It also contains metadata about the page in the header, such as what language is being displayed and what libraries need to be used to read the page, e.g. JQuery. The browser interprets and displays the HTML as the webpage.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Brett Armstrong](https://github.com/brar3449)*
 
 
 #### What is CSS and how is it used?
