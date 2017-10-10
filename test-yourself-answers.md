@@ -267,6 +267,10 @@ Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux.
 
 #### Why are file permissions important?
 
+File permissions add a layer of security to your computer by preventing access or modification to files and folders unless the user attempting to access them has been previously authorized to do so.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 Prevents unwanted access and/or modification of files. Permissions often are for read, write, and execute.
 
 #### How do you view hidden files in a directory?
