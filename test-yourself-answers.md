@@ -696,6 +696,10 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
+A script is a short program that can be run without the need to be compiled first. A script can be as short and simple as one line that executes one command in the terminal or as long and complicated as 1000s of lines that create a game played in a web browser. A script can be typed in and run immediately or saved as a separate file and executed as many times as needed by simply referencing that file.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
