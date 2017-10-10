@@ -617,6 +617,10 @@ A framework is a collection of libraries that are used for building web applicat
 
 #### Ruby on Rails
 
+Ruby-on-Rails is a framework for building database driven web applications. It is written in the Ruby programming language.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
 
