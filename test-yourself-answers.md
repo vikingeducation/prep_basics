@@ -632,6 +632,10 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
+Version control is a method of tracking changes and saving previous states of files or entire sets of files and directories so that previous versions can be restored if changes need to be undone. It also allows someone to see who made what changes and when or why they made those changes.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 It's like a time machine for jumping back and forth between specific time stamp for coding.
 
 #### Git
