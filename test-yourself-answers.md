@@ -477,6 +477,10 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 
 #### Responsive Design
 
+Responsive design is the practice or implementation of creating websites that scale attractively based on the size of the screen they are being displayed on. A good example would be a website that has a navigation menu bar across the top of the screen when viewed on a full size monitor, but when the site is viewed on a tablet or phone, the menu bar is hidden and replaced with a floating button that opens a drop-down navigation menu.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 Ensuring that all possible devices and browsers are capable of properly displaying the intended content including: very easy to read and navigate; minimum need for panning and scrolling; and no need to resize.
 
 *Contributed by [Jasen Carroll](https://github.com/jasenc)*
