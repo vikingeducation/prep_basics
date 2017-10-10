@@ -644,6 +644,10 @@ One of the most popular open-source version control systems.
 
 #### Open Source
 
+Open source refers to the idea of allowing anyone to have access to copy what you are doing and to make changes to their version of it and make it their own. It is a concept popular in computer software development as it allows improvements and bug fixes to come from a wide variety of people and it also shortens development time of new software if you have access to a giant repository of pre-written code. It increases the likelihood that you'll be able to find code that only needs to be modified to fit your needs as opposed to having to create it all in its entirety.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
