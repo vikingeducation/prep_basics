@@ -6,7 +6,7 @@ This is the file you'll use to add your answers to the [Test Yourself exercise](
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
 
-Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
+Keep your answers under 3 paragraphs.  Add your explanation and a link to your Github username above or below the existing answers.  See the example below.
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
