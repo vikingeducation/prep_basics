@@ -206,6 +206,10 @@ The Web Inspector is a tool that allows you to view a web page’s source, the D
 
 #### What happens behind the scenes after you click "search" on google.com?
 
+After you click "search", your browser sends your request to Google's server. The server then uses the information it received to query it's database for the websites that Google believes would be of most interest to you based on your search. It then formats that data into a list of links and returns that data to to your browser along with the HTML and CSS needed to structure and style it.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 A single click rings out on a dark night...
 Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
