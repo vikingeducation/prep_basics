@@ -129,6 +129,10 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
+A "client" is a computer or a software program that connects to a server in order to pass data back and forth with that server. In the context of web pages and the internet, a client is typically a web browser that contacts a remotely located web server in order to retrieve the information needed to display a webpage.
+
+*Contributed by [Josh Kesling](https://github.com/JoshKesling)*
+
 A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
