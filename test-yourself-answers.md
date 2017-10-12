@@ -910,4 +910,10 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+### Why use new branches?
+
+To work on new features without disrupting the master branch or break anything. If the feature meets requirements it can then be merged on to the master branch to be launched.
+
+*Contributed by [Frederik Jørgensen](https://github.com/FrederikJorgensen)*
+
 
