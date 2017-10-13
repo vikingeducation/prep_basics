@@ -646,7 +646,10 @@ Abbreviation of Structured Query Language, and pronounced either see-kwell or as
 
 Extensible Markup Language (XML) is a text-based format that allows for the structuring of electronic documents and is not limited to a set of labels. XML is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via web services on the public Internet.
 
+XML looks a lot like HTML since both make use of nested tags or labels, it is used to format information (data structures) and is also commonly used in web applications with AJAX.
+
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
+*Contributed by [Marko](https://github.com/themthinks)*
 
 #### Schema
 
