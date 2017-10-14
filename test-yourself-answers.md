@@ -603,6 +603,7 @@ A framework is a collection of libraries that are used for building web applicat
 
 Ruby on Rails is the amazing web framework for creating awesome web applications. If you want to live on edge, RoR is the right choice.
 
+A web framework written in Ruby designed to make programming web applications easier by providing the tools needed to get started.
 
 #### Command Line
 
@@ -671,6 +672,7 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+Code translated into machine instructions by an interpreter at runtime, as opposed to compiled code which is translated ahead of time.
 
 
 ## Installations
@@ -770,6 +772,7 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 *Contributed by [Coco Matthey](https://github.com/cocoyeh)*
 
+Staging adds changes to a list of items to be committed to the repository.  When you commit the changes that have been staged are saved to the repository.
 
 
 ### Remotes
