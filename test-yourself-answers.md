@@ -78,9 +78,12 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 #### What are the top 3 characteristics of great web developers?
 
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
+Ability to think quickly and problem solve - Figuring out a solution to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
+Laziness! Developers often have an aversion to repetitive tasks, so they write programs that do the work for them. They then share their creation on Github so others can be lazy as well!
+*Contributed by [Benjamin Lokash](https://github.com/bnlokash)*
 
 
 #### What do companies look for in a junior web developer?
@@ -225,6 +228,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+A text-based interface for interacting with your computer.
+*Contributed by [Benjamin Lokash](https://github.com/bnlokash)*
+
 
 #### How do you open it on your computer?
 
@@ -623,6 +630,10 @@ One of the most popular open-source version control systems.
 Free licensed code.
 
 *Contributed by [Olga](https://github.com/ayva)*
+
+Anyone is free to take a look at the source code and use it or modify it for their own purposes. Users are encouraged to improve upon the source code and share their changes with the community.
+
+*Contributed by [Benjamin Lokash](https://github.com/bnlokash)*
 
 #### CMS
 
