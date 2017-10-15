@@ -50,7 +50,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange/StackOverflow.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -129,10 +129,11 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
+A client is a device that need to get something. For example, if we want to watch videos on Youtube, we are the 'client' to YouTube's 'server'.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
+*Contributed by [Hannah Kim](https://github.com/hkxnyc)*
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
@@ -143,12 +144,13 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will receive the requests and try to look for the resources specified in the request. If the server finds what the client wants, the server will then return the data to the client. If the server can't find what the client wants, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
+*Contributed by [Hannah Kim](https://github.com/hkxnyc)*
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
 *Contributed by [PGiese](https://github.com/PGiese)*
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
@@ -273,10 +275,11 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
-The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
+The "Superuser" is a user of a computer system with special privileges needed to administer and maintain the system. You can think of it as a Parent account of a shared family computer. The children will have limited access depending on their age and the Parent will have access to (do) everything. This is effectively the Superuser. Superuser commands can be executed using 'sudo' in the command line, which stands for Superuser do.
 
 'sudo' allows a user to run programs with the security privileges of another user, often the superuser or root user.
 
+*Contributed by [Hannah Kim](https://github.com/hkxnyc)*
 *Contributed by [Matt Davis](http://github.com/chiewieee)*
 
 #### What is Vim?
@@ -626,8 +629,9 @@ Free licensed code.
 
 #### CMS
 
-CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise.
+CMS stands for Content Management System, which is an application used to manage the content of a website.  The purpose of a CMS is to make updating a website's content easier, enabling administrators to make changes efficiently without the need for coding expertise. A good example would be an online publication like Business Insider, which uses a CMS to manage all of their articles.
 
+*Contributed by [Hannah Kim](https://github.com/hkxnyc)*
 *Contributed by [Adan Camacho](https://github.com/adancode)*
 
 #### Database
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,7 +910,7 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
