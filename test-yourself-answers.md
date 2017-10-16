@@ -41,6 +41,7 @@ Front-end developers focus more on the actual webpage itself, how the site looks
 Front-end developers are responsible for User Interaction and User Experience. Back-end developers focus on storing, delivering, and generating data for the front-end experience. A full-stack developer is capable of doing all of these tasks.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
 *Contributed by [Daniel Ors](https://github.com/danielors)*
 
 #### What's the difference between static and dynamic web pages?
@@ -68,6 +69,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -77,6 +79,7 @@ Developer-friendly text editors like Sublime Text do not add hidden formmatting 
 Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, autocomplete, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
 *Contributed by [Daniel Ors](https://github.com/danielors)*
+
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What are the top 3 characteristics of great web developers?
@@ -85,6 +88,7 @@ Curiosity - An insatiable desire to learn new technologies and master their nuan
 Creative problem-solving - Hack the world! The hacker mindset is essential to succeeding as a developer. Without the ability to think outside the box, life as a developer would prove a steep uphill climb.
 Laziness (the good kind) - Producing a more direct, independent solution that solves the need for repetition or resources is a ubiquitous skill in the best developers. 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+
 *Contributed by [Daniel Ors](https://github.com/danielors)*
 
 #### What do companies look for in a junior web developer?
@@ -98,7 +102,9 @@ Smaller companies usually need "the best specialist" even if it is only "junior"
 It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -138,11 +144,17 @@ A client is a device that need to get something. For example if we want to watch
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+
 *Contributed by [PGiese](https://github.com/PGiese)*
+
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
 *Contributed by [Shamash](https://github.com/Shamash2014)*
+
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+
 
 
 #### What is a "server"?
@@ -154,10 +166,15 @@ Basically, it enables the sharing of resources and information for various appli
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
+
 *Contributed by [PGiese](https://github.com/PGiese)*
+
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+
 
 
 #### What is HTTP and how does an HTTP request work?
@@ -239,26 +256,31 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
@@ -268,11 +290,13 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
 `$ man <cmd>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
@@ -286,18 +310,22 @@ The "Superuser" is a user of a computer system with special privileges needed to
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
 `:q!` (to overwrite and not save any changes)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 `:qa!`
+
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
 
 #### What is the `.bash_profile` file and what is it used for?
@@ -455,6 +483,7 @@ How your customers find you online matters to an entrepreneur and/or a line of b
 3. Properly formatted for the search engine to pull a description, title, and related links.
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+
 *Contributed by [Daniel Ors](https://github.com/danielors)*
 
 
