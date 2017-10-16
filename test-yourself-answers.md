@@ -30,15 +30,18 @@ In other words, a web developer plays the role of both an architect and handyman
 
 #### What's the difference between web developers and web designers?
 
-Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
+Web designers are focused on the visual design and UX/UI of a website or web app, whereas developers are focused on how to build it. However, there is some overlap between the two disciplines.
+
+*Contributed by [Daniel Ors](https://github.com/danielors)*
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end developers focus on the server-side code that runs the application, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction and User Experience. Back-end developers focus on storing, delivering, and generating data for the front-end experience. A full-stack developer is capable of doing all of these tasks.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
+*Contributed by [Daniel Ors](https://github.com/danielors)*
 
 #### What's the difference between static and dynamic web pages?
 
@@ -50,7 +53,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use Google! There are other fantastic resources but Google will give you great access to all of them. A lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -69,19 +72,20 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+Developer-friendly text editors like Sublime Text do not add hidden formmatting to your code, leaving it properly formatted for web servers and browsers to understand. When typing into Microsoft Word, the text is formatted with hidden tags such as "<span>" that can break the code you've worked hard to format correctly! Also, Word will not save your file into the proper formats - including .txt, .md, .html, and .css.
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
+Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, autocomplete, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
 
+*Contributed by [Daniel Ors](https://github.com/danielors)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+Curiosity - An insatiable desire to learn new technologies and master their nuances.
+Creative problem-solving - Hack the world! The hacker mindset is essential to succeeding as a developer. Without the ability to think outside the box, life as a developer would prove a steep uphill climb.
+Laziness (the good kind) - Producing a more direct, independent solution that solves the need for repetition or resources is a ubiquitous skill in the best developers. 
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
-
+*Contributed by [Daniel Ors](https://github.com/danielors)*
 
 #### What do companies look for in a junior web developer?
 
@@ -447,10 +451,11 @@ The HTTP Status Code returned by a server indicating file not found.
 
 How your customers find you online matters to an entrepreneur and/or a line of business process owner. Your customers often are customers of your competitors. SEO (search engine optimization) is the process of producing content that is:
 1. Interesting enough to your customers that they find it organically and choose it over competitive products.
-2. Interesting enough to the search engine provider to bump it up to the first page instead of competitive products.
-3. Tricky enough to pretend to be one of the first two by gaming the search algorithm.
+2. Interesting enough to the search engine provider to bump it above competing websites.
+3. Properly formatted for the search engine to pull a description, title, and related links.
 
 *Contributed by [Daniel R. Dugan](https://github.com/Tvlistings)*
+*Contributed by [Daniel Ors](https://github.com/danielors)*
 
 
 ### Design
