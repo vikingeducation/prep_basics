@@ -229,8 +229,10 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
-
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+On a Linux system, at least for Ubuntu, the fastest way to open up the command line is the `Ctrl + Alt + t` shortcut.
+*Contributed by [Simon Davis]((http://github.com/Skidragon)*
 
 #### What is Bash?
 
