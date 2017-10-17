@@ -1,8 +1,8 @@
-﻿# Test Yourself: Answers
+﻿#### Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
-### Instructions
+#### Instructions
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
 
@@ -10,12 +10,17 @@ Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanat
 
 The `.md` extension on this file means it's a markdown file.  You can just assume it's a text file with a bit of HTML-ish syntax.  If you'd like to read up more on markdown, which can be converted to HTML so you can add images or videos, check out the [documentation from Daring Fireball](http://daringfireball.net/projects/markdown/syntax).  You shouldn't have any problem copying the styles other people have used.
 
-### Example Answer
-
 #### Example Question
 
-An awesome explanation about why this thing is amazing in plain-english that anyone can understand.  You know what's also awesome? Learning. And puppies.
+What is the purpose of this document?
 
+#### Example Answer
+
+The purpose of this document is to demonstrate the use of using github as a colaboration between collegues from around the world in order to coherently explain the jargon that is used within the webdevelopment course and industry. This is done using an awesome explanation about why this thing is amazing in plain-english that anyone can understand.
+
+You know what's also awesome? Learning. And puppies.
+
+*Contributed by [Rudi Boshoff] (https://github.com/RudiBoshoff)*
 *Contributed by [Erik Trautman](http://github.com/eriktrautman)*
 
 ## All About Web Developers
