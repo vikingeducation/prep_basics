@@ -636,6 +636,8 @@ A database is a collection of information that is organized so that it can easil
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
 
+A database is used for data retrieval, updates, and additions.  Like a spreadsheet in some ways, but not many, databases can manage your data with much better integrity and greater speed.  In the context of the web, databases often reside on a server computer and allows the user to get information that is requested by the browser or stores information from a user such as when that user signs up for a new account.
+
 #### SQL
 
 Abbreviation of Structured Query Language, and pronounced either see-kwell or as separate letters. SQL is a standardized query language for requesting information from a database. The original version called SEQUEL (structured English query language) was designed by an IBM research center in 1974 and 1975. SQL was first introduced as a commercial database systemin 1979 by Oracle Corporation. Although there are different dialects of SQL, it is nevertheless the closest thing to a standard query language that currently exists.
@@ -654,9 +656,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -904,10 +906,21 @@ You'll see output indicating any changes that were made
 
 A merge conflict occurs during a merge when the same part of some file has changed in the two different branches. For example, let's say John and Jane are working on a project together. John creates a branch for a feature he is working on. While he is working on this branch, he modifies a file that Jane has also modified on the master branch. When John attempts to merge the master branch into his feature branch, he'll receive a message that the automatic merge failed and that the conflicts need to be fixed and the changes committed.
 
+A merge conflict is annotated with three markers: 1) <<<<<<< 2) ======= 3) >>>>>>>, with the conflicting/differing code found above and below the ======.
+
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve this, delete the line you want to get rid of along with the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
+
+Take for example the merge conflict below, of two people who can't decide whether puppies or kittens are the best.
+<<<<<<< HEAD
+Puppies are the best!
+=======
+Kittens are the best!
+>>>>>>> branch
+
+If you happen to like puppies more, you resolve the conflict by deleting "Kittens are the best!" and the 3 conflict merge markers. Your final text reads:
+
+Puppies are the best!
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
