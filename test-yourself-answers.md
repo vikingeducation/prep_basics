@@ -542,6 +542,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
 
+You can access the Javascript console (and debugger) via the developer tools in the browser. Note that Javascript has no relation to the Java programming language.
+
+*Contributed by [Edwin Yung](https://github.com/edwinyung)*
+
 
 #### AJAX
 
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -788,13 +792,20 @@ A remote repo allows you to either pull upstream changes from the master repo, o
 
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 
+Note that remote repos live online in Github. There are usually two we want to play around with: the upstream and the origin. The upstream is the original repo we wish to modify. The origin is the forked original repo.
+
+*Contributed by [Edwin Yung](https://github.com/edwinyung)*
 
 #### How do you add your Github repo as the remote?
 
 git remote add origin URL
 
 URL is copied from my repo in my GitHub account
+
+Note that this code also labels the remote repo as the "origin", which we do for best practice but you are free to change the name as you wish.
+
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
+*Contributed by [Edwin Yung](https://github.com/edwinyung)*
 
 #### How do you check the status of your current repo in git?
 
@@ -906,8 +917,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
