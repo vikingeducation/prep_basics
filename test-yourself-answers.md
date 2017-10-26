@@ -165,6 +165,8 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+Most requests that the browser sends to the server is a GET request, which is simply asking the server for the webpage that the user has typed in the URL for. POST requests are made when the user submits a form; in this case, the browser is sending information to the server, and this information will be added to a database hosted there. Often, once this change is made, the browser sends another GET request for the page to display once the form has been successfully submitted. 
+*Contributed by [DMCatanach](https://github.com/DMCatanach)*
 
 #### What are DNS servers?
 
