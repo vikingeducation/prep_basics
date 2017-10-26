@@ -120,6 +120,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
+Information is broken into smaller portions, called packets. These packets are sent through the network of servers, often via different paths. When they reach the IP address they're all being sent to, the packets are reassembled and displayed. 
+*Contributed by [DMCatanach](https://github.com/DMCatanach)*
+
 #### What are packets?
 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
