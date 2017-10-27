@@ -237,6 +237,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+"Bash may be explained in a way that it is a console itself - shell and command language together. In a simple way - it understands and executes the commands user enters."
+*Contributed by DenisV (https://github.com/VDenisV)
+
 #### How can you navigate into a particular file directory?
 
 `$ cd <directoryName>`
@@ -300,6 +303,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+"Before Terminal loads the shell environment - it is the bash_profile to be loaded first. Bash_profile contains all the startup configuration and preferences for user's command line interface. Within it user can change configuration of a terminal."
+*Contributed by DenisV (https://github.com/VDenisV)
 
 #### What is the `$PATH` variable?
 
@@ -386,6 +392,14 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+"IMAP and POP are different protocols that do similar things.
+
+The main differences in the two are that IMAP manages the email that's on the server, whereas POP3 downloads email from the server, leaving the client to manage the email locally.
+
+IMAP leaves the email on the server and manages the email on the server (including folders), it's better suited for mailboxes that will be accessed by multiple users or from multiple locations.
+
+SMTP is the common protocol for DELIVERING email, i.e. Simple Mail Transport Protocol. Clients send outbound email via SMTP, but they don't receive via SMTP, it's otherwise a Server-Server email transport protocol."
+*Contributed by DenisV (https://github.com/VDenisV)
 
 #### API
 
@@ -654,9 +668,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +920,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
