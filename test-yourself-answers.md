@@ -120,6 +120,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
+Information is broken into smaller portions, called packets. These packets are sent through the network of servers, often via different paths. When they reach the IP address they're all being sent to, the packets are reassembled and displayed. 
+*Contributed by [DMCatanach](https://github.com/DMCatanach)*
+
 #### What are packets?
 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
@@ -162,6 +165,8 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+Most requests that the browser sends to the server is a GET request, which is simply asking the server for the webpage that the user has typed in the URL for. POST requests are made when the user submits a form; in this case, the browser is sending information to the server, and this information will be added to a database hosted there. Often, once this change is made, the browser sends another GET request for the page to display once the form has been successfully submitted. 
+*Contributed by [DMCatanach](https://github.com/DMCatanach)*
 
 #### What are DNS servers?
 
@@ -231,6 +236,9 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+
+On OSX, it is also located in the Applications/Utilities folder. It may be useful to keep it in the Dock for quick access. 
+*Contributed by [DMCatanach](https://github.com/DMCatanach)*
 
 #### What is Bash?
 
