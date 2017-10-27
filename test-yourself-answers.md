@@ -237,6 +237,9 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
+On OSX, it is also located in the Applications/Utilities folder. It may be useful to keep it in the Dock for quick access. 
+*Contributed by [DMCatanach](https://github.com/DMCatanach)*
+
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
