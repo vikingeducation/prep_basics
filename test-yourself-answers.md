@@ -48,6 +48,12 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Static webpages are simple sites that do not change or do not store any changes after the user leaves or refreshes their browser. A classic example of this is a profile page or a portfolio. It simply displays data that does not change until a developer changes it and uploads the changes to the server.
+
+A dynamic page can be changed without needing to be 'developed'. Facebook and SoundCloud are examples -- users can sign in, upload or delete files, comment and share. These changes are stored in the server and made available for other users to see and interact with.
+
+*Contributed by [Yilen Pan](http://github.com/yilenpan)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
@@ -189,6 +195,10 @@ and it makes the front end simpler by separating presentation from content.
 
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
+CSS is the language a front-end developer uses to build and craft the visual aspect of a web page or app. It is a client side language, meaning a web browser reads it and knows what to do without requiring extra information from a server.
+
+*Contributed by [Carl Frie](http://github.com/carlfrie)*
+
 
 #### What is your browser's Web Inspector (aka Developer Tools) and how can you use it to poke around in a page's HTML?
 
@@ -225,6 +235,10 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+The command line is a text based interface that allows developers and programmers use for a variety of tasks. These tasks can include something as simple as creating a file to more complex tasks such as sharing files with other networked computers or even modifying a computers OS. Because it is not a graphical tool developers find that it can be more efficient and more powerful for these tasks.
+
+*Contributed by [Carl Frie](http://github.com/carlfrie)*
 
 #### How do you open it on your computer?
 
@@ -654,9 +668,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +920,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
