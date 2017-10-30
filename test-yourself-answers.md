@@ -298,6 +298,13 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 #### What is the `.bash_profile` file and what is it used for?
 
+The .bash_profile is a file that stores user settings and preferences for the terminal screen. By editing the .bash_profile, users can change the background color of the terminal, font colors, and even establish different color combinations for files, folders and prompts. For example, if your prompt looks like this: 
+
+user@hostname: ~/directory_name $ 
+
+Then you can configure the .bash_terminal file to render user@hostname: the color green (or any other color), and ~/directory_name to render blue (or any other color). You can also edit your prompt to show the date, time, current git branch you're working on (if applicable) and many other preferences. The . in .bash_profile means that it is a hidden file.
+(from Jarrick)
+
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
@@ -519,6 +526,10 @@ Graphical User Interface. This is the modern interface that is used across a mul
 
 *Contributed by [Dan Berger](https://github.com/dsberger)*
 
+"Front End" refers to everything on the client side (the user's side), including what they see, their browser, and all the client-side coding, like HTML, CSS and JavaScript.
+
+"Back End" refers to everything on the server side, including server-side scripting languages, the host itself, etc.
+
 ### Developer Tools and Code
 
 #### HTML
@@ -667,6 +678,14 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
+There are two types of programming languages: compiled languages ("programs" or "apps") and scripting languages ("scripts").
+
+Compiled languages are programming languages that write the core code of programs and apps. With few execptions, this code does not change. To run the program (called "executing the program"), the source code must be compiled first. "Compiling" is when you run source code through a "compiler." A compiler is a piece of software that takes your source code and translates it to "machine code," which allows the computer to execute your program.
+
+Scripting languages, on the other hand, control other apps. A script is "interpreted" by the app it's controlling, rather than being compiled into machine code.
+(By Jarrick) 
+
+Scripts control another application. 
 Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -826,7 +845,6 @@ A merge is when you take the changes you've made on one branch, and bring them i
 A pull request is when you contribute to someones else's project, and you let them know that you have made changes that they can look over and possibly implement into their project.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
 
 #### What is "Forking" a repo?
 
