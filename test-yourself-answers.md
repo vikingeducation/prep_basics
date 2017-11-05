@@ -122,9 +122,22 @@ It is broken down into packets and sent through random different ways to get to 
 
 #### What are packets?
 
-Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
+Before data is sent between computers or servers, it is broken down into bits called packets. Each packet is transmitted at different times, taking the fastest route available to its destination. Since packets contain information about their origin and destination, they can be reassembled once they arrive in the same location. This process is quicker than sending individual files across the internet, since large files like photos, videos, and songs contain hundreds of thousands of bits.
 
-*Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Dondi Fusco](https://github.com/dondi2112) and [Natasha Godwin](https://github.com/natashagodwin)*
+
+### What are routers?
+
+Routers are like traffic managers: they manage the flow of packets to their destination. Instead of moving packets along a fixed, direct path, routers keep track of multiple paths, choosing the “cheapest” (fastest) one available for each piece of data. This is more efficient than creating a direct connection between each user’s computer and the target server. If only one path was available and thousands of users wanted access, the network would slow down. It also makes the Internet more reliable. If something destroys or interferences with one path, routers can find other ones.
+
+*Contributed by [Natasha Godwin](https://github.com/natashagodwin)*
+
+
+### What is the Transmission Control Protocol (TCP)?  
+
+The TCP is like a mail service: it manages the sending and receiving of all packets of data. When data is broken down and transmitted, the TCP conducts an inventory to make sure all of the packets have been received. If they have, it “signs off” and completes the transmission. If they haven’t, it stops the transmission.
+
+*Contributed by [Natasha Godwin](https://github.com/natashagodwin)*
 
 
 #### What is a "client"?
@@ -654,9 +667,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +919,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
