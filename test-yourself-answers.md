@@ -120,6 +120,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 It is broken down into packets and sent through random different ways to get to their destination.
 
 
+
 #### What are packets?
 
 Packets are bits of data that are parts of a whole that are sent from one computer or server to another. An image, video or some other asset is requested by a client and the host serves them up by breaking it down into smaller chunks called packets that are sent out with information attached to them that signifies where they are to be routed and how to piece them all back together.
@@ -384,7 +385,11 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol, and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+
+POP and IMAP are both commonly used by email clients to retrieve a user's mail from a server. However, POP is a simpler protocol than IMAP, and does not support some features of modern email clients such as flagging messages as read, unread, etc.
+
+*Contributed by [Ben Kim](http://github.com/bhk1019)*
 
 
 #### API
@@ -554,8 +559,11 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 #### Pseudo-Code
 
+Pseudo-code is a combination of programming language syntax and plain English that is used to lay out the structure of a computer program, perhaps in order to communicate an idea that is still a work in progress.
+
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+*Contributed by [Ben Kim](http://github.com/bhk1019)*
 
 #### C
 
@@ -612,7 +620,13 @@ The interactive shell where you can enter commands that will be run by your oper
 
 #### Version Control
 
+Version control is the practice of backing up and documenting changes made to a computer program.
+
 It's like a time machine for jumping back and forth between specific time stamp for coding.
+
+It is essential to maintain careful version control, especially when working on a large project that may involve many contributing developers.
+
+*Contributed by [Ben Kim](http://github.com/bhk1019)*
 
 #### Git
 
@@ -654,9 +668,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +920,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
