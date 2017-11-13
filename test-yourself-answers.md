@@ -32,6 +32,10 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+In the past, a web developer and web designer were two sides of the same coin. When building their web application, the web designer would handle the skinning of it, which means they determine what the appearance would be. Following the design aspect, the developer would begin working on the function of the web app, the blood and bones effectively. Their work is what makes the function operate how it was intended. Nowadays though, these two roles have begun to blur and blend together. With the advent of much more powerful browser code, developers are able to control a lot more in regards to the design of the web app using languages such as HTML, CSS and JavaScript.
+
+*Contributed by [Justin Rigler](https://github.com/jayyargh)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -654,9 +658,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -869,12 +873,25 @@ git checkout -b branch_name
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
 
 
-
 #### Why would you use a branch?
 
 Branching allows for different features to be developed without modifying the main document. The feature can then be merged into the main document if and when desired.
 
+Centralized workflow within Git is done via the `master` branch. As aforementioned, the main document is located there and if you are only adding features and not removing or replacing them, you should create a new branch. Using a descriptive name for the new branch allows you to identify the feature while in the midst of your workflow. Branches are effective and singling out features for their own development which makes the workflow much more efficient.
+
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Justin Rigler](https://github.com/jayyargh)*
+
+
+#### Do you have to be on `master` to branch from `master`?
+
+No, you do not. Regardless of whatever branch you are within at the time, merely type this command:
+
+	$ git checkout -b insert-branch-name-here master
+
+Say that you are in another branch from the `master`, this will create the newly named branch and by adding `master` to the end, it will create it from that branch. Be careful while doing this as creating a bad branch can make it much more difficult to merge back into `master`.
+
+*Contributed by [Justin Rigler](https://github.com/jayyargh)*
 
 
 #### How do you create a new branch?
@@ -906,8 +923,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
