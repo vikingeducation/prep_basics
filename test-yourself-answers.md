@@ -538,6 +538,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
 
+Cascading Style Sheets (CSS) is a style sheet language which, as the name suggests, is used to set the visual style of webpages and websites while the content is often determined by a markup language like HTML. Separating content from style provides benefits related to accessibility, flexibility, and control. CSS is a critically important language along with HTML and JavaScript for many websites and web/mobile applications. 
+
+*Contributed by [Jason Roeschley](https://github.com/jroeschley)*
+
 #### Javascript
 
 The scripting language that runs in the browser. It allows interactivity with the user. It is also invading the back-end with the popularity of nodejs.
