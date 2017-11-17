@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -647,6 +647,12 @@ Abbreviation of Structured Query Language, and pronounced either see-kwell or as
 Extensible Markup Language (XML) is a text-based format that allows for the structuring of electronic documents and is not limited to a set of labels. XML is used to describe data. The XML standard is a flexible way to create information formats and electronically share structured data via web services on the public Internet.
 
 *Contributed by [Mike Donnelly](https://github.com/SQLMD)*
+
+#### XQuery
+
+XQuery is basically SQL for XML. It lets you search and sort XML documents in much the same way as SQL.
+
+*_Contributed by_ [_Larsen Marquardt_](https://github.com/LJM52)
 
 #### Schema
 
