@@ -652,7 +652,7 @@ Extensible Markup Language (XML) is a text-based format that allows for the stru
 
 XQuery is basically SQL for XML. It lets you search and sort XML documents in much the same way as SQL.
 
-*_Contributed by_ [_Larsen Marquardt_](https://github.com/LJM52)
+*Contributed by [Larsen Marquardt](https://github.com/LJM52)*
 
 #### Schema
 
