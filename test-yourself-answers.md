@@ -402,6 +402,10 @@ A program usually running on a remote computer that responds to requests from a 
 
 *Contributed by [Unknown]*
 
+It is a program which uses HTTP to communicate betweern the browser and web server 
+
+*Contributed by [Akash Shah](https://github.com/ashah2632)
+
 
 #### Bugs
 
@@ -751,6 +755,12 @@ To create a Git repository locally, you want to navigate to the root directory o
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+First you need to be in the working directory of your project. You can do this by $ cd nameofyourproject. Next you have to run:  
+$ Git init
+This commnad will create git repo locally. It is very important to be in the directory of your current project while running this command. 
+
+*Contributed by [Akash Shah](https://github.com/ashah2632)
+
 #### How do you create it on Github?
 
 By clicking on the plus symbol ('+') of your github user account and selecting NEW REPOSITORY
@@ -780,6 +790,10 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 Committing your changes will only save them in your local repository. Pushing them to Github will save them to your remote repository.
 
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+
+When you commit, it is saved on your computer(locally). When you push it to Github, you are saving the changes on a remote location so you can access it anywhere. 
+
+*Contributed by [Akash Shah](https://github.com/ashah2632)
 
 
 #### What is the difference between a "remote" and your local repo?
