@@ -335,6 +335,7 @@ Define the following:
 
 ### The Web
 
+The web is netowrk of interconnected computers that comunicate by using protocols
 
 #### URL( Uniform Resource Locator)
 
@@ -399,6 +400,8 @@ For example, Amazon.com released its API so that web developers could more easil
 #### Web Server
 
 A program usually running on a remote computer that responds to requests from a browser.
+
+Communicates with the client by a protocol, namely http, and responds with a minified version of html markup of the website requested.
 
 *Contributed by [Unknown]*
 
