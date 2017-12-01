@@ -914,10 +914,16 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 Vim is a text editor similar to notepad, sublime, or atom. Vim is different in that it forces the user to only use the keyboard. It can be a good way to learn keyboard shortcuts.
 
+*Contributed by [Addison Dalton](https://github.com/Addison-Dalton)*
+
 #### What is AJAX?
 
 AJAX stands for Asynchronous JavaScript and XML. AJAX allows web pages to be updated asynchronously by exchanging data with a server behind the scenes. This allows the web page to update parts of the page without reloading the entire page.
 
+*Contributed by [Addison Dalton](https://github.com/Addison-Dalton)*
+
 #### What is the difference between a "remote" and your local repo?
 
 The "remote" is your in the cloud repo. It isn't located on your computer and can be taken from any other computer. Your local repo is the one located on your computer and the repo you will be working within. 
+
+*Contributed by [Addison Dalton](https://github.com/Addison-Dalton)*
