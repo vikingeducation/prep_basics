@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+A network of resources that, by using the hypertext transfer protocol, enable worldwide information sharing and communication.
+
+*Contributed by [pinkiepixiestix](https://github.com/pinkiepixiestix)*
 
 #### URL( Uniform Resource Locator)
 
