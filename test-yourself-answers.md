@@ -559,6 +559,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+A mix of human language (e.g. English) and a programming language, often useful to help think through code before actually implementing the code.
+
+*Contributed by [pinkiepixiestix](https://github.com/pinkiepixiestix)*
 
 #### C
 
