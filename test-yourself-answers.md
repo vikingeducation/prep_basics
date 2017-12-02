@@ -335,6 +335,9 @@ Define the following:
 
 ### The Web
 
+A network of resources that, by using the hypertext transfer protocol, enable worldwide information sharing and communication.
+
+*Contributed by [pinkiepixiestix](https://github.com/pinkiepixiestix)*
 
 #### URL( Uniform Resource Locator)
 
@@ -536,7 +539,10 @@ Hypertext markup language:  The coding read by web browsers that dictates the la
 
 "Cascading Style Sheets" find HTML tags and tell the browser how to display them.
 
+Used to control a webpage or website's appearance as opposed to its structure (as per HTML).
+
 *Contributed by [Ashton Christie](https://github.com/ashchristie)*
+*Contributed by [pinkiepixiestix](https://github.com/pinkiepixiestix)*
 
 #### Javascript
 
@@ -556,6 +562,9 @@ AJAX stands for Asynchronous JavaScript and XML, and it is a programming concept
 
 Basically shorthand for what you are planning to code. It's like sketching for programmers.
 
+A mix of human language (e.g. English) and a programming language, often useful to help think through code before actually implementing the code.
+
+*Contributed by [pinkiepixiestix](https://github.com/pinkiepixiestix)*
 
 #### C
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
