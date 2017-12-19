@@ -654,23 +654,19 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<?ELEMENT List (Item)> 
 
 --This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
 <List>
   <Item>Chocolate</Item>
 </List>
 
-In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) which famous manifastation is <!DOCTYPE html>
+In similar to XML way, HTML documents are defined by DTD (Documents Type Definition) whose famous manifastation is <!DOCTYPE html>
 
 *Contributed by [Dariusz Biskupski](https://github.com/Visiona)*
 
 #### Script
-
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
-
-*Contributed by [Shamash](https://github.com/Shamash2014)*
-
+File that contains high level code that can be converted to machine readable instructions using an interpreter.  
 
 
 ## Installations
@@ -717,9 +713,7 @@ Git is the most popular distributed version control system used for software dev
 
 #### What does SCM stand for?
 
-**S**ource **C**ode **M*anagement is generally achieved via software that provides coordination, communication and version control services to developers.
-*Contributed by [Alex Clifford](https://github.com/akclifford)*
-
+Software configuration management, also called as version control, allows maintanence of documentation and configuration files as well as the source code.
 
 #### What is a VCS?
 
