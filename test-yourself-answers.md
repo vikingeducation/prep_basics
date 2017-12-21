@@ -259,7 +259,8 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 
 #### Why are file permissions important?
 
-prevent unwanted access and/or modification of files. Permissions often are for read, write, execute?
+Permissions decide which users have access rights to a file system. Permissions thus work a bit like a lock preventing unwanted users from accessing and/or modifying files. 
+Unix systems have three different types of permissions: a) The read permission which grants a user the ability to read a file; b) The write permission which grants a user the ability to modify a file; c) the execute permission which grants a user the ability to execute a file.
 
 #### How do you view hidden files in a directory?
 
