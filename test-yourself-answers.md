@@ -911,3 +911,17 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
 
+#### What is the process of contributing a pull request? 
+
+You clone the master file, make your changes in a new branch, clone the master file again, merge the master file with your new branch to ensure that your original source is up to date, then you submit it as a pull request once everything is merged and updated. Since you are not in charge of that repo, this notifies the maintainer, who will then see if your changes are a worthy addition to the project. 
+
+#### When merging files that have conflicts, who decides which changes to keep? 
+
+The conflicts will display in the Text Editor for the user to see. The user will then decide on which changes to keep and which to delete. The user then deletes all the comments and conflicts, and enters $commit again to finalize all changes. 
+
+#### What is a $PATH and why did you have to change it when adding Sublime Text Command Prompts? 
+
+$PATHs are hidden folder locations that tells your computer where to search for "directions" to certain command line prompts. In a new Mac, which is the El Capitan and above, this process will be a little more complicated. Since Apple no longer allows its users to get into the usr/bin, you will have to create a whole new, editable folder for the Sublime Text command prompts. You will then have to add this entire new folder into the $PATH so that the computer will know to also include that folder when crawling for the directions. 
+
+*Contributed by [Michelle Wang](https://github.com/mishfish13)*
+
