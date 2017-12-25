@@ -227,7 +227,7 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 
 #### What is the command line?
 
-A means of interacting with a computer system via issuing text-based commands to the operating system directly. The program that handles this interfacing is known as a command language interpreter or shell. 
+A means of interacting with a computer system via issuing text-based commands to the operating system directly. The program that handles this interfacing is known as a command language interpreter or shell.
 
 *Contributed by [Damian McKeown](https://github.com/dae-mm)*
 
