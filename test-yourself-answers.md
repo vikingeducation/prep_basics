@@ -50,9 +50,9 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+Google, Google, and GOOGLE! There is a good chance other people have tried to solve a problem or type of problem you are facing, if that is the case there will be links to peoples' solutions online, even if its not in the computer language you are solving it in.
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+*Contributed by [Abraham Nieto](http://github.com/hardtargetmullet)*
 
 #### Where are the closest developer communities to you?
 
@@ -69,11 +69,9 @@ Look at r/Programming or r/learnprogramming
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
 
-I think the most important reason why developer-friendly text editors are better than Word, is that editors such as Text Wrangler and Sublime Text save files in a proper format for Web Servers and Browsers.  MSWord along with other word-processing programs tend to add additional information to files that Web Servers and Browsers do not understand.
+Use vim, for linux, mac, even windows when using a bash for windows. It has a barrier to entry but you can do it and you will be well rewarded. Microsoft Word does not have syntax highlinting by default, and uses Rich Format Text, which can mess up how your website and or code will be displayed. 
 
-Additionally, developer-friendly editors have features such as Code Coloring, basic code-hinting, File and Directory Management, and can be customized to be easier on your eyes when staring at them for hours.
-
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [Abraham Nieto](http://github.com/hardtagetmullet)*
 
 #### What are the top 3 characteristics of great web developers?
 
@@ -129,6 +127,8 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
+A client is a web browser.
+
 A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
@@ -139,6 +139,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
+*Contributed by [Abraham Nieto](http://github.com/hardtargetmullet)*
 
 
 #### What is a "server"?
