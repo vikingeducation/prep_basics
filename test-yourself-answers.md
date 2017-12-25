@@ -50,7 +50,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 #### What's the best way to get help when you get stuck?
 
-Google, Google, and GOOGLE! There is a good chance other people have tried to solve a problem or type of problem you are facing, if that is the case there will be links to peoples' solutions online, even if it not the language you are in.
+Google, Google, and GOOGLE! There is a good chance other people have tried to solve a problem or type of problem you are facing, if that is the case there will be links to peoples' solutions online, even if its not in the computer language you are solving it in.
 
 *Contributed by [Abraham Nieto](http://github.com/hardtargetmullet)*
 
