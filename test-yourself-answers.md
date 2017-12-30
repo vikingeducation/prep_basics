@@ -654,9 +654,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -813,9 +813,9 @@ You can look through a history of commits by clicking on the repository name and
 
 
 ### Branching and Merging
-
+## to switch from branch to branch use git checkout. To merge two branches use git merge ____.
 #### What is a "Merge"?
-
+## When you take more than one branch and combine them together.
 A merge is when you take the changes you've made on one branch, and bring them into another branch to update it with the new changes.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
@@ -829,7 +829,7 @@ A pull request is when you contribute to someones else's project, and you let th
 
 
 #### What is "Forking" a repo?
-
+##When you fork a repo your making a clone of it so you can work on it.
 Making a copy of another master repo into your own github account so as to not disturb the master in order to do work on it, make changes and/or corrections and later submit for a pull request
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
@@ -906,8 +906,16 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
+##Diffrent ways of commmiting.
 
 
+##The easiest way that I found to commit a file was to use the command git commit where it would take me to another screen in cmd where i could type in my message.
+
+##What's the best way to merge two branches.
+
+#If you're merging the master branch go into the other branch so you know you wont have any problems and after you merge the second branch and its ok you can merge the master.
+
+###(https://github.com/jollydillpickle)
