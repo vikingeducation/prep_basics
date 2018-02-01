@@ -80,7 +80,13 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
 Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
+Be personable: the best web developers are able to communicate effectively, both receiving and relaying information in the most efficient (and painless) way possible.  
+Also, be consistent: the best web developers follow a process whenever working on a new project to ensure that their code is clean and easy to read.  Keeping this consistency across all projects helps to establish a work ethic that employers will not only appreciate but come to expect and rely on.  
+Lastly, be open: technology changes every month (or more like every minute) so being open to new ideas, learning new languages, debugging open source code, and testing new software is a great skill and motivator for any budding developer to have.
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
+*Contributed by [Dominick McKoy](https://github.com/mckoyd)*
 
 
 #### What do companies look for in a junior web developer?
@@ -118,6 +124,10 @@ Simply put, the internet is a global system of interconnected computers and devi
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
+
+For example, let's say Charlie wants to send a picture to Jennifer from his phone to her computer.  The picture Charlie sends is chopped into pieces called packets, similar to puzzle pieces.  Jennifer's computer reassembles those packets according to protocols and procedures that both Jennifer's computer and Charlie's phone agree on. Now Jennifer can see Charlie's picture, and will probably file for harassment.
+
+*Contributed by [Dominick McKoy](https://github.com/mckoyd)*
 
 
 #### What are packets?
@@ -187,6 +197,7 @@ defined in an HTML document, such as fonts, colors, spacing, transparency, align
 and other design aspects of a page. In short, it makes the raw information look pretty,
 and it makes the front end simpler by separating presentation from content.
 
+
 *Contributed by [Michael Alexander](http://github.*com/betweenparentheses)*
 
 
@@ -224,7 +235,11 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
+The command line is the window to your computer's operating system.  You can control almost every feature of your computer (such as the tasks mentioned above) and communicate with other computers in a text-based environment. It's usually starts as a scary, dark, desolate screen with the path of the folder you are currently in.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+*Contributed by [Dominick McKoy](https://github.com/mckoyd)*
 
 #### How do you open it on your computer?
 
@@ -654,9 +669,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +921,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
