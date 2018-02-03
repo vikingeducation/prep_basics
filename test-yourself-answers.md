@@ -287,6 +287,9 @@ Text editor that often causes debates with emacs lovers.
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
+Vim is a text editor made for advanced users, and it is probably something users want to avoid for now if, like me, they had to look up this answer.
+*Contributed by [David Haugen](https://github.com/DavidHaugen/)*
+
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
@@ -570,7 +573,8 @@ Ruby is a dynamic, object-oriented programming language. Created by Yukihiro "Ma
 
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
-
+Ruby is the back end language used to write server code.
+*Contributed by [David Haugen](https://github.com/DavidHaugen/)*
 #### Ruby Gems
 
 Ruby Gems are Ruby programs and libraries in a self-contained format called a "gem" packaged by RubyGems package manager, a tool designed to easily manage the installation of gems and a server for distributing them.
@@ -585,7 +589,8 @@ Most gems are open source, and used in most applications. The majority of gems p
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 
-
+Ruby gems are functional pieces of code that are ready to use as tools or to install other gems.
+*Contributed by [David Haugen](https://github.com/DavidHaugen/)*
 
 
 #### Frameworks
@@ -654,9 +659,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +911,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
