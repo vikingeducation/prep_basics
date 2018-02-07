@@ -1,10 +1,11 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
 ### Instructions
 
 See the [Web Development Basics project](http://www.vikingcodeschool.com/web-development-basics/) for details.
+
 
 Keep your answers under 3 paragraphs.  Replace the line that says *Your Explanation Here!* with your explanation and a link to your Github username.  See the example below.
 
@@ -129,7 +130,7 @@ Packets are bits of data that are parts of a whole that are sent from one comput
 
 #### What is a "client"?
 
-A client is a device that need to get something. For example if we want to watch videos on Youtube, so we're client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
+A client is a device that need to get something. For example if we want to watch videos on Youtube, so Youtube is the client.  It is a device or a program which interacts with the server. It is, in that sense, the interface between the server and the users.  It requests information via a server for various functions including website browsing, management, e-mail, and the use of various applications.
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
@@ -143,7 +144,7 @@ With regard to the World Wide Web, the client is a user's browser. When a user o
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't find what the client wants, then the server will tell the client that what they want is not present on the server.
 
 Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
 
@@ -654,9 +655,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +907,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
