@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -206,7 +206,7 @@ A single click rings out on a dark night...
 Picoseconds later (a lot of them) later the input is received by a usb or other peripheral device port
 Nanoseconds later (a pile of them)  a short string of integers is sent and interpreted by the CPU of device used as a "click".
 Milliseconds later (a group of them) a command is sent to open up an http handshake
-Microseconds late (a few of them) the handshake is confirmed and search query data is exchanged
+Microseconds later (a few of them) the handshake is confirmed and search query data is exchanged
 Centiseconds later (a handful of them) the data is processed and the return data is exchanged
 Decaseconds later (two point five of them, in this case) your search is returned to your screen.
 
@@ -334,7 +334,8 @@ i.e. 'subl text.txt'
 Define the following:
 
 ### The Web
-
+Short for the World Wide Web, is a system of internet servers that support specially formatted documents. The documents are formattedin a markup language called HTML (Hyper Text Markup Language) that supports links  to other documents, as well as graphics, audio, and video files.
+*Contributed by [Galen Killoran](http://github.com/gkillshovelhead)
 
 #### URL( Uniform Resource Locator)
 
