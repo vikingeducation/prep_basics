@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -326,7 +326,14 @@ i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
 
+#### NEW QUESTION: What is the difference between "shell," "command line," "bash," and "terminal,"?
 
+A "shell" is a text-based interface that allows users to interact with a computer's operating system.
+A "command line" is a text-based interface, synonymous with "shell."  A command line's text-based nature contrasts with that of a graphical user interface, or "GUI."
+"Bash" refers to a specific type of shell and stands for "Bourne-Again Shell."  Bash is the standard test-based interface for OS X.
+"Terminal" is the name of the default bash-based, command line application in OS X.
+
+*Contributed by [Alexander Ela](http://github.com/alexanderela)*
 
 
 ## Terms to Know
@@ -811,6 +818,14 @@ git log
 You can look through a history of commits by clicking on the repository name and then clicking the commits.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
+#### NEW QUESTION: In the context of Git/Github, what is the difference between "upstream" and "origin"?
+
+"Upstream" refers to the original repository that has been forked in Github.  "Upstream" is a standard term used to reference this original repository when working in Git and remotely connecting to this original repository in Github.
+"Origin" refers to the forked version of the original repository in Github.  As with "upstream," "origin" is a standard term used to reference the forked version of the original Github repository, when working in Git and remotely connecting the forked version in Github.
+
+*Contributed by [Alexander Ela](http://github.com/alexanderela)*
+
+
 
 ### Branching and Merging
 
@@ -910,4 +925,10 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
 
+#### NEW QUESTION: In the context of Git/Github, what is the difference between "forking" and "cloning"?
+
+"Forking" refers to making a copy of a repository in Github.
+"Cloning" refers to making a local copy of a forked version of a repository for use with Git.
+
+*Contributed by [Alexander Ela](http://github.com/alexanderela)*
 
