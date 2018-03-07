@@ -932,3 +932,5 @@ In order to solve a Merge Conflict, one needs to open the conflicting file in a 
 
 *Contributed by [Alexander Ela](http://github.com/alexanderela)*
 
+March 7, 2018 Practice:  Day 1
+
