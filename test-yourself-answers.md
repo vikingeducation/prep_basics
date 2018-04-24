@@ -56,9 +56,13 @@ The best bet to get help when you are stuck is to use google! There are other fa
 
 #### Where are the closest developer communities to you?
 
-Montana Programmers is a great statewide organization that also has a lot of smaller meetups available from meetup.com. There is a weekly Ruby lunch in Missoula, Montana and several general programmer meetups and drinkups in the region.
+San Antonio programmers have a couple of options available to them...  
 
-*Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+The Dinner and Code San Antonio group is an opportunity to learn to code and get help in a beginner-friendly enviroment.  Eat good food, work on a project (or bring your own), find a mentor or be a mentor, and network with leading programming experts, recruiters, and entrepreneurs in San Antonio, Texas.
+
+Geekdom is another place that San Antonians can go to get started with innovative ideas in a collaborative setting.  They provide an environment where they empower and inspire innovators in order to transform our world for the better.
+
+*Contributed by [Susan Adams](http://github.com/semadla0404)*
 
 #### What online developer communities can you join?
 
@@ -117,8 +121,9 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Data is broken down into smaller chunks called packets.  They are tagged and sent on to its destination, traveling seperately from each other often times through different routes.  When the packets have reached their ultimate destination, they are then reassembled to form their message.
 
+*Contributed by [Susan Adams](http://github.com/semadla0404)*
 
 #### What are packets?
 
@@ -384,8 +389,15 @@ HTTPS is used to prevent "impostor" and "man-in-the-middle" attacks, among other
 
 #### POP & IMAP & SMTP
 
-POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol,and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
+POP stands for Post Office Protocol, IMAP for Internet Messaging Access Protocol, and SMTP for Simple Mail Transfer Protocol. These are set of protocols for handling email.
 
+POP is used for retrieving messages from a mail server to a mail client.
+
+IMAP allows for the grouping of related messages to be placed in folders as well as having them flagged and also to indicate whether they have been read, deleted or replied to.  It also allows users to be able to search for messages against the mail servers.
+
+SMTP is primarily used for sending out, relaying or forwarding mail messages from one server to another.
+
+*Contributed by [Susan Adams](http://github.com/semadla0404)*
 
 #### API
 
@@ -654,9 +666,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +918,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
