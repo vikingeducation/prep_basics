@@ -316,12 +316,43 @@ $PATH dictates the locations within a file tree that contains commands executabl
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
+This part is understated and can halt your learning for weeks.
+We just installed 5 command line interfaces (Windows, Ruby and Rails, Node, Heroku, Git Bash, and Git CMD).
+As part of the installations we changed directories and files before returning to Viking lesson 15 so a problem may ensue.
+
+The CLI paths may be set in two places:
+1. In control panel, system, advanced settings, environmental variables, then PATH. Set the path to {insert proper path address here Viking Code School.}
+2. Or the paths for CLI's can be set in the bash_profile as well.  [Please provide those Viking Code School.]
+    a. Each CLI has a bin of its own and each app must be pathed to its own bin.
+    b. A bin is a folder within an app for its executive files.
+
 #### What are alias commands?
 
 Alias commands are shortcuts that can be set up for use with the command line. These are often set for convenience so things such as long scripts that are often repeated don't need to be fully typed out.
 
 For instance, when using Sublime Text, one may not want to always manually locate files and open them using the application. Instead, an alias can be set such as 'subl' which can be used in the command line preceding the filename. This opens the file in sublime text, voila!
 
+The text editor Atom (if you're using it) already has a command in its name.
+In order to open a file in Atom type this (remember $ is the prompt)
+$ atom text.txt
+
+The text editor Sublime may be superior in functionality but requires to coding first.
+There's no command for Sublime. We must create an alias.
+There are 2 keys to this:
+1. It must be done in the bash_profile
+2. The bash_profile is supposed to be in the home directory.
+  2a. the home directory can be checked by typing "cd ~" and then "ls" to list files...OR...and this is a big OR
+  2b. A better way is to instead check where the file is located by using Atom. (if you didn't download, it can't hurt to do so. Quick and easy.)  After download and installation, go to Git Bash.  There, we are going to open the bash_profile to Atom by typing this:        atom .bash_profile
+  The currently mapped file will open in Atom.
+  Click save-as and find the filepath!! Copy that path with Ctrl+C.
+  Then, still in Atom, and the bash_profile, add the following alias creation code for Sublime Text Editor:  subl 'filepath'  
+  Two caveats:
+    1. Windows filepaths have backslashes (\) which Git Bash doesn't take so we me change them to forward slashes (/).
+    2. Windows uses C:\ to begin filepaths. Git Bash does not. It begins with /c/...etc.
+    3. Windows has spaces between some foldernames such as "My Computer". Git Bash does not. Instead we must enter a back-slash (\) at the end of the first word at each space.
+    4. THERE IS NO "OPEN" COMMAND IN GIT BASH FOR WINDOWS!!  WHICH IS WHY WE MUST CREATE AN ALIAS FOR SUBLIME TEXT EDITOR.
+    5. The Open command and Manual command are the first 2 lessons about CLIs but do not exist in Git Bash for Windows.
+    6. Most users use Windows so this will cause much confusion, but Viking is made for Apple users.
 i.e. 'subl text.txt'
 
 *Contributed by [Matt Davis](http://github.com/chewieee)*
@@ -654,9 +685,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -837,7 +868,9 @@ Making a copy of another master repo into your own github account so as to not d
 #### What is "Cloning" a repo?
 
 Making an identical copy of a Git repo on your local server is "cloning" the repo. This is different from forking, where a copy of a repo is made in Git itself.
-
+Just prior to downloading a clone of the Git repo onto our local server, we should run some diagnostics checks first:
+1. We need to check that the keys for our CLI are saved on our personal GitHub profile's settings webpage.
+2. [Viking Code School insert here proper procedures to save time for running diagnostics on configurations, keys, authentications, etc. between local and GitHub. thank you.]
 *Contributed by [Alex Clifford](https://github.com/akclifford)*
 
 
@@ -906,8 +939,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
