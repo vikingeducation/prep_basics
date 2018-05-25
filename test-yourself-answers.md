@@ -1,4 +1,4 @@
-﻿# Test Yourself: Answers
+# Test Yourself: Answers
 
 This is the file you'll use to add your answers to the [Test Yourself exercise](http://www.vikingcodeschool.com/web-development-basics/getting-comfortable-with-git-and-the-command-line). You will add them via pull request.
 
@@ -40,6 +40,10 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+Back-end developers make the brain of the application, while front-end developers give it the skin. Full-stack developers can combine both skills to make a fully functioning web application.
+
+*Contributed by [Sam Crabtree](http://github.com/sam-crabtree)*
+
 #### What's the difference between static and dynamic web pages?
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
@@ -48,11 +52,19 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
+A static page hardly ever changes, and is usually deaf to the user visiting it. A dynamic webpage can respond to the user in a variety of ways, and is updated quite often. 
+
+*Contributed by [Sam Crabtree](http://github.com/sam-crabtree)*
+
 #### What's the best way to get help when you get stuck?
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
+
+Google is your best friend. It's also a good idea to reach out to fellow programmers on communities such as StackOverflow, Reddit, and a variety of forums. 
+
+*Contributed by [Sam Crabtree](http://github.com/sam-crabtree)*
 
 #### Where are the closest developer communities to you?
 
