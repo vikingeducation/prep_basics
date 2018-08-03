@@ -155,6 +155,11 @@ The server waits for requests from a client and tries to produce the proper resp
 *Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
+#### What is a browser?
+
+A browser is a program/software that lives on your computer. It lets you visit websites and use web applications by sending requests to a web server for a website and displays the files it receives back from the server.
+
+*Contributed by [Gina](https://github.com/nocureforcuriosity)*
 
 #### What is HTTP and how does an HTTP request work?
 
@@ -373,6 +378,10 @@ HyperText Transfer Protocol, defines how messages are formatted and transmitted 
 
 *Contributed by [Yoshio Varney](https://github.com/yoshi415)*
 
+#### HTTP Status Codes
+HTTP status codes are components of an HTTP response sent by a server to a browser request. They consist of a three-digit number and signify the status of the request. The most common is 200/ok which means the request was handled successfully.
+
+*Contributed by [Gina](https://github.com/nocureforcuriosity)*
 
 #### HTTPS
 
@@ -401,6 +410,11 @@ For example, Amazon.com released its API so that web developers could more easil
 A program usually running on a remote computer that responds to requests from a browser.
 
 *Contributed by [Unknown]*
+
+A web server is a computer connected to the internet that stores software and/or websites. It receives requests from a client machine/browser and sends back a copy of the requested website in the form of files broken down into data packets.
+
+*Contributed by [Gina](https://github.com/nocureforcuriosity)*
+
 
 
 #### Bugs
