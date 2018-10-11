@@ -52,6 +52,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
+The first place to check is of course google.com! Especially if you know how to take full advantage of it's search capability. You can also always try StackExchange or even ask in the OdinProject chat!
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
@@ -91,7 +92,7 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
@@ -118,6 +119,7 @@ Simply put, the internet is a global system of interconnected computers and devi
 #### How is information broken down and sent?
 
 It is broken down into packets and sent through random different ways to get to their destination.
+
 
 
 #### What are packets?
@@ -229,6 +231,9 @@ A terminal/shell that one opens and types in commands for various tasks (moving 
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
+Press `Ctrl + Alt + T` on the keyboard in Linux or if you prefer there should be a program called `Terminal` in the programs menu.
+You can search for it by pressing the `Windows` key and typing `terminal`.
+Just remember commands in Linux are case sensitive.  
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 
@@ -335,6 +340,9 @@ Define the following:
 
 ### The Web
 
+Common name for World Wide Web, the Web uses HTTP protocol to transmit data and share information. Browsers such as Edge, Google Chrome or Mozilla Firefox are used to access Web documents, or Web pages, which are connected via `links`.
+
+It is just one of the ways information is shared and sent over the Internet; other examples are email, instant messaging and File Transfer Protocol (FTP).
 
 #### URL( Uniform Resource Locator)
 
@@ -654,9 +662,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +914,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
