@@ -53,6 +53,7 @@ Dynamic pages allows users to create, destroy, edit, and read data. The data per
 The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
 
 The first place to check is of course google.com! Especially if you know how to take full advantage of it's search capability. You can also always try StackExchange or even ask in the OdinProject chat!
+*Contributed by [5char](https://github.com/5char)*
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
 #### Where are the closest developer communities to you?
@@ -92,8 +93,8 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
-
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+*Contributed by [5char](https://github.com/5char)*
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
@@ -236,6 +237,8 @@ You can search for it by pressing the `Windows` key and typing `terminal`.
 Just remember commands in Linux are case sensitive.  
 
 *Contributed by [Aaron Dressler](http://github.com/aarondressler)*
+*Contributed by [5char](https://github.com/5char)*
+
 
 #### What is Bash?
 
@@ -343,6 +346,7 @@ Define the following:
 Common name for World Wide Web, the Web uses HTTP protocol to transmit data and share information. Browsers such as Edge, Google Chrome or Mozilla Firefox are used to access Web documents, or Web pages, which are connected via `links`.
 
 It is just one of the ways information is shared and sent over the Internet; other examples are email, instant messaging and File Transfer Protocol (FTP).
+*Contributed by [5char](https://github.com/5char)*
 
 #### URL( Uniform Resource Locator)
 
