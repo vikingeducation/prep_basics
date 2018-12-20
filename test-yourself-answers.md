@@ -117,8 +117,11 @@ Simply put, the internet is a global system of interconnected computers and devi
 
 #### How is information broken down and sent?
 
-It is broken down into packets and sent through random different ways to get to their destination.
+Requested files and information are first broken down into packets, and are then sent over the internet using IP addresses to figure out who the sender and receiver of those packets are.
 
+Received packets are then reassembled into complete files that the requester can use.
+
+*Contributed by [Joshua Primm](https://github.com/SirPrimrose)*
 
 #### What are packets?
 
@@ -162,6 +165,13 @@ HTTP stands for Hypertext Transfer Protocol, which is the standard method used t
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
+#### What kind of responses can an HTTP request have?
+
+HTTP responds by the means of a series of key/value pairs and, if the request is successful, the contents of the webpage requested by the protocol.
+
+One of the primary identifiers of an HTTP request is the response code, which have different meanings. Common codes are 200(OK), 404(Not Found), 301(Moved Permanently), and 500(Internal Server Error).
+
+*Contributed by [Joshua Primm](https://github.com/SirPrimrose)*
 
 #### What are DNS servers?
 
@@ -251,6 +261,13 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 `$ rm <fileName>`
 `$ rm -rf <directoryName>`
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
+
+#### How can you copy a directory or file?
+
+`$ cp <fileToCopy> <newFileName>`
+`$ cp -r <dirToCopy> <newDirName>`
+
+*Contributed by [Joshua Primm](https://github.com/SirPrimrose)*
 
 #### How can you rename a directory or file?
 
