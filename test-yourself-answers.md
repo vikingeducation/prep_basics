@@ -32,6 +32,9 @@ In other words, a web developer plays the role of both an architect and handyman
 
 Web designers are focused on the artistic design and ux/ui of a website or web app, whereas developers are focused on how to build it, although there is some overlap between the two nowadays.
 
+Web designers are the people who build the user experience of as website based on an idea or story. Developers then take those designs and turn them into a wesbite through coding. Developers are typically split into front-end and back-end. Some choose to dabble in all three areas, called full-stack developers.
+*Contributed by [Kirsten Galbraith](http://github.com/kears10)*
+
 #### What's the difference between front end, back end, and full stack developers?
 
 Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
@@ -226,6 +229,9 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
+The command line is an interface that is navigated entirely using the keyboard by typing commands. It is used to complete a variety of tasks such as opening, editing, moving and removing files, as well as changing settings and permissions.
+*Contributed by [Kirsten Galbraith](http://github.com/kears10)*
+
 #### How do you open it on your computer?
 
 Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` on OSX, then hit `Enter`.
@@ -300,6 +306,9 @@ Vim is an improved version of the vi editor that is included in most UNIX system
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+
+The .bash_profile is a script file that is executed when the bash login shell is started. It can be used to set up color profiles, user names and passwords, and other settings that no longer have to be changed each time the shell is opened.
+*Contributed by [Kirsten Galbraith](http://github.com/kears10)*
 
 #### What is the `$PATH` variable?
 
@@ -654,9 +663,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -906,8 +915,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
