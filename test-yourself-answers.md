@@ -360,6 +360,7 @@ A specific and unique numeric signifier of a networked entity; can be an applian
 
 #### DNS
 
+
 The Domain Name System, or DNS, is the phone book of the Internet. It takes human-readable URLs and translates them to IP addresses so that packets know exactly where to go.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
@@ -773,7 +774,7 @@ Staging is moving files from Modified to Staged by issuing a git command, "git a
 
 
 ### Remotes
-
+Remotes are references to a github repository used to direct a push from a local machine to an online github repository
 
 #### What is the difference between committing your changes and pushing them to Github?
 
