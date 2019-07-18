@@ -82,6 +82,13 @@ Ability to think quickly and problem solve - Figuring out a soluition to a probl
 Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
+A great web developer must have 3 characteristics:
+Teamwork - a web developer must be able to work effectively and efficiently with a team.
+Creatiity - a web developer must be able to solve problems in unique and creative ways.
+Studious - a web developer must be constantly learning about their field.
+
+*Contributed by [Collin Benton](https://github.com/Collin-Benton)*
+
 
 #### What do companies look for in a junior web developer?
 
@@ -286,6 +293,10 @@ Text editor that often causes debates with emacs lovers.
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
 *Contributed by [René Maya](https://github.com/viejOMs)*
+
+Vim is a text editor that can be accessed from within the terminal or bash, and allows one to edit files without opening another program. It is not really a full IDE, but it sure is close.
+
+*Contributed by [Collin Benton](https://github.com/Collin-Benton)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
@@ -561,6 +572,9 @@ Basically shorthand for what you are planning to code. It's like sketching for p
 
 An older, light weight programming language that direcly inspired the development of many other languages.  It's one of the lowest forms of programming language, one step removed from machine language.
 
+C is considered one of the most important programming languages created, as it was the first language that allowed an operating system to be written in something other than assembly code.
+
+*Contributed by [Collin Benton](https://github.com/Collin-Benton)*
 
 #### Ruby
 
