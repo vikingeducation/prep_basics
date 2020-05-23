@@ -158,10 +158,16 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+Short for HyperText Transfer Protocol, HTTP is the underlying protocol used by the World Wide Web. HTTP defines how messages are formatted and transmitted, and what actions Web servers and browsers should take in response to various commands. 
+
+For example, when you enter a URL in your browser, this actually sends an HTTP command to the Web server directing it to fetch and transmit the requested Web page.
+
+HTTP REQUEST is a packet sent ro the server directly which contain requested web page and it's contains (Request Line, Request Method).
+
+
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
-
+*Contributed by [Mohammed Ibrahim](http://github.com/mohammed4bs)*
 
 #### What are DNS servers?
 
@@ -177,8 +183,12 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
-*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
+It is a language browsers understand , can be written in any text editor 
+and it's rendered by browsers after fetching it from server .
+
+*Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
+*Contributed by [Mohammed Ibrahim](http://github.com/mohammed4bs)*
 
 #### What is CSS and how is it used?
 
@@ -479,10 +489,13 @@ Grid systems speed up the design process while making the web page more visually
 
 Even though grids are not necessary to design a web page, they make the process much easier and better looking visually.
 
+There are Grid systems as Frameworks such as Bootstrap, Responsive.css, etc Which make it easies for the front end developer not the designer
+placing the content on a grid system using css classes. 
+
 *Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
 *Contributed by [Christopher Vicini](https://github.com/christophervicini)*
 *Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-
+*Contributed by [Mohammed Ibrahim](https://github.com/mohammed4bs)*
 
 #### RGB
 
