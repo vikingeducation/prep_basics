@@ -158,8 +158,7 @@ The server waits for requests from a client and tries to produce the proper resp
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
-
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit HTML pages across the internet. 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
 
@@ -174,9 +173,8 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 
 #### What is HTML and how is it used?
 
-Hypertext markup language, a language of tags used to define the structure and
-content of Web pages, such as headings, lists, paragraphs, line breaks, images,
-etc.
+Hypertext markup language, a language of tags used to define the structure and give meaning to the content of Web pages, such as headings, lists, paragraphs, line breaks, images, etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -349,7 +347,7 @@ The part of the URL which specifies the location of the web server who is going 
 
 #### IP Address
 
-IP addresses are the absolute address of a website. Four number ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
+IP addresses are the absolute address of a website. Four numbers ranging from 0 to 255 and separated by commas, these are unique but difficult to remember for the everday user - hence the creation of URLs and the DNS.
 
 *Contributed by [Malcolm Reddoch](http://github.com/mreddoch)*
 
@@ -671,7 +669,9 @@ Magic invocation, which could be casted by mage in a matter of a minutes. Don`t 
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
+Script is a file that contains a list of commands. Parallel to a movie script, it is read and executed by the command line.
 
+*Contributed by [Jurgen Gjonçari](https://github.com/jurgengjoncari)*
 
 ## Installations
 
@@ -861,12 +861,15 @@ Using a new branch allows the developer to make experimental changes to their pr
 #### How do you create a new branch?
 
 Create a new branch by typing:
-
+```
+git branch branch_name
+```
+To create and also to switch to that branch, type:
 ```
 git checkout -b branch_name
 ```
 
-*Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
+*Contributed by [Allan Beals-Gibson](http://github.com/afbeals) and [Jurgen Gjonçari](https://github.com/jurgengjoncari)*
 
 
 
