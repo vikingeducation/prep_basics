@@ -135,32 +135,32 @@ A client is a device that need to get something. For example if we want to watch
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*  
+*Contributed by [PGiese](https://github.com/PGiese)*  
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
+*Contributed by [Shamash](https://github.com/Shamash2014)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer program (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't find what the client wants, then the server will tell the client that what they want is not present on the server.
 
-Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
+Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the Internet at the request of the client!
 
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*  
+*Contributed by [PGiese](https://github.com/PGiese)*  
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the Internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provide the data & files for the requested site.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
@@ -179,6 +179,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
