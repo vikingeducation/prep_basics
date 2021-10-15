@@ -227,6 +227,7 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
@@ -238,26 +239,33 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
 
-`$ cd <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+`$ cd <directoryName>`or   
+`$ cd <path\directoryName>`
+
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*  
+*Contributed by [Michał Gierłach](https://github.com/Gierinat)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
-`$ rm <fileName>`
+`$ rm <fileName>`  
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
@@ -267,12 +275,16 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
-`$ man <cmd>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+`$ man <cmd>` or  
+`<cmd> --help`
+
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*  
+*Contributed by [Michał Gierłach](https://github.com/Gierinat)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -285,23 +297,43 @@ The "Superuser" is a user of a computer system with special privileges needed to
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
-`:q!` (to overwrite and not save any changes)
+`:q!` (to overwrite and not save any changes)  
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-`:qa!`
+`:qa!`  
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+There is plenty ways to do that you can start with a reboot of your PC. If you're PRO you can do one of the following (source: https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor):
+
+Hit the Esc key to enter "Normal mode". Then you can type : to enter "Command-line mode". A colon (:) will appear at the bottom of the screen and you can type in one of the following commands. To execute a command, press the Enter key.
+
+`:q `to quit (short for :quit)  
+`:q!` to quit without saving (short for :quit!)  
+`:wq `to write and quit  
+`:wq!` to write and quit even if file has only read permission (if file does not have write permission: force write)  
+`:x` to write and quit (similar to :wq, but only write if there are changes)  
+`:exit` to write and exit (same as :x)  
+`:qa` to quit all (short for :quitall)  
+`:cq` to quit without saving and make Vim return non-zero error (i.e. exit with error)
+
+You can also exit Vim directly from "Normal mode" by typing `ZZ` to save and quit (same as `:x`) or `ZQ `to just quit (same as `:q!`). (Note that case is important here. `ZZ` and `zz` do not mean the same thing.)
+
+*Contributed by [Michał Gierłach](https://github.com/Gierinat)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
@@ -310,13 +342,14 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*  
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
@@ -909,6 +942,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
