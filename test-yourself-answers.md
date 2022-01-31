@@ -34,9 +34,9 @@ Web designers are focused on the artistic design and ux/ui of a website or web a
 
 #### What's the difference between front end, back end, and full stack developers?
 
-Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton, Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responibile for both the front-end and back-end of the application.
+Front-end developers focus more on the actual webpage itself, how the site looks to the end user. Back-end devlopers focus on the server side code that runs the applicaiton. Usually they use programming languages like Python, Ruby, or Java. Full-Stack developers are responsible for both the front-end and back-end of the application.
 
-Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stackdeveloper does all of these things.
+Front-end developers are responsible for User Interaction. Back-end developers focus on storing, delivering, and generating data for the front end. A full-stack developer does all of these things.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
@@ -44,13 +44,13 @@ Front-end developers are responsible for User Interaction. Back-end developers f
 
 Dynamic webpages change depending on the user input and actions. Because of this they also require a more complicated server. Static web pages offer no dynamic changes and keep their content no matter the actions of the end-user.
 
-Dynamic pages allows users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
+Dynamic pages allow users to create, destroy, edit, and read data. The data persists even when the page is closed, unlike static pages which are reloaded each time a browser is refreshed.
 
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### What's the best way to get help when you get stuck?
 
-The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. a lot of times you will find your answer turning up on StackExchange.
+The best bet to get help when you are stuck is to use google! There are other fantastic resources but google will give you great access to all of them. A lot of times you will find your answer turning up on StackExchange.
 
 *Contributed by [Nick Schwaderer](http://github.com/Schwad)*
 
@@ -65,6 +65,7 @@ Montana Programmers is a great statewide organization that also has a lot of sma
 Start with IRC channels, subreddits, and various meetup groups in your specific area.
 
 Look at r/Programming or r/learnprogramming
+
 *Contributed by [Yilen Pan](http://github.com/yilenpan)*
 
 #### Why is it better to use a developer-friendly text editor like Sublime Text than something oriented more towards word-processing like Microsoft Word?
@@ -77,9 +78,10 @@ Additionally, developer-friendly editors have features such as Code Coloring, ba
 
 #### What are the top 3 characteristics of great web developers?
 
-Curiosity/creativity - The passion for creating/building and the hunger for learning new technologies
-Ability to think quickly and problem solve - Figuring out a soluition to a problem construct on your feet and easily is a hallmark of a great developer
-Persistence - The developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+Curiosity/creativity - the passion for creating/building and the hunger for learning new technologies.  
+Ability to think quickly and problem solving skills - figuring out a solution to a problem, thinking on your feet and easily is a hallmark of a great developer  
+Persistence - the developer world is fraught with obstacles and setbacks, but persistence will pave the way to success
+
 *Contributed by [Dondi Fusco](https://github.com/dondi2112)*
 
 
@@ -91,10 +93,10 @@ Companies looking for Junior Web Developers are seeking people who are competent
 
 Smaller companies usually need "the best specialist" even if it is only "junior". All juniors must be open-minded, quick to adapt and show yourself as hard working individual. And first-of-all you must show your work, even your toy projects.
 
-It's best to provide any infromation which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
+It's best to provide any information which can give relevant answers to the tough questions: "Are you smart?" and "Can you code?"
 
-*Contributed by [Aaron Dressler](http://github.com/aarondressler)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Aaron Dressler](http://github.com/aarondressler)*  
+*Contributed by [Shamash](https://github.com/Shamash2014)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
@@ -133,32 +135,32 @@ A client is a device that need to get something. For example if we want to watch
 
 With regard to the World Wide Web, the client is a user's browser. When a user opens a browser on their computer, the browser waits for the user to take an action; depending on the action, the browser may make a request to the server, asking for a resource. Then, as long as there aren't any errors, the server will respond with the requested resource. The browser then waits for another action from the user and the cycle continues.
 
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
-*Contributed by [Shamash](https://github.com/Shamash2014)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*  
+*Contributed by [PGiese](https://github.com/PGiese)*  
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
+*Contributed by [Shamash](https://github.com/Shamash2014)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is a "server"?
 
-A server is a special computer programm (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't found what the client want, then the server will tell the client that what they want is not present on the server.
+A server is a special computer program (like Apache) that waits for a request from the client. When the client sends their requests, server will look for it. If the server found what the client wants, the server then will return the data to the client. If the server can't find what the client wants, then the server will tell the client that what they want is not present on the server.
 
-Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the internet at the request of the client!
+Basically, it enables the sharing of resources and information for various applications, websites, and email, and brings that information to computers over the Internet at the request of the client!
 
 The server waits for requests from a client and tries to produce the proper response. If the server cannot properly respond to a request, it will respond with an error that attempts to help the client understand what went wrong (e.g., a 404 NOT FOUND response indicating a web server couldn't find the requested resource). On the Web, a server waits for requests from a client (i.e., browser) and responds with the requested resource or an error if there is an error.
 
-*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*
-*Contributed by [PGiese](https://github.com/PGiese)*
-*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*
-*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*
+*Contributed by [Bagus Aji Santoso](https://github.com/baguzzzaji)*  
+*Contributed by [PGiese](https://github.com/PGiese)*  
+*Contributed by [Sarah Fox](http://github.com/sarahfoxy)*  
+*Contributed by [Clayton Perszyk](https://github.com/clayton-perszyk)*  
 *Contributed by [Joshua M Hall](http://github.com/reformedinchrist)*
 
 
 #### What is HTTP and how does an HTTP request work?
 
-HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provides the data & files for the requested site.
+HTTP stands for Hypertext Transfer Protocol, which is the standard method used to request and transmit data across the Internet.  When a user enters a URL in their browser, the browser generates the HTTP request and sends it to the server, which also responds via HTTP to provide the data & files for the requested site.
 
 *Contributed by [Adam Kinson](http://github.com/kinsona)*
 
@@ -177,6 +179,7 @@ For example, instead of typing www.google.com and asking a DNS server to look-up
 Hypertext markup language, a language of tags used to define the structure and
 content of Web pages, such as headings, lists, paragraphs, line breaks, images,
 etc.
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 
@@ -224,6 +227,7 @@ There was a great reddit post on this somewhere that I filed away mentally. I wi
 #### What is the command line?
 
 A terminal/shell that one opens and types in commands for various tasks (moving between directories, opening, editing files, removing files, changing settings and permissions, ,etc)
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you open it on your computer?
@@ -235,26 +239,33 @@ Type `cmd` under Start > Run on Windows, or `Command + Space`, type `terminal` o
 #### What is Bash?
 
 "Abbreviation for Bourne-Again SHell, the command-line shell for GNU/Linux."
+
 *Contributed by [Michael Alexander](http://github.com/betweenparentheses)*
 
 #### How can you navigate into a particular file directory?
 
-`$ cd <directoryName>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+`$ cd <directoryName>`or   
+`$ cd <path\directoryName>`
+
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*  
+*Contributed by [Michał Gierłach](https://github.com/Gierinat)*
 
 #### How can you create a directory?
 `$ mkdir <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you destroy a directory or file?
 
-`$ rm <fileName>`
+`$ rm <fileName>`  
 `$ rm -rf <directoryName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How can you rename a directory or file?
 
 `$ mv <oldFileName> <newFileName>`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### Why are file permissions important?
@@ -264,12 +275,16 @@ prevent unwanted access and/or modification of files. Permissions often are for 
 #### How do you view hidden files in a directory?
 
 `$ ls -a`
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 #### How do you find information about a particular command?
 
-`$ man <cmd>`
-*Contributed by [Michelle Ho](http://github.com/michelleyho)*
+`$ man <cmd>` or  
+`<cmd> --help`
+
+*Contributed by [Michelle Ho](http://github.com/michelleyho)*  
+*Contributed by [Michał Gierłach](https://github.com/Gierinat)*
 
 #### What is a "Superuser" and how do you execute commands as this user?
 
@@ -282,23 +297,43 @@ The "Superuser" is a user of a computer system with special privileges needed to
 #### What is Vim?
 
 Text editor that often causes debates with emacs lovers.
+
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
 Vim is an improved version of the vi editor that is included in most UNIX systems. Highly configurable it was built to enable efficient text editing which makes it quite useful for programming. Some even consider it an entire IDE.
+
 *Contributed by [René Maya](https://github.com/viejOMs)*
 
 #### How do you quit Vim if you get stuck in it?
 `:q`
 
-`:q!` (to overwrite and not save any changes)
+`:q!` (to overwrite and not save any changes)  
 *Contributed by [Michelle Ho](http://github.com/michelleyho)*
 
-`:qa!`
+`:qa!`  
 *Contributed by [Andur Carr](https://github.com/LaMarseillaise)*
+
+There is plenty ways to do that you can start with a reboot of your PC. If you're PRO you can do one of the following (source: https://stackoverflow.com/questions/11828270/how-do-i-exit-the-vim-editor):
+
+Hit the Esc key to enter "Normal mode". Then you can type : to enter "Command-line mode". A colon (:) will appear at the bottom of the screen and you can type in one of the following commands. To execute a command, press the Enter key.
+
+`:q `to quit (short for :quit)  
+`:q!` to quit without saving (short for :quit!)  
+`:wq `to write and quit  
+`:wq!` to write and quit even if file has only read permission (if file does not have write permission: force write)  
+`:x` to write and quit (similar to :wq, but only write if there are changes)  
+`:exit` to write and exit (same as :x)  
+`:qa` to quit all (short for :quitall)  
+`:cq` to quit without saving and make Vim return non-zero error (i.e. exit with error)
+
+You can also exit Vim directly from "Normal mode" by typing `ZZ` to save and quit (same as `:x`) or `ZQ `to just quit (same as `:q!`). (Note that case is important here. `ZZ` and `zz` do not mean the same thing.)
+
+*Contributed by [Michał Gierłach](https://github.com/Gierinat)*
 
 #### What is the `.bash_profile` file and what is it used for?
 
 The bash '.bash_profile' file is a startup file for the bash shell and is used for many things such as declaring the $PATH variable for login shells.
+
 *Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
 
 #### What is the `$PATH` variable?
@@ -307,13 +342,14 @@ The $PATH variable is an environmental variable in the GNU/Linux and other UNIX-
 
 $PATH dictates the locations within a file tree that contains commands executable within a command line setting
 
-*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*
+*Contributed by [Jason Barkley](https://github.com/jbarkl3y)*  
 *Contributed by [Dakota Maulding](http://github.com/dakota2mu)*
 
 
 #### Why might you need to add onto your `$PATH` variable?
 
 You might need to add onto your $PATH variable so an application can be found and run in the command line.
+
 *Contributed by [Richard Peterson](https://github.com/webbuyrich)*
 
 #### What are alias commands?
@@ -654,9 +690,9 @@ Schema -  defines a set of rules as to how XML documents should look like, what 
 
 Example:
 --This definition is in the schema document:
-<!ELEMENT List (Item)+> 
+<!ELEMENT List (Item)+>
 
---This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign. 
+--This is the effect in XML document; List tags are with capital first letter, should include one or more Items which is defined by + sign.
 <List>
   <Item>Chocolate</Item>
 </List>
@@ -667,7 +703,7 @@ In similar to XML way, HTML documents are defined by DTD (Documents Type Definit
 
 #### Script
 
-Magic invocation, which could be casted by mage in a matter of a minutes. Don`t need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
+Magic invocation, which could be casted by mage in a matter of a minutes. Don't need tough preparations and internisation. You could write spells in .rb files and than order your _Ruby_ individual to cast it.
 
 *Contributed by [Shamash](https://github.com/Shamash2014)*
 
@@ -906,8 +942,6 @@ A merge conflict occurs during a merge when the same part of some file has chang
 
 #### How do you resolve a "Merge Conflict"?
 
-In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done. 
+In order to solve a Merge Conflict, one needs to open the conflicting file in a text editor and find the conflicting lines of code. One can find the conflict by spotting the merge markers. To resolve the this, delete the line you want to get rid of and then delete the merge markers. After deleting the merge markers, you can save the file, add it to the stage, and finally commit it. Done.
 
 *Contributed by [Garrett Weinert](https://github.com/gweinert)*
-
-
